@@ -44,6 +44,7 @@
 
 (define-derived-mode quiz-mode text-mode "Quiz"
   "Major mode for editing quiz data files."
+  ;; XXX need to set encoding to UTF-8
   (setq case-fold-search t)
   (auto-fill-mode -1)
   (set (make-local-variable 'font-lock-defaults)

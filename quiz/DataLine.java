@@ -46,17 +46,12 @@ public final class DataLine {
    * Slashes are recognized and will produce separate entries.
    * Produces a list of entries.
    * @param f the file to read
-   * @param enc the encoding to use, or null
    * @param the resulting entries
    */
-  public static DataLine[] read (File f, String enc) throws IOException {
+  public static DataLine[] read (File f) throws IOException {
     InputStream is = new FileInputStream (f);
     try {
-      Reader r;
-      if (enc == null)
-	r = new InputStreamReader (is);
-      else
-	r = new InputStreamReader (is, enc);
+      Reader r = new InputStreamReader (is, "UTF-8");
       BufferedReader br = new BufferedReader (r);
       String line;
       Vector entries = new Vector (250);

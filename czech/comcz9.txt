@@ -1,71 +1,71 @@
 # -*- Czech-Quiz -*-
 
 ComCz L. 9 (Vocab.)
-bezpeènost:safety, security
-boháè:rich man
-brát na lehkou váhu:to make light of something:impf.
-cítit:to feel:impf.
+bezpeÄnost:safety, security
+bohÃ¡Ä:rich man
+brÃ¡t na lehkou vÃ¡hu:to make light of something:impf.
+cÃ­tit:to feel:impf.
 cukrovka:diabetes
-èert:devil
-divokı:wild
-dvojí:of two kinds, sorts
+Äert:devil
+divokÃ½:wild
+dvojÃ­:of two kinds, sorts
 hrob:grave, tomb
 jed:poison
 kdysi:at one time, once
-lesnictví:forestry
+lesnictvÃ­:forestry
 majetek:property, possession
 maturita:GCE examination, graduation
 majitel:owner
 minule:last time
-náklad:charge, expense
-namáhavı:difficult, hard
-natoèit:to shoot, record (film):perf.
-nedostupnı:inaccessible
-nepøítel:enemy
+nÃ¡klad:charge, expense
+namÃ¡havÃ½:difficult, hard
+natoÄit:to shoot, record (film):perf.
+nedostupnÃ½:inaccessible
+nepÅ™Ã­tel:enemy
 nespokojenost:dissatisfaction
 odhad:judgement, estimation
-odmítat:to reject, turn down (impf.)
-odmítnout:to reject, turn down (perf.)
-okouzlit:to fascinate:perf., + koho èím
-okouzlující:facinating
+odmÃ­tat:to reject, turn down (impf.)
+odmÃ­tnout:to reject, turn down (perf.)
+okouzlit:to fascinate:perf., + koho ÄÃ­m
+okouzlujÃ­cÃ­:facinating
 opona:curtain
 oznamovat:to announce, inform (impf.):+ komu co
-oznámit:to announce, inform (perf.):+ komu co
-pád:(grammatical) case
-poèáteèní:initial, opening
-poèítat:to take a count on:impf., + s èím
+oznÃ¡mit:to announce, inform (perf.):+ komu co
+pÃ¡d:(grammatical) case
+poÄÃ¡teÄnÃ­:initial, opening
+poÄÃ­tat:to take a count on:impf., + s ÄÃ­m
 popel:ash:masc. hard
-potí¾:difficulty, trouble:fem.
-po¾adavek:requirement
-pronásledovat:to pursue, haunt:impf.
-proslulı:famous
-pøedepisovanı:prescribed
-pøehnanı:excessive, exorbitant
-pøekvapovat:to surprise (impf.):+ koho èím
-pøekvapit:to surprise (perf.):+ koho èím
-pøidat se:to join, add:perf., + k èemu
-pøipadat:to seem:impf., + èemu
-rozhodovat:to decide (impf.):+ o èem
-rozhodnout:to decide (perf.):+ o èem
-rybáøství:fishing
+potÃ­Å¾:difficulty, trouble:fem.
+poÅ¾adavek:requirement
+pronÃ¡sledovat:to pursue, haunt:impf.
+proslulÃ½:famous
+pÅ™edepisovanÃ½:prescribed
+pÅ™ehnanÃ½:excessive, exorbitant
+pÅ™ekvapovat:to surprise (impf.):+ koho ÄÃ­m
+pÅ™ekvapit:to surprise (perf.):+ koho ÄÃ­m
+pÅ™idat se:to join, add:perf., + k Äemu
+pÅ™ipadat:to seem:impf., + Äemu
+rozhodovat:to decide (impf.):+ o Äem
+rozhodnout:to decide (perf.):+ o Äem
+rybÃ¡Å™stvÃ­:fishing
 secese:Jugendstill, art nouveau:fem.
 sedlo:saddle(-back)
-skuteènost:reality
-svì¾í:fresh
-tajit:to conceal:impf., + co pøed èím
+skuteÄnost:reality
+svÄ›Å¾Ã­:fresh
+tajit:to conceal:impf., + co pÅ™ed ÄÃ­m
 tehdy:at that time, then
-tenkrát:at the time, then
-tentokrát:this time
-ti¹tìnı:printed (part. adj.)
+tenkrÃ¡t:at the time, then
+tentokrÃ¡t:this time
+tiÅ¡tÄ›nÃ½:printed (part. adj.)
 tleskat:to applaud:impf., + komu
-únik:escape
-úroveò:standard (noun):fem.
-uvést:to show, perform (film):perf., uvedu
-vlídnı:cozy (weather)
-vypravovat/vyprávìt:to narrate:impf., + co komu o èem
-zále¾itost:matter
+Ãºnik:escape
+ÃºroveÅˆ:standard (noun):fem.
+uvÃ©st:to show, perform (film):perf., uvedu
+vlÃ­dnÃ½:cozy (weather)
+vypravovat/vyprÃ¡vÄ›t:to narrate:impf., + co komu o Äem
+zÃ¡leÅ¾itost:matter
 zdokonalovat:to perfect, make perfect (impf.)
 zdokonalit:to perfect, make perfect (perf.)
-zmìnit:to change:perf.
+zmÄ›nit:to change:perf.
 znamenat:to mean:impf.
-¾eleznı:iron (adj.)
+Å¾eleznÃ½:iron (adj.)

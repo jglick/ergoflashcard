@@ -206,8 +206,7 @@ public class Main extends JFrame {
 	    prog.setString (cfg.dataFiles[_i].getName ());
 	  }
 	});
-	DataLine[] lines = DataLine.read (cfg.dataFiles[i],
-					  cfg.dataEncoding);
+	DataLine[] lines = DataLine.read (cfg.dataFiles[i]);
 	for (int j = 0; j < lines.length; j++) {
 	  resV.addElement (lines[j]);
 	  secs.put (lines[j].section, Boolean.TRUE);

@@ -1,96 +1,96 @@
 # -*- Czech-Quiz -*-
 ElComCz Chapter 4
-doporuèenı dopis:registered letter:masc.
-drobné:change:pl.
-ji¾ní:southern
-klá¹ter:monastery:masc.
+doporuÄenÃ½ dopis:registered letter:masc.
+drobnÃ©:change:pl.
+jiÅ¾nÃ­:southern
+klÃ¡Å¡ter:monastery:masc.
 klub:club:masc.
 letecky:air mail:adv.
-napøíklad:for example
-náv¹tìva:a visit (noun):fem.
-nav¹tívit:to visit:pf.
+napÅ™Ã­klad:for example
+nÃ¡vÅ¡tÄ›va:a visit (noun):fem.
+navÅ¡tÃ­vit:to visit:pf.
 pas:passport:masc.
 pohlednice:postcard:fem.
-posílat/poslat:to send/to mail
-pøístì:next time:adv.
-rovnì:straight (adv.)
-rozmìnit:to change:pf.
-smìnárna:exchange bureau:fem.
-snídanì:breakfast:fem.
+posÃ­lat/poslat:to send/to mail
+pÅ™Ã­stÄ›:next time:adv.
+rovnÄ›:straight (adv.)
+rozmÄ›nit:to change:pf.
+smÄ›nÃ¡rna:exchange bureau:fem.
+snÃ­danÄ›:breakfast:fem.
 spisovatel:author/writer:masc.
-sympatickı:nice/pleasant
-vìrnı:faithful
+sympatickÃ½:nice/pleasant
+vÄ›rnÃ½:faithful
 volat:to call,to phone:impf.
-vymìnit:to exchange (money):pf.
-zámek:castle,chateau:masc.
-známka:stamp,grade:fem.
-¾adnı:no,none:pron.
-Uèitelka je¹tì není tady.:The teacheress isn' t here yet.
-Uèitelka je je¹tì tady.:The teacheress is still here.
-Uèitelka je u¾ tady.:The teacheress is already here.
-Uèitelka u¾ není tady.: The teacheress isn' t here anymore.
+vymÄ›nit:to exchange (money):pf.
+zÃ¡mek:castle,chateau:masc.
+znÃ¡mka:stamp,grade:fem.
+Å¾adnÃ½:no,none:pron.
+UÄitelka jeÅ¡tÄ› nenÃ­ tady.:The teacheress isn' t here yet.
+UÄitelka je jeÅ¡tÄ› tady.:The teacheress is still here.
+UÄitelka je uÅ¾ tady.:The teacheress is already here.
+UÄitelka uÅ¾ nenÃ­ tady.: The teacheress isn' t here anymore.
 Jdu do banky:I go to the bank.
 Jsem v bance:I am at the bank.
-Jdu do ¹koly:I go to the school.
-Jsem ve ¹kole:I am at the school.
-Jdu na vılet:I am going on a trip.
-Jsem na vıletì:I am on a trip.
-Jsem na obìdì:I am at lunch.
+Jdu do Å¡koly:I go to the school.
+Jsem ve Å¡kole:I am at the school.
+Jdu na vÃ½let:I am going on a trip.
+Jsem na vÃ½letÄ›:I am on a trip.
+Jsem na obÄ›dÄ›:I am at lunch.
 Jdu do parku:I'm going to the park.
 Jsem v parku:I'm in the park.
 Jdu do obchodu:I'm going to the store.
-Jsem v obchodì:I'm at the store.
+Jsem v obchodÄ›:I'm at the store.
 Jdu nakupovat:I'm going shopping.
-Jdu na po¹tu:I'm going to the post office.
-Jdu na nav¹tìvu:I'm going for a visit.
-první ulicí doleva:the first street on the left.
-druhou ulicí:the second street
-tøetí ulicí:the third street
+Jdu na poÅ¡tu:I'm going to the post office.
+Jdu na navÅ¡tÄ›vu:I'm going for a visit.
+prvnÃ­ ulicÃ­ doleva:the first street on the left.
+druhou ulicÃ­:the second street
+tÅ™etÃ­ ulicÃ­:the third street
 ElComCz Chapter 5
-pøílis:too (much):adv.
+pÅ™Ã­lis:too (much):adv.
 dost:enough/rather:adv.
-Pivo mi chutná:Beer appeals to my taste.
-Mám málo èasu:I have little time.
-trièko:t-shirt:neut.
-Znám Prahu málo:I know Prague little.
-cvièit:to exercise:impf.
-èí¹ník:waiter
+Pivo mi chutnÃ¡:Beer appeals to my taste.
+MÃ¡m mÃ¡lo Äasu:I have little time.
+triÄko:t-shirt:neut.
+ZnÃ¡m Prahu mÃ¡lo:I know Prague little.
+cviÄit:to exercise:impf.
+ÄÃ­Å¡nÃ­k:waiter
 divit se:to wonder/to be surprised:impf.
-tlustı:fat
-dvoulù¾kovı pokoj:double room:masc.
-d¾íny:jeans:pl.
-formuláø:form:masc.
-hádat se:to quarrel/to argue:impf.
-Je to v poøádku.:That is all right.
-jednolù¾kovı pokoj:single room:masc.
+tlustÃ½:fat
+dvoulÅ¯Å¾kovÃ½ pokoj:double room:masc.
+dÅ¾Ã­ny:jeans:pl.
+formulÃ¡Å™:form:masc.
+hÃ¡dat se:to quarrel/to argue:impf.
+Je to v poÅ™Ã¡dku.:That is all right.
+jednolÅ¯Å¾kovÃ½ pokoj:single room:masc.
 jednou:once, one time
 koupelna:bathroom
 led:ice:masc.
-Mít ¾ízeò:to be thirsty
+MÃ­t Å¾Ã­zeÅˆ:to be thirsty
 nakonec:at the end:adv.
 naproti:opposite:prep.
 nechat si:to keep/to retain:pf.
-objednanı:ordered/booked:adj.
-objednat/objednávat:to order
-odcházet:to leave (somewhere,on foot) (impf.)
+objednanÃ½:ordered/booked:adj.
+objednat/objednÃ¡vat:to order
+odchÃ¡zet:to leave (somewhere,on foot) (impf.)
 omlouvat se:to apologize:impf.
 poezie:poetry:fem.
-pøicházet:to come/to arrive (somewhere,on foot) (impf.)
-pøíjmení:last name:neut.
-pøiná¹et:to bring/to serve (impf.)
-recepèní:receptionist:masc.,fem.
-smìt:may:smím
-spropitné:tip:neut.
-vìøit:to believe (impf.)
+pÅ™ichÃ¡zet:to come/to arrive (somewhere,on foot) (impf.)
+pÅ™Ã­jmenÃ­:last name:neut.
+pÅ™inÃ¡Å¡et:to bring/to serve (impf.)
+recepÄnÃ­:receptionist:masc.,fem.
+smÄ›t:may:smÃ­m
+spropitnÃ©:tip:neut.
+vÄ›Å™it:to believe (impf.)
 vracet:to repay (impf.)
 vracet se:to come back,to return (impf.)
-vrchní:headwaiter:masc.
+vrchnÃ­:headwaiter:masc.
 ElComCz Chapter 6
-Oblékal ses:You got dressed.
-Oblékal jsem se:I got dressed.
-sníst:to eat up:pf.
-obléknout se,si:to get dressed (pf.):obléknu,oblékl
-zapomenout:to forget (pf.):zapomenu,zapomnìl
-zaèít:to start (pf.):zaèal
-pøijmout:to receive (pf.):pøijmu,pøijal 
+OblÃ©kal ses:You got dressed.
+OblÃ©kal jsem se:I got dressed.
+snÃ­st:to eat up:pf.
+oblÃ©knout se,si:to get dressed (pf.):oblÃ©knu,oblÃ©kl
+zapomenout:to forget (pf.):zapomenu,zapomnÄ›l
+zaÄÃ­t:to start (pf.):zaÄal
+pÅ™ijmout:to receive (pf.):pÅ™ijmu,pÅ™ijal 
 

@@ -293,14 +293,14 @@ public class DB implements Runnable {
 	  update (md, in.length);
 	  for (int i = 0; i < in.length; i++) {
 	    update (md, in[i].length ());
-	    md.update (in[i].getBytes ("UTF8"));
+	    md.update (in[i].getBytes ("UTF-8"));
 	  }
 	  update (md, out.length);
 	  for (int i = 0; i < out.length; i++) {
 	    update (md, out[i].length);
 	    for (int j = 0; j < out[i].length; j++) {
 	      update (md, out[i][j].length ());
-	      md.update (out[i][j].getBytes ("UTF8"));
+	      md.update (out[i][j].getBytes ("UTF-8"));
 	    }
 	  }
 	  byte[] toRet = md.digest ();

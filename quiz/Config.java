@@ -54,7 +54,6 @@ public class Config implements Cloneable {
   public int[] outSides;
   public String[] sideNames;
   public String name;
-  public String dataEncoding;
   public float scoreFudge;
   public long timeFudge;
   public long timeRandomFudge;
@@ -79,7 +78,6 @@ public class Config implements Cloneable {
     outSides = new int[0];
     sideNames = new String[0];
     name = "<unconfigured>";
-    dataEncoding = null;
     scoreFudge = DEF_SCORE_FUDGE;
     timeFudge = DEF_TIME_FUDGE;
     timeRandomFudge = DEF_TIME_RANDOM_FUDGE;
@@ -119,7 +117,6 @@ public class Config implements Cloneable {
     p.put ("outSides", join (outSides));
     p.put ("sideNames", join (sideNames));
     p.put ("name", name);
-    if (dataEncoding != null) p.put ("dataEncoding", dataEncoding);
     if (scoreFudge != DEF_SCORE_FUDGE)
       p.put ("scoreFudge", Float.toString (scoreFudge));
     if (timeFudge != DEF_TIME_FUDGE)
@@ -178,8 +175,6 @@ public class Config implements Cloneable {
 	sideNames = readStringArray (p.getProperty ("sideNames"));
       if (p.containsKey ("name"))
 	name = p.getProperty ("name");
-      if (p.containsKey ("dataEncoding"))
-	dataEncoding = p.getProperty ("dataEncoding");
       if (p.containsKey ("scoreFudge"))
 	scoreFudge = Float.valueOf (p.getProperty ("scoreFudge")).
 	  floatValue ();

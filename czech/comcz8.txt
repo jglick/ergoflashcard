@@ -5,35 +5,35 @@ ComCz L. 8 (Gramm. A -- Whatever)
 
 ComCz L. 8 (Vocab.)
 bitva:battle
-borùvka:blueberry
+borÅ¯vka:blueberry
 bruslit:to skate:impf.
-èásteènì:partially
-èelo:head
-docházet:to occur, happen (null subject) (impf.):+ k èemu
-dojít:to occur, happen (null subject) (perf.):dojde, do¹lo, + k èemu
-domácí:native country (adj.)
-doporuèovat:to recommend (impf.):+ komu co
-doporuèit:to recommend (perf.):+ komu co
+ÄÃ¡steÄnÄ›:partially
+Äelo:head
+dochÃ¡zet:to occur, happen (null subject) (impf.):+ k Äemu
+dojÃ­t:to occur, happen (null subject) (perf.):dojde, doÅ¡lo, + k Äemu
+domÃ¡cÃ­:native country (adj.)
+doporuÄovat:to recommend (impf.):+ komu co
+doporuÄit:to recommend (perf.):+ komu co
 dosud:up to now
 germanizace:Germanization
 houba:mushroom:gen. pl. hub
 chmel:hops:masc., gen. -e or -u
 intervence:intervention
-jednostrannı:one-sided, unilateral
-kamennı:stone (adj.)
-království:kingdom
-léta:years:pl. of léto, gen. let
-líbat:to kiss:impf.
-motıl:butterfly:masc. hard
-nacházet se:to be found:impf.
-náklad:expense, cost
-národ:nation:gen. národa
-národní obrození:the National revival
-nazıvat se:to be called:impf.
-nenávidìt:to hate:impf.
+jednostrannÃ½:one-sided, unilateral
+kamennÃ½:stone (adj.)
+krÃ¡lovstvÃ­:kingdom
+lÃ©ta:years:pl. of lÃ©to, gen. let
+lÃ­bat:to kiss:impf.
+motÃ½l:butterfly:masc. hard
+nachÃ¡zet se:to be found:impf.
+nÃ¡klad:expense, cost
+nÃ¡rod:nation:gen. nÃ¡roda
+nÃ¡rodnÃ­ obrozenÃ­:the National revival
+nazÃ½vat se:to be called:impf.
+nenÃ¡vidÄ›t:to hate:impf.
 nesmysl:nonsense:masc. hard
-nezávislost:independence
-nì¾nı:tender
+nezÃ¡vislost:independence
+nÄ›Å¾nÃ½:tender
 objevovat se:to appear (impf.)
 objevit se:to appear (perf.)
 objevovat:to discover (impf.)
@@ -41,87 +41,87 @@ objevit:to discover (perf.)
 obor:branch
 obyvatel:inhabitant:masc. soft
 okupace:occupation
-ovlivòovat:to influence (impf.):+ koho èím
-ovlivnit:to influence (perf.):+ koho èím
-pìstovat:to cultivate, raise:impf.
-písmo:writing
+ovlivÅˆovat:to influence (impf.):+ koho ÄÃ­m
+ovlivnit:to influence (perf.):+ koho ÄÃ­m
+pÄ›stovat:to cultivate, raise:impf.
+pÃ­smo:writing
 pokus:attempt, experiment:masc. hard
-porá¾ka:defeat
+porÃ¡Å¾ka:defeat
 postavit:to build:perf.
-pova¾ovat:to consider:impf., co za co
-pøeru¹ovat:to interrupt (impf.)
-pøeru¹it:to interrupt (perf.)
-pøevrat:coup d'état
-pøijmout:to be admitted to, to receive (perf.):pøijmu, pøijal
-pøipojovat:to join (impf.):+ k èemu
-pøipojit:to join (perf.):+ k èemu
-prùmìrnı:average (adj.)
+povaÅ¾ovat:to consider:impf., co za co
+pÅ™eruÅ¡ovat:to interrupt (impf.)
+pÅ™eruÅ¡it:to interrupt (perf.)
+pÅ™evrat:coup d'Ã©tat
+pÅ™ijmout:to be admitted to, to receive (perf.):pÅ™ijmu, pÅ™ijal
+pÅ™ipojovat:to join (impf.):+ k Äemu
+pÅ™ipojit:to join (perf.):+ k Äemu
+prÅ¯mÄ›rnÃ½:average (adj.)
 rekatolizace:re-Catholization
 rod:family, house
-rozdíl:difference:masc. hard
-rozdílnı:different
+rozdÃ­l:difference:masc. hard
+rozdÃ­lnÃ½:different
 rozloha:area
-rozvíjet:to open out, bring out (abilities) (impf.)
+rozvÃ­jet:to open out, bring out (abilities) (impf.)
 rozvinout:to open out, bring out (abilities) (perf.)
-rozvíjet se:to develop (impf.)
+rozvÃ­jet se:to develop (impf.)
 rozvinout se:to develop (perf.)
-rozvinutı:developed
+rozvinutÃ½:developed
 rozvoj:progress:masc.
-rozvojová zemì:developing country
-rybník:pond
-sametovı:velvet (adj.)
-sbírka:collection
-slovanskı:Slavic
-sousedit:to adjoin:impf., s èím
-spoleènost:society
-staroslovìnskı:Old Church Slav(on)ic
-stát za co:to be worth (something):stojí
-stát se:to become:perf., stanu se, + kım
+rozvojovÃ¡ zemÄ›:developing country
+rybnÃ­k:pond
+sametovÃ½:velvet (adj.)
+sbÃ­rka:collection
+slovanskÃ½:Slavic
+sousedit:to adjoin:impf., s ÄÃ­m
+spoleÄnost:society
+staroslovÄ›nskÃ½:Old Church Slav(on)ic
+stÃ¡t za co:to be worth (something):stojÃ­
+stÃ¡t se:to become:perf., stanu se, + kÃ½m
 stav:estate:masc. hard, hist.
 terminologie:terminology
 trh:market
-tr¾nice:marketplace
-tvoøit:to create, form (impf.)
-vytvoøit:to create, form (perf.)
-krást:to steal (impf.):kradnu, + komu co
-ukrást:to steal (perf.):ukradnu, + komu co
-urèovat:to set (a price), determine (impf.)
-urèit:to set (a price), determine (perf.)
-úrodnı:fertile
-uvádìt:to perform, show (impf.)
-uvést:to perform, show (perf.):uvedu, uvedl
-vìdec:scientist:vìdce
-vìdeckı:scientific, learned
-Velkomoravská øí¹e:The Great Moravian Empire
+trÅ¾nice:marketplace
+tvoÅ™it:to create, form (impf.)
+vytvoÅ™it:to create, form (perf.)
+krÃ¡st:to steal (impf.):kradnu, + komu co
+ukrÃ¡st:to steal (perf.):ukradnu, + komu co
+urÄovat:to set (a price), determine (impf.)
+urÄit:to set (a price), determine (perf.)
+ÃºrodnÃ½:fertile
+uvÃ¡dÄ›t:to perform, show (impf.)
+uvÃ©st:to perform, show (perf.):uvedu, uvedl
+vÄ›dec:scientist:vÄ›dce
+vÄ›deckÃ½:scientific, learned
+VelkomoravskÃ¡ Å™Ã­Å¡e:The Great Moravian Empire
 velmoc:power:fem.
-vìnovat se:to do (sports), to go in for:impf., + èemu
-vládnout:to govern, rule:impf.
+vÄ›novat se:to do (sports), to go in for:impf., + Äemu
+vlÃ¡dnout:to govern, rule:impf.
 vlek:ski lift
 volby:election:fem. pl
-v¹estrannı:comprehensive
-vybavovat:to equip (impf.):+ co èím
-vybavit:to equip (perf.):+ co èím
+vÅ¡estrannÃ½:comprehensive
+vybavovat:to equip (impf.):+ co ÄÃ­m
+vybavit:to equip (perf.):+ co ÄÃ­m
 vybudovat:to build (up):perf.
-vyhnout se:to avoid:perf., + èemu
-vycházet:to come out, be issued (as a book) (impf.)
-vyjít:to come out, be issued (as a book) (perf.):vyjde, vy¹el
-vıjimka:exception
-vynalézt:to invent, devise:perf., vynalezu
-vıvoj:development:masc.
-vıznam:importance
-vıznamnı:important, outstanding
-vzájemnı:mutual, reciprocal
+vyhnout se:to avoid:perf., + Äemu
+vychÃ¡zet:to come out, be issued (as a book) (impf.)
+vyjÃ­t:to come out, be issued (as a book) (perf.):vyjde, vyÅ¡el
+vÃ½jimka:exception
+vynalÃ©zt:to invent, devise:perf., vynalezu
+vÃ½voj:development:masc.
+vÃ½znam:importance
+vÃ½znamnÃ½:important, outstanding
+vzÃ¡jemnÃ½:mutual, reciprocal
 vznikat:to come into being, arise (impf.)
 vzniknout:to come into being, arise (perf.)
-základ:foundation
-zánik:decline
-zaostávat:to be behind, be retarded (impf.):za èím
-zaostat:to be behind, be retarded (perf.):zaostanu (?), za èím
+zÃ¡klad:foundation
+zÃ¡nik:decline
+zaostÃ¡vat:to be behind, be retarded (impf.):za ÄÃ­m
+zaostat:to be behind, be retarded (perf.):zaostanu (?), za ÄÃ­m
 zastavit:to stop (something), halt:perf.
-zejména:especially
-získávat:to gain, obtain (impf.)
-získat:to gain, obtain (perf.)
-zpùsobovat:to cause (impf.)
-zpùsobit:to cause (perf.)
-zvìdavost:curiosity
-zvolit:to elect:perf., za koho (kım?)
+zejmÃ©na:especially
+zÃ­skÃ¡vat:to gain, obtain (impf.)
+zÃ­skat:to gain, obtain (perf.)
+zpÅ¯sobovat:to cause (impf.)
+zpÅ¯sobit:to cause (perf.)
+zvÄ›davost:curiosity
+zvolit:to elect:perf., za koho (kÃ½m?)

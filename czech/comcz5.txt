@@ -1,174 +1,174 @@
 # -*- Czech-Quiz -*-
 
-ComCz L. 5 (Misc. -- Doplòující)
-bránit:to defend, fight for:impf.
-èinnost:activity
-dávat najevo:to show, to make plain (impf.)
-dobroèinnı:charitable
-dozvìdìt se:to learn of:perf., dozvím se, + o èem
+ComCz L. 5 (Misc. -- DoplÅˆujÃ­cÃ­)
+brÃ¡nit:to defend, fight for:impf.
+Äinnost:activity
+dÃ¡vat najevo:to show, to make plain (impf.)
+dobroÄinnÃ½:charitable
+dozvÄ›dÄ›t se:to learn of:perf., dozvÃ­m se, + o Äem
 intervenovat:to intervene, plead for:impf., + za co
 jednotlivec:individual
-litovat:to commiserate:impf., + èeho (koho?)
+litovat:to commiserate:impf., + Äeho (koho?)
 ochranka:safeguard
-smát se:to laugh:impf., smìji se, + komu
+smÃ¡t se:to laugh:impf., smÄ›ji se, + komu
 patos:pathos:masc. hard
-pumovı:bombing (adj.)
-shodnout se:to agree, get along:perf., + na èem
-stydìt se:to be ashamed of:impf., + za co
+pumovÃ½:bombing (adj.)
+shodnout se:to agree, get along:perf., + na Äem
+stydÄ›t se:to be ashamed of:impf., + za co
 titul:title:masc. hard
-unikat:to escape (impf.):+ komu, pøed èím
-uniknout:to escape (perf.):+ komu, pøed èím
-útok:attack
-vá¾it si:to respect:impf., + koho (gen.) za co
-vìrnost:loyalty, faith
-veøejnost:(the) public
+unikat:to escape (impf.):+ komu, pÅ™ed ÄÃ­m
+uniknout:to escape (perf.):+ komu, pÅ™ed ÄÃ­m
+Ãºtok:attack
+vÃ¡Å¾it si:to respect:impf., + koho (gen.) za co
+vÄ›rnost:loyalty, faith
+veÅ™ejnost:(the) public
 vypuknout:to break out:perf.
 
 ComCz L. 5 (Vocab.)
-barokní:baroque
-bledı:pale
-brána:gate
-bıt støední postavy:to be medium height
-èin:act, deed
+baroknÃ­:baroque
+bledÃ½:pale
+brÃ¡na:gate
+bÃ½t stÅ™ednÃ­ postavy:to be medium height
+Äin:act, deed
 dojem:impression:masc. hard
-dosahovat:to reach, gain (impf.):+ èeho
-dosáhnout:to reach, gain (perf.):+ èeho
-dr¾et slovo:to keep one's word:impf.
-dùsledek:consequence
-hubenı:thin
+dosahovat:to reach, gain (impf.):+ Äeho
+dosÃ¡hnout:to reach, gain (perf.):+ Äeho
+drÅ¾et slovo:to keep one's word:impf.
+dÅ¯sledek:consequence
+hubenÃ½:thin
 kdysi:at one time, once
-knír:moustache
-kudrnatı:curly
-náhodou:incidentally
-nesmrtelnı:immortal
-odepsat:to write back:perf., odepí¹u, + komu
+knÃ­r:moustache
+kudrnatÃ½:curly
+nÃ¡hodou:incidentally
+nesmrtelnÃ½:immortal
+odepsat:to write back:perf., odepÃ­Å¡u, + komu
 ohled:regard, respect, consideration
-opálenı:suntanned
-ostatní:the other (people), the rest
+opÃ¡lenÃ½:suntanned
+ostatnÃ­:the other (people), the rest
 piha:freckle
-ple»:complexion:fem.
-plno¹tíhlı:half-slim
+pleÅ¥:complexion:fem.
+plnoÅ¡tÃ­hlÃ½:half-slim
 povaha:character, nature
-právo:right, law
+prÃ¡vo:right, law
 projet:to pass (e.g. through a gate):perf., projedu
-pøesto:in spite of
-pøíbuznı:(a) relative:subst. adj.
+pÅ™esto:in spite of
+pÅ™Ã­buznÃ½:(a) relative:subst. adj.
 reagovat:to respond (impf.):+ na co
 zareagovat:to respond (perf.):+ na co
-schùzka:meeting
+schÅ¯zka:meeting
 skupina:group
-snìdı:tanned
-snít:to dream:impf., + o èem
-spoléhat se:to rely (up)on (impf.):+ na èem
-spolehnout se:to rely (up)on (perf.):+ na èem
-¹tíhlı:slim
+snÄ›dÃ½:tanned
+snÃ­t:to dream:impf., + o Äem
+spolÃ©hat se:to rely (up)on (impf.):+ na Äem
+spolehnout se:to rely (up)on (perf.):+ na Äem
+Å¡tÃ­hlÃ½:slim
 tunel:tunnel:masc. hard
-úspì¹nı:successful
-vláda:government
+ÃºspÄ›Å¡nÃ½:successful
+vlÃ¡da:government
 vlastnost:quality, character, feature
-vlnitı:wavy
-vráska:wrinkle
-vybírat (si):to choose (impf.)
+vlnitÃ½:wavy
+vrÃ¡ska:wrinkle
+vybÃ­rat (si):to choose (impf.)
 vybrat (si):to choose (perf.):vyberu
-vyniknout:to excel, surpass:perf., + nad èím
-vısledek:result, outcome
+vyniknout:to excel, surpass:perf., + nad ÄÃ­m
+vÃ½sledek:result, outcome
 vzhled:looks, exterior
-zaujmout:to engage, absorb:perf., zaujmu, + koho èím
-zdát se:to seem:impf.
+zaujmout:to engage, absorb:perf., zaujmu, + koho ÄÃ­m
+zdÃ¡t se:to seem:impf.
 
 ComCz L. 5 (Vocab. -- Vlastnosti)
-bojácnı:timid
-bezohlednı:ruthless, inconsiderate
-cti¾ádostivı:ambitious
-dùkladnı:thorough
-lehkomyslnı:frivolous, reckless, easygoing
-línı:lazy
-nejistı:insecure
-obìtavı:self-sacrificing
-odpovìdnı:responsible
-ohleduplnı:considerate, thoughtful
-opatrnı:cautious, careful
-pilnı:diligent
-plachı:shy, self-conscious
-povrchní:superficial
-pozornı:attentive, considerate
-pracovitı:hard-working
-pøátelskı:friendly
-py¹nı:proud
-sebevìdomı:self-confident
-skromnı:modest
-sobeckı:selfish
-spolehlivı:reliable
-staromódní:old-fashioned
-starostlivı:concerned, anxious
-stateènı:brave
-trpìlivı:patient
-unavenı:tired
-upøímnı:sincere, frank
-vìrnı:loyal, faithful
-závistivı:envious
-zvìdavı:curious
-¾árlivı:jealous
+bojÃ¡cnÃ½:timid
+bezohlednÃ½:ruthless, inconsiderate
+ctiÅ¾Ã¡dostivÃ½:ambitious
+dÅ¯kladnÃ½:thorough
+lehkomyslnÃ½:frivolous, reckless, easygoing
+lÃ­nÃ½:lazy
+nejistÃ½:insecure
+obÄ›tavÃ½:self-sacrificing
+odpovÄ›dnÃ½:responsible
+ohleduplnÃ½:considerate, thoughtful
+opatrnÃ½:cautious, careful
+pilnÃ½:diligent
+plachÃ½:shy, self-conscious
+povrchnÃ­:superficial
+pozornÃ½:attentive, considerate
+pracovitÃ½:hard-working
+pÅ™Ã¡telskÃ½:friendly
+pyÅ¡nÃ½:proud
+sebevÄ›domÃ½:self-confident
+skromnÃ½:modest
+sobeckÃ½:selfish
+spolehlivÃ½:reliable
+staromÃ³dnÃ­:old-fashioned
+starostlivÃ½:concerned, anxious
+stateÄnÃ½:brave
+trpÄ›livÃ½:patient
+unavenÃ½:tired
+upÅ™Ã­mnÃ½:sincere, frank
+vÄ›rnÃ½:loyal, faithful
+zÃ¡vistivÃ½:envious
+zvÄ›davÃ½:curious
+Å¾Ã¡rlivÃ½:jealous
 
-ComCz L. 5 (Gramm. B -- Decl. num.)/Deklinace èíslovek
+ComCz L. 5 (Gramm. B -- Decl. num.)/Deklinace ÄÃ­slovek
 dva:two (masc. nom.)
-dvì:two (fem. nom.)
-dvì:two (neut. nom.)
+dvÄ›:two (fem. nom.)
+dvÄ›:two (neut. nom.)
 dvou:two (gen.)
-dvìma:two (dat.)
+dvÄ›ma:two (dat.)
 dva:two (masc. acc.)
-dvì:two (fem. acc.)
-dvì:two (neut. acc.)
+dvÄ›:two (fem. acc.)
+dvÄ›:two (neut. acc.)
 dvou:two (loc.)
-dvìma:two (inst.)
+dvÄ›ma:two (inst.)
 oba:both (masc. nom.)
-obì:both (fem. nom.)
-obì:both (neut. nom.)
+obÄ›:both (fem. nom.)
+obÄ›:both (neut. nom.)
 obou:both (gen.)
-obìma:both (dat.)
+obÄ›ma:both (dat.)
 oba:both (masc. acc.)
-obì:both (fem. acc.)
-obì:both (neut. acc.)
+obÄ›:both (fem. acc.)
+obÄ›:both (neut. acc.)
 obou:both (loc.)
-obìma:both (inst.)
-tøi:three (nom.)
-tøí:three (gen.)
-tøem:three (dat.)
-tøi:three (acc.)
-tøech:three (loc.)
-tøemi:three (inst.)
-ètyøi:four (nom.)
-ètyø:four (gen.)
-ètyøem:four (dat.)
-ètyøi:four (acc.)
-ètyøech:four (loc.)
-ètyømi:four (inst.)
-pìt:five (nom.)
-pìti:five (gen.)
-pìti:five (dat.)
-pìt:five (acc.)
-pìti:five (loc.)
-pìti:five (inst.)
-dvacet pìt studentù:twenty-five students (nom.)
-dvaceti pìti studentù:twenty-five students (gen.)
-dvaceti pìti studentùm:twenty-five students (dat.)
-dvacet pìt studentù:twenty-five students (acc.)
-dvaceti pìti studentech:twenty-five students (loc.)
-dvaceti pìti studenty:twenty-five students (inst.)
-Byli tam v¹ichni kromì pìti studentù.:Everyone was there except five students.
-Øekni to tìm deseti kolegùm.:Tell it to those ten colleagues.
-Diskutovali o dvaceti novıch knihách.:They discussed twenty new books.
-Mluvil jsem se svımi dvìma kamarádkami.:I spoke with my two girl-friends.
+obÄ›ma:both (inst.)
+tÅ™i:three (nom.)
+tÅ™Ã­:three (gen.)
+tÅ™em:three (dat.)
+tÅ™i:three (acc.)
+tÅ™ech:three (loc.)
+tÅ™emi:three (inst.)
+ÄtyÅ™i:four (nom.)
+ÄtyÅ™:four (gen.)
+ÄtyÅ™em:four (dat.)
+ÄtyÅ™i:four (acc.)
+ÄtyÅ™ech:four (loc.)
+ÄtyÅ™mi:four (inst.)
+pÄ›t:five (nom.)
+pÄ›ti:five (gen.)
+pÄ›ti:five (dat.)
+pÄ›t:five (acc.)
+pÄ›ti:five (loc.)
+pÄ›ti:five (inst.)
+dvacet pÄ›t studentÅ¯:twenty-five students (nom.)
+dvaceti pÄ›ti studentÅ¯:twenty-five students (gen.)
+dvaceti pÄ›ti studentÅ¯m:twenty-five students (dat.)
+dvacet pÄ›t studentÅ¯:twenty-five students (acc.)
+dvaceti pÄ›ti studentech:twenty-five students (loc.)
+dvaceti pÄ›ti studenty:twenty-five students (inst.)
+Byli tam vÅ¡ichni kromÄ› pÄ›ti studentÅ¯.:Everyone was there except five students.
+Å˜ekni to tÄ›m deseti kolegÅ¯m.:Tell it to those ten colleagues.
+Diskutovali o dvaceti novÃ½ch knihÃ¡ch.:They discussed twenty new books.
+Mluvil jsem se svÃ½mi dvÄ›ma kamarÃ¡dkami.:I spoke with my two girl-friends.
 sto:one hundred
-dvì stì:two hundred
-pìt set:five hundred
-tisíc:one thousand
-dva tisíce:two thousand
-pìt tisíc:five thousand
+dvÄ› stÄ›:two hundred
+pÄ›t set:five hundred
+tisÃ­c:one thousand
+dva tisÃ­ce:two thousand
+pÄ›t tisÃ­c:five thousand
 se sto korunami/se stem korun:with one hundred crowns
 mnoho studentek:many female students (nom.)
 mnoha studentek:many female students (gen.)
-mnoha studentkám:many female students (dat.)
+mnoha studentkÃ¡m:many female students (dat.)
 mnoho studentek:many female students (acc.)
-mnoha studentkách:many female students (loc.)
+mnoha studentkÃ¡ch:many female students (loc.)
 mnoha studentkami:many female students (inst.)

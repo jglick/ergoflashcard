@@ -1,84 +1,84 @@
 # -*- Czech-Quiz -*-
 
-ComCz L. 3 (Misc. -- Doplòující)
+ComCz L. 3 (Misc. -- DoplÅˆujÃ­cÃ­)
 celkem:together (adv.)
 civilizace:civilization
 chovat:to breed, raise (animals):impf.
-jehnìèí:lamb:neut. subst. adj.
+jehnÄ›ÄÃ­:lamb:neut. subst. adj.
 kapela:pop group
-koèka:cat
+koÄka:cat
 koza:goat
-kráva:cow
-kuchaøka:cookbook
-kùò:horse:toho konì
+krÃ¡va:cow
+kuchaÅ™ka:cookbook
+kÅ¯Åˆ:horse:toho konÄ›
 majetek:possession
-osobitı:individual, peculiar
+osobitÃ½:individual, peculiar
 ovce:sheep:fem.
 pes:dog:toho psa
-sláva:fame
-slu¹nı:proper
-utíkat:to run away (impf.):+ komu
-vıroèí:anniversary
-vyrùstat:to grow up (impf.)
-vyrùst:to grow up (perf.):vyrostu
-¾ivit se:to work, earn one's living (impf.):+ èím
-u¾ivit se:to work, earn one's living (perf.):+ èím
+slÃ¡va:fame
+sluÅ¡nÃ½:proper
+utÃ­kat:to run away (impf.):+ komu
+vÃ½roÄÃ­:anniversary
+vyrÅ¯stat:to grow up (impf.)
+vyrÅ¯st:to grow up (perf.):vyrostu
+Å¾ivit se:to work, earn one's living (impf.):+ ÄÃ­m
+uÅ¾ivit se:to work, earn one's living (perf.):+ ÄÃ­m
 
 ComCz L. 3 (Vocab.)
-antickı:antique, ancient
-blahopøát:to congratulate:impf., + ke komu
-díky:thanks to, owing to:+ komu (èemu)
-døez:sink:masc. hard
+antickÃ½:antique, ancient
+blahopÅ™Ã¡t:to congratulate:impf., + ke komu
+dÃ­ky:thanks to, owing to:+ komu (Äemu)
+dÅ™ez:sink:masc. hard
 host:guest
-hotovı:ready, finished
+hotovÃ½:ready, finished
 hrnec:pot
-chlebíèek:sandwich
+chlebÃ­Äek:sandwich
 ilustrovat:to illustrate:impf.
-kvùli:on account of, because of:+ èemu
+kvÅ¯li:on account of, because of:+ Äemu
 oboje:both kinds of, sorts of (numeral)
-odlo¾it si:to take off (clothing):perf.
+odloÅ¾it si:to take off (clothing):perf.
 orchidej:orchid:fem.
-pánev:pan:fem.
+pÃ¡nev:pan:fem.
 podnikat:to undertake:impf.
 police:shelf:fem.
 Popelka:Cinderella
 promoce:graduation ceremony:fem.
-prosklenı:glass (adj.)
-prostírat:to set the table (impf.)
-prostøít:to set the table (perf.):prostøu (?)
-prostøední:middle, central
-pøíbor:cutlery
-pøipít (si):to drink to a person, clink glasses:perf.
-pøipravenı:ready
-sklenièka:glass
-skleník:glass-case
+prosklenÃ½:glass (adj.)
+prostÃ­rat:to set the table (impf.)
+prostÅ™Ã­t:to set the table (perf.):prostÅ™u (?)
+prostÅ™ednÃ­:middle, central
+pÅ™Ã­bor:cutlery
+pÅ™ipÃ­t (si):to drink to a person, clink glasses:perf.
+pÅ™ipravenÃ½:ready
+skleniÄka:glass
+sklenÃ­k:glass-case
 slib:promise:masc. hard
-Snìhurka:Snowwhite
-spí¾:pantry:fem.
+SnÄ›hurka:Snowwhite
+spÃ­Å¾:pantry:fem.
 svatba:wedding
-sváteèní:festive
-svátek:namesday, holiday
-svícen:candlestick
-syrovı:raw
-¹álek:cup
-¹ampaòské:champagne:neut. subst. adj.
-¹tìstí:happiness, luck
-talíø:plate:masc.
-trpaslík:dwarf
+svÃ¡teÄnÃ­:festive
+svÃ¡tek:namesday, holiday
+svÃ­cen:candlestick
+syrovÃ½:raw
+Å¡Ã¡lek:cup
+Å¡ampaÅˆskÃ©:champagne:neut. subst. adj.
+Å¡tÄ›stÃ­:happiness, luck
+talÃ­Å™:plate:masc.
+trpaslÃ­k:dwarf
 ubrousek:napkin
 ubrus:tablecloth:masc. hard
-úèes:hairstyle:masc. hard
-úroveò:level:fem.
-úspìch:success
-Vánoce:Christmas:masc. pl.
-vaøenı:boiled
-vedoucí:head, manager:subst. adj.
+ÃºÄes:hairstyle:masc. hard
+ÃºroveÅˆ:level:fem.
+ÃºspÄ›ch:success
+VÃ¡noce:Christmas:masc. pl.
+vaÅ™enÃ½:boiled
+vedoucÃ­:head, manager:subst. adj.
 Velikonoce:Easter:masc. pl.
-vìøit:to believe (impf.):+ komu, v co
-uvìøit:to believe (perf.):+ komu, v co
-zapomínat:to forget (impf.):+ na co
-zapomenout:to forget (perf.):zapomnìl, + na co
-zásuvka:drawer, socket
-zdraví:health
-zvy¹ovat:to increase (impf.)
-zvı¹it:to increase (perf.)
+vÄ›Å™it:to believe (impf.):+ komu, v co
+uvÄ›Å™it:to believe (perf.):+ komu, v co
+zapomÃ­nat:to forget (impf.):+ na co
+zapomenout:to forget (perf.):zapomnÄ›l, + na co
+zÃ¡suvka:drawer, socket
+zdravÃ­:health
+zvyÅ¡ovat:to increase (impf.)
+zvÃ½Å¡it:to increase (perf.)

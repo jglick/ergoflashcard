@@ -1,61 +1,61 @@
 # -*- Czech-Quiz -*-
 
-ComCz L. 2 (Misc. -- Pra¾ské jaro)
-báseò:poem:fem.
+ComCz L. 2 (Misc. -- PraÅ¾skÃ© jaro)
+bÃ¡seÅˆ:poem:fem.
 festival:festival:masc. hard
 konat se:to take place:impf.
-mezinárodní:international
-obrovskı:colossal
+mezinÃ¡rodnÃ­:international
+obrovskÃ½:colossal
 orchestr:orchestra
-pøedprodej:booking office:masc.
+pÅ™edprodej:booking office:masc.
 skladatel:composer
-umìlec:artist
+umÄ›lec:artist
 vlast:one's native country:fem.
 vstupenka:ticket
-vybírat si:to choose (impf.):+ z èeho
-vybrat si:to choose (perf.):vyberu, + z èeho
-zájemce:interested, concerned person:masc.
-zemøít:to die:perf., zemøu
-zúèastnit se:to take part:perf., + èeho
+vybÃ­rat si:to choose (impf.):+ z Äeho
+vybrat si:to choose (perf.):vyberu, + z Äeho
+zÃ¡jemce:interested, concerned person:masc.
+zemÅ™Ã­t:to die:perf., zemÅ™u
+zÃºÄastnit se:to take part:perf., + Äeho
 
 ComCz L. 2 (Vocab.)
-ara¹ídové máslo:peanut butter
-domlouvat se:to arrange, agree on (impf.):+ s kım, + na èem
-domluvit se:to arrange, agree on (perf.):+ s kım, + na èem
-domluvenı:arranged
+araÅ¡Ã­dovÃ© mÃ¡slo:peanut butter
+domlouvat se:to arrange, agree on (impf.):+ s kÃ½m, + na Äem
+domluvit se:to arrange, agree on (perf.):+ s kÃ½m, + na Äem
+domluvenÃ½:arranged
 doprava:transportation, traffic
 hodit se:to match, suit:+ komu, ke komu
-javorovı sirup:maple syrup
-koøení:spice
-kromì:besides, except:+ èeho (koho)
+javorovÃ½ sirup:maple syrup
+koÅ™enÃ­:spice
+kromÄ›:besides, except:+ Äeho (koho)
 libreto:libreto???
-nenávidìt:to hate:impf.
-odjí¾dìt:to leave (in a vehicle) (impf.)
+nenÃ¡vidÄ›t:to hate:impf.
+odjÃ­Å¾dÄ›t:to leave (in a vehicle) (impf.)
 odjet:to leave (in a vehicle) (perf.):odjedu
 opera:opera
-podìkování:thanks
-pohodlnì:comfortably
-pozvání:invitation
+podÄ›kovÃ¡nÃ­:thanks
+pohodlnÄ›:comfortably
+pozvÃ¡nÃ­:invitation
 probudit se:to wake up:perf.
-prohlí¾et si:to have a look at, view (impf.)
-prohlédnout si:to have a look at, view (perf.)
-pøebásnit:do a verse adaptation:perf.
-pøekvapení:surprise
-pøijímat:to receive, accept (impf.)
-pøijmout:to receive, accept (perf.):pøijmu
-pøíroda:nature
+prohlÃ­Å¾et si:to have a look at, view (impf.)
+prohlÃ©dnout si:to have a look at, view (perf.)
+pÅ™ebÃ¡snit:do a verse adaptation:perf.
+pÅ™ekvapenÃ­:surprise
+pÅ™ijÃ­mat:to receive, accept (impf.)
+pÅ™ijmout:to receive, accept (perf.):pÅ™ijmu
+pÅ™Ã­roda:nature
 radost:joy, delight
-re¾ie:directed by (i.e. direction)
-øeditelka:principal, administrator (fem.)
+reÅ¾ie:directed by (i.e. direction)
+Å™editelka:principal, administrator (fem.)
 volat:to call (impf.):komu
 zavolat:to call (perf.):komu
-vyhrát:to win:perf., vyhraju, + nad èím
-vı¹ka:height
-závod:contest, race
+vyhrÃ¡t:to win:perf., vyhraju, + nad ÄÃ­m
+vÃ½Å¡ka:height
+zÃ¡vod:contest, race
 zmizet:to disappear:perf.
-zpùsob:way, manner
-zùstávat:to stay (impf.)
-zùstat:to stay (perf.):zùstanu
-zvát:to invite (impf.):zvu
+zpÅ¯sob:way, manner
+zÅ¯stÃ¡vat:to stay (impf.)
+zÅ¯stat:to stay (perf.):zÅ¯stanu
+zvÃ¡t:to invite (impf.):zvu
 pozvat:to invite (perf.):pozvu
-To je ¹koda.:It is a pity.
+To je Å¡koda.:It is a pity.

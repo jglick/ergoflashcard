@@ -169,6 +169,7 @@
 \\{czech-quiz-mode-map}"
   (set (make-local-variable 'iso-language) "czech")
   (iso-accents-mode 1)
+  ;; XXX revise the following for UTF-8:
   (do ((char 128 (+ char 1)))
       ((= char 256) nil)
     (modify-syntax-entry char "w")))

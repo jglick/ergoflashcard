@@ -1,193 +1,193 @@
 # -*- Czech-Quiz -*-
 
 ComCz L. 6 (Gramm. A -- Reg. comp. superl.)
-rychlı:fast (adj.)
-rychlej¹í:faster (adj.)
-nejrychlej¹í:fastest (adj.)
-pomalı:slow (adj.)
-pomalej¹í:slower (adj.)
-nejpomalej¹í:slowest (adj.)
-chytrı:clever
-chytøej¹í:more clever
-nejchytøej¹í:most clever
-známı:well-known
-známìj¹í:more well-known
-nejznámìj¹í:most well-known
-slavnı:famous
-slavnìj¹í:more famous
-nejslavnìj¹í:most famous
-krásnı:beautiful
-krásnìj¹í:more beautiful
-nejkrásnìj¹í:most beautiful
-moderní:modern
-modernìj¹í:more modern
-nejmodernìj¹í:most modern
-starı:old
-star¹í:older
-nejstar¹í:oldest
-mladı:young
-mlad¹í:younger
-nejmlad¹í:youngest
-tì¾kı:hard, difficult, heavy
-tì¾¹í:harder, more difficult, heavier
-nejtì¾¹í:hardest, most difficult, heaviest
-sladkı:sweet
-slad¹í:sweeter
-nejslad¹í:sweetest
-èistı:clean
-èist¹í:cleaner
-nejèist¹í:cleanest
-bohatı:rich
-bohat¹í:richer
-nejbohat¹í:richest
-drahı:expensive
-dra¾¹í:more expensive
-nejdra¾¹í:most expensive
-jednoduchı:single, simple
-jednodu¹¹í:singler, simpler
-nejjednodu¹¹í:most single, simplest
-hezkı:pretty
-hezèí:prettier
-nejhezèí:prettiest
-lehkı:light (adj., not heavy)
-lehèí:lighter (comp. adj., not heavier)
-nejlehèí:lightest (super. adj., not heaviest)
+rychlÃ½:fast (adj.)
+rychlejÅ¡Ã­:faster (adj.)
+nejrychlejÅ¡Ã­:fastest (adj.)
+pomalÃ½:slow (adj.)
+pomalejÅ¡Ã­:slower (adj.)
+nejpomalejÅ¡Ã­:slowest (adj.)
+chytrÃ½:clever
+chytÅ™ejÅ¡Ã­:more clever
+nejchytÅ™ejÅ¡Ã­:most clever
+znÃ¡mÃ½:well-known
+znÃ¡mÄ›jÅ¡Ã­:more well-known
+nejznÃ¡mÄ›jÅ¡Ã­:most well-known
+slavnÃ½:famous
+slavnÄ›jÅ¡Ã­:more famous
+nejslavnÄ›jÅ¡Ã­:most famous
+krÃ¡snÃ½:beautiful
+krÃ¡snÄ›jÅ¡Ã­:more beautiful
+nejkrÃ¡snÄ›jÅ¡Ã­:most beautiful
+modernÃ­:modern
+modernÄ›jÅ¡Ã­:more modern
+nejmodernÄ›jÅ¡Ã­:most modern
+starÃ½:old
+starÅ¡Ã­:older
+nejstarÅ¡Ã­:oldest
+mladÃ½:young
+mladÅ¡Ã­:younger
+nejmladÅ¡Ã­:youngest
+tÄ›Å¾kÃ½:hard, difficult, heavy
+tÄ›Å¾Å¡Ã­:harder, more difficult, heavier
+nejtÄ›Å¾Å¡Ã­:hardest, most difficult, heaviest
+sladkÃ½:sweet
+sladÅ¡Ã­:sweeter
+nejsladÅ¡Ã­:sweetest
+ÄistÃ½:clean
+ÄistÅ¡Ã­:cleaner
+nejÄistÅ¡Ã­:cleanest
+bohatÃ½:rich
+bohatÅ¡Ã­:richer
+nejbohatÅ¡Ã­:richest
+drahÃ½:expensive
+draÅ¾Å¡Ã­:more expensive
+nejdraÅ¾Å¡Ã­:most expensive
+jednoduchÃ½:single, simple
+jednoduÅ¡Å¡Ã­:singler, simpler
+nejjednoduÅ¡Å¡Ã­:most single, simplest
+hezkÃ½:pretty
+hezÄÃ­:prettier
+nejhezÄÃ­:prettiest
+lehkÃ½:light (adj., not heavy)
+lehÄÃ­:lighter (comp. adj., not heavier)
+nejlehÄÃ­:lightest (super. adj., not heaviest)
 rychle:quickly
 rychleji:more quickly
 nejrychleji:most quickly
 pomalu:slowly
 pomaleji:more slowly
 nejpomaleji:most slowly
-pøesnì:exactly
-pøesnìji:more exactly
-nejpøesnìji:most exactly
-èasto:often
-èastìji:more often
-nejèastìji:most often
-pozdì:late (adv.)
-pozdìji:later (adv.)
-nejpozdìji:latest (adv.)
-pøátelskı:friendly
-pøátel¹tìj¹í:friendlier
-sympatickı:sympathetic
-sympatiètìj¹í:more sympathetic
-pøátelsky:in a friendly way
-pøátel¹tìji:in a more friendly way
+pÅ™esnÄ›:exactly
+pÅ™esnÄ›ji:more exactly
+nejpÅ™esnÄ›ji:most exactly
+Äasto:often
+ÄastÄ›ji:more often
+nejÄastÄ›ji:most often
+pozdÄ›:late (adv.)
+pozdÄ›ji:later (adv.)
+nejpozdÄ›ji:latest (adv.)
+pÅ™Ã¡telskÃ½:friendly
+pÅ™Ã¡telÅ¡tÄ›jÅ¡Ã­:friendlier
+sympatickÃ½:sympathetic
+sympatiÄtÄ›jÅ¡Ã­:more sympathetic
+pÅ™Ã¡telsky:in a friendly way
+pÅ™Ã¡telÅ¡tÄ›ji:in a more friendly way
 sympaticky:sympathetically
-sympatiètìji:more sympathetically
+sympatiÄtÄ›ji:more sympathetically
 
 ComCz L. 6 (Vocab.)
-bojovat:to fight (with, against, for):impf., s kım, proti komu, o co (koho)
+bojovat:to fight (with, against, for):impf., s kÃ½m, proti komu, o co (koho)
 bolest:pain, ache:fem.
-bıt opo¾dìn:to be delayed
+bÃ½t opoÅ¾dÄ›n:to be delayed
 cirkus:circus:masc. hard
 cyklus:cycle:masc., cyklu
-ètvr»:district, quarter:fem.
-dojít:to get, reach:perf., dojdu
-dokonalı:perfect
-dostávat se:to get somewhere (impf.)
+ÄtvrÅ¥:district, quarter:fem.
+dojÃ­t:to get, reach:perf., dojdu
+dokonalÃ½:perfect
+dostÃ¡vat se:to get somewhere (impf.)
 dostat se:to get somewhere (perf.):dostanu
-génius:genius:masc., génia
-glóbus:globe:masc. hard
+gÃ©nius:genius:masc., gÃ©nia
+glÃ³bus:globe:masc. hard
 hodnotit:to evaluate:impf.
 hrad:(fortified) castle
-hroznı:terrible, horrible
+hroznÃ½:terrible, horrible
 klepat:to knock (at the door) (impf.):klepu
 zaklepat:to knock (at the door) (perf.):zaklepu
 klima:climate:neut., klimatu
-kouzelnı:magic (adj.)
-kráde¾:theft, burglary:fem.
-král:king:masc. soft
-kritérium:criterium:neut., kritéria
+kouzelnÃ½:magic (adj.)
+krÃ¡deÅ¾:theft, burglary:fem.
+krÃ¡l:king:masc. soft
+kritÃ©rium:criterium:neut., kritÃ©ria
 lanovka:cable railway (funicular)
 luxus:luxury:masc. hard
 milovat:to love, be fond of:impf.
-milovník:admirer, lover
-mlèet:to be (keep) silent:impf.
-mnohı:many (adj.)
+milovnÃ­k:admirer, lover
+mlÄet:to be (keep) silent:impf.
+mnohÃ½:many (adj.)
 moudrost:wisdom
-nábøe¾í:quay, embankment
-nástup:entrance
-nástupi¹tì:platform
+nÃ¡bÅ™eÅ¾Ã­:quay, embankment
+nÃ¡stup:entrance
+nÃ¡stupiÅ¡tÄ›:platform
 nastupovat:to get on (a vehicle) (impf.)
 nastoupit:to get on (a vehicle) (perf.)
-náv¹tìvník:visitor
-obvinit:to blame, accuse someone of something:+ koho z èeho
-opilı:drunk (adj.)
+nÃ¡vÅ¡tÄ›vnÃ­k:visitor
+obvinit:to blame, accuse someone of something:+ koho z Äeho
+opilÃ½:drunk (adj.)
 orloj:astronomical clock:masc.
-palác:palace:masc.
-panoráma:skyline:neut., panorámatu
-patøit:to belong to:impf., + ke komu
-pokraèovat:to continue:impf., + v èem
-povìst:legend:fem.
-pravìk:primeval (primordial) age(s)
-proslavenı:famous
-proslavit se:to become famous:perf., + èím
-pøedpovídat:to foretell, predict (impf.)
-pøedpovìdìt:to foretell, predict (perf.):pøedpovím
-pøedstavovat si:to imagine (impf.)
-pøedstavit si:to imagine (perf.)
-pøecházet:to cross (a place) (impf.)
-pøejít:to cross (a place) (perf.):pøejdu
-pøesvìdèit se:to become convinced:perf., + o èem
+palÃ¡c:palace:masc.
+panorÃ¡ma:skyline:neut., panorÃ¡matu
+patÅ™it:to belong to:impf., + ke komu
+pokraÄovat:to continue:impf., + v Äem
+povÄ›st:legend:fem.
+pravÄ›k:primeval (primordial) age(s)
+proslavenÃ½:famous
+proslavit se:to become famous:perf., + ÄÃ­m
+pÅ™edpovÃ­dat:to foretell, predict (impf.)
+pÅ™edpovÄ›dÄ›t:to foretell, predict (perf.):pÅ™edpovÃ­m
+pÅ™edstavovat si:to imagine (impf.)
+pÅ™edstavit si:to imagine (perf.)
+pÅ™echÃ¡zet:to cross (a place) (impf.)
+pÅ™ejÃ­t:to cross (a place) (perf.):pÅ™ejdu
+pÅ™esvÄ›dÄit se:to become convinced:perf., + o Äem
 publikum:audience:neut., publika
-rozdìlovat:to divide (impf.)
-rozdìlit:to divide (perf.)
+rozdÄ›lovat:to divide (impf.)
+rozdÄ›lit:to divide (perf.)
 schopnost:ability
-slavnı:famous
-spojovat:to connect (impf.):+ s èím
-spojit:to connect (perf.):+ s èím
-stovì¾atı:hundred-spired
-stra¹nı:fearful, awful
-støecha:roof
+slavnÃ½:famous
+spojovat:to connect (impf.):+ s ÄÃ­m
+spojit:to connect (perf.):+ s ÄÃ­m
+stovÄ›Å¾atÃ½:hundred-spired
+straÅ¡nÃ½:fearful, awful
+stÅ™echa:roof
 synagoga:synagogue
-téma:topic, theme:neut., tématu
-tvoøit:to make, shape:impf.
-úzkı:narrow
-vést:to lead:impf., vedu
-vìt¹ina:majority
-vì¾:spire, tower:fem.
+tÃ©ma:topic, theme:neut., tÃ©matu
+tvoÅ™it:to make, shape:impf.
+ÃºzkÃ½:narrow
+vÃ©st:to lead:impf., vedu
+vÄ›tÅ¡ina:majority
+vÄ›Å¾:spire, tower:fem.
 vchod:entrance
 vina:guilt, blame, fault
-viník:culprit, offender
-vinnı:guilty
-vítìzství:victory
-vízum:visa:neut., víza
-vıbìr:choice
-vydávat se:to set out (on a journey) (impf.)
+vinÃ­k:culprit, offender
+vinnÃ½:guilty
+vÃ­tÄ›zstvÃ­:victory
+vÃ­zum:visa:neut., vÃ­za
+vÃ½bÄ›r:choice
+vydÃ¡vat se:to set out (on a journey) (impf.)
 vydat se:to set out (on a journey) (perf.)
-vıchod:(an) exit
-vıstup:(an) exit
+vÃ½chod:(an) exit
+vÃ½stup:(an) exit
 vystupovat:to get off (a vehicle) (impf.)
 vystoupit:to get off (a vehicle) (perf.)
-vzdìlanost:culture, civilization
-vzpomínat si:to recall back to mind or memory (impf.):+ na co
-vzpomenout si:to recall back to mind or memory (perf.):vzpomnìl, + na co
+vzdÄ›lanost:culture, civilization
+vzpomÃ­nat si:to recall back to mind or memory (impf.):+ na co
+vzpomenout si:to recall back to mind or memory (perf.):vzpomnÄ›l, + na co
 zahnout:to turn:perf.
-zachovalı:well-preserved, maintained
-zakládat:to establish, found (impf.)
-zalo¾it:to establish, found (perf.)
-zamilovat se:to fall in love with:perf., + do èeho
-zbavit se:to deprive, rid (of):perf., + èeho
-zlatı:golden
-zranìní:injury
-®id:Jew
-®idovka:(female) Jew
-¾idovskı:Jewish
+zachovalÃ½:well-preserved, maintained
+zaklÃ¡dat:to establish, found (impf.)
+zaloÅ¾it:to establish, found (perf.)
+zamilovat se:to fall in love with:perf., + do Äeho
+zbavit se:to deprive, rid (of):perf., + Äeho
+zlatÃ½:golden
+zranÄ›nÃ­:injury
+Å½id:Jew
+Å½idovka:(female) Jew
+Å¾idovskÃ½:Jewish
 
 ComCz L. 6 (Gramm. C -- Decl. for. nouns)
-génius:genius (nom.)
-génia:genius (gen.)
-géniovi:genius (dat.)
-génia:genius (acc.)
-géniovi:genius (loc.)
-géniem:genius (inst.)
-géniové:geniuses (nom.)
-géniù:geniuses (gen.)
-géniùm:geniuses (dat.)
-génie:geniuses (acc.)
-géniích:geniuses (loc.)
-génii:geniuses (inst.)
+gÃ©nius:genius (nom.)
+gÃ©nia:genius (gen.)
+gÃ©niovi:genius (dat.)
+gÃ©nia:genius (acc.)
+gÃ©niovi:genius (loc.)
+gÃ©niem:genius (inst.)
+gÃ©niovÃ©:geniuses (nom.)
+gÃ©niÅ¯:geniuses (gen.)
+gÃ©niÅ¯m:geniuses (dat.)
+gÃ©nie:geniuses (acc.)
+gÃ©niÃ­ch:geniuses (loc.)
+gÃ©nii:geniuses (inst.)
 cyklus:cycle (nom.)
 cyklu:cycle (gen.)
 cyklu:cycle (dat.)
@@ -195,8 +195,8 @@ cyklus:cycle (acc.)
 cyklu:cycle (loc.)
 cyklem:cycle (inst.)
 cykly:cycles (nom.)
-cyklù:cycles (gen.)
-cyklùm:cycles (dat.)
+cyklÅ¯:cycles (gen.)
+cyklÅ¯m:cycles (dat.)
 cykly:cycles (acc.)
 cyklech:cycles (loc.)
 cykly:cycles (inst.)
@@ -211,12 +211,12 @@ idey/ideje:idea (gen.)
 ideji:idea (dat.)
 ideu:idea (acc.)
 ideji:idea (loc.)
-ideou/idejí:idea (inst.)
+ideou/idejÃ­:idea (inst.)
 idey/ideje:ideas (nom.)
-idejí:ideas (gen.)
-ideám/idejím:ideas (dat.)
+idejÃ­:ideas (gen.)
+ideÃ¡m/idejÃ­m:ideas (dat.)
 idey/ideje:ideas (acc.)
-ideách/idejích:ideas (loc.)
+ideÃ¡ch/idejÃ­ch:ideas (loc.)
 ideami/idejemi:ideas (inst.)
 muzeum:museum (nom.)
 muzea:museum (gen.)
@@ -225,10 +225,10 @@ muzeum:museum (acc.)
 muzeu:museum (loc.)
 muzeem:museum (inst.)
 muzea:museums (nom.)
-muzeí:museums (gen.)
-muzeím:museums (dat.)
+muzeÃ­:museums (gen.)
+muzeÃ­m:museums (dat.)
 muzea:museums (acc.)
-muzeích:museums (loc.)
+muzeÃ­ch:museums (loc.)
 muzei:museums (inst.)
 centrum:center (nom.)
 centra:center (gen.)
@@ -238,7 +238,7 @@ centru:center (loc.)
 centrem:center (inst.)
 centra:centers (nom.)
 center:centers (gen.)
-centrùm:centers (dat.)
+centrÅ¯m:centers (dat.)
 centra:centers (acc.)
 centrech:centers (loc.)
 centry:centers (inst.)
@@ -250,7 +250,7 @@ dramatu:drama (loc.)
 dramatem:drama (inst.)
 dramata:dramas (nom.)
 dramat:dramas (gen.)
-dramatùm:dramas (dat.)
+dramatÅ¯m:dramas (dat.)
 dramata:dramas (acc.)
 dramatech:dramas (loc.)
 dramaty:dramas (inst.)
@@ -261,190 +261,190 @@ cirkus:circus (acc.)
 cirkuse:circus (loc.)
 cirkusem:circus (inst.)
 cirkusy:circuses (nom.)
-cirkusù:circuses (gen.)
-cirkusùm:circuses (dat.)
+cirkusÅ¯:circuses (gen.)
+cirkusÅ¯m:circuses (dat.)
 cirkusy:circuses (acc.)
 cirkusech:circuses (loc.)
 cirkusy:circuses (inst.)
-kritérium:criterium (nom.)
-kritéria:criterium (gen.)
-kritériu:criterium (dat.)
-kritérium:criterium (acc.)
-kritériu:criterium (loc.)
-kritériem:criterium (inst.)
-kritéria:criteria (nom.)
-kritérií:criteria (gen.)
-kritériím:criteria (dat.)
-kritéria:criteria (acc.)
-kritériích:criteria (loc.)
-kritérii:criteria (inst.)
-vízum:visa (nom.)
-víza:visa (gen.)
-vízu:visa (dat.)
-vízum:visa (acc.)
-vízu:visa (loc.)
-vízem:visa (inst.)
-víza:visas (nom.)
-víz:visas (gen.)
-vízùm:visas (dat.)
-víza:visas (acc.)
-vízech:visas (loc.)
-vízy:visas (inst.)
-téma:theme (nom.)
-tématu:theme (gen.)
-tématu:theme (dat.)
-téma:theme (acc.)
-tématu:theme (loc.)
-tématem:theme (inst.)
-témata:themes (nom.)
-témat:themes (gen.)
-tématùm:themes (dat.)
-témata:themes (acc.)
-tématech:themes (loc.)
-tématy:themes (inst.)
-# skipping: Amadeus, Ovidius, glóbus, luxus, realismus, kubismus, romantismus,
-# kapitalismus, egoismus, studium, stipendium, mauzoleum, datum, panoráma,
+kritÃ©rium:criterium (nom.)
+kritÃ©ria:criterium (gen.)
+kritÃ©riu:criterium (dat.)
+kritÃ©rium:criterium (acc.)
+kritÃ©riu:criterium (loc.)
+kritÃ©riem:criterium (inst.)
+kritÃ©ria:criteria (nom.)
+kritÃ©riÃ­:criteria (gen.)
+kritÃ©riÃ­m:criteria (dat.)
+kritÃ©ria:criteria (acc.)
+kritÃ©riÃ­ch:criteria (loc.)
+kritÃ©rii:criteria (inst.)
+vÃ­zum:visa (nom.)
+vÃ­za:visa (gen.)
+vÃ­zu:visa (dat.)
+vÃ­zum:visa (acc.)
+vÃ­zu:visa (loc.)
+vÃ­zem:visa (inst.)
+vÃ­za:visas (nom.)
+vÃ­z:visas (gen.)
+vÃ­zÅ¯m:visas (dat.)
+vÃ­za:visas (acc.)
+vÃ­zech:visas (loc.)
+vÃ­zy:visas (inst.)
+tÃ©ma:theme (nom.)
+tÃ©matu:theme (gen.)
+tÃ©matu:theme (dat.)
+tÃ©ma:theme (acc.)
+tÃ©matu:theme (loc.)
+tÃ©matem:theme (inst.)
+tÃ©mata:themes (nom.)
+tÃ©mat:themes (gen.)
+tÃ©matÅ¯m:themes (dat.)
+tÃ©mata:themes (acc.)
+tÃ©matech:themes (loc.)
+tÃ©maty:themes (inst.)
+# skipping: Amadeus, Ovidius, glÃ³bus, luxus, realismus, kubismus, romantismus,
+# kapitalismus, egoismus, studium, stipendium, mauzoleum, datum, panorÃ¡ma,
 # klima
 
 ComCz L. 6 (Gramm. B -- Possess.)
-bratrùv syn:Brother's son (nom.)
+bratrÅ¯v syn:Brother's son (nom.)
 bratrova syna:Brother's son (gen.)
 bratrovu synovi:Brother's son (dat.)
 bratrova syna:Brother's son (acc.)
-bratrovì synovi/bratrovu synovi:Brother's son (loc.)
-bratrovım synem:Brother's son (inst.)
-bratrovi synové:Brother's sons (nom.)
-bratrovıch synù:Brother's sons (gen.)
-bratrovım synùm:Brother's sons (dat.)
+bratrovÄ› synovi/bratrovu synovi:Brother's son (loc.)
+bratrovÃ½m synem:Brother's son (inst.)
+bratrovi synovÃ©:Brother's sons (nom.)
+bratrovÃ½ch synÅ¯:Brother's sons (gen.)
+bratrovÃ½m synÅ¯m:Brother's sons (dat.)
 bratrovy syny:Brother's sons (acc.)
-bratrovıch synech:Brother's sons (loc.)
-bratrovımi syny:Brother's sons (inst.)
-bratrùv dùm:Brother's house (nom.)
+bratrovÃ½ch synech:Brother's sons (loc.)
+bratrovÃ½mi syny:Brother's sons (inst.)
+bratrÅ¯v dÅ¯m:Brother's house (nom.)
 bratrova domu:Brother's house (gen.)
 bratrovu domu:Brother's house (dat.)
-bratrùv dùm:Brother's house (acc.)
-bratrovì domu/bratrovu domu:Brother's house (loc.)
-bratrovım domem:Brother's house (inst.)
+bratrÅ¯v dÅ¯m:Brother's house (acc.)
+bratrovÄ› domu/bratrovu domu:Brother's house (loc.)
+bratrovÃ½m domem:Brother's house (inst.)
 bratrovy domy:Brother's houses (nom.)
-bratrovıch domù:Brother's houses (gen.)
-bratrovım domùm:Brother's houses (dat.)
+bratrovÃ½ch domÅ¯:Brother's houses (gen.)
+bratrovÃ½m domÅ¯m:Brother's houses (dat.)
 bratrovy domy:Brother's houses (acc.)
-bratrovıch domech:Brother's houses (loc.)
-bratrovımi domy:Brother's houses (inst.)
+bratrovÃ½ch domech:Brother's houses (loc.)
+bratrovÃ½mi domy:Brother's houses (inst.)
 bratrovo auto:Brother's car (nom.)
 bratrova auta:Brother's car (gen.)
 bratrovu autu:Brother's car (dat.)
 bratrovo auto:Brother's car (acc.)
-bratrovì autu/bratrovu autu:Brother's car (loc.)
-bratrovım autem:Brother's car (inst.)
+bratrovÄ› autu/bratrovu autu:Brother's car (loc.)
+bratrovÃ½m autem:Brother's car (inst.)
 bratrova auta:Brother's cars (nom.)
-bratrovıch aut:Brother's cars (gen.)
-bratrovım autùm:Brother's cars (dat.)
+bratrovÃ½ch aut:Brother's cars (gen.)
+bratrovÃ½m autÅ¯m:Brother's cars (dat.)
 bratrova auta:Brother's cars (acc.)
-bratrovıch autech:Brother's cars (loc.)
-bratrovımi auty:Brother's cars (inst.)
+bratrovÃ½ch autech:Brother's cars (loc.)
+bratrovÃ½mi auty:Brother's cars (inst.)
 bratrova kniha:Brother's book (nom.)
 bratrovy knihy:Brother's book (gen.)
-bratrovì knize:Brother's book (dat.)
+bratrovÄ› knize:Brother's book (dat.)
 bratrovu knihu:Brother's book (acc.)
-bratrovì knize:Brother's book (loc.)
+bratrovÄ› knize:Brother's book (loc.)
 bratrovou knihou:Brother's book (inst.)
 bratrovy knihy:Brother's books (nom.)
-bratrovıch knih:Brother's books (gen.)
-bratrovım knihám:Brother's books (dat.)
+bratrovÃ½ch knih:Brother's books (gen.)
+bratrovÃ½m knihÃ¡m:Brother's books (dat.)
 bratrovy knihy:Brother's books (acc.)
-bratrovıch knihách:Brother's books (loc.)
-bratrovımi knihami:Brother's books (inst.)
+bratrovÃ½ch knihÃ¡ch:Brother's books (loc.)
+bratrovÃ½mi knihami:Brother's books (inst.)
 Evin syn:Eva's son (nom.)
 Evina syna:Eva's son (gen.)
 Evinu synovi:Eva's son (dat.)
 Evina syna:Eva's son (acc.)
-Evinì synovi:Eva's son (loc.)
-Evinım synem:Eva's son (inst.)
-Evini synové:Eva's sons (nom.)
-Evinıch synù:Eva's sons (gen.)
-Evinım synùm:Eva's sons (dat.)
+EvinÄ› synovi:Eva's son (loc.)
+EvinÃ½m synem:Eva's son (inst.)
+Evini synovÃ©:Eva's sons (nom.)
+EvinÃ½ch synÅ¯:Eva's sons (gen.)
+EvinÃ½m synÅ¯m:Eva's sons (dat.)
 Eviny syny:Eva's sons (acc.)
-Evinıch synech:Eva's sons (loc.)
-Evinımi syny:Eva's sons (inst.)
-Evin dùm:Eva's house (nom.)
+EvinÃ½ch synech:Eva's sons (loc.)
+EvinÃ½mi syny:Eva's sons (inst.)
+Evin dÅ¯m:Eva's house (nom.)
 Evina domu:Eva's house (gen.)
 Evinu domu:Eva's house (dat.)
-Evin dùm:Eva's house (acc.)
-Evinì domu:Eva's house (loc.)
-Evinım domem:Eva's house (inst.)
+Evin dÅ¯m:Eva's house (acc.)
+EvinÄ› domu:Eva's house (loc.)
+EvinÃ½m domem:Eva's house (inst.)
 Eviny domy:Eva's houses (nom.)
-Evinıch domù:Eva's houses (gen.)
-Evinım domùm:Eva's houses (dat.)
+EvinÃ½ch domÅ¯:Eva's houses (gen.)
+EvinÃ½m domÅ¯m:Eva's houses (dat.)
 Eviny domy:Eva's houses (acc.)
-Evinıch domech:Eva's houses (loc.)
-Evinımi domy:Eva's houses (inst.)
+EvinÃ½ch domech:Eva's houses (loc.)
+EvinÃ½mi domy:Eva's houses (inst.)
 Evino auto:Eva's car (nom.)
 Evina auta:Eva's car (gen.)
-Evinì autu:Eva's car (dat.)
+EvinÄ› autu:Eva's car (dat.)
 Evino auto:Eva's car (acc.)
-Evinì autu:Eva's car (loc.)
-Evinım autem:Eva's car (inst.)
+EvinÄ› autu:Eva's car (loc.)
+EvinÃ½m autem:Eva's car (inst.)
 Evina auta:Eva's cars (nom.)
-Evinıch aut:Eva's cars (gen.)
-Evinım autùm:Eva's cars (dat.)
+EvinÃ½ch aut:Eva's cars (gen.)
+EvinÃ½m autÅ¯m:Eva's cars (dat.)
 Evina auta:Eva's cars (acc.)
-Evinıch autech:Eva's cars (loc.)
-Evinımi auty:Eva's cars (inst.)
+EvinÃ½ch autech:Eva's cars (loc.)
+EvinÃ½mi auty:Eva's cars (inst.)
 Evina kniha:Eva's book (nom.)
 Eviny knihy:Eva's book (gen.)
-Evinì knize:Eva's book (dat.)
+EvinÄ› knize:Eva's book (dat.)
 Evinu knihu:Eva's book (acc.)
-Evinì knize:Eva's book (loc.)
+EvinÄ› knize:Eva's book (loc.)
 Evinou knihou:Eva's book (inst.)
 Eviny knihy:Eva's books (nom.)
-Evinıch knih:Eva's books (gen.)
-Evinım knihám:Eva's books (dat.)
+EvinÃ½ch knih:Eva's books (gen.)
+EvinÃ½m knihÃ¡m:Eva's books (dat.)
 Eviny knihy:Eva's books (acc.)
-Evinıch knihách:Eva's books (loc.)
-Evinımi knihami:Eva's books (inst.)
-studentùv pokoj:the student's room
-pokoje studentù:the students' rooms
-Palackého námìstí:Palackı's Square
-romány ©kvoreckého:©kvoreckı's novels
-obrazy Braunerové:Braunerová's pictures
-To je dùm mého pøítele Petra.:That is my friend Petr's house.
-To je Petrùv dùm.:That is Petr's house.
+EvinÃ½ch knihÃ¡ch:Eva's books (loc.)
+EvinÃ½mi knihami:Eva's books (inst.)
+studentÅ¯v pokoj:the student's room
+pokoje studentÅ¯:the students' rooms
+PalackÃ©ho nÃ¡mÄ›stÃ­:PalackÃ½'s Square
+romÃ¡ny Å kvoreckÃ©ho:Å kvoreckÃ½'s novels
+obrazy BraunerovÃ©:BraunerovÃ¡'s pictures
+To je dÅ¯m mÃ©ho pÅ™Ã­tele Petra.:That is my friend Petr's house.
+To je PetrÅ¯v dÅ¯m.:That is Petr's house.
 
-ComCz L. 6 (Misc. -- Libu¹e)
-bída:poverty, misery
+ComCz L. 6 (Misc. -- LibuÅ¡e)
+bÃ­da:poverty, misery
 dno:bottom
 hladina:surface
-knì¾na:princess
-kolébka:cradle
-koupat se:to bathe:impf., koupu nebo koupám
+knÄ›Å¾na:princess
+kolÃ©bka:cradle
+koupat se:to bathe:impf., koupu nebo koupÃ¡m
 krev:blood:fem., gen. krve
 odlesk:reflection
-oheò:fire:masc.
-pláè:(a) cry:masc.
+oheÅˆ:fire:masc.
+plÃ¡Ä:(a) cry:masc.
 plamen:flame
-poní¾ení:humiliation
+ponÃ­Å¾enÃ­:humiliation
 potopit se:to sink (perf.)
-po¾ár:fire
+poÅ¾Ã¡r:fire
 pustit:to drop, put:perf.
-rána:wound, injury
+rÃ¡na:wound, injury
 rozpadat se:to fall apart (impf.)
 rozpadnout se:to fall apart (perf.)
-ru¹it:to disturb:impf.
-skála:rock
-sláva:fame
+ruÅ¡it:to disturb:impf.
+skÃ¡la:rock
+slÃ¡va:fame
 spravedlnost:justice, fairness
 strach:fear
-svìdek:witness
-téct:to flow:impf., teèe
-úleva:relief
-umírat:to die (impf.)
-umøít:to die (perf.):umøu
-úsvit:daybreak, dawn
-vì¹tit:to foretell:impf.
-vládnout:to govern, rule:impf.
+svÄ›dek:witness
+tÃ©ct:to flow:impf., teÄe
+Ãºleva:relief
+umÃ­rat:to die (impf.)
+umÅ™Ã­t:to die (perf.):umÅ™u
+Ãºsvit:daybreak, dawn
+vÄ›Å¡tit:to foretell:impf.
+vlÃ¡dnout:to govern, rule:impf.
 vlast:one's native country:fem.
-vykøiknout:to shout out:perf.
-zabíjet:to kill (impf.)
-zakrıt:to cover (perf.):zakryji
-záø:glare, shine:fem.
+vykÅ™iknout:to shout out:perf.
+zabÃ­jet:to kill (impf.)
+zakrÃ½t:to cover (perf.):zakryji
+zÃ¡Å™:glare, shine:fem.

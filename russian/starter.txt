@@ -1,318 +1,306 @@
 # -*- Quiz -*-
 
 # Keyboard:
-# ю1234567890-ч Ю--ъЪ-ёЁ*()_Ч
+# я▌1234567890-я┤ п╝--я┼п╙-я▒п│*()_п╖
 # `1234567890-= ~--#$-^&*()_+
-# явертыуиопшщэ ЯВЕРТЫУИОПШЩЭ
+# я▐п╡п╣я─я┌я▀я┐п╦п╬п©я┬я┴я█ п╞п▓п∙п═п╒п╚пёп≤п·п÷п╗п╘п╜
 # qwertyuiop[]\ QWERTYUIOP{}|
-# асдфгхйкл     АСДФГХЙКЛ
+# п╟я│п╢я└пЁя┘п╧п╨п╩     п░п║п■п╓п⌠п╔п≥п п⌡
 # asdfghjkl     ASDFGHJKL
-# зьцжбнм       ЗЬЦЖБНМ
+# п╥я▄я├п╤п╠п╫п╪       п≈п╛п╕п√п▒п²п°
 # zxcvbnm       ZXCVBNM
 
 The first book of numbers
-ноль:zero
-один:one (m):(+nom.sg)
-одна:one (f):(+nom.sg)
-одно:one (n):(+nom.sg)
-два:two (m,n):(+gen.sg)
-две:two (f):(+gen.sg)
-три:three:(+gen.sg)
-четыре:four:(+gen.sg)
-пять:five:(+gen.pl)
-шесть:six:(+gen.pl)
-семь:seven:(+gen.pl)
-восемь:eight:(+gen.pl)
-девять:nine:(+gen.pl)
-десять:ten:(+gen.pl)
-одиннадцать:eleven:(+gen.pl)
-двенадцать:twelve:(+gen.pl)
-тринадцать:thirteen:(+gen.pl)
-четырнадцать:fourteen:(+gen.pl)
-пятнадцать:fifteen:(+gen.pl)
-шестнадцать:sixteen:(+gen.pl)
-семнадцать:seventeen:(+gen.pl)
-восемнадцать:eighteen:(+gen.pl)
-девятнадцать:nineteen:(+gen.pl)
-двадцать:twenty:(+gen.pl)
-двадцать один:twenty one (m):(+nom.sg)
-двадцать одна:twenty one (f):(+nom.sg)
-двадцать одно:twenty one (n):(+nom.sg)
-двадцать два:twenty two (m,n):(+gen.sg)
-двадцать две:twenty two (f):(+gen.sg)
-двадцать три:twenty three:(+gen.sg)
-двадцать четыре:twenty four:(+gen.sg)
-двадцать пять:twenty five:(+gen.pl)
-двадцать шесть:twenty six:(+gen.pl)
-двадцать семь:twenty seven:(+gen.pl)
-двадцать восемь:twenty eight:(+gen.pl)
-двадцать девяать:twenty nine:(+gen.pl)
-тридцать:thirty:(+gen.pl)
-тридцать один:thirty one (m):(+nom.sg)
-тридцать одна:thirty one (f):(+nom.sg)
-тридцать одно:thirty one (n):(+nom.sg)
-тридцать два:thirty two (m,n):(+gen.sg)
-тридцать две:thirty two (f):(+gen.sg)
-тридцать три:thirty three:(+gen.sg)
-тридцать четыре:thirty four:(+gen.sg)
-тридцать пять:thirty five:(+gen.pl)
-тридцать шесть:thirty six:(+gen.pl)
-тридцать семь:thirty seven:(+gen.pl)
-тридцать восемь:thirty eight:(+gen.pl)
-тридцать девять:thirty nine:(+gen.pl)
-сорок:fourty:(+gen.pl)
-пятьдесят:fifty:(+gen.pl)
-шестьдесят:sixty:(+gen.pl)
-cемьдесят:seventy:(+gen.pl)
-восемьдесят:eighty:(+gen.pl)
-девяносто:ninety:(+gen.pl)
-сто:hundred:(+gen.pl)
-двести:two hundred:(+gen.pl)
-триста:three hundred:(+gen.pl)
-четыреста:four hundred:(+gen.pl)
-пятьсот:five hundred:(+gen.pl)
-шестьсот:six hundred:(+gen.pl)
-семьсот:seven hundred:(+gen.pl)
-восемьсот:eight hundred:(+gen.pl)
-девятьсот:nine hundred:(+gen.pl)
-тысяча:thousand:(+gen.pl)
-две тысячи:two thousand:(+gen.pl)
-три тысячси:three thousand:(+gen.pl)
-четыре тысячи:four thousand:(+gen.pl)
-пять тысяч:five thousand:(+gen.pl)
-шесть тысяч:six thousand:(+gen.pl)
-семь тысяч:seven thousand:(+gen.pl)
-восемь тысяч:eight thousand:(+gen.pl)
-девять тысяч:nine thousand:(+gen.pl)
-десять тысяч:ten thousand:(+gen.pl)
+п╫п╬п╩я▄:zero
+п╬п╢п╦п╫:one (m):(+nom.sg)
+п╬п╢п╫п╟:one (f):(+nom.sg)
+п╬п╢п╫п╬:one (n):(+nom.sg)
+п╢п╡п╟:two (m,n):(+gen.sg)
+п╢п╡п╣:two (f):(+gen.sg)
+я┌я─п╦:three:(+gen.sg)
+я┤п╣я┌я▀я─п╣:four:(+gen.sg)
+п©я▐я┌я▄:five:(+gen.pl)
+я┬п╣я│я┌я▄:six:(+gen.pl)
+я│п╣п╪я▄:seven:(+gen.pl)
+п╡п╬я│п╣п╪я▄:eight:(+gen.pl)
+п╢п╣п╡я▐я┌я▄:nine:(+gen.pl)
+п╢п╣я│я▐я┌я▄:ten:(+gen.pl)
+п╬п╢п╦п╫п╫п╟п╢я├п╟я┌я▄:eleven:(+gen.pl)
+п╢п╡п╣п╫п╟п╢я├п╟я┌я▄:twelve:(+gen.pl)
+я┌я─п╦п╫п╟п╢я├п╟я┌я▄:thirteen:(+gen.pl)
+я┤п╣я┌я▀я─п╫п╟п╢я├п╟я┌я▄:fourteen:(+gen.pl)
+п©я▐я┌п╫п╟п╢я├п╟я┌я▄:fifteen:(+gen.pl)
+я┬п╣я│я┌п╫п╟п╢я├п╟я┌я▄:sixteen:(+gen.pl)
+я│п╣п╪п╫п╟п╢я├п╟я┌я▄:seventeen:(+gen.pl)
+п╡п╬я│п╣п╪п╫п╟п╢я├п╟я┌я▄:eighteen:(+gen.pl)
+п╢п╣п╡я▐я┌п╫п╟п╢я├п╟я┌я▄:nineteen:(+gen.pl)
+п╢п╡п╟п╢я├п╟я┌я▄:twenty:(+gen.pl)
+п╢п╡п╟п╢я├п╟я┌я▄ п╬п╢п╦п╫:twenty one (m):(+nom.sg)
+п╢п╡п╟п╢я├п╟я┌я▄ п╬п╢п╫п╟:twenty one (f):(+nom.sg)
+п╢п╡п╟п╢я├п╟я┌я▄ п╬п╢п╫п╬:twenty one (n):(+nom.sg)
+п╢п╡п╟п╢я├п╟я┌я▄ п╢п╡п╟:twenty two (m,n):(+gen.sg)
+п╢п╡п╟п╢я├п╟я┌я▄ п╢п╡п╣:twenty two (f):(+gen.sg)
+п╢п╡п╟п╢я├п╟я┌я▄ я┌я─п╦:twenty three:(+gen.sg)
+п╢п╡п╟п╢я├п╟я┌я▄ я┤п╣я┌я▀я─п╣:twenty four:(+gen.sg)
+п╢п╡п╟п╢я├п╟я┌я▄ п©я▐я┌я▄:twenty five:(+gen.pl)
+п╢п╡п╟п╢я├п╟я┌я▄ я┬п╣я│я┌я▄:twenty six:(+gen.pl)
+п╢п╡п╟п╢я├п╟я┌я▄ я│п╣п╪я▄:twenty seven:(+gen.pl)
+п╢п╡п╟п╢я├п╟я┌я▄ п╡п╬я│п╣п╪я▄:twenty eight:(+gen.pl)
+п╢п╡п╟п╢я├п╟я┌я▄ п╢п╣п╡я▐п╟я┌я▄:twenty nine:(+gen.pl)
+я┌я─п╦п╢я├п╟я┌я▄:thirty:(+gen.pl)
+я┌я─п╦п╢я├п╟я┌я▄ п╬п╢п╦п╫:thirty one (m):(+nom.sg)
+я┌я─п╦п╢я├п╟я┌я▄ п╬п╢п╫п╟:thirty one (f):(+nom.sg)
+я┌я─п╦п╢я├п╟я┌я▄ п╬п╢п╫п╬:thirty one (n):(+nom.sg)
+я┌я─п╦п╢я├п╟я┌я▄ п╢п╡п╟:thirty two (m,n):(+gen.sg)
+я┌я─п╦п╢я├п╟я┌я▄ п╢п╡п╣:thirty two (f):(+gen.sg)
+я┌я─п╦п╢я├п╟я┌я▄ я┌я─п╦:thirty three:(+gen.sg)
+я┌я─п╦п╢я├п╟я┌я▄ я┤п╣я┌я▀я─п╣:thirty four:(+gen.sg)
+я┌я─п╦п╢я├п╟я┌я▄ п©я▐я┌я▄:thirty five:(+gen.pl)
+я┌я─п╦п╢я├п╟я┌я▄ я┬п╣я│я┌я▄:thirty six:(+gen.pl)
+я┌я─п╦п╢я├п╟я┌я▄ я│п╣п╪я▄:thirty seven:(+gen.pl)
+я┌я─п╦п╢я├п╟я┌я▄ п╡п╬я│п╣п╪я▄:thirty eight:(+gen.pl)
+я┌я─п╦п╢я├п╟я┌я▄ п╢п╣п╡я▐я┌я▄:thirty nine:(+gen.pl)
+я│п╬я─п╬п╨:fourty:(+gen.pl)
+п©я▐я┌я▄п╢п╣я│я▐я┌:fifty:(+gen.pl)
+я┬п╣я│я┌я▄п╢п╣я│я▐я┌:sixty:(+gen.pl)
+cп╣п╪я▄п╢п╣я│я▐я┌:seventy:(+gen.pl)
+п╡п╬я│п╣п╪я▄п╢п╣я│я▐я┌:eighty:(+gen.pl)
+п╢п╣п╡я▐п╫п╬я│я┌п╬:ninety:(+gen.pl)
+я│я┌п╬:hundred:(+gen.pl)
+п╢п╡п╣я│я┌п╦:two hundred:(+gen.pl)
+я┌я─п╦я│я┌п╟:three hundred:(+gen.pl)
+я┤п╣я┌я▀я─п╣я│я┌п╟:four hundred:(+gen.pl)
+п©я▐я┌я▄я│п╬я┌:five hundred:(+gen.pl)
+я┬п╣я│я┌я▄я│п╬я┌:six hundred:(+gen.pl)
+я│п╣п╪я▄я│п╬я┌:seven hundred:(+gen.pl)
+п╡п╬я│п╣п╪я▄я│п╬я┌:eight hundred:(+gen.pl)
+п╢п╣п╡я▐я┌я▄я│п╬я┌:nine hundred:(+gen.pl)
+я┌я▀я│я▐я┤п╟:thousand:(+gen.pl)
+п╢п╡п╣ я┌я▀я│я▐я┤п╦:two thousand:(+gen.pl)
+я┌я─п╦ я┌я▀я│я▐я┤я│п╦:three thousand:(+gen.pl)
+я┤п╣я┌я▀я─п╣ я┌я▀я│я▐я┤п╦:four thousand:(+gen.pl)
+п©я▐я┌я▄ я┌я▀я│я▐я┤:five thousand:(+gen.pl)
+я┬п╣я│я┌я▄ я┌я▀я│я▐я┤:six thousand:(+gen.pl)
+я│п╣п╪я▄ я┌я▀я│я▐я┤:seven thousand:(+gen.pl)
+п╡п╬я│п╣п╪я▄ я┌я▀я│я▐я┤:eight thousand:(+gen.pl)
+п╢п╣п╡я▐я┌я▄ я┌я▀я│я▐я┤:nine thousand:(+gen.pl)
+п╢п╣я│я▐я┌я▄ я┌я▀я│я▐я┤:ten thousand:(+gen.pl)
 
 The second book of Numbers
-одна жена:one woman
-две жены:two women
-семь жен:seven women
-тридцать одна красивая машина:thirty one beautiful cars
-четыре красивой машины:four beautiful cars
-девять красивих машин:nine beautiful cars
-один час:one hour
-семь часов:seven hours
-двадцать три часа:twenty three hours
-три тёти:three aunts
-сто одна тётя:a hundred and one aunts
-восемь тётей:eight aunts
-одно имя:one name
-четыре имени:four names
-пять имён:five names
-сорок одно блюдо:fourty one dishes
-девяносто два блюда:ninety two dishes
-семьдесят блюд:seventy dishes
-пятьдесяат один художник:fifty one artists
-тридесят четыре художника:thirty four artists
-пять художников:five artists
+п╬п╢п╫п╟ п╤п╣п╫п╟:one woman
+п╢п╡п╣ п╤п╣п╫я▀:two women
+я│п╣п╪я▄ п╤п╣п╫:seven women
+я┌я─п╦п╢я├п╟я┌я▄ п╬п╢п╫п╟ п╨я─п╟я│п╦п╡п╟я▐ п╪п╟я┬п╦п╫п╟:thirty one beautiful cars
+я┤п╣я┌я▀я─п╣ п╨я─п╟я│п╦п╡п╬п╧ п╪п╟я┬п╦п╫я▀:four beautiful cars
+п╢п╣п╡я▐я┌я▄ п╨я─п╟я│п╦п╡п╦я┘ п╪п╟я┬п╦п╫:nine beautiful cars
+п╬п╢п╦п╫ я┤п╟я│:one hour
+я│п╣п╪я▄ я┤п╟я│п╬п╡:seven hours
+п╢п╡п╟п╢я├п╟я┌я▄ я┌я─п╦ я┤п╟я│п╟:twenty three hours
+я┌я─п╦ я┌я▒я┌п╦:three aunts
+я│я┌п╬ п╬п╢п╫п╟ я┌я▒я┌я▐:a hundred and one aunts
+п╡п╬я│п╣п╪я▄ я┌я▒я┌п╣п╧:eight aunts
+п╬п╢п╫п╬ п╦п╪я▐:one name
+я┤п╣я┌я▀я─п╣ п╦п╪п╣п╫п╦:four names
+п©я▐я┌я▄ п╦п╪я▒п╫:five names
+я│п╬я─п╬п╨ п╬п╢п╫п╬ п╠п╩я▌п╢п╬:fourty one dishes
+п╢п╣п╡я▐п╫п╬я│я┌п╬ п╢п╡п╟ п╠п╩я▌п╢п╟:ninety two dishes
+я│п╣п╪я▄п╢п╣я│я▐я┌ п╠п╩я▌п╢:seventy dishes
+п©я▐я┌я▄п╢п╣я│я▐п╟я┌ п╬п╢п╦п╫ я┘я┐п╢п╬п╤п╫п╦п╨:fifty one artists
+я┌я─п╦п╢п╣я│я▐я┌ я┤п╣я┌я▀я─п╣ я┘я┐п╢п╬п╤п╫п╦п╨п╟:thirty four artists
+п©я▐я┌я▄ я┘я┐п╢п╬п╤п╫п╦п╨п╬п╡:five artists
 
 The first book of Questionwords and interrogatives
-кто:who (nom)
-кого:who (acc,gen): pronounce "г" as "v"
-кому:who (dat)
-кем:who (instr)
-ком:who (prep)
-что:what (nom, acc)
-чего:what (gen): pronounce "г" as "v"
-чему:what (dat)
-чем:what (instr)
-чём:what (prep)
-где:where
-когда:when
-почему:why
-чьё:whose
-какой:which (jak'y) (m)
-какая:which (jak'a)(f)
-какое:which (jak'e)(n)
-какие:which (jak'y)(pl)
-как:how
-сколька:how many/how much
+п╨я┌п╬:who (nom)
+п╨п╬пЁп╬:who (acc,gen): pronounce "пЁ" as "v"
+п╨п╬п╪я┐:who (dat)
+п╨п╣п╪:who (instr)
+п╨п╬п╪:who (prep)
+я┤я┌п╬:what (nom, acc)
+я┤п╣пЁп╬:what (gen): pronounce "пЁ" as "v"
+я┤п╣п╪я┐:what (dat)
+я┤п╣п╪:what (instr)
+я┤я▒п╪:what (prep)
+пЁп╢п╣:where
+п╨п╬пЁп╢п╟:when
+п©п╬я┤п╣п╪я┐:why
+я┤я▄я▒:whose
+п╨п╟п╨п╬п╧:which (jak'y) (m)
+п╨п╟п╨п╟я▐:which (jak'a)(f)
+п╨п╟п╨п╬п╣:which (jak'e)(n)
+п╨п╟п╨п╦п╣:which (jak'y)(pl)
+п╨п╟п╨:how
+я│п╨п╬п╩я▄п╨п╟:how many/how much
 
 The first book of Basic Phrases
-да:yes
-и:and
-нет:no
-хорошо:OK/well
-здравствуйте/привет!:hello
-доброе утро:good morning
-добрый вечер:good evening
-до свидания:good night (when leaving)/goodbye
-спокойной ночи:good night (when going to bed)
-привет!/пока!:hi!
-пожалуйста:please
-да, спасибо; нет, спасибо:yes, please; no, thank you
-спасибо:thank you/thanks
-большое спасибо:thank you very much
-не за что:don't mention it
-здравствуйте/как дела:how are you
+п╢п╟:yes
+п╦:and
+п╫п╣я┌:no
+я┘п╬я─п╬я┬п╬:OK/well
+п╥п╢я─п╟п╡я│я┌п╡я┐п╧я┌п╣/п©я─п╦п╡п╣я┌!:hello
+п╢п╬п╠я─п╬п╣ я┐я┌я─п╬:good morning
+п╢п╬п╠я─я▀п╧ п╡п╣я┤п╣я─:good evening
+п╢п╬ я│п╡п╦п╢п╟п╫п╦я▐:good night (when leaving)/goodbye
+я│п©п╬п╨п╬п╧п╫п╬п╧ п╫п╬я┤п╦:good night (when going to bed)
+п©я─п╦п╡п╣я┌!/п©п╬п╨п╟!:hi!
+п©п╬п╤п╟п╩я┐п╧я│я┌п╟:please
+п╢п╟, я│п©п╟я│п╦п╠п╬; п╫п╣я┌, я│п©п╟я│п╦п╠п╬:yes, please; no, thank you
+я│п©п╟я│п╦п╠п╬:thank you/thanks
+п╠п╬п╩я▄я┬п╬п╣ я│п©п╟я│п╦п╠п╬:thank you very much
+п╫п╣ п╥п╟ я┤я┌п╬:don't mention it
+п╥п╢я─п╟п╡я│я┌п╡я┐п╧я┌п╣/п╨п╟п╨ п╢п╣п╩п╟:how are you
 
 The Book of Letters
-а:a
-б:b
-в:v
-г:g/v
-д:d
-е:yeh (e-hacek)
-ё:yoh
-ж:zj (z-hacek)
-з:z
-и:i
-й:j
-к:k
-л:l
-м:m
-н:n
-о:o
-п:p
-с:s
-т:t
-у:u
-ф:f
-х:gh
-ц:ts (czech "c")
-ч:ch (c-hacek)
-ш:sh (s-hacek)
-щ:sh-ch (s-hacek c-hacek)
-ъ:hard sign:твёрды знак
-ы:iy
-ь:soft sign:(мяхки знак)
-э:eh
-ю:yoo
-я:ya
+п╟:a
+п╠:b
+п╡:v
+пЁ:g/v
+п╢:d
+п╣:yeh (e-hacek)
+я▒:yoh
+п╤:zj (z-hacek)
+п╥:z
+п╦:i
+п╧:j
+п╨:k
+п╩:l
+п╪:m
+п╫:n
+п╬:o
+п©:p
+я│:s
+я┌:t
+я┐:u
+я└:f
+я┘:gh
+я├:ts (czech "c")
+я┤:ch (c-hacek)
+я┬:sh (s-hacek)
+я┴:sh-ch (s-hacek c-hacek)
+я┼:hard sign:я┌п╡я▒я─п╢я▀ п╥п╫п╟п╨
+я▀:iy
+я▄:soft sign:(п╪я▐я┘п╨п╦ п╥п╫п╟п╨)
+я█:eh
+я▌:yoo
+я▐:ya
 
 The first book of nouns
-окно (n):window:pl. окна
-музей (m):museum:pl. музеи
-кошка (f):cat:pl. кошки
-тётя (f):aunt:pl. тёти
-имя(n):name:pl. имена
-художник (m):artist:pl. художники
-море (n):sea:pl. моря
-водителъ (m):driver:pl. водители
-водка (f):vodka:pl. водки
-стол (m):table:pl. столы
-вокзал (m):station:pl. вокзалы
-вутылка (m):bottle:pl. вутылки
-Фёдор Достоевски:Fyodor Dostoyevski
-поезд (m):train:pl. поезда
-дом (m):house:pl. дома
-город (m):town:pl. города
-номер (m):room/number:pl. номера
-сестра (m):sister:pl. сёстры
-брат (m):brother:pl. братъя
-матъ (f):mother:pl. матери
-сын (m):son:pl. сыновъя
-дочъ (f):daughter:pl. дочери
-друг (m):friend:pl. друзъя
-багон (m):carriage:pl. багоны
-парк (m):park:pl. парки
+п╬п╨п╫п╬ (n):window:pl. п╬п╨п╫п╟
+п╪я┐п╥п╣п╧ (m):museum:pl. п╪я┐п╥п╣п╦
+п╨п╬я┬п╨п╟ (f):cat:pl. п╨п╬я┬п╨п╦
+я┌я▒я┌я▐ (f):aunt:pl. я┌я▒я┌п╦
+п╦п╪я▐(n):name:pl. п╦п╪п╣п╫п╟
+я┘я┐п╢п╬п╤п╫п╦п╨ (m):artist:pl. я┘я┐п╢п╬п╤п╫п╦п╨п╦
+п╪п╬я─п╣ (n):sea:pl. п╪п╬я─я▐
+п╡п╬п╢п╦я┌п╣п╩я┼ (m):driver:pl. п╡п╬п╢п╦я┌п╣п╩п╦
+п╡п╬п╢п╨п╟ (f):vodka:pl. п╡п╬п╢п╨п╦
+я│я┌п╬п╩ (m):table:pl. я│я┌п╬п╩я▀
+п╡п╬п╨п╥п╟п╩ (m):station:pl. п╡п╬п╨п╥п╟п╩я▀
+п╡я┐я┌я▀п╩п╨п╟ (m):bottle:pl. п╡я┐я┌я▀п╩п╨п╦
+п╓я▒п╢п╬я─ п■п╬я│я┌п╬п╣п╡я│п╨п╦:Fyodor Dostoyevski
+п©п╬п╣п╥п╢ (m):train:pl. п©п╬п╣п╥п╢п╟
+п╢п╬п╪ (m):house:pl. п╢п╬п╪п╟
+пЁп╬я─п╬п╢ (m):town:pl. пЁп╬я─п╬п╢п╟
+п╫п╬п╪п╣я─ (m):room/number:pl. п╫п╬п╪п╣я─п╟
+я│п╣я│я┌я─п╟ (m):sister:pl. я│я▒я│я┌я─я▀
+п╠я─п╟я┌ (m):brother:pl. п╠я─п╟я┌я┼я▐
+п╪п╟я┌я┼ (f):mother:pl. п╪п╟я┌п╣я─п╦
+я│я▀п╫ (m):son:pl. я│я▀п╫п╬п╡я┼я▐
+п╢п╬я┤я┼ (f):daughter:pl. п╢п╬я┤п╣я─п╦
+п╢я─я┐пЁ (m):friend:pl. п╢я─я┐п╥я┼я▐
+п╠п╟пЁп╬п╫ (m):carriage:pl. п╠п╟пЁп╬п╫я▀
+п©п╟я─п╨ (m):park:pl. п©п╟я─п╨п╦
 
 The first book of prepositions
-в:to, into:(+acc); like Czech "do"
-в Москву:to Moscow
-на:to; onto:(+acc)
-Мы едем на вокзал.:We're going to the station
-через:through:(+acc); like Czech "p'res"
-Я пройду через парк:I'll walk through the park
-до:until, to: (+gen)
-до Москвы:up until Moscow
-у:by, at:(+gen)
-у Саши:at Sasha's
-от:from:(+gen)
-около:near, by/beside/about:(+gen)
-вез:without:(+gen)
-для:for:(+gen)
-между:between:(+instr)
-между вагонами:between the carriages
-нат:above:(+instr)
-пот:under:(+instr)
-перед:in front of, before:(+instr)
-с:with:(+instr)
-напротив:opposite:(+gen)
-о:about:(+prep)
-к:towards:(+dat)
-по:on, along:(+dat)
+п╡:to, into:(+acc); like Czech "do"
+п╡ п°п╬я│п╨п╡я┐:to Moscow
+п╫п╟:to; onto:(+acc)
+п°я▀ п╣п╢п╣п╪ п╫п╟ п╡п╬п╨п╥п╟п╩.:We're going to the station
+я┤п╣я─п╣п╥:through:(+acc); like Czech "p'res"
+п╞ п©я─п╬п╧п╢я┐ я┤п╣я─п╣п╥ п©п╟я─п╨:I'll walk through the park
+п╢п╬:until, to: (+gen)
+п╢п╬ п°п╬я│п╨п╡я▀:up until Moscow
+я┐:by, at:(+gen)
+я┐ п║п╟я┬п╦:at Sasha's
+п╬я┌:from:(+gen)
+п╬п╨п╬п╩п╬:near, by/beside/about:(+gen)
+п╡п╣п╥:without:(+gen)
+п╢п╩я▐:for:(+gen)
+п╪п╣п╤п╢я┐:between:(+instr)
+п╪п╣п╤п╢я┐ п╡п╟пЁп╬п╫п╟п╪п╦:between the carriages
+п╫п╟я┌:above:(+instr)
+п©п╬я┌:under:(+instr)
+п©п╣я─п╣п╢:in front of, before:(+instr)
+я│:with:(+instr)
+п╫п╟п©я─п╬я┌п╦п╡:opposite:(+gen)
+п╬:about:(+prep)
+п╨:towards:(+dat)
+п©п╬:on, along:(+dat)
 
 The second book of nouns
-машина (f):car:pl. машины
-дверь (f):door:pl. двери
-рубль (m):rouble:pl. рубли
-луна (f):moon
-блюдо (n):dish:pl. блюда 
-отделение (n):department:pl. отделения
-кафе:cafe:indeclinable
-кино:cinema:indeclinable
-кофе:coffee:indeclinable
-метро:subway:indeclinable
-пальто:overcoat:indeclinable
-такси:taxi:indeclinable
-фойе:foyer:indeclinable
-пибо:beer
-вода:water
-монета:coin
+п╪п╟я┬п╦п╫п╟ (f):car:pl. п╪п╟я┬п╦п╫я▀
+п╢п╡п╣я─я▄ (f):door:pl. п╢п╡п╣я─п╦
+я─я┐п╠п╩я▄ (m):rouble:pl. я─я┐п╠п╩п╦
+п╩я┐п╫п╟ (f):moon
+п╠п╩я▌п╢п╬ (n):dish:pl. п╠п╩я▌п╢п╟ 
+п╬я┌п╢п╣п╩п╣п╫п╦п╣ (n):department:pl. п╬я┌п╢п╣п╩п╣п╫п╦я▐
+п╨п╟я└п╣:cafe:indeclinable
+п╨п╦п╫п╬:cinema:indeclinable
+п╨п╬я└п╣:coffee:indeclinable
+п╪п╣я┌я─п╬:subway:indeclinable
+п©п╟п╩я▄я┌п╬:overcoat:indeclinable
+я┌п╟п╨я│п╦:taxi:indeclinable
+я└п╬п╧п╣:foyer:indeclinable
+п©п╦п╠п╬:beer
+п╡п╬п╢п╟:water
+п╪п╬п╫п╣я┌п╟:coin
 
 The first book of adjectives
-красивый:beautiful(m)
-красивая:beautiful(f)
-красивое:beautiful(n)
-красивые:beautiful(pl)
+п╨я─п╟я│п╦п╡я▀п╧:beautiful(m)
+п╨я─п╟я│п╦п╡п╟я▐:beautiful(f)
+п╨я─п╟я│п╦п╡п╬п╣:beautiful(n)
+п╨я─п╟я│п╦п╡я▀п╣:beautiful(pl)
 
-хлупый:stupid (m)
-хлупая:stupid (f)
-хлупое:stupid (n)
-хлупые:stupid (pl)
+я┘п╩я┐п©я▀п╧:stupid (m)
+я┘п╩я┐п©п╟я▐:stupid (f)
+я┘п╩я┐п©п╬п╣:stupid (n)
+я┘п╩я┐п©я▀п╣:stupid (pl)
 
-странный:strange (m)
-странная:strange (f)
-странное:strange (n)
-странные:strange (pl)
+я│я┌я─п╟п╫п╫я▀п╧:strange (m)
+я│я┌я─п╟п╫п╫п╟я▐:strange (f)
+я│я┌я─п╟п╫п╫п╬п╣:strange (n)
+я│я┌я─п╟п╫п╫я▀п╣:strange (pl)
 
-зимний:winter- (adj)(m)
-зимняя:winter- (adj)(f)
-зимнее:winter- (adj)(n)
-зимние:winter- (adj)(pl)
+п╥п╦п╪п╫п╦п╧:winter- (adj)(m)
+п╥п╦п╪п╫я▐я▐:winter- (adj)(f)
+п╥п╦п╪п╫п╣п╣:winter- (adj)(n)
+п╥п╦п╪п╫п╦п╣:winter- (adj)(pl)
 
-маленький:small (m)
-маленькая:small (f)
-маленькее:small (n)
-маленькие:small (pl)
+п╪п╟п╩п╣п╫я▄п╨п╦п╧:small (m)
+п╪п╟п╩п╣п╫я▄п╨п╟я▐:small (f)
+п╪п╟п╩п╣п╫я▄п╨п╣п╣:small (n)
+п╪п╟п╩п╣п╫я▄п╨п╦п╣:small (pl)
 
-хороший:good (m)
-хорошая:good (f)
-хорошее:good (n)
-хорошие:good (pl)
+я┘п╬я─п╬я┬п╦п╧:good (m)
+я┘п╬я─п╬я┬п╟я▐:good (f)
+я┘п╬я─п╬я┬п╣п╣:good (n)
+я┘п╬я─п╬я┬п╦п╣:good (pl)
 
-большой:big (m)
-большая:big (f)
-большое:big (n)
-болшьие:big (pl)
+п╠п╬п╩я▄я┬п╬п╧:big (m)
+п╠п╬п╩я▄я┬п╟я▐:big (f)
+п╠п╬п╩я▄я┬п╬п╣:big (n)
+п╠п╬п╩я┬я▄п╦п╣:big (pl)
 
-плохой:bad (m)
-плохая:bad (f)
-плохое:bad (n)
-плохие:bad (pl)
+п©п╩п╬я┘п╬п╧:bad (m)
+п©п╩п╬я┘п╟я▐:bad (f)
+п©п╩п╬я┘п╬п╣:bad (n)
+п©п╩п╬я┘п╦п╣:bad (pl)
 
-удобный:convenient (m)
-удобная:convenient (f)
-удобное:convenient (n)
-удобные:convenient (pl)
+я┐п╢п╬п╠п╫я▀п╧:convenient (m)
+я┐п╢п╬п╠п╫п╟я▐:convenient (f)
+я┐п╢п╬п╠п╫п╬п╣:convenient (n)
+я┐п╢п╬п╠п╫я▀п╣:convenient (pl)
 
-интересный:interesting (m)
-интересная:interesting (f)
-интерйесное:interesting (n)
-интересные:interesting (pl)
-
-
-
-
-
-
-
-
-
-
-
-
+п╦п╫я┌п╣я─п╣я│п╫я▀п╧:interesting (m)
+п╦п╫я┌п╣я─п╣я│п╫п╟я▐:interesting (f)
+п╦п╫я┌п╣я─п╧п╣я│п╫п╬п╣:interesting (n)
+п╦п╫я┌п╣я─п╣я│п╫я▀п╣:interesting (pl)

@@ -1,56 +1,56 @@
 # -*- Czech-Quiz -*-
 El. Comm. Czech Ch. 1-3
 docela:quite:adv.
-drahı:expensive
+drahÃ½:expensive
 koberec:carpet:masc.
-líbit se:to like:impf.
-moøe:sea:neut.
-vpøedu:in front of:adv.
+lÃ­bit se:to like:impf.
+moÅ™e:sea:neut.
+vpÅ™edu:in front of:adv.
 slunce:sun:neut.
-se¹it:notebook:masc.
-Na koho èeká¹?:Who are you waiting for?:inf.
-smutnı:sad
-¹pinavı:dirty
-èistı:clean:adj.
-©vıcarsko:Switzerland
-©vıcar:Swiss man
-Maïar:Hungarian man
-Polák:Polish man
+seÅ¡it:notebook:masc.
+Na koho ÄekÃ¡Å¡?:Who are you waiting for?:inf.
+smutnÃ½:sad
+Å¡pinavÃ½:dirty
+ÄistÃ½:clean:adj.
+Å vÃ½carsko:Switzerland
+Å vÃ½car:Swiss man
+MaÄar:Hungarian man
+PolÃ¡k:Polish man
 Polka:Polish woman
 Francouz:French man
 Rakousko:Austria
-Raku¹an:Austrian man
+RakuÅ¡an:Austrian man
 Slovensko:Slovakia
-©panìlsko:Spain
-brát:to take:beru, impf.
-mıt:wash:myju
-Myslím na dobrého kamaráda:I'm thinking about a good manfriend.
-Mìj se hezky:Take care.
-chytrı:clever
-milı:nice/pleasant
+Å panÄ›lsko:Spain
+brÃ¡t:to take:beru, impf.
+mÃ½t:wash:myju
+MyslÃ­m na dobrÃ©ho kamarÃ¡da:I'm thinking about a good manfriend.
+MÄ›j se hezky:Take care.
+chytrÃ½:clever
+milÃ½:nice/pleasant
 v nemocnici:in the hospital
-Øecko:Greece:neut.
-Øek:Greek man
-Øekynì:Greek woman
-©védsko:Sweden
-©véd:Swede (male)
-Spojené státy americké:The United States of America:pl.
-Vezmu si tøi rohliky, prosím.:I'll take three rohliky, please.
-Chtìl(a) bych:I would like
-mìkkı:soft
-paøí¾skı:parisian (adj.)
-tavenı:processed (i.e., cheese)
-Kupuju román za 150 korun.:I buy a novel for 150 crowns.
+Å˜ecko:Greece:neut.
+Å˜ek:Greek man
+Å˜ekynÄ›:Greek woman
+Å vÃ©dsko:Sweden
+Å vÃ©d:Swede (male)
+SpojenÃ© stÃ¡ty americkÃ©:The United States of America:pl.
+Vezmu si tÅ™i rohliky, prosÃ­m.:I'll take three rohliky, please.
+ChtÄ›l(a) bych:I would like
+mÄ›kkÃ½:soft
+paÅ™Ã­Å¾skÃ½:parisian (adj.)
+tavenÃ½:processed (i.e., cheese)
+Kupuju romÃ¡n za 150 korun.:I buy a novel for 150 crowns.
 Jdu na koncert.:I go to the concert.
-V poledne jdu na obìd.:I go to lunch at noon.
-¹ampon na vlasy:hair shampoo
-vepøové:pork:neut.
+V poledne jdu na obÄ›d.:I go to lunch at noon.
+Å¡ampon na vlasy:hair shampoo
+vepÅ™ovÃ©:pork:neut.
 dort:cake:masc.
-zákusek:dessert:masc.
-¾vıkaèka:chewing gum:fem.
-v potravinách:at the potraviny
+zÃ¡kusek:dessert:masc.
+Å¾vÃ½kaÄka:chewing gum:fem.
+v potravinÃ¡ch:at the potraviny
 v samoobluze:at the self-service
-v pekaøství:at the bakery
-nápad:idea:masc.
-¾ert:joke:masc.
-pùjèit si:to borrow:pf.
+v pekaÅ™stvÃ­:at the bakery
+nÃ¡pad:idea:masc.
+Å¾ert:joke:masc.
+pÅ¯jÄit si:to borrow:pf.
