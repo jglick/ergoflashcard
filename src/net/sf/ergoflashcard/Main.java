@@ -65,6 +65,7 @@ import javax.swing.JLabel;
 import javax.swing.JMenu;
 import javax.swing.JMenuBar;
 import javax.swing.JMenuItem;
+import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JProgressBar;
 import javax.swing.JRadioButtonMenuItem;
@@ -127,10 +128,10 @@ public class Main extends JFrame {
     private Collator coll;
     
     private File chooserDir;
+    private File dataChooserDir;
     
     public Main() {
         super("ErgoFlashCard");
-        setDefaultCloseOperation(WindowConstants.DISPOSE_ON_CLOSE);
         addWindowListener(new WindowAdapter() {
             public void windowClosing(WindowEvent ev) {
                 shutdown();
@@ -141,6 +142,7 @@ public class Main extends JFrame {
             chooserDir = new File(userDir);
         }
         updateMenus();
+        getContentPane().add(new JLabel("<No configuration loaded>"));
         pack();
         repaint();
     }
@@ -153,6 +155,7 @@ public class Main extends JFrame {
         }
         cfg = null;
         dispose();
+        System.exit(0);
     }
     
     private void initConfig(Config nue) {
@@ -377,6 +380,7 @@ public class Main extends JFrame {
         left.ipady = right.ipady = 2;
         //Container pane = getContentPane ();
         JPanel pane = new JPanel();
+        getContentPane().removeAll();
         getContentPane().add(new JScrollPane(pane), BorderLayout.CENTER);
         pane.setLayout(layout);
         left.gridy = right.gridy = 0;
@@ -429,7 +433,7 @@ public class Main extends JFrame {
             public void actionPerformed(ActionEvent ev) {
                 shutdown();
             }
-        }, KeyStroke.getKeyStroke('q'), JComponent.WHEN_FOCUSED);
+        }, KeyStroke.getKeyStroke('q'), JComponent.WHEN_IN_FOCUSED_WINDOW);
         pane.registerKeyboardAction(new ActionListener() {
             public void actionPerformed(ActionEvent ev) {
                 if (state != 3) {
@@ -438,7 +442,7 @@ public class Main extends JFrame {
                     Toolkit.getDefaultToolkit().beep();
                 }
             }
-        }, KeyStroke.getKeyStroke('p'), JComponent.WHEN_FOCUSED);
+        }, KeyStroke.getKeyStroke('p'), JComponent.WHEN_IN_FOCUSED_WINDOW);
         ActionListener general = new ActionListener() {
             public void actionPerformed(ActionEvent ev) {
                 String cmd = ev.getActionCommand();
@@ -474,12 +478,12 @@ public class Main extends JFrame {
                 }
             }
         };
-        pane.registerKeyboardAction(general, "n", KeyStroke.getKeyStroke(KeyEvent.VK_SPACE, 0), JComponent.WHEN_FOCUSED);
-        pane.registerKeyboardAction(general, "y", KeyStroke.getKeyStroke(KeyEvent.VK_ENTER, 0), JComponent.WHEN_FOCUSED);
-        pane.registerKeyboardAction(general, "y", KeyStroke.getKeyStroke('y'), JComponent.WHEN_FOCUSED);
-        pane.registerKeyboardAction(general, "n", KeyStroke.getKeyStroke('n'), JComponent.WHEN_FOCUSED);
+        pane.registerKeyboardAction(general, "n", KeyStroke.getKeyStroke(KeyEvent.VK_SPACE, 0), JComponent.WHEN_IN_FOCUSED_WINDOW);
+        pane.registerKeyboardAction(general, "y", KeyStroke.getKeyStroke(KeyEvent.VK_ENTER, 0), JComponent.WHEN_IN_FOCUSED_WINDOW);
+        pane.registerKeyboardAction(general, "y", KeyStroke.getKeyStroke('y'), JComponent.WHEN_IN_FOCUSED_WINDOW);
+        pane.registerKeyboardAction(general, "n", KeyStroke.getKeyStroke('n'), JComponent.WHEN_IN_FOCUSED_WINDOW);
         for (char c = '1'; c <= '9'; c++) {
-            pane.registerKeyboardAction(general, String.valueOf(c), KeyStroke.getKeyStroke(c), JComponent.WHEN_FOCUSED);
+            pane.registerKeyboardAction(general, String.valueOf(c), KeyStroke.getKeyStroke(c), JComponent.WHEN_IN_FOCUSED_WINDOW);
         }
         updateMenus();
         pack();
@@ -737,6 +741,19 @@ public class Main extends JFrame {
         }
     }
     
+    private void doNewConfig() {
+        String name = JOptionPane.showInputDialog(this, "New configuration name:");
+        Config nue = new Config();
+        try {
+            nue.origin = File.createTempFile("new", "." + CONFIG_EXTENSION);
+            nue.name = name;
+            nue.dbFile = new File(System.getProperty("user.home"), ".ergoflashcarddb");
+            setConfigLater(nue);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+    
     private void doOpenConfig() {
         try {
             JFileChooser chooser = new JFileChooser();
@@ -761,10 +778,10 @@ public class Main extends JFrame {
     }
     
     private void doEditConfig() {
-        final JDialog dlg = new JDialog(Main.this, "Edit Configuration") {
+        final JDialog dlg = new JDialog(Main.this, "Edit Configuration " + cfg.origin) {
             public Dimension getPreferredSize() {
-                Dimension def = super.getPreferredSize();
-                return new Dimension((int) (Toolkit.getDefaultToolkit().getScreenSize().width * 0.9), def.height);
+                Dimension screen = Toolkit.getDefaultToolkit().getScreenSize();
+                return new Dimension((int) (screen.width * 0.6), (int) (screen.height * 0.3));
             }
         };
         dlg.setModal(true);
@@ -774,6 +791,7 @@ public class Main extends JFrame {
         pane.setContentType("text/plain");
         pane.setFont(new Font("Monospaced", Font.PLAIN, 12));
         try {
+            cfg.save();
             Reader rd = new InputStreamReader(new FileInputStream(cfg.origin), "ISO-8859-1");
             pane.getEditorKit().read(rd, pane.getDocument(), 0);
         } catch (IOException ioe) {
@@ -785,9 +803,8 @@ public class Main extends JFrame {
         }
         cont.add(new JScrollPane(pane), BorderLayout.CENTER);
         JPanel buttons = new JPanel();
-        buttons.setLayout(new FlowLayout(FlowLayout.CENTER));
+        buttons.setLayout(new FlowLayout(FlowLayout.TRAILING));
         JButton okButton = new JButton("Save and Apply");
-        okButton.setMnemonic(KeyEvent.VK_S);
         okButton.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent ev) {
                 try {
@@ -805,16 +822,19 @@ public class Main extends JFrame {
         });
         buttons.add(okButton);
         JButton cancelButton = new JButton("Cancel");
-        cancelButton.setMnemonic(KeyEvent.VK_C);
-        cancelButton.addActionListener(new ActionListener() {
+        ActionListener cancel = new ActionListener() {
             public void actionPerformed(ActionEvent ev) {
                 dlg.dispose();
             }
-        });
+        };
+        cancelButton.addActionListener(cancel);
         buttons.add(cancelButton);
+        dlg.getRootPane().registerKeyboardAction(cancel, "cancel", KeyStroke.getKeyStroke(KeyEvent.VK_ESCAPE, 0), JComponent.WHEN_ANCESTOR_OF_FOCUSED_COMPONENT);
         cont.add(buttons, BorderLayout.SOUTH);
+        dlg.getRootPane().setDefaultButton(okButton);
         dlg.pack();
         dlg.setVisible(true);
+        pane.requestFocusInWindow();
     }
     
     private void doSaveAs() {
@@ -834,11 +854,36 @@ public class Main extends JFrame {
         }
     }
     
+    private void doAddDataFile() {
+        JFileChooser chooser = new JFileChooser();
+        chooser.setDialogTitle("Add Data File");
+        if (dataChooserDir != null) {
+            chooser.setCurrentDirectory(dataChooserDir);
+        }
+        if (chooser.showOpenDialog(Main.this) == JFileChooser.APPROVE_OPTION) {
+            File data = chooser.getSelectedFile();
+            File[] nueDataFiles = new File[cfg.dataFiles.length + 1];
+            System.arraycopy(cfg.dataFiles, 0, nueDataFiles, 0, cfg.dataFiles.length);
+            nueDataFiles[cfg.dataFiles.length] = data;
+            Config nue = cfg.cloneConfig();
+            nue.dataFiles = nueDataFiles;
+            setConfigLater(nue);
+        }
+        dataChooserDir = chooser.getCurrentDirectory();
+    }
+    
     private void updateMenus() {
         JMenuBar bar = new JMenuBar();
         JMenu file = new JMenu("File");
         file.setMnemonic(KeyEvent.VK_F);
-        JMenuItem open = new JMenuItem("Open ...", KeyEvent.VK_O);
+        JMenuItem nue = new JMenuItem("New Configuration...", KeyEvent.VK_N);
+        nue.addActionListener(new ActionListener() {
+            public void actionPerformed(ActionEvent ev) {
+                doNewConfig();
+            }
+        });
+        file.add(nue);
+        JMenuItem open = new JMenuItem("Open Configuration...", KeyEvent.VK_O);
         open.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent ev) {
                 doOpenConfig();
@@ -847,7 +892,7 @@ public class Main extends JFrame {
         file.add(open);
         if (cfg != null) {
             if (cfg.origin != null) {
-                JMenuItem edit = new JMenuItem("Edit Config ...", KeyEvent.VK_E);
+                JMenuItem edit = new JMenuItem("Edit Configuration...", KeyEvent.VK_E);
                 edit.addActionListener(new ActionListener() {
                     public void actionPerformed(ActionEvent ev) {
                         doEditConfig();
@@ -855,8 +900,7 @@ public class Main extends JFrame {
                 });
                 file.add(edit);
             }
-            /*
-            JMenuItem save = new JMenuItem("Save", KeyEvent.VK_S);
+            JMenuItem save = new JMenuItem("Save Configuration", KeyEvent.VK_S);
             save.addActionListener(new ActionListener() {
                 public void actionPerformed(ActionEvent ev) {
                     try {
@@ -867,14 +911,21 @@ public class Main extends JFrame {
                 }
             });
             file.add(save);
-             */
-            JMenuItem saveAs = new JMenuItem("Save As ...", KeyEvent.VK_A);
+            JMenuItem saveAs = new JMenuItem("Save Configuration As...", KeyEvent.VK_A);
             saveAs.addActionListener(new ActionListener() {
                 public void actionPerformed(ActionEvent ev) {
                     doSaveAs();
                 }
             });
             file.add(saveAs);
+            file.addSeparator();
+            JMenuItem addDataFile = new JMenuItem("Add Data File", KeyEvent.VK_F);
+            addDataFile.addActionListener(new ActionListener() {
+                public void actionPerformed(ActionEvent ev) {
+                    doAddDataFile();
+                }
+            });
+            file.add(addDataFile);
             JMenuItem reload = new JMenuItem("Reload Data Files", KeyEvent.VK_R);
             reload.addActionListener(new ActionListener() {
                 public void actionPerformed(ActionEvent ev) {
@@ -883,6 +934,7 @@ public class Main extends JFrame {
             });
             file.add(reload);
         }
+        file.addSeparator();
         if (qs != null) {
             JMenu perf = new JMenu("View Performance");
             perf.setMnemonic(KeyEvent.VK_V);
