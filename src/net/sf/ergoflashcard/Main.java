@@ -988,6 +988,17 @@ public class Main extends JFrame {
             }
             bar.add(dirs);
         }
+        JMenu help = new JMenu("Help");
+        help.setMnemonic(KeyEvent.VK_H);
+        JMenuItem showHelp = new JMenuItem("Contents");
+        showHelp.setMnemonic(KeyEvent.VK_C);
+        showHelp.addActionListener(new ActionListener() {
+            public void actionPerformed(ActionEvent ev) {
+                Help.showHelp(Main.this);
+            }
+        });
+        help.add(showHelp);
+        bar.add(help);
         setJMenuBar(bar);
         pack();
         repaint();

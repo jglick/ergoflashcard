@@ -17,16 +17,23 @@ limitations under the License.
 <project name="ergoflashcard" default="build" basedir=".">
 
     <target name="build" description="Build app.">
-        <mkdir dir="build/classes"/>
+        <mkdir dir="build/classes/net/sf/ergoflashcard/help"/>
         <javac srcdir="src" destdir="build/classes" source="1.5" deprecation="true" debug="true">
             <compilerarg value="-Xlint:unchecked"/>
+            <classpath>
+                <pathelement location="lib/jh-2.0_01.jar"/>
+            </classpath>
         </javac>
+        <copy todir="build/classes/net/sf/ergoflashcard/help">
+            <fileset dir="javahelp"/>
+        </copy>
     </target>
 
     <target name="run" depends="build" description="Run app.">
         <java classname="net.sf.ergoflashcard.Main" fork="true" dir="/tmp">
             <classpath>
                 <pathelement location="build/classes"/>
+                <pathelement location="lib/jh-2.0_01.jar"/>
             </classpath>
             <jvmarg value="-ea"/>
             <jvmarg value="-Xincgc"/>
@@ -40,11 +47,20 @@ limitations under the License.
         </jar>
     </target>
     
-    <target name="build-jnlp" depends="build-jar" description="Build a JNLP-ready version.">
+    <target name="check-signjar" depends="build-jar">
+        <uptodate property="signed.jar.up.to.date" srcfile="build/ergoflashcard.jar" targetfile="build/jnlp/ergoflashcard.jar"/>
+    </target>
+    
+    <target name="signjar" depends="check-signjar" unless="signed.jar.up.to.date">
+        <input addproperty="signature.password" message="JAR signature passkey: "/>
+        <mkdir dir="build/jnlp"/>
+        <signjar jar="build/ergoflashcard.jar" signedjar="build/jnlp/ergoflashcard.jar" alias="jglick" storepass="${signature.password}" keystore="etc/keystore"/>
+        <signjar jar="lib/jh-2.0_01.jar" signedjar="build/jnlp/jh-2.0_01.jar" alias="jglick" storepass="${signature.password}" keystore="etc/keystore"/>
+    </target>
+    
+    <target name="build-jnlp" depends="signjar" description="Build a JNLP-ready version.">
         <mkdir dir="build/jnlp"/>
         <copy file="etc/ergoflashcard.jnlp" tofile="build/jnlp/ergoflashcard.jnlp"/>
-        <input addproperty="signature.password" message="JAR signature passkey: "/>
-        <signjar jar="build/ergoflashcard.jar" signedjar="build/jnlp/ergoflashcard.jar" alias="jglick" storepass="${signature.password}" keystore="etc/keystore"/>
     </target>
     
     <!-- Does not work locally:
@@ -55,23 +71,21 @@ limitations under the License.
     </target>
     -->
     
-    <target name="publish-jnlp" depends="build-jnlp" description="Publish JNLP binaries to website.">
-        <apply parallel="true" executable="scp">
-            <fileset dir="build/jnlp"/>
-            <srcfile/>
-            <arg value="jglick@shell.sourceforge.net:/home/groups/e/er/ergoflashcard/htdocs"/>
-        </apply>
+    <target name="build-samples">
+        <mkdir dir="build"/>
+        <zip zipfile="build/ergoflashcard-samples.zip" compress="true">
+            <zipfileset dir="data" prefix="data-samples"/>
+            <zipfileset dir="etc/emacs" prefix="emacs"/>
+        </zip>
     </target>
     
-    <target name="try-web-jnlp" depends="publish-jnlp" description="Try published JNLP version.">
-        <exec executable="${java.home}/../bin/javaws">
-            <arg value="http://ergoflashcard.sourceforge.net/ergoflashcard.jnlp"/>
-        </exec>
-    </target>
-    
-    <target name="publish-www" description="Publish web pages from source.">
+    <target name="publish-www" depends="build-jnlp,build-samples" description="Publish web pages from source.">
         <apply parallel="true" executable="scp">
             <fileset dir="www"/>
+            <fileset dir="build">
+                <include name="ergoflashcard-samples.zip"/>
+            </fileset>
+            <fileset dir="build/jnlp"/>
             <srcfile/>
             <arg value="jglick@shell.sourceforge.net:/home/groups/e/er/ergoflashcard/htdocs"/>
         </apply>
@@ -80,7 +94,7 @@ limitations under the License.
     <target name="publish-www-nb" depends="publish-www" description="Publish web pages and browse from NetBeans.">
         <nbbrowse url="http://ergoflashcard.sourceforge.net/"/>
     </target>
-
+    
     <target name="clean" description="Clean build products.">
         <delete dir="build"/>
     </target>

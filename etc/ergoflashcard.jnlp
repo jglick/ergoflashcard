@@ -12,7 +12,9 @@
     </security>
     <resources>
         <j2se version="1.5+" max-heap-size="20m" java-vm-args="-Xincgc"/>
-        <jar href="ergoflashcard.jar"/>
+        <jar href="ergoflashcard.jar" part="main" download="eager"/>
+        <jar href="jh-2.0_01.jar" part="javahelp" download="lazy"/>
+        <package name="javax.help.*" part="javahelp" recursive="true"/>
     </resources>
     <application-desc main-class="net.sf.ergoflashcard.Main"/>
 </jnlp>

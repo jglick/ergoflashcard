@@ -43,10 +43,6 @@
                     <ide-action name="clean"/>
                     <ide-action name="run"/>
                     <action>
-                        <label>Try Live JNLP</label>
-                        <target>try-web-jnlp</target>
-                    </action>
-                    <action>
                         <label>Publish WWW</label>
                         <target>publish-www-nb</target>
                     </action>
@@ -57,6 +53,7 @@
         <java-data xmlns="http://www.netbeans.org/ns/freeform-project-java/1">
             <compilation-unit>
                 <package-root>src</package-root>
+                <classpath mode="compile">lib/jh-2.0_01.jar</classpath>
                 <built-to>build/classes</built-to>
                 <source-level>1.5</source-level>
             </compilation-unit>
