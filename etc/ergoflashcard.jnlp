@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.5" codebase="http://ergoflashcard.sourceforge.net/" href="ergoflashcard.jnlp">
+    <information>
+        <title>ErgoFlashCard</title>
+        <vendor>ergoflashcard.sf.net</vendor>
+        <description>Flash card quiz program designed especially for language learning.</description>
+        <offline-allowed/>
+        <association extensions="ergoflashcardcfg" mime-type="application/x-ergoflashcard"/>
+    </information>
+    <security>
+        <all-permissions/>
+    </security>
+    <resources>
+        <j2se version="1.5+" max-heap-size="20m" java-vm-args="-Xincgc"/>
+        <jar href="ergoflashcard.jar"/>
+    </resources>
+    <application-desc main-class="net.sf.ergoflashcard.Main"/>
+</jnlp>

@@ -42,6 +42,14 @@
                     <ide-action name="rebuild"/>
                     <ide-action name="clean"/>
                     <ide-action name="run"/>
+                    <action>
+                        <label>Try Live JNLP</label>
+                        <target>try-web-jnlp</target>
+                    </action>
+                    <action>
+                        <label>Publish WWW</label>
+                        <target>publish-www-nb</target>
+                    </action>
                 </context-menu>
             </view>
             <subprojects/>
