@@ -1,0 +1,178 @@
+# -*- Dutch-Quiz -*-
+
+Go Dutch! 1 (Vocab. 1)
+ander:other
+arm:arm:de
+been:leg:het
+bijzonder:especially, special
+blond:blond
+buik:belly:de
+de:the
+dik:fat
+dun:thin
+een:a, one
+en:and
+figuur:figure:het
+gezicht:face:het
+goed:good
+goedemorgen:good morning
+groen:green
+groot:big
+haar:hair:het
+handig:handy, skillful
+hoofd:head:het
+klein:small
+lang:tall, long
+lip:lip:de
+mager:thin, skinny
+mijn:my
+mond:mouth:de
+mooi:beautiful
+morgen:morning, tomorrow:morgens
+naam:name:de
+neus:nose:de
+niet:not
+oog:eye:het
+ook:also
+oor:ear:het
+rood:red
+soms:sometimes
+van:of
+voet:foot:de
+voor:for
+vrouw:woman:de
+werk:work:het
+zaak:business:de
+ik ben:I am
+zijn:to be
+ik was:I was
+zij waren:they were
+ik ben geweest:I have been
+ik heb:I have
+hebben:to have
+ik had:I had
+zij hadden:they had
+ik heb gehad:I have had
+ik werk:I work
+werken:to work:werk
+zeggen:to say:zeg, zei, zeiden, gezegd
+
+Go Dutch! 1 (3. Spelling)
+maan:moon
+manen:moons
+maand:month
+maanden:months
+man:man
+mannen:men
+mand:basket
+manden:baskets
+aap:ape
+apen:apes
+ik slaap:I sleep
+wij slapen:we sleep
+laag:low
+lager:lower
+zak:bag
+zakken:bags
+ik stop:I stop
+stoppen:to stop
+dun:thin
+dunner:thinner
+
+Go Dutch! 1 (4. Hebben and Zijn)
+ik heb:I have
+jij hebt:you (i.) have
+u hebt:you (f.) have
+hij heeft:he has
+zij heeft:she has
+het heeft:it has
+wij hebben:we have
+jullie hebben:y'all have
+zij hebben:they have
+ik ben:I am
+jij bent:you (i.) are
+u bent:you (f.) are
+hij is:he is
+zij is:she is
+het is:it is
+wij zijn:we are
+jullie zijn:y'all are
+zij zijn:they are
+
+Go Dutch! 1 (Vocab. 2)
+arm:poor
+bij:by
+daarom:that's why
+deur:door:de
+# vp: "close" -> "closed"
+dicht:closed
+einde:end:het; eindes
+en zo:and the like
+geld:money:het
+gelukkig:fortunately, happy
+gewoonlijk:usually
+gracht:canal:de
+heel:whole
+huis:house:het
+kamer:room:de; kamers
+land:country:het
+maand:month:de
+meer:more
+met:with
+midden in:in the middle of
+naar:at
+Nederland:The Netherlands
+nog:still
+omdat:because
+rijk:rich
+stad:city:de; steden
+station:station:het; stations
+televisie:television:de; televisies
+tijd:time:de
+vaak:often
+veel:many
+vriend:friend:de
+zelden:rarely
+zuinig:frugal
+tellen:to count:tel
+kijken:to look:kijk, keek, keken, gekeken
+doen:to do:doe, deed, deden, gedaan
+praten:to speak:praat
+betalen:to pay:betaal
+telefoneren:to phone:telefoneer
+
+Go Dutch! 1 (Derivations)
+huiskamer:living room
+huisbaas:landlord
+denken:to think
+bedenken:to invent
+lijn:line
+gelijnd:ruled (with lines)
+kennen:to know
+herkennen:to recognize
+gelukkig:happy
+ongelukkig:unhappy
+dekken:to cover
+ontdekken:to discover
+vallen:to fall
+vervallen:to decay
+verarmen:to impoverish:verarm
+verdoen:to waste:verdoe
+verdunnen:to make thinner:verdun
+vergelden:to repay:vergeld
+gegoed:well-off
+ontharen:to remove hair:onthaar
+onhandig:clumsy
+verhuizen:to move house:verhuis
+behuizen:to give housing to:behuis
+bekijken:to observe:bekijk
+belanden:to end up:beland
+vermageren:to lose weight:vermager
+vernietigen:to destroy:vernietig
+bepraten:to talk into:bepraat
+verrijken:to enrich:verrijk
+verstedelijking:urbanization
+verwerken:to process:verwerk
+bewerken:to work on:bewerk
+ontzeggen:to deny:ontzeg
+bezuinigen:to cut back:bezuinig

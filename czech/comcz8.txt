@@ -1,0 +1,127 @@
+# -*- Czech-Quiz -*-
+
+ComCz L. 8 (Gramm. A -- Whatever)
+# pending
+
+ComCz L. 8 (Vocab.)
+bitva:battle
+borùvka:blueberry
+bruslit:to skate:impf.
+èásteènì:partially
+èelo:head
+docházet:to occur, happen (null subject) (impf.):+ k èemu
+dojít:to occur, happen (null subject) (perf.):dojde, do¹lo, + k èemu
+domácí:native country (adj.)
+doporuèovat:to recommend (impf.):+ komu co
+doporuèit:to recommend (perf.):+ komu co
+dosud:up to now
+germanizace:Germanization
+houba:mushroom:gen. pl. hub
+chmel:hops:masc., gen. -e or -u
+intervence:intervention
+jednostranný:one-sided, unilateral
+kamenný:stone (adj.)
+království:kingdom
+léta:years:pl. of léto, gen. let
+líbat:to kiss:impf.
+motýl:butterfly:masc. hard
+nacházet se:to be found:impf.
+náklad:expense, cost
+národ:nation:gen. národa
+národní obrození:the National revival
+nazývat se:to be called:impf.
+nenávidìt:to hate:impf.
+nesmysl:nonsense:masc. hard
+nezávislost:independence
+nì¾ný:tender
+objevovat se:to appear (impf.)
+objevit se:to appear (perf.)
+objevovat:to discover (impf.)
+objevit:to discover (perf.)
+obor:branch
+obyvatel:inhabitant:masc. soft
+okupace:occupation
+ovlivòovat:to influence (impf.):+ koho èím
+ovlivnit:to influence (perf.):+ koho èím
+pìstovat:to cultivate, raise:impf.
+písmo:writing
+pokus:attempt, experiment:masc. hard
+porá¾ka:defeat
+postavit:to build:perf.
+pova¾ovat:to consider:impf., co za co
+pøeru¹ovat:to interrupt (impf.)
+pøeru¹it:to interrupt (perf.)
+pøevrat:coup d'état
+pøijmout:to be admitted to, to receive (perf.):pøijmu, pøijal
+pøipojovat:to join (impf.):+ k èemu
+pøipojit:to join (perf.):+ k èemu
+prùmìrný:average (adj.)
+rekatolizace:re-Catholization
+rod:family, house
+rozdíl:difference:masc. hard
+rozdílný:different
+rozloha:area
+rozvíjet:to open out, bring out (abilities) (impf.)
+rozvinout:to open out, bring out (abilities) (perf.)
+rozvíjet se:to develop (impf.)
+rozvinout se:to develop (perf.)
+rozvinutý:developed
+rozvoj:progress:masc.
+rozvojová zemì:developing country
+rybník:pond
+sametový:velvet (adj.)
+sbírka:collection
+slovanský:Slavic
+sousedit:to adjoin:impf., s èím
+spoleènost:society
+staroslovìnský:Old Church Slav(on)ic
+stát za co:to be worth (something):stojí
+stát se:to become:perf., stanu se, + kým
+stav:estate:masc. hard, hist.
+terminologie:terminology
+trh:market
+tr¾nice:marketplace
+tvoøit:to create, form (impf.)
+vytvoøit:to create, form (perf.)
+krást:to steal (impf.):kradnu, + komu co
+ukrást:to steal (perf.):ukradnu, + komu co
+urèovat:to set (a price), determine (impf.)
+urèit:to set (a price), determine (perf.)
+úrodný:fertile
+uvádìt:to perform, show (impf.)
+uvést:to perform, show (perf.):uvedu, uvedl
+vìdec:scientist:vìdce
+vìdecký:scientific, learned
+Velkomoravská øí¹e:The Great Moravian Empire
+velmoc:power:fem.
+vìnovat se:to do (sports), to go in for:impf., + èemu
+vládnout:to govern, rule:impf.
+vlek:ski lift
+volby:election:fem. pl
+v¹estranný:comprehensive
+vybavovat:to equip (impf.):+ co èím
+vybavit:to equip (perf.):+ co èím
+vybudovat:to build (up):perf.
+vyhnout se:to avoid:perf., + èemu
+vycházet:to come out, be issued (as a book) (impf.)
+vyjít:to come out, be issued (as a book) (perf.):vyjde, vy¹el
+výjimka:exception
+vynalézt:to invent, devise:perf., vynalezu
+vývoj:development:masc.
+význam:importance
+významný:important, outstanding
+vzájemný:mutual, reciprocal
+vznikat:to come into being, arise (impf.)
+vzniknout:to come into being, arise (perf.)
+základ:foundation
+zánik:decline
+zaostávat:to be behind, be retarded (impf.):za èím
+zaostat:to be behind, be retarded (perf.):zaostanu (?), za èím
+zastavit:to stop (something), halt:perf.
+zejména:especially
+získávat:to gain, obtain (impf.)
+získat:to gain, obtain (perf.)
+zpùsobovat:to cause (impf.)
+zpùsobit:to cause (perf.)
+zvìdavost:curiosity
+zvolit:to elect:perf., za koho (kým?)

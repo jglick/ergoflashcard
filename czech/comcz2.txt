@@ -1,0 +1,61 @@
+# -*- Czech-Quiz -*-
+
+ComCz L. 2 (Misc. -- Pra¾ské jaro)
+báseò:poem:fem.
+festival:festival:masc. hard
+konat se:to take place:impf.
+mezinárodní:international
+obrovský:colossal
+orchestr:orchestra
+pøedprodej:booking office:masc.
+skladatel:composer
+umìlec:artist
+vlast:one's native country:fem.
+vstupenka:ticket
+vybírat si:to choose (impf.):+ z èeho
+vybrat si:to choose (perf.):vyberu, + z èeho
+zájemce:interested, concerned person:masc.
+zemøít:to die:perf., zemøu
+zúèastnit se:to take part:perf., + èeho
+
+ComCz L. 2 (Vocab.)
+ara¹ídové máslo:peanut butter
+domlouvat se:to arrange, agree on (impf.):+ s kým, + na èem
+domluvit se:to arrange, agree on (perf.):+ s kým, + na èem
+domluvený:arranged
+doprava:transportation, traffic
+hodit se:to match, suit:+ komu, ke komu
+javorový sirup:maple syrup
+koøení:spice
+kromì:besides, except:+ èeho (koho)
+libreto:libreto???
+nenávidìt:to hate:impf.
+odjí¾dìt:to leave (in a vehicle) (impf.)
+odjet:to leave (in a vehicle) (perf.):odjedu
+opera:opera
+podìkování:thanks
+pohodlnì:comfortably
+pozvání:invitation
+probudit se:to wake up:perf.
+prohlí¾et si:to have a look at, view (impf.)
+prohlédnout si:to have a look at, view (perf.)
+pøebásnit:do a verse adaptation:perf.
+pøekvapení:surprise
+pøijímat:to receive, accept (impf.)
+pøijmout:to receive, accept (perf.):pøijmu
+pøíroda:nature
+radost:joy, delight
+re¾ie:directed by (i.e. direction)
+øeditelka:principal, administrator (fem.)
+volat:to call (impf.):komu
+zavolat:to call (perf.):komu
+vyhrát:to win:perf., vyhraju, + nad èím
+vý¹ka:height
+závod:contest, race
+zmizet:to disappear:perf.
+zpùsob:way, manner
+zùstávat:to stay (impf.)
+zùstat:to stay (perf.):zùstanu
+zvát:to invite (impf.):zvu
+pozvat:to invite (perf.):pozvu
+To je ¹koda.:It is a pity.

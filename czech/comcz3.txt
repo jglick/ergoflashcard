@@ -1,0 +1,84 @@
+# -*- Czech-Quiz -*-
+
+ComCz L. 3 (Misc. -- Doplòující)
+celkem:together (adv.)
+civilizace:civilization
+chovat:to breed, raise (animals):impf.
+jehnìèí:lamb:neut. subst. adj.
+kapela:pop group
+koèka:cat
+koza:goat
+kráva:cow
+kuchaøka:cookbook
+kùò:horse:toho konì
+majetek:possession
+osobitý:individual, peculiar
+ovce:sheep:fem.
+pes:dog:toho psa
+sláva:fame
+slu¹ný:proper
+utíkat:to run away (impf.):+ komu
+výroèí:anniversary
+vyrùstat:to grow up (impf.)
+vyrùst:to grow up (perf.):vyrostu
+¾ivit se:to work, earn one's living (impf.):+ èím
+u¾ivit se:to work, earn one's living (perf.):+ èím
+
+ComCz L. 3 (Vocab.)
+antický:antique, ancient
+blahopøát:to congratulate:impf., + ke komu
+díky:thanks to, owing to:+ komu (èemu)
+døez:sink:masc. hard
+host:guest
+hotový:ready, finished
+hrnec:pot
+chlebíèek:sandwich
+ilustrovat:to illustrate:impf.
+kvùli:on account of, because of:+ èemu
+oboje:both kinds of, sorts of (numeral)
+odlo¾it si:to take off (clothing):perf.
+orchidej:orchid:fem.
+pánev:pan:fem.
+podnikat:to undertake:impf.
+police:shelf:fem.
+Popelka:Cinderella
+promoce:graduation ceremony:fem.
+prosklený:glass (adj.)
+prostírat:to set the table (impf.)
+prostøít:to set the table (perf.):prostøu (?)
+prostøední:middle, central
+pøíbor:cutlery
+pøipít (si):to drink to a person, clink glasses:perf.
+pøipravený:ready
+sklenièka:glass
+skleník:glass-case
+slib:promise:masc. hard
+Snìhurka:Snowwhite
+spí¾:pantry:fem.
+svatba:wedding
+sváteèní:festive
+svátek:namesday, holiday
+svícen:candlestick
+syrový:raw
+¹álek:cup
+¹ampaòské:champagne:neut. subst. adj.
+¹tìstí:happiness, luck
+talíø:plate:masc.
+trpaslík:dwarf
+ubrousek:napkin
+ubrus:tablecloth:masc. hard
+úèes:hairstyle:masc. hard
+úroveò:level:fem.
+úspìch:success
+Vánoce:Christmas:masc. pl.
+vaøený:boiled
+vedoucí:head, manager:subst. adj.
+Velikonoce:Easter:masc. pl.
+vìøit:to believe (impf.):+ komu, v co
+uvìøit:to believe (perf.):+ komu, v co
+zapomínat:to forget (impf.):+ na co
+zapomenout:to forget (perf.):zapomnìl, + na co
+zásuvka:drawer, socket
+zdraví:health
+zvy¹ovat:to increase (impf.)
+zvý¹it:to increase (perf.)

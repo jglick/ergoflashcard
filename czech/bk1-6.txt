@@ -1,0 +1,549 @@
+# -*- Czech-Quiz -*-
+
+MCG (misc.)
+ètení:reading
+slovníèek:vocabulary
+mluvnice:grammar
+cvièení:exercises
+rozmluva:conversation
+pøísloví:proverbs
+
+MCG Ch. 1 (Vocab.)
+a:and
+ale:but
+ano:yes
+co:what?
+dopis:letter:m.
+doktor:doctor
+kde:where?
+kdo:who?
+koèka:cat:f.
+les:woods, forest:m.
+mìsto:city, town:n.
+ne:no, not
+nebo:or
+obchod:store, shop, business:m.
+park:park:m.
+pero:pen:n.
+profesor:professor
+stìna:wall:f.
+¹kola:school:f.
+tam:there
+ten, ta, to:that (m., f., n.)
+zahrada:garden:f.
+zde:here
+¾ák:pupil:m.
+býti:to be
+jsem:I am
+jsi:you are
+je:is
+není:is not
+jsme:we are
+jste:y'all are
+jsou:they are
+MCG Ch. 1 (Gramm.)
+nejsem:I am not
+nejsme:we are not
+ten dopis:that letter
+ta ¹kola:that school
+to mìsto:that city
+kdo je to?:who is that?
+to je ¾ák:that is a pupil
+jsou zde obchody?:are there stores here?
+Ano, jsou.:yes, there are
+
+MCG Ch. 2 (Vocab.)
+auto(mobil):car
+èas:time
+dnes:today
+doma:at home
+hodina:hour, lesson
+inkoust:ink
+kniha:book
+okno:window
+onen, ona, ono:that (one) (m., f., n.)
+pán:gentleman, lord, master
+pan:Mr.
+papír:paper
+proè:why?
+proto¾e:because
+pryè:away, gone
+student:male student (high school or univ.)
+studentka:female student
+stùl:table, desk
+také:also, too
+taky:also, too
+tento, tato, toto:this (one) (m., f., n.)
+tu¾ka:pencil
+míti:to have
+mám:I have
+má¹:you have
+má:has
+máme:we have
+máte:y'all have
+mají:they have
+MCG Ch. 2 (Gramm.)
+knihu:book (acc.)
+tu:this (fem. acc.)
+tu knihu:this book (acc.)
+tenhle, tahle, tohle, etc.:this here
+mám papír:I have paper
+mám knihu:I have a book
+mám okno:I have a window
+tento papír a toto pero:this paper and this pen
+mám tuhle knihu:I have this book here
+ten stùl a onen:this table and that one
+
+MCG Ch. 3 (Vocab.)
+automobilem:by car
+autem:by car
+biograf:movies, movie theatre
+bio:movies, movie theatre
+blízko:near, close by
+bratr:brother
+daleko:far away
+daleko od:far from:+ gen.
+divadlo:theatre
+do:into, to:+ gen.
+domù:homewards
+jíti domù:to go home
+dùm:house:gen. domu
+chléb:bread:gen. chleba
+jen:only
+jenom:only
+kam:to where?
+kolik:how much, many?:+ gen.
+málo:little, few:+ gen.
+mnoho:much, many:+ gen.
+od:from, away from:+ gen.
+Praha:Prague
+pøíli¹:too, excessively
+sem:to here
+sestra:sister
+¹koda:harm, damage
+trochu:a little, a few
+u¾/ji¾:already
+veèer:evening, in the evening:gen. veèera
+ven:out, to the country
+venku:outside, in the country
+v¾dy»:why you know, surely!
+z, ze:out of, from:+ gen.
+jíti:to go on foot, to walk
+jeti:to ride, go in a vehicle
+jdu:I go
+jde¹:you go
+jde:goes
+jdeme:we go
+jdete:y'all go
+jdou:they go
+jedu:I ride
+jede¹:you ride
+jede:rides
+jedeme:we ride
+jedete:y'all ride
+jedou:they ride
+tam:there/to there
+to je ¹koda:that's a pity!
+MCG Ch. 3 (Gramm.)
+to nejde:that is impossible
+kam jde?:where is he going?
+kde je:where is he?
+jde sem:he is coming here
+je zde:he is here
+jde domù:he is going home
+je doma:he is at home
+jde ven:he is going out
+je venku:he is outside
+jde tam:he is going there
+je tam:he is there
+MCG Ch. 3 (Gramm.)/MCG -- Genitive
+studenta:student (acc.)/student (gen.)
+papíru:paper (gen.)
+stolu:desk (gen.)
+studentky:fem. student (gen.)
+knihy:book (gen.)
+okna:window (gen.)
+pera:pen (gen.)
+kniha pana Dvoøáka:Mr. Dvoøák's book
+divadlo mìsta Prahy:the theatre of the city of Prague
+jdu do divadla:I go to the theatre
+jdu z divadla:I come out of the theatre
+jdu od bratra:I come from Brother's place
+jdu od divadla:I come away from the theatre
+ze zahrady:out of the garden
+ze stolu:out of the desk
+do ¹koly:to (into) school
+do mìsta:into the city
+do veèera:until evening
+od rána do veèera:from morning till evening
+mnoho papíru:much paper
+málo papíru:little paper
+kolik papíru:how much paper?
+MCG Ch. 3 (Gramm.)
+mám bratra:I have a brother
+mám automobil:I have a car
+dnes veèer jdu ven:I am going out this evening
+nemám èas:I don't have time
+jsme daleko od Prahy:we are far from Prague
+dnes veèer:this evening
+
+MCG Ch. 4 (Misc.)
+R.U.R. od Èapka:R.U.R. by Èapek
+má¹ tedy co dìlat:so you have something to do?
+nemám co dìlat:I have nothing to do
+MCG Ch. 4 (Vocab.)
+americký:American (adj.)
+èerný:black
+èeský:Czech (adj.)
+dobrý:good
+dole:downstairs, below (stat.)
+dolù:downstairs, down (dyn.)
+film:film, movie
+hra:play
+jaký:what (kind of)?
+jídlo:food, meal
+kdy¾:when, while, whenever
+kdy:when?
+klub:club
+krb:fireplace, hearth
+lednièka:icebox
+mimo:by, past, besides, except:+ acc.
+nový:new
+pomalu:slowly
+potom:then, next
+pro:for:+ acc.
+ráno:morning, early in the morning
+román:novel
+rychle:quickly
+snad:perhaps, possibly
+svátek:holiday:gen. svátku
+tedy:so, therefore:encl.
+u:by, near, at the house of:+ gen.
+velký:big, great, large
+velmi:very
+voják:soldier
+zajímavý:interesting
+¾e:that (conj.)
+dávati:to give, put:1st
+dìlati:to make, do:1st
+hledati:to look for:1st + acc.
+odpovídati:to answer:1st
+øíkati:to say, tell:1st
+snídati:to eat breakfast:1st
+volati:to call, cry out, summon:1st
+vstávati:to get up, arise:1st
+znáti:to know, be acquainted with:1st
+MCG Ch. 4 (Gramm.)
+dìlám:I do
+dìlá¹:you do
+dìlá:does
+dìláme:we do
+dìláte:y'all do
+dìlají:they do
+znám:I know (am acq. with)
+zná¹:you know (are acq. with)
+zná:knows (is acq. with)
+známe:we know (are acq. with)
+znáte:y'all know (are acq. with)
+znají:they know (are acq. with)
+velký dùm:large house (nom.)/large house (acc.)
+velkého domu:large house (gen.)
+velký pán:great sir (nom.)
+velkého pána:great sir (gen.)/great sir (acc.)
+velká kniha:large book (nom.)
+velké knihy:large book (gen.)
+velkou knihu:large book (acc.)
+velké mìsto:large city (nom.)/large city (acc.)
+velkého mìsta:large city (gen.)
+dùm je velký:the house is large
+¾ák jde dnes do ¹koly:the pupil is going to school today
+dnes ¾ák do ¹koly nejde:today the pupil is not going to school
+pan Novák zná pana Dvoøáka:Mr. Novák knows Mr. Dvoøák
+pana Dvoøáka zná pan Novák:it is Mr. Dvoøák whom Mr. Novák knows
+bratr hledá knihu:Brother is looking for a book
+hledá bratr knihu?:is Brother looking for a book?
+co hledá bratr?:what is Brother looking for?
+dìlám to pro bratra:I am doing this for Brother's sake
+jdu do obchodu pro chléb:I am going to the store for bread
+auto jede mimo:the car is going by
+auto jede mimo dùm:the car is going past the house
+kdo je doma mimo bratra?:who is at home besides Brother?
+mimoto:besides that, in addition
+u Prahy:near Prague
+u okna:by the window
+u pana Nováka:at Mr. Novák's (office &c.)
+jaká je to kniha?:what book is that?
+jaká je ta kniha?:how is that book?
+román od Èapka:a novel by Èapek
+nemám co dìlat:I have nothing to do
+je u¾ èas jít:it's time to go now
+
+MCG Ch. 5 (Misc.)
+blízko u Prahy:near Prague
+míti hlad:to be hungry
+má hlad:is hungry
+myslí si:thinks to himself
+dávati pokoj:to let alone:+ dat.
+proè mi nedává¹ pokoj?:why don't you let me alone?
+my¹:mouse
+MCG Ch. 5 (Vocab.)
+bohatý:rich, wealthy
+èasto:often, frequently
+docela:quite, very
+hlad:hunger
+hladový:hungry
+husa:goose
+k (ke, ku):to, toward:+ dat.
+kachna:duck
+koèka:cat
+koza:goat
+kráva:cow
+líný:lazy
+malý:small, little
+maminka:mommy
+mléko:milk
+ohrada:pen, enclosure, fence
+pes:dog:gen. psa
+poøád:continuously, all the time, still
+potok:stream, brook:gen. potoka
+pozor:attention
+proto:therefore, for that reason
+rodina:family
+sytý:sated, full of food
+tak:so, thus
+takhle:in this way
+tatínek:daddy:gen. tatínka
+zase:again
+zdaleka:from afar
+zima:winter, cold weather
+bydliti:to dwell, live:2nd
+hlídati:to watch, guard:1st
+hroziti:to threaten:2nd, + dat.
+krmiti:to feed:2nd
+le¾eti:to lie, be lying:2nd, le¾í
+patøiti:to belong to:2nd, + dat.
+pomáhati:to help:1st, + dat.
+poslouchati:to listen to, obey:1st, + acc.
+rozumìti:to understand:2nd, + dat., rozumìjí
+slou¾iti:to serve:2nd, + dat.
+spáti:to sleep:irreg.
+spím:I sleep
+spí¹:you sleep
+spí:sleeps
+spíme:we sleep
+spíte:y'all sleep
+spí:they sleep
+vìøiti:to believe:2nd, + dat.
+MCG Ch. 5 (Gramm.)
+mluvím:I speak
+mluví¹:you speak
+mluví:speaks
+mluvíme:we speak
+mluvíte:y'all speak
+mluví:they speak
+le¾ím:I lie
+le¾í¹:you lie
+le¾í:lies
+le¾íme:we lie
+le¾íte:y'all lie
+le¾í:they lie
+házeti:to throw:2nd
+házím:I throw
+hází¹:you throw
+hází:throws
+házíme:we throw
+házíte:y'all throw
+házejí:they throw
+rozumím:I understand
+rozumí¹:you understand
+rozumí:understands
+rozumíme:we understand
+rozumíte:y'all understand
+rozumìjí:they understand
+panu Novákovi:Mr. Novák (dat.)
+domu:house (dat.)
+¹kole:school (dat.)
+hodinì:hour, lesson (dat.)
+mìstu:city (dat.)
+oknu:window (dat.)
+dávám knihu panu Novákovi:I am giving the book to Mr. Novák
+dávám knihu èeskému studentovi (occas. studentu):I am giving the book to the Czech student
+stìnì:wall (dat.)
+¹kodì:damage (dat.)
+knize:book (dat.)
+matce:mother (dat.)
+studentce:female student (dat.)
+sestøe:sister (dat.)
+èeskému klubu:Czech club (dat.)
+dobré matce:good mother (dat.)
+velkému mìstu:great city (dat.)
+dávám bratrovi knihu:I give my brother a book
+pes hrozí koèce:the dog threatens the cat
+kniha patøí bratrovi:the book belongs to Brother
+èasto pomáhám matce:I often help mother
+nerozumím panu Èapkovi:I don't understand Mr. Èapek
+sluha slou¾í matce:the servant serves Mother
+nevìøím bratrovi:I don't believe Brother
+sestøe je líto, ¾e...:Sister is sorry that...
+matce je zima:Mother feels cold
+jdu k bratrovi:I go to Brother ('s)
+jsem u bratra:I am at Brother's
+jdu od bratra:I come from Brother ('s)
+jedu k mìstu:I go towards the city
+jsem u mìsta:I am near the city
+jedu od mìsta:I come away from the city
+k veèeru:toward evening
+bratr nedává matce pokoj:Brother doesn't let Mother alone
+sestra nedává pozor:Sister is not paying attention
+venku je zima:it is cold outside
+tatínkovi je zima:Father is cold
+mám velký hlad:I am very hungry
+
+MCG Ch. 6 (Misc.)
+bílé peèivo:white pastry
+si:for oneself
+déle:longer
+nedìlá¹ ani jednu chybu:you make not a single mistake
+vidím, jak tatínek nese:I see Father carrying
+domácí úloha:homework
+pro koho:for whom
+pro vás:for you
+na shledanou:good-bye!
+MCG Ch. 6 (Vocab.)
+ani..ani:neither..nor
+babièka:grandmother
+bílý:white
+èerstvý:fresh
+èlovìk:person, man
+dobøe:well
+dospìlý:adult (adj.)
+dlouhý:long
+dvùr:yard, court:gen. dvora
+d¾bán:pitcher, jug
+hned/ihned:at once
+chyba:error, mistake
+i:and, also, even, as well
+jak:how, as
+jeho:his/its:indecl.
+její:her, hers
+jejich:their(s):indecl.
+je¹tì:still, yet
+kdy:when?
+koneènì:at last, finally
+který:which (one)?
+kus:piece
+mladý:young
+mùj, má, mé:my, mine
+ná¹, na¹e:our, ours
+peèivo:pastry
+silný:strong
+silnì:strongly
+svùj, svá, své:one's own
+tvùj, tvá, tvé:your, yours
+vá¹, va¹e:your all, yours all
+veliký:tall, high, great
+voda:water
+v¾dy:always
+v¾dycky:always
+cítiti:to feel, sense, smell:2nd
+èekati:to wait:1st
+èísti:to read:3rd, ètu
+jísti:to eat:irreg.
+moci:to be able:3rd, + infin., mohu, mù¾e¹
+nalévati:to pour:1st
+nésti:to carry, take, bring:3rd, nesu
+péci:to bake, roast:3rd, peku, peèe¹
+píti:to drink:3rd, piji
+psáti:to write:3rd, pí¹i
+umìti:to know how to:2nd, + infin., umìjí
+vidìti:to see:2nd, vidí
+¾ráti:to eat (as an animal):3rd, ¾eru
+MCG Ch. 6 (Gramm.)
+ètu:I read
+ète¹:you read
+ète:reads
+èteme:we read
+ètete:y'all read
+ètou:they read
+nesu:I carry
+nese¹:you carry
+nese:carries
+neseme:we carry
+nesete:y'all carry
+nesou:they carry
+pí¹i:I write:liter.
+pí¹u:I write:colloq.
+pí¹e¹:you write
+pí¹e:writes
+pí¹eme:we write
+pí¹ete:y'all write
+pí¹í:they write:liter.
+pí¹ou:they write:colloq.
+piji:I drink:liter.
+piju:I drink:colloq.
+pije¹:you drink
+pije:drinks
+pijeme:we drink
+pijete:y'all drink
+pijí:they drink:liter.
+pijou:they drink:colloq.
+mohu:I can
+mù¾e¹:you can
+mù¾e:he, she, it can
+mù¾eme:we can
+mù¾ete:y'all can
+mohou:they can
+peku:I bake
+peèe¹:you bake
+peèe:bakes
+peèeme:we bake
+peèete:y'all bake
+pekou:they bake
+jím:I eat
+jí¹:you eat
+jí:eats
+jíme:we eat
+jíte:y'all eat
+jedí:they eat
+umím èíst, ale teï nemohu; nemám èas:I know how to read, but I can't now; I have no time
+umím psát, ale nemohu, proto¾e nemám tu¾ku:I can write, but I am not able to, because I have no pencil
+bratøe:brother (voc.)
+profesore:teacher (voc.)
+synu:son (voc.)
+èlovìèe:person (voc.)
+pane profesore Nováku:Professor Novák (voc.)
+tatínku:Daddy (voc.)
+matko:mother (voc.)
+sestro:sister (voc.)
+mùj dobrý bratøe:my good brother (voc.)
+mùj:my (inam. nom.)/my (inam. acc.)
+má/moje:my (f. nom.)
+mou/moji:my (f. acc.)
+mé/moje:my (n. nom.)/my (n. acc.)
+tvùj:your (inam. nom.)/your (inam. acc.)
+tvá/tvoje:your (f. nom.)
+tvou/tvoji:your (f. acc.)
+tvé/tvoje:your (n. nom.)/your (n. acc.)
+svùj:one's own (inam. nom.)/one's own (inam. acc.)
+svá/svoje:one's own (f. nom.)
+svou/svoji:one's own (f. acc.)
+své/svoje:one's own (n. nom.)/one's own (n. acc.)
+ná¹:our (inam. nom.)/our (inam. acc.)
+na¹e:our (f. nom.)
+na¹i:our (f. acc.)
+na¹e:our (n. nom.)/our (n. acc.)
+vá¹:your all (inam. nom.)/your all (inam. acc.)
+va¹e:your all (f. nom.)
+va¹i:your all (f. acc.)
+va¹e:your all (n. nom.)/your all (n. acc.)
+jeho:his/its:indecl.
+jejich:their(s):indecl.
+její:her(s) (anim. nom.)/her(s) (inam. nom.)/her(s) (inam. acc.)/her(s) (f. nom.)/her(s) (f. acc.)/her(s) (n. nom.)/her(s) (n. acc.)
+ta kniha je moje:that book is mine
+mám svou knihu:I have my book
+bratr má své pero:Brother has his own pen
+bratr má jeho pero:Brother has his (i.e. someone else's) pen
+dobrý den:good day!
+dobrý veèer:good evening!
+dobré jitro:good morning!
+s bohem:good-bye!

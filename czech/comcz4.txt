@@ -1,0 +1,64 @@
+# -*- Czech-Quiz -*-
+
+ComCz L. 4 (Vocab.)
+buï..nebo..:either..or..
+dálka:distance
+doprovázet:to accompany, see (somebody) off (impf.)
+doprovodit:to accompany, see (somebody) off (perf.)
+fascinovat:to fascinate:impf., + koho èím
+houslista:violinist
+jednak..jednak..:partly.., partly..
+katalog:catalog
+klavírista:pianist
+koneènì:finally
+kontrast:contrast
+kytka:flower (colloq.)
+ministerstvo:ministry
+ministerstvo financí:Ministry of Finance
+navrhovat:to suggest (impf.):+ komu co
+navrhnout:to suggest (perf.):+ komu co
+nebezpeèný:dangerous
+nedávno:recently
+nekoneèný:neverending
+nezapomenutelný:unforgettable
+obdivovat:to admire:impf.
+pochopit:to comprehend, grasp:perf.
+polopenze:half-board (?):fem.
+prùvodce:guide (book or person):masc.
+pøedseda:chairman, president
+pøedstavit si:to imagine, fancy:perf.
+pøekvapit:to surprise (perf.):koho èím
+pøípad:case
+pøipomínat:to remind, recall (impf.):+ komu co
+pøipomenout:to remind, recall (perf.):pøipomnìl, + komu co
+øe¹it:to solve:impf.
+sbírat:to collect (impf.)
+sezóna:season
+sleva:discount
+slibovat:to promise (impf.):komu co
+slíbit:to promise (perf.):komu co
+slu¾ební cesta:business trip
+soudce:judge:masc.
+starost:worry
+strávit:to spend (time):perf.
+støedisko:center
+svìtlo:light
+symbol:symbol:masc. hard
+tajemný:mysterious
+termín:term, day, deadline
+tlumoènice:(fem.) interpreter
+ubytování:accommodation
+volno:free (adv.)
+v¹ude:everywhere
+zájezd:tour
+zalévání:watering
+zalévat:to water (impf.)
+zalít:to water (perf.):zaleju
+zamykat:to lock (impf.)
+zamknout:to lock (perf.)
+zaøizovat:to arrange (impf.)
+zaøídit:to arrange (perf.)
+záviset:to depend on:impf., + na èem
+zhasínat:to turn off (impf.)
+zhasnout:to turn off (perf.)
+zku¹ený:experienced

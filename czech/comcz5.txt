@@ -1,0 +1,174 @@
+# -*- Czech-Quiz -*-
+
+ComCz L. 5 (Misc. -- Doplòující)
+bránit:to defend, fight for:impf.
+èinnost:activity
+dávat najevo:to show, to make plain (impf.)
+dobroèinný:charitable
+dozvìdìt se:to learn of:perf., dozvím se, + o èem
+intervenovat:to intervene, plead for:impf., + za co
+jednotlivec:individual
+litovat:to commiserate:impf., + èeho (koho?)
+ochranka:safeguard
+smát se:to laugh:impf., smìji se, + komu
+patos:pathos:masc. hard
+pumový:bombing (adj.)
+shodnout se:to agree, get along:perf., + na èem
+stydìt se:to be ashamed of:impf., + za co
+titul:title:masc. hard
+unikat:to escape (impf.):+ komu, pøed èím
+uniknout:to escape (perf.):+ komu, pøed èím
+útok:attack
+vá¾it si:to respect:impf., + koho (gen.) za co
+vìrnost:loyalty, faith
+veøejnost:(the) public
+vypuknout:to break out:perf.
+
+ComCz L. 5 (Vocab.)
+barokní:baroque
+bledý:pale
+brána:gate
+být støední postavy:to be medium height
+èin:act, deed
+dojem:impression:masc. hard
+dosahovat:to reach, gain (impf.):+ èeho
+dosáhnout:to reach, gain (perf.):+ èeho
+dr¾et slovo:to keep one's word:impf.
+dùsledek:consequence
+hubený:thin
+kdysi:at one time, once
+knír:moustache
+kudrnatý:curly
+náhodou:incidentally
+nesmrtelný:immortal
+odepsat:to write back:perf., odepí¹u, + komu
+ohled:regard, respect, consideration
+opálený:suntanned
+ostatní:the other (people), the rest
+piha:freckle
+ple»:complexion:fem.
+plno¹tíhlý:half-slim
+povaha:character, nature
+právo:right, law
+projet:to pass (e.g. through a gate):perf., projedu
+pøesto:in spite of
+pøíbuzný:(a) relative:subst. adj.
+reagovat:to respond (impf.):+ na co
+zareagovat:to respond (perf.):+ na co
+schùzka:meeting
+skupina:group
+snìdý:tanned
+snít:to dream:impf., + o èem
+spoléhat se:to rely (up)on (impf.):+ na èem
+spolehnout se:to rely (up)on (perf.):+ na èem
+¹tíhlý:slim
+tunel:tunnel:masc. hard
+úspì¹ný:successful
+vláda:government
+vlastnost:quality, character, feature
+vlnitý:wavy
+vráska:wrinkle
+vybírat (si):to choose (impf.)
+vybrat (si):to choose (perf.):vyberu
+vyniknout:to excel, surpass:perf., + nad èím
+výsledek:result, outcome
+vzhled:looks, exterior
+zaujmout:to engage, absorb:perf., zaujmu, + koho èím
+zdát se:to seem:impf.
+
+ComCz L. 5 (Vocab. -- Vlastnosti)
+bojácný:timid
+bezohledný:ruthless, inconsiderate
+cti¾ádostivý:ambitious
+dùkladný:thorough
+lehkomyslný:frivolous, reckless, easygoing
+líný:lazy
+nejistý:insecure
+obìtavý:self-sacrificing
+odpovìdný:responsible
+ohleduplný:considerate, thoughtful
+opatrný:cautious, careful
+pilný:diligent
+plachý:shy, self-conscious
+povrchní:superficial
+pozorný:attentive, considerate
+pracovitý:hard-working
+pøátelský:friendly
+py¹ný:proud
+sebevìdomý:self-confident
+skromný:modest
+sobecký:selfish
+spolehlivý:reliable
+staromódní:old-fashioned
+starostlivý:concerned, anxious
+stateèný:brave
+trpìlivý:patient
+unavený:tired
+upøímný:sincere, frank
+vìrný:loyal, faithful
+závistivý:envious
+zvìdavý:curious
+¾árlivý:jealous
+
+ComCz L. 5 (Gramm. B -- Decl. num.)/Deklinace èíslovek
+dva:two (masc. nom.)
+dvì:two (fem. nom.)
+dvì:two (neut. nom.)
+dvou:two (gen.)
+dvìma:two (dat.)
+dva:two (masc. acc.)
+dvì:two (fem. acc.)
+dvì:two (neut. acc.)
+dvou:two (loc.)
+dvìma:two (inst.)
+oba:both (masc. nom.)
+obì:both (fem. nom.)
+obì:both (neut. nom.)
+obou:both (gen.)
+obìma:both (dat.)
+oba:both (masc. acc.)
+obì:both (fem. acc.)
+obì:both (neut. acc.)
+obou:both (loc.)
+obìma:both (inst.)
+tøi:three (nom.)
+tøí:three (gen.)
+tøem:three (dat.)
+tøi:three (acc.)
+tøech:three (loc.)
+tøemi:three (inst.)
+ètyøi:four (nom.)
+ètyø:four (gen.)
+ètyøem:four (dat.)
+ètyøi:four (acc.)
+ètyøech:four (loc.)
+ètyømi:four (inst.)
+pìt:five (nom.)
+pìti:five (gen.)
+pìti:five (dat.)
+pìt:five (acc.)
+pìti:five (loc.)
+pìti:five (inst.)
+dvacet pìt studentù:twenty-five students (nom.)
+dvaceti pìti studentù:twenty-five students (gen.)
+dvaceti pìti studentùm:twenty-five students (dat.)
+dvacet pìt studentù:twenty-five students (acc.)
+dvaceti pìti studentech:twenty-five students (loc.)
+dvaceti pìti studenty:twenty-five students (inst.)
+Byli tam v¹ichni kromì pìti studentù.:Everyone was there except five students.
+Øekni to tìm deseti kolegùm.:Tell it to those ten colleagues.
+Diskutovali o dvaceti nových knihách.:They discussed twenty new books.
+Mluvil jsem se svými dvìma kamarádkami.:I spoke with my two girl-friends.
+sto:one hundred
+dvì stì:two hundred
+pìt set:five hundred
+tisíc:one thousand
+dva tisíce:two thousand
+pìt tisíc:five thousand
+se sto korunami/se stem korun:with one hundred crowns
+mnoho studentek:many female students (nom.)
+mnoha studentek:many female students (gen.)
+mnoha studentkám:many female students (dat.)
+mnoho studentek:many female students (acc.)
+mnoha studentkách:many female students (loc.)
+mnoha studentkami:many female students (inst.)

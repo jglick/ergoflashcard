@@ -1,0 +1,318 @@
+# -*- Quiz -*-
+
+# Keyboard:
+# ю1234567890-ч Ю--ъЪ-ёЁ*()_Ч
+# `1234567890-= ~--#$-^&*()_+
+# явертыуиопшщэ ЯВЕРТЫУИОПШЩЭ
+# qwertyuiop[]\ QWERTYUIOP{}|
+# асдфгхйкл     АСДФГХЙКЛ
+# asdfghjkl     ASDFGHJKL
+# зьцжбнм       ЗЬЦЖБНМ
+# zxcvbnm       ZXCVBNM
+
+The first book of numbers
+ноль:zero
+один:one (m):(+nom.sg)
+одна:one (f):(+nom.sg)
+одно:one (n):(+nom.sg)
+два:two (m,n):(+gen.sg)
+две:two (f):(+gen.sg)
+три:three:(+gen.sg)
+четыре:four:(+gen.sg)
+пять:five:(+gen.pl)
+шесть:six:(+gen.pl)
+семь:seven:(+gen.pl)
+восемь:eight:(+gen.pl)
+девять:nine:(+gen.pl)
+десять:ten:(+gen.pl)
+одиннадцать:eleven:(+gen.pl)
+двенадцать:twelve:(+gen.pl)
+тринадцать:thirteen:(+gen.pl)
+четырнадцать:fourteen:(+gen.pl)
+пятнадцать:fifteen:(+gen.pl)
+шестнадцать:sixteen:(+gen.pl)
+семнадцать:seventeen:(+gen.pl)
+восемнадцать:eighteen:(+gen.pl)
+девятнадцать:nineteen:(+gen.pl)
+двадцать:twenty:(+gen.pl)
+двадцать один:twenty one (m):(+nom.sg)
+двадцать одна:twenty one (f):(+nom.sg)
+двадцать одно:twenty one (n):(+nom.sg)
+двадцать два:twenty two (m,n):(+gen.sg)
+двадцать две:twenty two (f):(+gen.sg)
+двадцать три:twenty three:(+gen.sg)
+двадцать четыре:twenty four:(+gen.sg)
+двадцать пять:twenty five:(+gen.pl)
+двадцать шесть:twenty six:(+gen.pl)
+двадцать семь:twenty seven:(+gen.pl)
+двадцать восемь:twenty eight:(+gen.pl)
+двадцать девяать:twenty nine:(+gen.pl)
+тридцать:thirty:(+gen.pl)
+тридцать один:thirty one (m):(+nom.sg)
+тридцать одна:thirty one (f):(+nom.sg)
+тридцать одно:thirty one (n):(+nom.sg)
+тридцать два:thirty two (m,n):(+gen.sg)
+тридцать две:thirty two (f):(+gen.sg)
+тридцать три:thirty three:(+gen.sg)
+тридцать четыре:thirty four:(+gen.sg)
+тридцать пять:thirty five:(+gen.pl)
+тридцать шесть:thirty six:(+gen.pl)
+тридцать семь:thirty seven:(+gen.pl)
+тридцать восемь:thirty eight:(+gen.pl)
+тридцать девять:thirty nine:(+gen.pl)
+сорок:fourty:(+gen.pl)
+пятьдесят:fifty:(+gen.pl)
+шестьдесят:sixty:(+gen.pl)
+cемьдесят:seventy:(+gen.pl)
+восемьдесят:eighty:(+gen.pl)
+девяносто:ninety:(+gen.pl)
+сто:hundred:(+gen.pl)
+двести:two hundred:(+gen.pl)
+триста:three hundred:(+gen.pl)
+четыреста:four hundred:(+gen.pl)
+пятьсот:five hundred:(+gen.pl)
+шестьсот:six hundred:(+gen.pl)
+семьсот:seven hundred:(+gen.pl)
+восемьсот:eight hundred:(+gen.pl)
+девятьсот:nine hundred:(+gen.pl)
+тысяча:thousand:(+gen.pl)
+две тысячи:two thousand:(+gen.pl)
+три тысячси:three thousand:(+gen.pl)
+четыре тысячи:four thousand:(+gen.pl)
+пять тысяч:five thousand:(+gen.pl)
+шесть тысяч:six thousand:(+gen.pl)
+семь тысяч:seven thousand:(+gen.pl)
+восемь тысяч:eight thousand:(+gen.pl)
+девять тысяч:nine thousand:(+gen.pl)
+десять тысяч:ten thousand:(+gen.pl)
+
+The second book of Numbers
+одна жена:one woman
+две жены:two women
+семь жен:seven women
+тридцать одна красивая машина:thirty one beautiful cars
+четыре красивой машины:four beautiful cars
+девять красивих машин:nine beautiful cars
+один час:one hour
+семь часов:seven hours
+двадцать три часа:twenty three hours
+три тёти:three aunts
+сто одна тётя:a hundred and one aunts
+восемь тётей:eight aunts
+одно имя:one name
+четыре имени:four names
+пять имён:five names
+сорок одно блюдо:fourty one dishes
+девяносто два блюда:ninety two dishes
+семьдесят блюд:seventy dishes
+пятьдесяат один художник:fifty one artists
+тридесят четыре художника:thirty four artists
+пять художников:five artists
+
+The first book of Questionwords and interrogatives
+кто:who (nom)
+кого:who (acc,gen): pronounce "г" as "v"
+кому:who (dat)
+кем:who (instr)
+ком:who (prep)
+что:what (nom, acc)
+чего:what (gen): pronounce "г" as "v"
+чему:what (dat)
+чем:what (instr)
+чём:what (prep)
+где:where
+когда:when
+почему:why
+чьё:whose
+какой:which (jak'y) (m)
+какая:which (jak'a)(f)
+какое:which (jak'e)(n)
+какие:which (jak'y)(pl)
+как:how
+сколька:how many/how much
+
+The first book of Basic Phrases
+да:yes
+и:and
+нет:no
+хорошо:OK/well
+здравствуйте/привет!:hello
+доброе утро:good morning
+добрый вечер:good evening
+до свидания:good night (when leaving)/goodbye
+спокойной ночи:good night (when going to bed)
+привет!/пока!:hi!
+пожалуйста:please
+да, спасибо; нет, спасибо:yes, please; no, thank you
+спасибо:thank you/thanks
+большое спасибо:thank you very much
+не за что:don't mention it
+здравствуйте/как дела:how are you
+
+The Book of Letters
+а:a
+б:b
+в:v
+г:g/v
+д:d
+е:yeh (e-hacek)
+ё:yoh
+ж:zj (z-hacek)
+з:z
+и:i
+й:j
+к:k
+л:l
+м:m
+н:n
+о:o
+п:p
+с:s
+т:t
+у:u
+ф:f
+х:gh
+ц:ts (czech "c")
+ч:ch (c-hacek)
+ш:sh (s-hacek)
+щ:sh-ch (s-hacek c-hacek)
+ъ:hard sign:твёрды знак
+ы:iy
+ь:soft sign:(мяхки знак)
+э:eh
+ю:yoo
+я:ya
+
+The first book of nouns
+окно (n):window:pl. окна
+музей (m):museum:pl. музеи
+кошка (f):cat:pl. кошки
+тётя (f):aunt:pl. тёти
+имя(n):name:pl. имена
+художник (m):artist:pl. художники
+море (n):sea:pl. моря
+водителъ (m):driver:pl. водители
+водка (f):vodka:pl. водки
+стол (m):table:pl. столы
+вокзал (m):station:pl. вокзалы
+вутылка (m):bottle:pl. вутылки
+Фёдор Достоевски:Fyodor Dostoyevski
+поезд (m):train:pl. поезда
+дом (m):house:pl. дома
+город (m):town:pl. города
+номер (m):room/number:pl. номера
+сестра (m):sister:pl. сёстры
+брат (m):brother:pl. братъя
+матъ (f):mother:pl. матери
+сын (m):son:pl. сыновъя
+дочъ (f):daughter:pl. дочери
+друг (m):friend:pl. друзъя
+багон (m):carriage:pl. багоны
+парк (m):park:pl. парки
+
+The first book of prepositions
+в:to, into:(+acc); like Czech "do"
+в Москву:to Moscow
+на:to; onto:(+acc)
+Мы едем на вокзал.:We're going to the station
+через:through:(+acc); like Czech "p'res"
+Я пройду через парк:I'll walk through the park
+до:until, to: (+gen)
+до Москвы:up until Moscow
+у:by, at:(+gen)
+у Саши:at Sasha's
+от:from:(+gen)
+около:near, by/beside/about:(+gen)
+вез:without:(+gen)
+для:for:(+gen)
+между:between:(+instr)
+между вагонами:between the carriages
+нат:above:(+instr)
+пот:under:(+instr)
+перед:in front of, before:(+instr)
+с:with:(+instr)
+напротив:opposite:(+gen)
+о:about:(+prep)
+к:towards:(+dat)
+по:on, along:(+dat)
+
+The second book of nouns
+машина (f):car:pl. машины
+дверь (f):door:pl. двери
+рубль (m):rouble:pl. рубли
+луна (f):moon
+блюдо (n):dish:pl. блюда 
+отделение (n):department:pl. отделения
+кафе:cafe:indeclinable
+кино:cinema:indeclinable
+кофе:coffee:indeclinable
+метро:subway:indeclinable
+пальто:overcoat:indeclinable
+такси:taxi:indeclinable
+фойе:foyer:indeclinable
+пибо:beer
+вода:water
+монета:coin
+
+The first book of adjectives
+красивый:beautiful(m)
+красивая:beautiful(f)
+красивое:beautiful(n)
+красивые:beautiful(pl)
+
+хлупый:stupid (m)
+хлупая:stupid (f)
+хлупое:stupid (n)
+хлупые:stupid (pl)
+
+странный:strange (m)
+странная:strange (f)
+странное:strange (n)
+странные:strange (pl)
+
+зимний:winter- (adj)(m)
+зимняя:winter- (adj)(f)
+зимнее:winter- (adj)(n)
+зимние:winter- (adj)(pl)
+
+маленький:small (m)
+маленькая:small (f)
+маленькее:small (n)
+маленькие:small (pl)
+
+хороший:good (m)
+хорошая:good (f)
+хорошее:good (n)
+хорошие:good (pl)
+
+большой:big (m)
+большая:big (f)
+большое:big (n)
+болшьие:big (pl)
+
+плохой:bad (m)
+плохая:bad (f)
+плохое:bad (n)
+плохие:bad (pl)
+
+удобный:convenient (m)
+удобная:convenient (f)
+удобное:convenient (n)
+удобные:convenient (pl)
+
+интересный:interesting (m)
+интересная:interesting (f)
+интерйесное:interesting (n)
+интересные:interesting (pl)
+
+
+
+
+
+
+
+
+
+
+
+

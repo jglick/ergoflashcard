@@ -1,0 +1,829 @@
+# -*- Czech-Quiz -*-
+
+MCG Ch. 25 (Vocab.)
+dìvèe:girl:neut., gen. dìvèete
+dílna:workshop, studio
+italský:Italian:italsky
+jinak:otherwise, differently
+kamenný:made of stone
+kaple:chapel:fem.
+Kristus:Christ:gen. Krista
+køes»an:Christian:pl. køes»ané
+køí¾:cross:masc.
+malba:painting
+malíø:painter
+mistrovský:masterly:mistrovsky
+oblièej:face:masc.
+obraz:picture
+palác:palace:masc.
+plátno:canvas, linen
+povìst:legend, rumor:fem.
+pravdivý:reliable, truthful, realistic:pravdivì
+smrt:death:fem.
+spokojený:satisfied, content:spokojenì, s èím
+¹vec:shoemaker:gen. ¹evce
+tváø:cheek, face:fem.
+výraz:expression
+vzor:model
+zlost:anger:fem.
+¾id:Jew:pl. ¾idé
+dohotovovat:to prepare, finish (impf.)
+dohotovit:to prepare, finish (perf.)
+dovést:to carry out, execute, succeed:perf. (but looks impf.), dovedu, dovedl
+Dovede mluvit èesky.:He can speak Czech.
+malovat:to paint, portray (impf.)
+vymalovat:to paint, portray (perf.)
+objevovat:to discover (impf.)
+objevit:to discover (perf.)
+objevovat se:to appear (impf.)
+objevit se:to appear (perf.)
+pochovávat:to bury (impf.)
+pochovat:to bury (perf.)
+pøevádìt:to take over, across, transfer (impf.):-ìjí
+pøevést:to take over, across, transfer (perf.):pøevedu, pøevedl
+skonávat:to die, pass away (impf.)
+skonat:to die, pass away (perf.)
+trefovat:to hit (not miss) (impf.)
+trefit:to hit (not miss) (perf.)
+vyjadøovat:to express (impf.)
+vyjádøit:to express (perf.)
+
+MCG Ch. 25 (Misc.)
+almu¾na:alms
+arcibiskup:archbishop
+arcibiskupský:archbishop's
+okam¾ení:moment, instant
+oltáø:altar:masc.
+pøivázat:to tie to (perf.)
+svìtit:to sanctify, make holy (impf.)
+¹ílený:mad, insane
+Turek:Turk:gen. Turka
+ukøi¾ovat:to crucify (perf.)
+
+MCG Ch. 25 (Gramm.)
+# ss 113
+hostinský:innkeeper
+hostinského:innkeeper (gen.)
+krejèí:tailor
+krejèího:tailor (gen.)
+Jiøí:George
+Jiøího:George (gen.)
+# ss 114
+paní:Mrs., lady, mistress:subst. adj.
+# ss 115
+dìvèe:girl (nom.)
+dìvèete:girl (gen.)
+dìvèeti:girl (dat.)
+dìvèe:girl (acc.)
+dìvèeti:girl (loc.)
+dìvèetem:girl (inst.)
+dìvèata:girls (nom.)
+dìvèat:girls (gen.)
+dìvèatùm:girls (dat.)
+dìvèata:girls (acc.)
+dìvèatech:girls (loc.)
+dìvèaty:girls (inst.)
+jehnì:lamb:neut., -ìte
+jehòata:lambs
+kuøe:young chicken:neut., -ete
+ptáèe:young bird:neut., -ete
+tele:calf:neut., -ete
+mládì:young of an animal:neut., -ìte
+zvíøe:beast, animal:neut., -ete
+poupì:bud:neut., -ìte
+pá¾e:(medieval) page:neut., -ete
+dítì:child:neut., -ìte
+dìti:children:fem.
+kní¾e:prince:masc., -ete
+hrabì:count (nobility):masc., -ete
+dobrý kní¾e:good prince
+dobrá kní¾ata:good princes
+MCG Ch. 25 (Gramm.)/Deklinace èíslovek
+# ss 116
+mnoho:much, many (nom.)
+mnoha:much, many (gen.)
+mnoha:much, many (dat.)
+mnoho:much, many (acc.)
+mnoha:much, many (loc.)
+mnoha:much, many (inst.)
+kolik:how much, how many (nom.)
+kolika:how much, how many (gen.)
+kolika:how much, how many (dat.)
+kolik:how much, how many (acc.)
+kolika:how much, how many (loc.)
+kolika:how much, how many (inst.)
+tolik:so much, so many:like kolik
+nìkolik:some, several, a few:like kolik
+Mnoho lidí tam bylo.:Many people were there.
+Vidìl jsem nìkolik lidí.:I saw several people.
+od mnoha lidí:from many people
+po tolika letech:after so many years
+málo:little, few:undecl.
+MCG Ch. 25 (Gramm.)
+# ss 117
+pondìlí:Monday:neut.
+v pondìlí:on Monday
+úterý:Tuesday:neut.
+v úterý:on Tuesday
+støeda:Wednesday:fem.
+ve støedu:on Wednesday
+ètvrtek:Thursday:masc., gen. ètvrtka
+ve ètvrtek:on Thursday
+pátek:Friday:masc., gen. pátku
+v pátek:on Friday
+sobota:Saturday:fem.
+v sobotu:on Saturday
+nedìle:Sunday:fem.
+v nedìli:on Sunday
+MCG Ch. 25 (Gramm.)/Deklinace èíslovek
+# ss 118
+jedenáctý:eleventh
+dvanáctý:twelfth
+tøináctý:thirteenth
+ètrnáctý:fourteenth
+patnáctý:fifteenth
+¹estnáctý:sixteenth
+sedmnáctý:seventeenth
+osmnáctý:eighteenth
+devatenáctý:nineteenth
+dvacátý:twentieth
+dvacátý první/jedenadvacátý:twenty-first
+dvacátý druhý/dvaadvacátý:twenty-second
+dvacátý tøetí/tøiadvacátý:twenty-third
+MCG Ch. 25 (Gramm.)
+# ss 119
+nad co:over (dynamic)
+na co:on top of (dynamic)
+do èeho:into
+v co:into:rare
+k èemu:towards (dynamic)
+pod co:below (dynamic)
+s èeho:off the top of (dynamic)
+z èeho:out of
+od èeho:away from (dynamic)
+nad èím:over, above (static)
+na èem:on top of (static)
+u èeho:by, beside (static)
+v èem:inside (static)
+pod èím:below (static)
+mezi:between, among:+ co n. èím
+Polo¾te tu knihu mezi tyto dvì.:Put that book between those two.
+Mezi tìmi domy je ohrada.:Between those houses there is a fence.
+pøed:in front of, to the front:+ co n. èím
+©el pøed svoje auto.:He walked to the front of his car.
+Stál jsem pøed divadlem.:I stood in front of the theater.
+za:behind, beyond:+ co n. èím
+©el za auto.:He walked behind the car.
+Na¹e zahrada je za domem.:Our garden is behind the house.
+o co:against (touching), about (occas.), for (asking)
+o èem:about
+Opíral se o zeï.:He was leaning against the wall.
+®ebrák ¾ádal o almu¾nu.:The beggar asked for alms.
+Mluvil o mém bratrovi.:He was talking about my brother.
+doprostøed:to the center of:+ èeho
+©li jsme doprostøed námìstí.:We walked to the middle of the square.
+mimo:past, by:+ co
+©el mimo ná¹ dùm.:He walked by our house.
+pøes:across, through, over:+ co
+©li pøes pole.:They walked through the field.
+skrz(e):through (a hole, tunnel, etc.):+ co
+Díval jsem se skrz okno.:I was looking through the window.
+naproti:across from, opposite to:+ èemu
+Ná¹ dùm stojí naproti hospodì.:Our house stands across from the inn.
+pøi:near, with, by:+ èem
+Ètu pøi svíèce.:I am reading by candlelight.
+uprostøed:in the center of:+ èeho
+Námìstí bylo uprostøed mìsta.:The city square was at the center of the city.
+uvnitø:inside, within:+ èeho
+uvnitø domu:within the house
+vedle:beside, alongside:+ èeho
+Sedìl jsem vedle ní.:I sat beside her.
+podle:along:+ èeho (stat. or dyn.)
+Chodili jsme podle øeky.:We walked along the river.
+Domy stojí podle øeky.:The houses stand along the river.
+kolem:around:+ èeho (stat. or dyn.)
+©el jste kolem jezera?:Have you walked around the lake?
+Kolem mìsta je zeï.:There is a wall around the city.
+proti:against, opposite to:+ èemu (stat. or dyn.)
+Pluli jsme proti proudu.:We swam against the current.
+Stál jsem proti vám.:I stood opposite you.
+
+MCG Ch. 25 (Misc.)
+tváøí v tváø:face to face
+
+MCG Ch. 26 (Vocab.)
+cibule:onion:fem.
+fazole:bean:fem.
+hlas:voice
+hlasem:aloud, out loud
+klobouk:hat
+klobouèek:little hat
+koleno:knee
+koupelna:bathroom
+krk:neck
+køik:cry, shout, shouting
+kuchaø:cook
+mládenec:young man, bachelor
+neslýchaný:unheard-of
+noha:leg, foot
+oba, obì:both
+ovce:sheep:fem.
+pláè:weeping:masc.
+povídka:tale, short story
+pozdrav:greeting(s)
+prapor:banner, flag
+pøedtím:previously, formerly
+rameno:shoulder
+stálý:continual, constant:stále
+strom:tree
+¹átek:kerchief, handkerchief
+ucho:ear:pl. u¹i
+vítìz:victor:masc. soft
+zanedlouho:before long, after a while
+zelený:green
+èistit:to clean (impf.)
+vyèistit:to clean (perf.)
+kazit:to spoil (something) (impf.)
+pokazit:to spoil (something) (perf.)
+plakat:to weep (impf.):pláèu
+zaplakat:to weep (perf.):zapláèu
+pravit:to say
+pøibíhat:to run up, come running (impf.)
+pøibìhnout:to run up, come running (perf.)
+stát:to stand/to be worth, cost:impf., stojím, stál
+umírat:to die (impf.)
+umøít:to die (perf.):umru (umøu), umøe¹, umøel
+utírat:to wipe, wipe off (impf.)
+utøít:to wipe, wipe off (perf.):utøu, utøel
+vjí¾dìt:to go in, enter (in a vehicle) (impf.):-ìjí
+vjet:to go in, enter (in a vehicle) (perf.):like jet
+vyhazovat:to throw out, away (impf.)
+vyhodit:to throw out, away (perf.)
+vyhrávat:to win (a game, bet, etc.) (impf.)
+vyhrát:to win (a game, bet, etc.) (perf.):vyhraju
+¾ehnat:to bless (impf.):¾ehnám
+po¾ehnat:to bless (perf.):po¾ehnám
+èervenobílý:red and white
+oèichat:to sniff over (perf.)
+porazit:to slaughter (perf.)
+se¾rat:to eat up, consume (of animals) (perf.)
+vlát:to fly (of a flag), flutter (impf.)
+vnitønosti:entrails:fem. pl.
+vstøíc:in sympathy, in welcome
+zbìsilý:frantic, mad
+
+MCG Ch. 26 (Gramm.)
+# ss 120
+den:day (nom.)
+dne:day (gen.)
+dni:day (dat.)
+den:day (acc.)
+dni:day (voc.)
+dni:day (loc.):or dnu; ve dne
+dnem:day (inst.)
+dni/dny:days (nom.)
+dní/dnù:days (gen.)
+dnùm:days (dat.)
+dni/dny:days (acc.)
+dnech:days (loc.)
+dny:days (inst.)
+týden:week (nom.)
+týdne:week (gen.)
+týdni:week (dat.)
+týden:week (acc.)
+týdni:week (voc.)
+týdni/týdnu:week (loc.)
+týdnem:week (inst.)
+týdny:weeks (nom.)
+týdnù:weeks (gen.)
+týdnùm:weeks (dat.)
+týdny:weeks (acc.)
+týdnech:weeks (loc.)
+týdny:weeks (inst.)
+kùò:horse (nom.)
+konì:horse (gen.)
+koni/koòovi:horse (dat.)
+konì:horse (acc.)
+koni:horse (voc.)
+koni/koòovi:horse (loc.)
+konìm:horse (inst.)
+konì:horses (nom.)
+koòù/koní:horses (gen.)
+koòùm/koním:horses (dat.)
+konì:horses (acc.)
+koních:horses (loc.)
+koòmi:horses (inst.)
+lidé:people (nom.)
+lidí:people (gen.)
+lidem:people (dat.)
+lidi:people (acc.)
+lidech:people (loc.)
+lidmi:people (inst.)
+pøátelé:friends (nom.)
+pøátel:friends (gen.)
+pøátelùm:friends (dat.)
+pøátele:friends (acc.)
+pøátelích:friends (loc.)
+pøáteli:friends (inst.)
+MCG Ch. 26 (Gramm.)/Deklinace èíslovek
+# ss 121
+oèi:eyes (nom.)
+oèí:eyes (gen.)
+oèím:eyes (dat.)
+oèi:eyes (acc.)
+oèích:eyes (loc.)
+oèima:eyes (inst.)
+u¹i:ears (nom.)
+u¹í:ears (gen.)
+u¹ím:ears (dat.)
+u¹i:ears (acc.)
+u¹ích:ears (loc.)
+u¹ima:ears (inst.)
+ruce:hands, arms (nom.)
+rukou:hands, arms (gen.)
+rukám:hands, arms (dat.)
+ruce:hands, arms (acc.)
+rukou:hands, arms (loc.)
+rukama:hands, arms (inst.)
+kolena:knees (nom.)
+kolenou:knees (gen.)
+kolenùm:knees (dat.)
+kolena:knees (acc.)
+kolenou:knees (loc.)
+koleny:knees (inst.)
+ramena:shoulders (nom.)
+ramenou:shoulders (gen.)
+ramenùm:shoulders (dat.)
+ramena:shoulders (acc.)
+ramenou:shoulders (loc.)
+rameny:shoulders (inst.)
+nohy:feet, legs (nom.)
+nohou:feet, legs (gen.)
+nohám:feet, legs (dat.)
+nohy:feet, legs (acc.)
+nohou:feet, legs (loc.)
+nohama:feet, legs (inst.)
+bílýma rukama:with white hands
+Mìl jsem ho stále na oèích.:I kept him constantly in view.
+Myju si ruce.:I am washing my hands.
+Matka mi myje ruce.:Mother is washing my hands.
+dva:two (nom. masc.)
+dvì:two (nom. fem.)
+dvì:two (nom. neut.)
+dvou:two (gen.)
+dvìma:two (dat.)
+dva:two (acc. masc.)
+dvì:two (acc. fem.)
+dvì:two (acc. neut.)
+dvou:two (loc.)
+dvìma:two (inst.)
+oba:both (nom. masc.)
+obì:both (nom. fem.)
+obì:both (nom. neut.)
+obou:both (gen.)
+obìma:both (dat.)
+oba:both (acc. masc.)
+obì:both (acc. fem.)
+obì:both (acc. neut.)
+obou:both (loc.)
+obìma:both (inst.)
+Dr¾el jsem balík obìma rukama.:I held the package in both hands.
+Vidìl jsem dva pøátele.:I saw two friends.
+Sedìli jsme ve dvou pokojích.:We sat in two rooms.
+MCG Ch. 26 (Gramm.)
+# ss 122
+leden:January:gen. ledna
+v lednu:in January
+únor:February:gen. února
+v únoru:in February
+bøezen:March:gen. bøezna
+v bøeznu:in March
+duben:April:gen. dubna
+v dubnu:in April
+kvìten:May:gen. kvìtna
+v kvìtnu:in May
+èerven:June:gen. èervna
+v èervnu:in June
+èervenec:July:masc.
+v èervenci:in July
+srpen:August:gen. srpna
+v srpnu:in August
+záøí:September:neut.
+v záøí:in September
+øíjen:October:gen. øíjna
+v øíjnu:in October
+listopad:November:gen. listopadu
+v listopadu:in November
+prosinec:December:masc.
+v prosinci:in December
+MCG Ch. 26 (Gramm.)/Deklinace èíslovek
+# ss 123
+tøicátý:thirtieth
+ètyøicátý:fortieth
+padesátý:fiftieth
+¹edesátý:sixtieth
+sedmdesátý:seventieth
+osmdesátý:eightieth
+devadesátý:ninetieth
+stý:hundredth
+tisící:thousandth
+miliontý:millionth
+devadesátá pátá ulice:Ninety-Fifth Street
+dvoustý:two hundredth
+pìtitisící:five thousandth
+MCG Ch. 26 (Gramm.)
+# ss 124
+na jaøe:in spring
+v létì:in summer
+na podzim:in autumn
+v zimì:in winter
+ve støedu:on Wednesday
+pøed týdnem:a week ago
+pøed dvìma roky:two years ago
+od ledna:since January
+ode dne¹ka:since today
+od rána do veèera:from morning till evening
+a¾ do soboty:up to Saturday
+dodnes/podnes:until today
+kolem poledne:around noon
+kolem vánoc:around Christmas time
+k obìdu:towards dinner time
+k veèeru:towards evening
+Èetla jsem dvì hodiny.:I read for two hours.
+®ili jsme tam pìt let.:We lived there for five years.
+Odejel jsem na rok.:I went away for a year.
+pøed válkou:before the war
+Bìhem roku se mnoho zmìnilo.:During the year much has changed.
+Po chvilce se vrátil.:After a while he came back.
+Za hodinu pøijdu k vám.:In an hour I will come to your house.
+za chvilku:in a little while
+Celou noc jsem nespal.:I didn't sleep all night.
+dvakrát dennì:twice a day
+dvakrát mìsíènì:twice a month
+dvakrát roènì:twice a year
+Platím mu dolar za hodinu.:I pay him one dollar an hour.
+ve dne:in the daytime
+v noci:at night
+obèas:now and then, once in a while
+nìkdy:sometimes
+tehdy:then, at that time
+jindy:at another time
+teï/nyní:now
+potom/pak:then, next, later
+kolikrát:how many times?
+jednou:once
+dvakrát:twice
+tøikrát:three times
+mnohokrát:many times
+za chvíli:in a while
+ka¾dý den:every day
+ka¾dý týden:every week
+ka¾dý rok:every year
+ka¾dou hodinu:every hour
+ka¾dou minutu:every minute
+ka¾dou chvíli:every so often
+døíve:before, earlier
+pøedtím:previously, formerly
+dosud/posud:up to now
+# ss 125
+vyjít:to go out, exit (perf.):like jít
+# vyhodit
+vyskoèit:to jump up (perf.)
+vyprosit:to obtain by asking (perf.)
+# vyèistit
+utéct:to run away, escape (perf.)
+ubìhat se:to run until exhausted (perf.)
+upracovat se:to work to exhaustion (perf.)
+umuèit:to torture to death (perf.)
+udìlat/uèinit:to make, do (perf.)
+usednout:to take a seat (perf.)
+upadnout:to fall into (debt, etc.) (perf.)
+
+MCG Ch. 27 (Vocab.)
+hle:look!
+housle:violin:fem. pl.
+hvìzda:star
+chudoba:poverty
+kolem:around:adv., prep. + èeho
+lakomec:miser:gen. lakomce
+lakomý:miserly, stingy:lakomì
+list:leaf, sheet (of paper)
+majetek:property, fortune
+man¾elka:wife
+òadra:breast:neut. pl.
+naproti:across from, opposite/by contrast with:+ èemu
+po (co):for, during/up to
+prùbìh:course, progress
+pøece:nevertheless, still
+pták:bird
+pytel:bag, sack:masc., gen. pytle
+radost:joy, gladness
+rosa:dew
+rù¾e:rose:fem.
+schody:stairs:masc. pl.
+sen:(some) sleep/(a) dream:gen. snu; ze sna
+sotva:scarcely, hardly
+smutný:sad:smutnì, smutno
+té¾:also
+veøejný:public (adj.):veøejnì
+zábava:amusement, entertainment, fun
+zarmoucený:grieved, sad:zarmoucenì
+zpìv:song
+døímat:to doze, sleep, nod:impf.
+dýchat:to breathe (impf.):dýchám nebo dý¹u
+dýchnout:to breathe (perf.)
+jmenovat:to name (impf.)
+pojmenovat:to name (perf.)
+jmenovat se:to be called:impf.
+umlkat:to stop speaking, fall silent (impf.)
+umlknout:to stop speaking, fall silent (perf.)
+odva¾ovat se:to dare (impf.):+ dìlat nebo èeho
+odvá¾it se:to dare (perf.):+ dìlat nebo èeho
+pøemý¹let:to think over, ponder:impf., -ejí
+vydìlávat:to earn (impf.)
+vydìlat:to earn (perf.)
+vykládat:to explain, narrate (impf.)
+vylo¾it:to explain, narrate (perf.)
+vy¾adovat (si):to demand (impf.)
+vy¾ádat (si):to demand (perf.)
+vzcházet:to go up, ascend (impf.):-ejí
+vzejít:to go up, ascend (perf.):vzejdu
+zapírat:to deny (impf.)
+zapøít:to deny (perf.):zapøu, zapøel
+MCG Ch. 27 (Misc.)
+boháè:rich man
+bolno:painful
+denár:denier (French currency)
+historie:incident, story/history:fem.
+kalí¹ek:little chalice:from kalich
+kvítek:flower:from kvìt
+navrátit:to restore, return (perf.)
+teskno:depressed, lonely
+¹umìt:to rustle, murmur (impf.)
+vkrádat se:to steal in (impf.)
+
+MCG Ch. 27 (Gramm.)
+# ss 126
+dárek:gift:from dar
+kousek:small piece:from kus
+krou¾ek:ring, small circle:from kruh
+mùstek:little bridge:from most
+lístek:ticket, small leaf:from list
+domek:little house:from dùm
+stolek:little table:from stùl
+strýèek:uncle:from strýc
+rybka:little fish:from ryba
+my¹ka:little mouse:from my¹
+ruèka:little arm, hand:from ruka
+kní¾ka:booklet:from kniha
+no¾ka:little leg, foot:from noha
+pivko:small beer:from pivo
+slùvko:little word:from slovo
+koník:little horse:from kùò
+mu¾ík:little man:from mu¾
+psík:doggie:from pes
+hrneèek:dear little pot:from hrnec
+koníèek:dear horsie/hobby:from kùò; masc. pl. nom. koníèky
+tetièka:dear auntie:from teta
+holèièka:dear little girl:from holka
+slovíèko:lovely little word:from slovo
+srdíèko/srdéèko:dear heart:from srdce
+tatínek:Daddy:from táta
+maminka:Mommy:from máma
+matinka:Mommy:from matka
+tetinka:Auntie:from teta
+# ss 127
+chlapisko:big fellow:neut., from chlap
+psisko:big dog:neut., from pes
+hlupák:fool:from hloupý
+dlouhán:tall fellow:from dlouhý
+velikán:giant, big man:from veliký
+# ss 128
+bìlavý:whitish:from bílý
+èernavý:blackish:from èerný
+naèernalý:blackish, a bit black:from èerný
+pøihlouplý:a bit foolish:from hloupý
+# ss 129
+dlouhatý:very long:from dlouhý
+kratièký:very short:from krátký
+staøièký:very old:from starý
+malinký:very small:from malý
+bìlouèký/bìlounký:very white:from bílý
+hezouèký/hezounký:very pretty:from hezký
+pøedobrý:very good:from dobrý
+MCG Ch. 27 (Misc.)
+bídný:poor, miserable, wretched
+MCG Ch. 27 (Gramm.)
+pøebídný:very poor:from bídný
+# SKIPPING ss 130 (review of numbers)
+# ss 131
+bez:without:+ èeho
+©li jsme tam bez vás.:We went there without you.
+dle/podle:according to:+ koho (èeho)
+podle rozkazu:according to the order
+podle vás:in your opinion
+kromì:except:+ èeho
+v¹ichni kromì vás:everyone except you
+místo:instead of:+ èeho
+Já tam pojedu místo pana Nováka.:I will go there in Mr. Novák's place.
+kvùli:for the sake of, because of:+ èemu
+Pomohl jsem va¹emu pøíteli kvùli vám.:I helped your friend for your sake.
+po (èemu):according to
+po zákonu:according to the law:(dat.)
+proti:against:+ èemu
+Mluvil proti socialismu.:He spoke against socialism.
+pro:for, for the sake of, because of:+ co
+Udìlal jsem to pro vás.:I did that for your sake.
+pøes:in spite of:+ co
+pøes vá¹ odpor:in spite of your opposition
+mimo:besides:+ co
+mimo mne:besides me
+v (koho, co):in (in a person, etc.)
+Vìøím v Boha.:I believe in God.
+o (co):about, of, for
+Jde o va¹i pomoc.:It is a question of your help.
+Prosil mì o pomoc.:He asked me for help.
+za (co):for, in exchange for
+Koupil to za dolar.:He bought that for a dollar.
+o (èem):about, concerning
+Mluvil jsem o nìm.:I talked about him.
+MCG Ch. 27 (Misc.)
+# ex I
+Jak se jmenujete?:What is your name?
+hrát na housle:to play a violin
+jít komu naproti:to go towards someone/to go to meet someone
+
+MCG Ch. 28 (Vocab.)
+Anglie:England:fem.
+armáda:army
+autorita:authority
+dùsledek:consequence, result
+Francie:France:fem.
+Itálie:Italy:fem.
+jednotný:united, uniform:jednotnì
+konference:conference, meeting:fem.
+nezávislost:independence
+pas:pass, passport
+prezident:president
+pøedseda:chairman, prime minister:masc.
+rakouský:Austrian (adj.):rakousky
+samostatnost:independence
+shromá¾dìní:assembly
+skuteèný:actual, real:skuteènì
+skladatel:composer:masc. soft
+smlouva:agreement, contract, treaty
+spojenec:ally
+spojenecký:allied:spojenecky
+stát:state, country
+stav:condition, state
+synovec:nephew
+toté¾:the same thing
+uèitelka:woman teacher
+vláda:government
+vojsko:army, troops
+výrazný:expressive, emphatic:výraznì
+zároveò:at the same time
+zástupce:representative, agent:masc.
+daøit se:to succeed (impf.):+ komu
+podaøit se:to succeed (perf.):+ komu
+V¹ecko se mu daøí.:He succeeds in everything.
+Podaøilo se mi to nalézt.:I succeeded in finding it.
+dovídat se:to find out, learn (impf.):+ o èem
+dovìdìt se:to find out, learn (perf.):like vìdìt, + o èem
+dosahovat:to reach, attain, win (impf.):+ èeho
+dosáhnout:to reach, attain, win (perf.):+ èeho
+konèit:to finish, end (impf.)
+skonèit:to finish, end (perf.)
+konèit se:to be finished, end (impf.)
+skonèit se:to be finished, end (perf.)
+následovat:to follow:impf.
+spojovat:to unite, join (impf.)
+spojit:to unite, join (perf.)
+úèastnit se:to take part in (impf.):+ èeho, v èem, na èem
+zúèastnit se:to take part in (perf.):+ èeho, v èem, na èem
+uznávat:to admit, recognize (impf.)
+uznat:to admit, recognize (perf.)
+volit:to elect, select, choose (impf.):+ koho èím
+zvolit:to elect, select, choose (perf.):+ koho èím
+vydávat:to issue, publish (impf.)/to spend (impf.)
+vydat:to issue, publish (perf.)/to spend (perf.)
+MCG Ch. 28 (Misc.)
+diplomatický:diplomatic
+dosavadní:temporary, existing
+ministerský:ministerial
+snìmovna:parliament
+váleèný:military, pertaining to war
+vyvolat:to call out, single out (perf.)
+MCG Ch. 28 (Gramm.)
+# ss 132
+dùchod:income
+dùle¾itý:important
+pùvod:origin
+prùchod:passage
+dokonalý:perfect
+dokonat:to perfect
+dohra:epilogue
+povaha:character
+pronikavý:penetrating
+nábytek:furniture
+nabýt:to gain, acquire
+pøíchod:arrival
+pøijít:to come
+úèinek:effect
+uèinit:to do
+zájem:interest
+zajímat:to interest
+lecco(s)/ledaco(s):something, quite a bit
+leckdo/ledakdo:quite a few people, many people
+leckdy:many times, now and then
+lecjak:in some way
+lecjaký:many kinds of, all sorts of
+leckterý:many, all kinds of
+málokdo:few people
+máloco:few things
+málokde:in few places
+málokdy:seldom, rarely
+málokterý:few
+mnohdy:many times, often
+mnohde:in many places
+kdeco:everything, anything
+kdekdo:everyone
+kdejaký:every kind
+cokoli(v):whatever
+kdokoli(v):whoever
+kdekoli(v):wherever
+kamkoli(v):wherever
+kdykoli(v):whenever
+jakýkoli(v):whatever
+kterýkoli(v):whichever
+kdosi:someone or other
+cosi:something or other
+kdesi:somewhere
+kdysi:once, at one time
+jaksi:in some way
+jakýsi:some sort of
+kterýsi:some one
+Vrátil ses èasnì.:You have come back early.
+Vím, ¾es ¹el k doktorovi.:I know that you went to the doctor's.
+zaè:same as za co
+naè:same as na co
+oè:same as o co
+proè:same as pro co
+zaò:same as za nìho
+proò:same as pro nìho
+naò:same as na nìho
+oò:same as o nìj
+To» pøece nìco zhola jiného.:But that is quite a different thing.
+"Mùj bratr odjel na Slovensko." "Co¾e?":"My brother has gone off to Slovakia." "You don't say?"
+Kdo¾e to byl?:Who could that have been?
+Odpovídal nìmecky, èemu¾ jsem nerozumìl.:He answered in German, which I did not understand.
+Není tam nic, z èeho¾ bys mohl nìco získat.:There is nothing there which you could turn to any profit.
+Dìlají to, ani¾ vìdí proè.:They do that without knowing why.
+Copak tam dìlá¹?:Whatever are you doing there?
+Kdopak to asi je?:Who can that be?
+"To je pravda." "Kdepak!":"That's the truth." "Go on with you!"
+Copak jsi nepøi¹el?:Why didn't you come?
+Nìkdo sem pøichází.:Someone is coming here.
+Kdosi mi to øekl.:Someone (or some people) told me that.
+A» pøijde kdokoli.:Let anyone come who likes.
+Leckdo u¾ to ví.:All sorts of people know that already.
+Kdekdo to ví.:Everyone knows that.
+# ss 134
+Kolik je hodin?:What time is it?
+Je jedna hodina.:It is one o'clock.
+Jsou dvì hodiny.:It is two o'clock.
+Jsou tøi hodiny.:It is three o'clock.
+Jsou ètyøi hodiny.:It is four o'clock.
+Je pìt hodin.:It is five o'clock.
+Je poledne.:It is noon.
+Je pùlnoc.:It is midnight.
+Je pùl druhé.:It's half past one.
+Je pùl tøetí.:It's half past two.
+Je pùl osmé.:It's half past seven.
+Je pùl jedné.:It's half past twelve.
+Je ètvrt na jednu.:It's a quarter after twelve.
+Je ètvrt na dvì.:It's a quarter after one.
+Je ètvrt na pìt.:It's a quarter after four.
+Je tøi ètvrti na sedm.:It's a quarter to seven.
+Je pìt hodin dvacet.:It's five twenty.
+Je deset hodin ètyøicet.:It's ten forty.
+v kolik hodin:at what time?
+v jednu (hodinu):at one (o'clock)
+ve dvì (hodiny):at two (o'clock)
+v pùl páté:at half past four
+ve ètvrt na jedenáct:at quarter after ten
+v ¹est hodin ètyøicet:at six forty
+# ss 135
+Kolikatého je dnes?:What is the date today?
+Dnes je prvního ledna.:Today is the first of January.
+Dnes je tøetího února.:Today is the third of February.
+Dnes je desátého listopadu.:Today is the tenth of November.
+Dnes je dvacátého ¹estého prosince.:Today is the twenty-sixth of December.
+Mácha se narodil ¹estnáctého listopadu.:Mácha was born on November sixteenth.
+Mácha se narodil ¹estnáctého listopadu roku osmnáctistého desátého.:Mácha was born on November sixteenth, eighteen ten.
+Kní¾e Václav byl zavra¾dìn roku devítistého dvacátého devátého.:Prince Václav was murdered in nine twenty-nine.
+Kní¾e Václav byl zavra¾dìn v roce devítistém dvacátém devátém.:Prince Václav was murdered in nine twenty-nine.
+MCG Ch. 28 (Misc.)
+# ex I
+Jak se vám daøí?:How are you?/How are you getting along?
+Daøilo se mi dobøe.:I was getting along well.

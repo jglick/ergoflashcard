@@ -1,0 +1,53 @@
+# -*- Czech-Quiz -*-
+
+# Skipping: comparatives, superlatives
+
+ComCz L. 1 (Vocab.)
+být zvyklý na co:to be used to something
+cizina:foreign country
+èím ..., tím ...:the more ..., the more ...
+dìtství:childhood
+dospìlý:adult
+Evropa:Europe
+evropský:European
+házet:to throw (impf.)
+hodit:to throw (perf.)
+historický:historical
+hledat:to search, look for:impf.
+jedináèek:only child
+knihovnice:librarian
+konkurz:competition
+kultura:culture
+mateøská dovolená:maternity leave
+mo¾nost:possibility
+mrakodrap:skyscraper
+nálada:mood
+nároèný:exacting, demanding
+ne¾:than (with comparatives)
+odstìhovat se:to move away:perf.
+památka:monument
+poprvé:for the first time
+právník:lawyer
+pøedtím:before (adv.)
+pøestìhovat se:to move, remove:perf.
+pøíle¾itost:occasion, opportunity
+pøímo:directly
+pøistìhovat se:to move in:perf.
+rozhodovat se:to decide (impf.)
+rozhodnout se:to decide (perf.)
+skoro:almost, nearly
+starat se:to take care (of somebody) (impf.):+ o koho
+postarat se:to take care (of somebody) (perf.):+ o koho
+stát (subst.):(a) state
+stihnout:to catch up with:perf.
+støední:middle (adj.)
+ukazovat:to show (impf.):komu co
+ukázat:to show (perf.):uká¾u, komu co
+vìnovat se:to devote (family):impf., + komu
+východní:eastern
+výslovnost:pronunciation
+zasnoubený:engaged (to be married)
+zatím:meanwhile
+zrovna:just (adv.)
+zvykat si:to get used to (impf.):+ na co
+zvyknout si:to get used to (perf.):+ na co

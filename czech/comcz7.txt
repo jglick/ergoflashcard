@@ -1,0 +1,179 @@
+# -*- Czech-Quiz -*-
+
+ComCz L. 7 (Vocab.)
+aby:so that, in order that
+aèkoli:though, although
+èerná hodinka:a cozy chat (in twilight)
+ètenáø:reader
+dìvèe:girl:neut., dìvèete
+dobrodru¾ný:adventurous
+dokázat:to manage (perf.):doká¾u
+dokud:as long as, so long as
+dokud ne...:till, until
+dovolovat:to allow (impf.):+ komu
+dovolit:to allow (perf.):+ komu
+dùle¾itý:important
+dvojèe:twin:neut., dvojèete
+hádat se:to quarrel:impf., + o co s kým
+hájit:to stand up, vindicate (an idea):impf.
+hrabì:count, earl:hrabìte
+i kdy¾:in spite of, although
+jakmile:as soon as
+jednak...jednak:partly...partly
+kdepak:not at all, of course not
+kdykoli/kdykoliv:at any time, whenever
+kní¾e:prince, duke:kní¾ete
+koleda:carol
+kotì:kitten:neut., kotìte
+masá¾:massage:fem.
+namalovat:to paint (perf.)
+nechávat:to leave something up to someone (impf.):+ na èem
+nechat:to leave something up to someone (perf.):+ na èem
+nejen...ale i...:not only...but also...
+ne¾:before (conj.)
+obrna:paralysis
+okolí:surroundings
+okraj (mìsta):outskirts:masc.
+onemocnìt:to fall sick:perf., + èím
+opou¹tìt:to leave, quit (impf.)
+opustit:to leave, quit (perf.)
+osud:fate, fortune
+ozvat se:to come through (on the phone):perf., ozvu se, + komu
+platit:to concern:impf., + o èem
+podmínka:condition
+po¾ádat:to request, ask for:perf., + o co
+pro¾ívat:to pass, spend, live (impf.)
+pøedná¹et:to lecture:impf.
+pøepisovat:to type up, retype (impf.)
+pøepsat:to type up, retype (perf.):pøepí¹u
+pøestat:to stop (doing something):perf., pøestanu
+pøesto¾e:in spite of, although
+pøihlásit se (do kurzu):to apply (oneself):perf.
+pøísný:strict
+pustit (ke slovu):to let a person speak:perf.
+rehabilitaèní:rehabilitation (adj.)
+respektovat:to respect:impf.
+rod:family, clan
+rozèilit:to upset, excite:perf.
+rozmazlovat:to pamper:impf.
+ru¹it:to disturb:impf.
+samotný:alone
+scénáø:script
+shodou okolností:coincidentally
+skvìlý:splendid, great
+sna¾it se:to try (impf.):+ o co
+spoleènost:company, set
+spolupracovat:to cooperate:impf., s kým na èem
+svìt:world:gen. svìta
+¹tìnì:puppy:gen. ¹tìnìte
+tehdy:that time (adv.)
+toti¾:that is to say, namely
+uva¾ovat:to reason about, think over:impf., o èem
+verze:version:fem.
+vnouèe:grandchild:gen. vnouèete
+vychovávat:to bring up (impf.)
+vychovat:to bring up (perf.)
+vzkazovat:to give a message, send word (impf.)
+vzkázat:to give a message, send word (perf.):vzká¾u
+zatímco:while
+zdr¾et se:to be delayed:perf.
+zvíøe:animal:gen. zvíøete
+Platí?:OK? Are you game?
+Platí.:I am agreed.
+
+ComCz L. 7 (Gramm. C -- Conj.)
+spojka:conjunction
+spojovací výraz:link word
+a:and
+Naveèeøeli se a ¹li do diavdla.:They had dinner and went to the theatre.
+Studuji èe¹tinu a historii.:I study Czech and history.
+ale:but
+Dneska zùstaneme doma, ale zítra pùjdeme na koncert.:Today we will stay home, but tomorrow we will go to the concert.
+ani...ani:neither...nor
+Nemám rád ani bílé ani èervené víno.:I like neither white nor red wine.
+a tak:and so
+V USA jsem nemohl najít práci, a tak jsem pøijel sem.:In the USA I could not find work, and so I came here.
+co:what
+Vím, co má¹ v té ta¹ce.:I know what you have in that bag.
+jak:how
+Nevím, jak to mám udìlat.:I do not know how I have to do it.
+jestli:if, whether
+Ptal se mì, jestli mám èas.:He asked me if I had time.
+Je¹tì nevím, jestli pøijdou.:I still do not know if they will come.
+kam:where (dyn.)
+©la na ples, kam pozdìji pøi¹el i Zdenìk.:She went to the ball, where Zdenìk also went later.
+kde:where (stat.)
+®iju ve mìstì, kde není ani jeden Amerièan.:I live in a city where there is not even one American.
+kdo:who
+Vím, kdo umí dobøe nìmecky.:I know who knows German well.
+kdy:when
+Pøi¹el den, kdy jsem si myslel, ¾e u¾ to déle nevydr¾ím.:The day came when I thought to myself that I wasn't going to take it anymore.
+který:who, which
+®ena, kterou jsem potkal u øeky, mìla dlouhé vlasy.:The woman I ran into by the river had long hair.
+nebo:or
+Chtìl bych jet do Øecka nebo do Italie.:I would like to go to Greece or to Italy.
+ne¾:than
+Je ménì nadaný ne¾ jeho sestra.:He is less gifted than his sister.
+proto/a proto:therefore
+Chtìl jsem zmìnit svùj ¾ivot, a proto jsem pøijel do Prahy.:I wanted to change my life, and therefore I came to Prague.
+proto¾e:because
+Dlouho jsem se nemohl nauèit èesky, proto¾e gramatika je moc tì¾ká.:For a long time I was not able to learn Czech because the grammar is very difficult.
+¾e:that (conj.)
+Neèekal jsem, ¾e mi pomù¾e¹.:I didn't wait that you help me. (?)
+Øekl mi, ¾e se u¾ nevrátí.:He told me that he would no longer return.
+èasové vìty:time clauses
+kdy¾:when
+Kdy¾ je man¾el doma, vaøím veèeøi.:When my husband is home, I cook dinner.
+Kdy¾ jsem byla nemocná, nav¹tívil mì dìdeèek.:When I was sick, my grandfather visited me.
+a¾:when, as late as
+Pøijdu, a¾ budu mít èas.:I will come when I have time.
+ne¾:before
+Ne¾ se vrátí man¾el, uvaøím veèeøi.:Before my husband returns, I will cook dinner.
+jakmile:as soon as
+Jakmile man¾el pøijde domù, budeme veèeøet.:As soon as my husband comes home, we will have dinner.
+zatímco:while
+Zatímco man¾el ète noviny, dìlám veèeøi.:While my husband is reasing the newspaper, I make dinner.
+kdykoli/kdykoliv/v¾dycky kdy¾:at any time, whenever
+Kdykoli dostanu dopis, sna¾ím se hned odpovìdìt.:Whenever I get a letter, I try to answer it immediately.
+dokud:as long as, so long as
+dokud ne...:till, until
+Dokud nepøijde man¾el, nebudeme veèeøet.:Until my husband comes (home), we will not have dinner.
+Dokud budu nemocná, nepùjdu ven.:As long as I am ill, I will not go out.
+podmínkové vìty:conditional clauses
+kdy¾/jestli/jestli¾e/-li:if, in case
+Kdy¾ (jestli, jestli¾e) budu mít èas, pùjdu do divadla./Budu-li mít èas, pùjdu do divadla.:If I have time, I will go to the theatre.
+Kdy¾ je hezky, chodím se koupat.:If it is nice out, I go to bathe.
+Jestli bude snì¾it, pojedu na hory.:If it snows, I will go to the mountains.
+kdyby:if (subjun.)
+Kdybych mìl dost penìz, jel bych do Egypta.:If I had enough money, I would go to Egypt.
+Kdybys jel s námi do Egypta, vidìl bys pyramidy.:If you went with us to Egypt, you would see pyramids.
+pøípustkové vìty:clauses of concession
+i kdy¾/pøesto¾e/aèkoli:despite, although
+I kdy¾ není teplo, pùjdeme do lesa na houby.:Although it is not warm out, we will go into the forest for mushrooms.
+Pøesto¾e (aèkoli) jsem byl unavený, ¹el jsem na náv¹tìvu.:Although I was tired, I went on a visit.
+pøesto:in spite of (that, which)
+Nemìl peníze, pøesto si chtìl koupit drahou knihu.:He had no money, in spite of which he wanted to buy an expensive book.
+
+ComCz L. 7 (Gramm. D -- Vìty s aby)
+Nechce, aby ho nìkdo pøi práci ru¹il.:He doesn't want anyone to disturb him at work.
+Sna¾íme se, abychom je nerozmazlovali.:We try not to pamper them.
+hlavní vìta:main clause
+vìta úèelová:clause of purpose
+Jedeme na hory, abychom ly¾ovali./Jedeme na hory ly¾ovat.:We are going to the mountains to ski.
+Jeli jsme na hory, abychom ly¾ovali./Jeli jsme na hory ly¾ovat.:We went to the mountains to ski.
+Pojedeme na hory, abychom ly¾ovali./Pojedeme na hory ly¾ovat.:We will go to the mountains to ski.
+Jeïte na hory, abyste ly¾ovali!:Go to the mountains to ski!
+Jedeme na hory, proto¾e chceme ly¾ovat.:We are going to the mountains because we want to ski.
+Nepøejeme si, abyste tady kouøili.:We don't wish you to smoke here.
+Nechtìla, aby ji doprovázel.:She didn't want him to accompany her.
+Sna¾il jsem se, abych pøijel vèas.:I tried to come on time.
+Øekl mi, abych to udìlal.:He told me to do it.
+Po¾ádal jsem ho, aby mi pomohl.:I asked him to help me.
+Pøítel mi radil, abych víc odpoèíval.:A friend advised me to relax more.
+Prosili nás, abychom jeli s nimi.:They asked us to go with them.
+Dovolte, abych Vám pøedstavil svou ¾enu.:Let me introduce my wife.
+Vzkázal mi, abych mu zavolal.:He left me a message to call him.
+Pøipomeò mi, abych poslal ten dopis.:Remind me to send that letter.
+Není mo¾né, aby tomu nerozumìli.:It isn't possible for them to understand that.
+Je tøeba, aby to udìlali vèas.:It is necessary for them to do it on time.
+Není nutné, abyste tam chodili.:It isn't necessary for you to go there.
