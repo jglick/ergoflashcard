@@ -715,15 +715,15 @@ public class Main extends JFrame {
                                     join(qqs[i].in),
                                     join(qqs[i].out),
                                     prettyTime(qqs[i].getTime()),
-                                    scoreFormat.format(100.0 * qqs[i].getPerformance())
+                                    SCORE_FORMAT.format(100.0 * qqs[i].getPerformance())
                         };
                     }
                     JTable tab = new JTable(data, new String[] {
                         "Section(s)",
-                                "Asked",
-                                "Answered",
-                                "Last Seen",
-                                "Score"
+                        "Asked",
+                        "Answered",
+                        "Last Seen",
+                        "Score"
                     });
                     SwingUtilities.invokeLater(new Runnable() {
                         public void run() {
@@ -1022,8 +1022,8 @@ public class Main extends JFrame {
         return res.toString();
     }
     
-    private static DecimalFormat scoreFormat = new DecimalFormat("0.0");
-    private static DecimalFormat timeFormat = new DecimalFormat("0.0");
+    private static final DecimalFormat SCORE_FORMAT = new DecimalFormat("0.0");
+    private static final DecimalFormat TIME_FORMAT = new DecimalFormat("0.0");
     
     // STATES:
     // 0 - showing question
@@ -1076,7 +1076,7 @@ public class Main extends JFrame {
                 lab.setForeground(principalColors[i % principalColors.length]);
                 inSides.add(lab);
             }
-            totalScore.setText(scoreFormat.format(100.0 *
+            totalScore.setText(SCORE_FORMAT.format(100.0 *
                     qs.getAveragePerformance()));
             answer.setEnabled(true);
             answerKeys.setText("(any key: Enter / Space / Y / N)");
@@ -1098,8 +1098,7 @@ public class Main extends JFrame {
         if (cfg == null) return;
         state = 1;
         endTime = System.currentTimeMillis();
-        thisScore.setText
-                (scoreFormat.format(100.0 * currQuestion.getPerformance()));
+        thisScore.setText(SCORE_FORMAT.format(100.0 * currQuestion.getPerformance()));
         outSides.removeAll();
         for (int i = 0; i < currQuestion.out.length; i++) {
             Box answer = Box.createHorizontalBox();
@@ -1119,8 +1118,8 @@ public class Main extends JFrame {
             JLabel label = new JLabel(currQuestion.sections[i]);
             sections.add(label);
         }
-        timeTaken.setText(timeFormat.format(.001 * (endTime - startTime)) + " / " +
-                timeFormat.format(.001 * currQuestion.getGracePeriod()));
+        timeTaken.setText(TIME_FORMAT.format(.001 * (endTime - startTime)) + " / " +
+                TIME_FORMAT.format(.001 * currQuestion.getGracePeriod()));
         lastSeen.setText(currQuestion.isEverBeenSeen() ?
             prettyTime(currQuestion.getTime()) :
             "(first encounter)");
@@ -1137,8 +1136,8 @@ public class Main extends JFrame {
         if (cfg == null) return;
         state = 2;
         currQuestion.updatePerformance(endTime - startTime, perf);
-        totalScore.setText(scoreFormat.format(100.0 * qs.getAveragePerformance()));
-        thisScore.setText(scoreFormat.format(100.0 * currQuestion.getPerformance()));
+        totalScore.setText(SCORE_FORMAT.format(100.0 * qs.getAveragePerformance()));
+        thisScore.setText(SCORE_FORMAT.format(100.0 * currQuestion.getPerformance()));
         answer.setEnabled(false);
         correct.setEnabled(false);
         incorrect.setEnabled(false);
