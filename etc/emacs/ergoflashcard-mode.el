@@ -43,7 +43,7 @@
 (defvar ergoflashcard-bogus-face 'ergoflashcard-bogus-face
   "Face to use for bogus text in Ergoflashcard mode.")
 
-(define-derived-mode ergoflashcard-mode text-mode "Ergoflashcard"
+(define-derived-mode ergoflashcard-mode text-mode "ErgoFlashCard"
   "Major mode for editing ergoflashcard data files."
   ;; XXX need to set encoding to UTF-8
   (setq case-fold-search t)

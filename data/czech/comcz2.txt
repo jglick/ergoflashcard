@@ -1,4 +1,4 @@
-# -*- Czech-Quiz -*-
+# -*- Czech-ErgoFlashCard -*-
 
 ComCz L. 2 (Misc. -- Pražské jaro)
 báseň - poem - fem.

@@ -1,4 +1,4 @@
-# -*- Dutch-Quiz -*-
+# -*- Dutch-ErgoFlashCard -*-
 
 Go Dutch! 1 (Vocab. 1)
 ander - other

@@ -1,4 +1,4 @@
-# -*- Czech-Quiz -*-
+# -*- Czech-ErgoFlashCard -*-
 
 ComCz L. 4 (Vocab.)
 buď..nebo.. - either..or..

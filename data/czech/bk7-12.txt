@@ -1,4 +1,4 @@
-# -*- Czech-Quiz -*-
+# -*- Czech-ErgoFlashCard -*-
 
 MCG Ch. 7 (Misc.)
 protože už dlouho čekáme - because we have been waiting for a long time

@@ -1,4 +1,4 @@
-# -*- Czech-Quiz -*-
+# -*- Czech-ErgoFlashCard -*-
 ElComCz Chapter 4
 doporučený dopis - registered letter - masc.
 drobné - change - pl.

@@ -1,4 +1,4 @@
-# -*- Czech-Quiz -*-
+# -*- Czech-ErgoFlashCard -*-
 
 ComCz L. 9 (Vocab.)
 bezpečnost - safety, security

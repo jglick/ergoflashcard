@@ -1,4 +1,4 @@
-# -*- Quiz -*-
+# -*- ErgoFlashCard -*-
 
 # Keyboard:
 # ю1234567890-ч Ю--ъЪ-ёЁ*()_Ч

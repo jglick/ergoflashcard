@@ -1,4 +1,4 @@
-# -*- Czech-Quiz -*-
+# -*- Czech-ErgoFlashCard -*-
 El. Comm. Czech Ch. 1-3
 docela - quite - adv.
 drahý - expensive

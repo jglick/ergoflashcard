@@ -14,7 +14,7 @@
 
 (require 'ergoflashcard-mode)
 
-(define-derived-mode irish-ergoflashcard-mode ergoflashcard-mode "Irish Ergoflashcard"
+(define-derived-mode irish-ergoflashcard-mode ergoflashcard-mode "Irish ErgoFlashCard"
   "Major mode for editing Irish ergoflashcard data files."
   (set (make-local-variable 'iso-language) "irish")
   (iso-accents-mode 1)

@@ -163,7 +163,7 @@
       (insert impf-inf " - " en " (impf.)" impf-conj-append "\n"
 	      prefix impf-inf " - " en " (perf.)" perf-conj-append "\n"))))
 
-(define-derived-mode czech-ergoflashcard-mode ergoflashcard-mode "Czech Ergoflashcard"
+(define-derived-mode czech-ergoflashcard-mode ergoflashcard-mode "Czech ErgoFlashCard"
   "Major mode for editing Czech ergoflashcard data files.
 
 \\{czech-ergoflashcard-mode-map}"

@@ -1,4 +1,4 @@
-# -*- Czech-Quiz -*-
+# -*- Czech-ErgoFlashCard -*-
 
 ComCz L. 7 (Vocab.)
 aby - so that, in order that

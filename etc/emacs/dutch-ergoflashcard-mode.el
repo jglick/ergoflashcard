@@ -14,7 +14,7 @@
 
 (require 'ergoflashcard-mode)
 
-(define-derived-mode dutch-ergoflashcard-mode ergoflashcard-mode "Dutch Ergoflashcard"
+(define-derived-mode dutch-ergoflashcard-mode ergoflashcard-mode "Dutch ErgoFlashCard"
   "Major mode for editing Dutch ergoflashcard data files."
   (set (make-local-variable 'iso-language) "dutch")
   (iso-accents-mode 1)

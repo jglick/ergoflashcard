@@ -1,4 +1,4 @@
-# -*- Czech-Quiz -*-
+# -*- Czech-ErgoFlashCard -*-
 
 MCG Ch. 25 (Vocab.)
 děvče - girl - neut., gen. děvčete

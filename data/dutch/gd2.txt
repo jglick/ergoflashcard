@@ -1,4 +1,4 @@
-# -*- Dutch-Quiz -*-
+# -*- Dutch-ErgoFlashCard -*-
 
 Go Dutch! 2 (Vocab. 1)
 agent - policeman - de

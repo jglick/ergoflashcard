@@ -1,4 +1,4 @@
-# -*- Czech-Quiz -*-
+# -*- Czech-ErgoFlashCard -*-
 
 MCG Ch. 13 (Misc.)
 když - if (pres. tense) (colloq.)/if (fut. tense) (std.)

@@ -1,4 +1,4 @@
-# -*- Irish-Quiz -*-
+# -*- Irish-ErgoFlashCard -*-
 
 Teach Yourself Irish 1 (Foclóir)
 Tar isteach. - Come in.

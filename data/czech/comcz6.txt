@@ -1,4 +1,4 @@
-# -*- Czech-Quiz -*-
+# -*- Czech-ErgoFlashCard -*-
 
 ComCz L. 6 (Gramm. A -- Reg. comp. superl.)
 rychlý - fast (adj.)
