@@ -232,10 +232,19 @@ public class Config implements Cloneable {
         // XXX could be more aggressive and look for partial path matches
         if (! target.isAbsolute()) target = new File(target.getAbsolutePath());
         if (! orig.isAbsolute()) orig = new File(orig.getAbsolutePath());
-        if (target.getParent().equals(orig.getParent())) {
+        File targetC, origC;
+        try {
+            targetC = target.getCanonicalFile();
+            origC = orig.getCanonicalFile();
+        } catch (IOException ioe) {
+            ioe.printStackTrace();
+            targetC = target;
+            origC = orig;
+        }
+        if (targetC.getParent().equals(origC.getParent())) {
             return target.getName();
-        } else if (target.getParentFile().equals(orig.getParentFile().getParentFile())) {
-            return ".." + File.separator + target.getName(); 
+        } else if (targetC.getParentFile().equals(origC.getParentFile().getParentFile())) {
+            return ".." + File.separator + target.getName();
         } else {
             return target.getPath();
         }
