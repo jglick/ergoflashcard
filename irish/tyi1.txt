@@ -1,0 +1,149 @@
+# -*- Irish-Quiz -*-
+
+Teach Yourself Irish 1 (Foclóir)
+Tar isteach. - Come in.
+Suigh sios ansin. - Sit down there.
+Go raibh maith agat. - Thank you.
+Tá sé fuar inniu. - It is cold today.
+Tá, cinnte. - It certainly is.
+aris - again
+Agus do sheoladh? - And your address? - seoladh m.
+uimhir a trí - number three - uimhir f.
+árasán a dó - flat two - árasán m.
+Sráid Mhór - Main Street - Sráid f.
+d'uimhir teileafóin - your telephone number - teileafóin m.
+Tá bileog ansin. - There is a leaflet there. - bileog f.
+Tá an t-eolas ar fad ann. - All the information is in it. - eolas m.
+
+Teach Yourself Irish 1 (Pointí eolais)
+Conas tá tú? - How are you?
+Tá sé go breá - It is fine.
+Dia dhuit - God be with you
+Dia is Muire dhuit - God and Mary be with you
+Tomás Mac Cárthaigh - Thomas McCarthy
+Seán Ó Conaill - Sean O'Connell
+náid - zero
+aon - one - pron. én
+dó - two
+trí - three
+ceathair - four - pron. kyahir
+cúig - five
+sé - six
+seacht - seven
+ocht - eight
+naoi - nine - pron. nuí
+deich - ten - pron. deh
+aon déag - eleven - pron. én dé(u)g
+do dhéag - twelve - pron. dó yé(u)g
+trí déag - thirteen
+ceathair déag - fourteen
+cúig déag - fifteen
+sé déag - sixteen
+seacht déag - seventeen
+ocht déag - eighteen
+naoi déag - nineteen
+fiche - twenty
+a haon, a dó, a trí - one, two, three
+a hocht, a naoi, a deich - eight, nine, ten
+uimhir a seacht, Sráid Uí Chonaill - number seven, O'Connell Street
+árasán a ceathair - apartment number four
+seomra a hocht déag - room number eighteen
+tá sé a cúig a chlog anois - it is five o'clock now
+ag a naoi a chlog - at nine o'clock
+
+Teach Yourself Irish 1 (Gramadach)
+fear - man
+an fear - the man
+bord - table
+an bord - the table
+athair - father
+an t-athair - the father
+eolas - information
+an t-eolas - the information
+árasán - apartment
+an t-árasán - the apartment
+bean - woman
+an bhean - the woman
+máthair - mother
+an mháthair - the mother
+bileog - leaflet
+an bhileog - the leaflet
+oifig - office
+an oifig - the office
+uimhir - number
+an uimhir - the number
+sráid - street
+an tsráid - the street
+Tá cathaoir ansin. - There is a chair there.
+Tá bileog ansin. - There is a leaflet there.
+tá mé - I am
+tá tú - you are
+tá sé - he is / it is
+tá sí - she is
+tá muid - we are
+tá sibh - y'all are
+tá siad - they are
+Conas tá tú inniu? - How are you today?
+Tá mé go maith. - I am well.
+Tá Máire anseo. - Mary is here.
+Conas tá sé amuigh? - How is it outside?
+Tá sé fuar inniu. - It is cold today.
+Tá peann ansin. - There is a pen there.
+Tá seoladh anseo. - There is an address here.
+Cé tusa? - Who are you?
+Is mise Pádraig. - I am Patrick.
+Is mise an rúnaí. - I am the secretary.
+Mise Deirdre. - I am Deirdre.
+mo - my
+do - your
+a - his
+a - her
+m'ainm - my name
+d'uimhir - your number
+póca - pocket
+mo phóca - my pocket
+carr - car
+mo charr - my car
+máthair - mother
+do mháthair - your mother
+seoladh - address
+a sheoladh - his address
+a máthair - her mother
+a seoladh - her address
+leabhar - book
+mo leabhar - my book
+nuachtán - newspaper
+mo nuachtán - my newspaper
+rothar - bicycle
+do rothar - your bicycle
+hata - hat
+a hata - his hat
+le do thoil - please - pron. le do hul; lit. with your will
+a mháthair - his mother
+a máthair - her mother
+a sheoladh - his address
+a seoladh - her address
+a ainm - his name
+a hainm - her name
+Tá ainm anseo. - There is a name here.
+Tá a ainm anseo. - His name is here. - pron. ~ tá ainm anseo
+mo charr - my car
+mo charrsa - _my_ car
+m'ainm - my name
+Tá m'ainmse ansin. - _My_ name is there.
+Tá mé i mo chónaí i Luimneach. - I live in Limerick.
+Tá Seán ina chónaí i Londain. - John lives in London.
+Tá Máire ina cónaí i Meiriceá. - Mary lives in America.
+Conas tá tú? - How are you?
+Conas tá do mháthair? - How is your mother? - pron. do wáhir
+Conas tá d'athair? - How is your father? - pron. dahir
+Conas tá do shlaghdán? - How is your cold? - pron. do hloydán
+Conas tá an aimsir? - How is the weather? - pron. an amshir
+Cad is ainm duit? - What is your name? - lit. What is name to you?
+agus - and
+Dia agus Muire - God _and_ Mary
+Tá Seán anseo. - John is here.
+Tá sé anseo. - He is here.
+uimhir teileafóin - telephone number
+fón póca - mobile phone
+Sráid Mhór - Main Street
