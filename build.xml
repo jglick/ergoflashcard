@@ -24,7 +24,7 @@ limitations under the License.
     </target>
 
     <target name="run" depends="build" description="Run app.">
-        <java classname="net.sf.ergoflashcard.Main">
+        <java classname="net.sf.ergoflashcard.Main" fork="true">
             <classpath>
                 <pathelement location="build/classes"/>
             </classpath>
