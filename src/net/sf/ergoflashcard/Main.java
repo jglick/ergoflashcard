@@ -107,12 +107,14 @@ public class Main extends JFrame {
         });
     }
     
+    private static final String CONFIG_EXTENSION = "ergoflashcardcfg";
+    
     private static final FileFilter CONFIG_FILTER = new FileFilter() {
         public String getDescription() {
-            return "Config files (*.qcf)";
+            return "Config files (*." + CONFIG_EXTENSION + ")";
         }
         public boolean accept(File f) {
-            return f.getName().endsWith(".qcf") || f.isDirectory();
+            return f.getName().endsWith("." + CONFIG_EXTENSION) || f.isDirectory();
         }
     };
     
@@ -134,8 +136,9 @@ public class Main extends JFrame {
             }
         });
         String userDir = System.getProperty("user.dir");
-        if (userDir != null)
+        if (userDir != null) {
             chooserDir = new File(userDir);
+        }
         updateMenus();
         pack();
         repaint();
@@ -822,6 +825,104 @@ public class Main extends JFrame {
             t.start();
         }
     }
+    
+    private void doOpenConfig() {
+        try {
+            JFileChooser chooser = new JFileChooser();
+            chooser.setDialogTitle("Open Config ...");
+            chooser.addChoosableFileFilter(CONFIG_FILTER);
+            chooser.setFileFilter(CONFIG_FILTER);
+            if (chooserDir != null) chooser.setCurrentDirectory(chooserDir);
+            if (chooser.showOpenDialog(Main.this) == JFileChooser.APPROVE_OPTION) {
+                Config nue;
+                if (cfg == null) {
+                    nue = new Config();
+                } else {
+                    nue = cfg.cloneConfig();
+                }
+                nue.read(chooser.getSelectedFile());
+                setConfigLater(nue);
+            }
+            chooserDir = chooser.getCurrentDirectory();
+        } catch (IOException ioe) {
+            ioe.printStackTrace();
+        }
+    }
+    
+    private void doEditConfig() {
+        final JDialog dlg = new JDialog(Main.this, "Edit Configuration") {
+            public Dimension getPreferredSize() {
+                Dimension def = super.getPreferredSize();
+                return new Dimension((int) (Toolkit.getDefaultToolkit().getScreenSize().width * 0.9), def.height);
+            }
+        };
+        dlg.setModal(true);
+        Container cont = dlg.getContentPane();
+        cont.setLayout(new BorderLayout());
+        final JEditorPane pane = new JEditorPane();
+        pane.setContentType("text/plain");
+        pane.setFont(new Font("Monospaced", Font.PLAIN, 12));
+        try {
+            Reader rd = new InputStreamReader(new FileInputStream(cfg.origin), "ISO-8859-1");
+            pane.getEditorKit().read(rd, pane.getDocument(), 0);
+        } catch (IOException ioe) {
+            ioe.printStackTrace();
+            return;
+        } catch (BadLocationException ble) {
+            ble.printStackTrace();
+            return;
+        }
+        cont.add(new JScrollPane(pane), BorderLayout.CENTER);
+        JPanel buttons = new JPanel();
+        buttons.setLayout(new FlowLayout(FlowLayout.CENTER));
+        JButton okButton = new JButton("Save and Apply");
+        okButton.setMnemonic(KeyEvent.VK_S);
+        okButton.addActionListener(new ActionListener() {
+            public void actionPerformed(ActionEvent ev) {
+                try {
+                    Writer wr = new OutputStreamWriter(new FileOutputStream(cfg.origin), "ISO-8859-1");
+                    pane.write(wr);
+                    wr.close();
+                    Config nue = cfg.cloneConfig();
+                    nue.read(cfg.origin);
+                    setConfigLater(nue);
+                    dlg.dispose();
+                } catch (IOException ioe) {
+                    ioe.printStackTrace();
+                }
+            }
+        });
+        buttons.add(okButton);
+        JButton cancelButton = new JButton("Cancel");
+        cancelButton.setMnemonic(KeyEvent.VK_C);
+        cancelButton.addActionListener(new ActionListener() {
+            public void actionPerformed(ActionEvent ev) {
+                dlg.dispose();
+            }
+        });
+        buttons.add(cancelButton);
+        cont.add(buttons, BorderLayout.SOUTH);
+        dlg.pack();
+        dlg.show();
+    }
+    
+    private void doSaveAs() {
+        try {
+            JFileChooser chooser = new JFileChooser();
+            chooser.setDialogTitle("Save Config As ...");
+            chooser.addChoosableFileFilter(CONFIG_FILTER);
+            chooser.setFileFilter(CONFIG_FILTER);
+            if (chooserDir != null) chooser.setCurrentDirectory(chooserDir);
+            if (cfg.origin != null) chooser.setSelectedFile(cfg.origin);
+            if (chooser.showSaveDialog(Main.this) == JFileChooser.APPROVE_OPTION) {
+                cfg.write(chooser.getSelectedFile());
+            }
+            chooserDir = chooser.getCurrentDirectory();
+        } catch (IOException ioe) {
+            ioe.printStackTrace();
+        }
+    }
+    
     private void updateMenus() {
         JMenuBar bar = new JMenuBar();
         JMenu file = new JMenu("File");
@@ -829,26 +930,7 @@ public class Main extends JFrame {
         JMenuItem open = new JMenuItem("Open ...", KeyEvent.VK_O);
         open.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent ev) {
-                try {
-                    JFileChooser chooser = new JFileChooser();
-                    chooser.setDialogTitle("Open Config ...");
-                    chooser.addChoosableFileFilter(CONFIG_FILTER);
-                    chooser.setFileFilter(CONFIG_FILTER);
-                    if (chooserDir != null) chooser.setCurrentDirectory(chooserDir);
-                    if (chooser.showOpenDialog(Main.this) == JFileChooser.APPROVE_OPTION) {
-                        Config nue;
-                        if (cfg == null) {
-                            nue = new Config();
-                        } else {
-                            nue = cfg.cloneConfig();
-                        }
-                        nue.read(chooser.getSelectedFile());
-                        setConfigLater(nue);
-                    }
-                    chooserDir = chooser.getCurrentDirectory();
-                } catch (IOException ioe) {
-                    ioe.printStackTrace();
-                }
+                doOpenConfig();
             }
         });
         file.add(open);
@@ -857,98 +939,28 @@ public class Main extends JFrame {
                 JMenuItem edit = new JMenuItem("Edit Config ...", KeyEvent.VK_E);
                 edit.addActionListener(new ActionListener() {
                     public void actionPerformed(ActionEvent ev) {
-                        final JDialog dlg = new JDialog(Main.this, "Edit Configuration") {
-                            public Dimension getPreferredSize() {
-                                Dimension def = super.getPreferredSize();
-                                return new Dimension
-                                        ((int) (Toolkit.getDefaultToolkit().getScreenSize().width *
-                                        0.9),
-                                        def.height);
-                            }
-                        };
-                        dlg.setModal(true);
-                        Container cont = dlg.getContentPane();
-                        cont.setLayout(new BorderLayout());
-                        final JEditorPane pane = new JEditorPane();
-                        pane.setContentType("text/plain");
-                        pane.setFont(new Font("Monospaced", Font.PLAIN, 12));
-                        try {
-                            Reader rd = new InputStreamReader
-                                    (new FileInputStream(cfg.origin));
-                            pane.getEditorKit().read(rd, pane.getDocument(), 0);
-                        } catch (IOException ioe) {
-                            ioe.printStackTrace();
-                            return;
-                        } catch (BadLocationException ble) {
-                            ble.printStackTrace();
-                            return;
-                        }
-                        cont.add(new JScrollPane(pane), BorderLayout.CENTER);
-                        JPanel buttons = new JPanel();
-                        buttons.setLayout(new FlowLayout(FlowLayout.CENTER));
-                        JButton okButton = new JButton("Save and Apply");
-                        okButton.setMnemonic(KeyEvent.VK_S);
-                        okButton.addActionListener(new ActionListener() {
-                            public void actionPerformed(ActionEvent ev) {
-                                try {
-                                    Writer wr = new OutputStreamWriter
-                                            (new FileOutputStream(cfg.origin));
-                                    pane.write(wr);
-                                    wr.close();
-                                    Config nue = cfg.cloneConfig();
-                                    nue.read(cfg.origin);
-                                    setConfigLater(nue);
-                                    dlg.dispose();
-                                } catch (IOException ioe) {
-                                    ioe.printStackTrace();
-                                }
-                            }
-                        });
-                        buttons.add(okButton);
-                        JButton cancelButton = new JButton("Cancel");
-                        cancelButton.setMnemonic(KeyEvent.VK_C);
-                        cancelButton.addActionListener(new ActionListener() {
-                            public void actionPerformed(ActionEvent ev) {
-                                dlg.dispose();
-                            }
-                        });
-                        buttons.add(cancelButton);
-                        cont.add(buttons, BorderLayout.SOUTH);
-                        dlg.pack();
-                        dlg.show();
+                        doEditConfig();
                     }
                 });
                 file.add(edit);
             }
-      /*
-      JMenuItem save = new JMenuItem ("Save", KeyEvent.VK_S);
-      save.addActionListener (new ActionListener () {
-        public void actionPerformed (ActionEvent ev) {
-          try {
-            cfg.save ();
-          } catch (IOException ioe) {
-            ioe.printStackTrace ();
-          }
-        }
-      });
-      file.add (save);
-       */
-            JMenuItem saveAs = new JMenuItem("Save As ...", KeyEvent.VK_A);
-            saveAs.addActionListener(new ActionListener() {
+            /*
+            JMenuItem save = new JMenuItem("Save", KeyEvent.VK_S);
+            save.addActionListener(new ActionListener() {
                 public void actionPerformed(ActionEvent ev) {
                     try {
-                        JFileChooser chooser = new JFileChooser();
-                        chooser.setDialogTitle("Save Config As ...");
-                        chooser.addChoosableFileFilter(CONFIG_FILTER);
-                        chooser.setFileFilter(CONFIG_FILTER);
-                        if (chooserDir != null) chooser.setCurrentDirectory(chooserDir);
-                        if (cfg.origin != null) chooser.setSelectedFile(cfg.origin);
-                        if (chooser.showSaveDialog(Main.this) == JFileChooser.APPROVE_OPTION)
-                            cfg.write(chooser.getSelectedFile());
-                        chooserDir = chooser.getCurrentDirectory();
+                        cfg.save();
                     } catch (IOException ioe) {
                         ioe.printStackTrace();
                     }
+                }
+            });
+            file.add(save);
+             */
+            JMenuItem saveAs = new JMenuItem("Save As ...", KeyEvent.VK_A);
+            saveAs.addActionListener(new ActionListener() {
+                public void actionPerformed(ActionEvent ev) {
+                    doSaveAs();
                 }
             });
             file.add(saveAs);
