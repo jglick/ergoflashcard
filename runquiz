@@ -1,3 +1,3 @@
 #!/bin/sh
 cd `dirname $0`
-exec java -classpath .:$CLASSPATH:/usr/local/jdk/lib/classes.zip -noasyncgc -ms10m -mx20m quiz.Main "$@"
+exec java -classpath . -Xincgc -ms10m -mx20m quiz.Main "$@"
