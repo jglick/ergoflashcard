@@ -28,7 +28,6 @@ import java.awt.Insets;
 import java.awt.Toolkit;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
@@ -52,6 +51,7 @@ import javax.swing.Box;
 import javax.swing.BoxLayout;
 import javax.swing.JButton;
 import javax.swing.JCheckBoxMenuItem;
+import javax.swing.JComponent;
 import javax.swing.JDialog;
 import javax.swing.JEditorPane;
 import javax.swing.JFileChooser;
@@ -65,6 +65,7 @@ import javax.swing.JProgressBar;
 import javax.swing.JRadioButtonMenuItem;
 import javax.swing.JScrollPane;
 import javax.swing.JTable;
+import javax.swing.KeyStroke;
 import javax.swing.SwingConstants;
 import javax.swing.SwingUtilities;
 import javax.swing.Timer;
@@ -366,9 +367,11 @@ public class Main extends JFrame {
     private JButton answer;
     private JButton correct;
     private JButton incorrect;
+    private JButton pause;
     private JLabel answerKeys;
     private JLabel correctKeys;
     private JLabel incorrectKeys;
+    private JLabel pauseKeys;
     
     private Font principalFont;
     private Color[] principalColors;
@@ -401,6 +404,14 @@ public class Main extends JFrame {
         incorrect.addActionListener(someAnswer);
         incorrect.setEnabled(false);
         incorrectKeys = new JLabel();
+        pause = new JButton("Pause");
+        pause.addActionListener(new ActionListener() {
+            public void actionPerformed(ActionEvent ev) {
+                gotoThree();
+            }
+        });
+        pause.setEnabled(false);
+        pauseKeys = new JLabel();
         principalFont = new Font(cfg.fontFamily, cfg.fontStyle, cfg.fontSize);
         // XXX add to config
         principalColors = new Color[] { Color.red, Color.black };
@@ -439,7 +450,7 @@ public class Main extends JFrame {
         left.ipadx = right.ipadx = 2;
         left.ipady = right.ipady = 2;
         //Container pane = getContentPane ();
-        Container pane = new JPanel();
+        JPanel pane = new JPanel();
         getContentPane().add(new JScrollPane(pane), BorderLayout.CENTER);
         pane.setLayout(layout);
         left.gridy = right.gridy = 0;
@@ -456,7 +467,7 @@ public class Main extends JFrame {
         left.ipady = 2;
         // XXX better would be to actually wrap excessively long answers...
         // but not clear how to do this. JTextArea would be easy enough
-        // but would not permit coloring. JEditorPane would not set the
+        // but would not permit coloring (easily). JEditorPane would not set the
         // font very reliably due to a Swing bug.
         //pane.add (new JScrollPane (outSides), right);
         // Simply too ugly, forget it:
@@ -485,18 +496,28 @@ public class Main extends JFrame {
         left.gridy = right.gridy = 10;
         pane.add(new JLabel("Total questions:"), left);
         pane.add(totalQuestions, right);
-        addKeyListener(new KeyAdapter() {
-            public void keyReleased(final KeyEvent ev) {
-                //System.err.println ("Key: " + ev.getKeyChar ());
-                if (ev.getKeyCode() == KeyEvent.VK_Q) {
-                    shutdown();
-                    return;
+        left.gridy = right.gridy = 11;
+        pane.add(pause, left);
+        pane.add(pauseKeys, right);
+        pane.registerKeyboardAction(new ActionListener() {
+            public void actionPerformed(ActionEvent ev) {
+                shutdown();
+            }
+        }, KeyStroke.getKeyStroke('q'), JComponent.WHEN_FOCUSED);
+        pane.registerKeyboardAction(new ActionListener() {
+            public void actionPerformed(ActionEvent ev) {
+                if (state != 3) {
+                    gotoThree();
+                } else {
+                    Toolkit.getDefaultToolkit().beep();
                 }
-                if (ev.getKeyCode() == KeyEvent.VK_PAUSE) {
-                    // Ignore this: conflict with window-manager shortcut.
-                    return;
-                }
+            }
+        }, KeyStroke.getKeyStroke('p'), JComponent.WHEN_FOCUSED);
+        ActionListener general = new ActionListener() {
+            public void actionPerformed(ActionEvent ev) {
+                String cmd = ev.getActionCommand();
                 if (currQuestion == null && state < 3) {
+                    System.err.println("No question?!");
                     Toolkit.getDefaultToolkit().beep();
                     return;
                 }
@@ -505,51 +526,20 @@ public class Main extends JFrame {
                         gotoOne();
                         break;
                     case 1:
-                        switch (ev.getKeyCode()) {
-                            case KeyEvent.VK_SPACE:
-                            case KeyEvent.VK_N:
-                            case KeyEvent.VK_SHIFT:
+                        if (cmd.equals("n")) {
                                 gotoTwo(0.0f);
-                                break;
-                            case KeyEvent.VK_ENTER:
-                            case KeyEvent.VK_Y:
-                            case KeyEvent.VK_CONTROL:
+                        } else if (cmd.equals("y")) {
                                 gotoTwo(1.0f);
-                                break;
-                            case KeyEvent.VK_1:
-                                gotoTwo(0.1f);
-                                break;
-                            case KeyEvent.VK_2:
-                                gotoTwo(0.2f);
-                                break;
-                            case KeyEvent.VK_3:
-                                gotoTwo(0.3f);
-                                break;
-                            case KeyEvent.VK_4:
-                                gotoTwo(0.4f);
-                                break;
-                            case KeyEvent.VK_5:
-                                gotoTwo(0.5f);
-                                break;
-                            case KeyEvent.VK_6:
-                                gotoTwo(0.6f);
-                                break;
-                            case KeyEvent.VK_7:
-                                gotoTwo(0.7f);
-                                break;
-                            case KeyEvent.VK_8:
-                                gotoTwo(0.8f);
-                                break;
-                            case KeyEvent.VK_9:
-                                gotoTwo(0.9f);
-                                break;
-                            default:
-                                Toolkit.getDefaultToolkit().beep();
-                                break;
+                        } else if (cmd.length() == 1 && cmd.charAt(0) >= '0' && cmd.charAt(0) <= '9') {
+                            int level = Integer.parseInt(cmd);
+                            gotoTwo(0.1f * level);
+                        } else {
+                            System.err.println("Weird command: " + cmd);
+                            Toolkit.getDefaultToolkit().beep();
                         }
                         break;
                     case 2:
-                        gotoThree();
+                        Toolkit.getDefaultToolkit().beep();
                         break;
                     case 3:
                         updateTotalQuestions();
@@ -557,7 +547,14 @@ public class Main extends JFrame {
                         break;
                 }
             }
-        });
+        };
+        pane.registerKeyboardAction(general, "n", KeyStroke.getKeyStroke(KeyEvent.VK_SPACE, 0), JComponent.WHEN_FOCUSED);
+        pane.registerKeyboardAction(general, "y", KeyStroke.getKeyStroke(KeyEvent.VK_ENTER, 0), JComponent.WHEN_FOCUSED);
+        pane.registerKeyboardAction(general, "y", KeyStroke.getKeyStroke('y'), JComponent.WHEN_FOCUSED);
+        pane.registerKeyboardAction(general, "n", KeyStroke.getKeyStroke('n'), JComponent.WHEN_FOCUSED);
+        for (char c = '1'; c <= '9'; c++) {
+            pane.registerKeyboardAction(general, String.valueOf(c), KeyStroke.getKeyStroke(c), JComponent.WHEN_FOCUSED);
+        }
         updateMenus();
         pack();
         repaint();
@@ -1053,6 +1050,18 @@ public class Main extends JFrame {
     private static DecimalFormat scoreFormat = new DecimalFormat("0.0");
     private static DecimalFormat timeFormat = new DecimalFormat("0.0");
     
+    // STATES:
+    // 0 - showing question
+    // 1 - showing answer
+    // 2 - showing updated score
+    // 3 - paused
+    // TRANSITIONS:
+    // 0 -> 1: user presses some key
+    // 1 -> 2: user rates him/herself
+    // 2 -> 0: a second elapses
+    // 0..2 -> 3: pause
+    // 3 -> 0: unpause
+    
     private void gotoZero() {
         if (cfg == null) return;
         if (! qs.isPrepared()) {
@@ -1080,6 +1089,8 @@ public class Main extends JFrame {
         correctKeys.setText("");
         incorrect.setEnabled(false);
         incorrectKeys.setText("");
+        pause.setEnabled(true);
+        pauseKeys.setText("(keys: P)");
         currQuestion = qs.getNextQuestion();
         if (currQuestion != null) {
             inSides.removeAll();
@@ -1093,7 +1104,7 @@ public class Main extends JFrame {
             totalScore.setText(scoreFormat.format(100.0 *
                     qs.getAveragePerformance()));
             answer.setEnabled(true);
-            answerKeys.setText("(any key)");
+            answerKeys.setText("(any key: Enter / Space / Y / N)");
             SwingUtilities.invokeLater(new Runnable() {
                 public void run() {
                     startTime = System.currentTimeMillis();
@@ -1141,9 +1152,9 @@ public class Main extends JFrame {
         answer.setEnabled(false);
         answerKeys.setText("");
         correct.setEnabled(true);
-        correctKeys.setText("(keys: Y / Enter / Ctrl; partial: 1 ... 9)");
+        correctKeys.setText("(keys: Y / Enter; partial: 1 ... 9)");
         incorrect.setEnabled(true);
-        incorrectKeys.setText("(keys: N / Spc / Shift)");
+        incorrectKeys.setText("(keys: N / Spc)");
     }
     
     private static int gcCounter = 0;
@@ -1185,9 +1196,11 @@ public class Main extends JFrame {
         correctKeys.setText("");
         incorrect.setEnabled(false);
         incorrectKeys.setText("");
+        pause.setEnabled(false);
+        pauseKeys.setText("");
         totalScore.setText("");
         inSides.removeAll();
-        inSides.add(new JLabel("(paused - hit any key to start)"));
+        inSides.add(new JLabel("(paused - hit any key: Enter / Space / Y / N to start)"));
         // XXX why is this needed?
         pack();
         repaint();
