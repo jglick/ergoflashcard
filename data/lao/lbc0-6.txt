@@ -1,0 +1,11 @@
+# -*- Lao-ErgoFlashCard -*-
+
+Lao Basic Course: Greeting Cycle
+sábaaj - to be well, comfortable
+sábaajdii - good, well
+bɔɔ - [question particle]
+sábaajdii bɔɔ - How are you, how are things?
+càw - you
+càw sábaajdii bɔɔ - How are you?
+khɔ̂ɔpcaj - thank you
+sábaajdii khɔ̂ɔpcaj - Fine, thank you.
