@@ -25,7 +25,6 @@ import java.io.InputStreamReader;
 import java.io.Reader;
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Iterator;
 import java.util.List;
 
 public final class DataLine {
@@ -63,57 +62,61 @@ public final class DataLine {
             Reader r = new InputStreamReader(is, "UTF-8");
             BufferedReader br = new BufferedReader(r);
             String line;
-            List entries = new ArrayList(250);
+            List<DataLine> entries = new ArrayList<DataLine>(250);
             String currSec = null;
             while ((line = br.readLine()) != null) {
-                if (line.startsWith("#") || line.length() == 0) continue;
+                if (line.startsWith("#") || line.length() == 0) {
+                    continue;
+                }
                 if (line.indexOf(" - ") == -1) {
                     currSec = line;
                     continue;
                 }
-                if (currSec == null)
+                if (currSec == null) {
                     throw new IOException("Must set a section before the first line");
-                List fields = new ArrayList(4);
-                List sectionAlts = split(currSec, " / ");
+                }
+                List<List<String>> fields = new ArrayList<List<String>>(4);
+                List<String> sectionAlts = split(currSec, " / ");
                 fields.add(sectionAlts);
                 int product = sectionAlts.size();
-                Iterator it = split(line, " - ").iterator();
-                while (it.hasNext()) {
-                    List sideAlts = split((String)it.next(), " / ");
+                for (String s : split(line, " - ")) {
+                    List<String> sideAlts = split(s, " / ");
                     fields.add(sideAlts);
                     product *= sideAlts.size();
                 }
-                if (fields.size() < 2 || product == 0)
+                if (fields.size() < 2 || product == 0) {
                     throw new IOException("Bad: " + line);
+                }
                 for (int i = 0; i < product; i++) {
                     String section = null;
                     String[] sides = new String[fields.size() - 1];
                     int j = i;
                     for (int k = 0; k < fields.size(); k++) {
-                        List alts = (List)fields.get(k);
-                        String alt = ((String)alts.get(j % alts.size())).trim();
-                        if (k == 0)
+                        List<String> alts = fields.get(k);
+                        String alt = alts.get(j % alts.size()).trim();
+                        if (k == 0) {
                             section = alt;
-                        else
+                        } else {
                             sides[k - 1] = alt;
+                        }
                         j /= alts.size();
                     }
-                    if (j != 0) throw new Error("miscalc'd alts");
+                    assert j == 0 : "Miscalc'd alts";
                     entries.add(new DataLine(section, sides));
                 }
             }
-            return (DataLine[])entries.toArray(new DataLine[entries.size()]);
+            return entries.toArray(new DataLine[entries.size()]);
         } finally {
             is.close();
         }
     }
     
-    private static List split(String text, String sep) {
+    private static List<String> split(String text, String sep) {
         int i = text.indexOf(sep);
         if (i == -1) {
             return Collections.singletonList(text);
         }
-        List l = new ArrayList(2);
+        List<String> l = new ArrayList<String>(2);
         l.add(text.substring(0, i));
         int j;
         while ((j = text.indexOf(sep, i + sep.length())) != -1) {

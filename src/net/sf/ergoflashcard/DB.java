@@ -26,18 +26,20 @@ import java.io.RandomAccessFile;
 import java.io.UnsupportedEncodingException;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
-import java.util.Hashtable;
-import java.util.Vector;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 public class DB implements Runnable {
     
     // Five minutes:
-    public static final int FLUSH_DELAY = 1000 * 60 * 5;
+    private static final int FLUSH_DELAY = 1000 * 60 * 5;
     
     private File db;
     private RandomAccessFile raf;
-    private Vector entries; // Vector<Entry>
-    private Hashtable finder; // Hashtable<Entry,Integer>
+    private List<Entry> entries;
+    private Map<Entry,Integer> finder;
     private int count;
     private boolean clean;
     private boolean closed;
@@ -113,8 +115,8 @@ public class DB implements Runnable {
         if (closed) return false;
         if (entries == null) {
             if (db == null) {
-                entries = new Vector(100);
-                finder = new Hashtable(100);
+                entries = new ArrayList<Entry>(100);
+                finder = new HashMap<Entry,Integer>(100);
                 count = 0;
                 return true;
             }
@@ -122,19 +124,18 @@ public class DB implements Runnable {
             try {
                 raf.seek(0);
                 long fLength = raf.length();
-                if (fLength % Entry.ENTRY_LENGTH != 0)
-                    throw new Error("weird file size");
+                assert fLength % Entry.ENTRY_LENGTH == 0 : "Weird file size: " + fLength;
                 count = (int) (fLength / Entry.ENTRY_LENGTH);
                 int cap = (count < 100) ? 100 : ((int) (count * 1.5));
-                Vector v = new Vector(cap);
-                Hashtable h = new Hashtable(cap);
+                List<Entry> _entries = new ArrayList<Entry>(cap);
+                Map<Entry,Integer> _finder = new HashMap<Entry,Integer>(cap);
                 for (int i = 0; i < count; i++) {
                     Entry e = Entry.read(raf);
-                    v.addElement(e);
-                    h.put(e, new Integer(i));
+                    _entries.add(e);
+                    _finder.put(e, i);
                 }
-                entries = v;
-                finder = h;
+                entries = _entries;
+                finder = _finder;
                 return true;
             } catch (IOException ioe) {
                 ioe.printStackTrace();
@@ -148,11 +149,11 @@ public class DB implements Runnable {
     public synchronized Entry findEntry(byte[] key) {
         Entry def = new Entry(key);
         if (! ensureEntries()) return def;
-        Integer i = (Integer) finder.get(def);
+        Integer i = finder.get(def);
         if (i == null) {
             return def;
         } else {
-            return (Entry) entries.elementAt(i.intValue());
+            return entries.get(i);
         }
     }
     
@@ -163,15 +164,15 @@ public class DB implements Runnable {
     
     public synchronized void updateEntry(Entry e) {
         if (! ensureEntries()) return;
-        Integer i = (Integer) finder.get(e);
+        Integer i = finder.get(e);
         int pos;
         if (i == null) {
             pos = count++;
-            entries.addElement(e);
-            finder.put(e, new Integer(pos));
+            entries.add(e);
+            finder.put(e, pos);
         } else {
-            pos = i.intValue();
-            entries.setElementAt(e, pos);
+            pos = i;
+            entries.set(pos, e);
         }
         if (db == null) return;
         if (! ensureRaf()) return;
@@ -216,12 +217,12 @@ public class DB implements Runnable {
         private final static int EXTRA_LENGTH = 8 + 4;
         public final static int ENTRY_LENGTH = KEY_LENGTH + EXTRA_LENGTH;
         
-        private static MessageDigest md;
+        private static final MessageDigest md;
         static {
             try {
                 md = MessageDigest.getInstance("SHA-1");
             } catch (NoSuchAlgorithmException nsae) {
-                nsae.printStackTrace();
+                throw new AssertionError(nsae);
             }
         }
         
@@ -286,9 +287,11 @@ public class DB implements Runnable {
             Entry e = (Entry) o;
             if (hashCode() != e.hashCode()) return false;
             byte[] other = e.key;
-            for (int i = 0; i < Entry.KEY_LENGTH; i++)
-                if (key[i] != other[i])
+            for (int i = 0; i < Entry.KEY_LENGTH; i++) {
+                if (key[i] != other[i]) {
                     return false;
+                }
+            }
             return true;
         }
         
@@ -315,13 +318,11 @@ public class DB implements Runnable {
                         }
                     }
                     byte[] toRet = md.digest();
-                    if (toRet.length != KEY_LENGTH)
-                        throw new Error("wrong key length");
+                    assert toRet.length == KEY_LENGTH : "Wrong key length: " + toRet.length;
                     return toRet;
                 }
             } catch (UnsupportedEncodingException uee) {
-                uee.printStackTrace();
-                throw new Error(uee.toString());
+                throw new AssertionError(uee);
             }
         }
         private static void update(MessageDigest md, int x) {

@@ -23,10 +23,11 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Locale;
 import java.util.Properties;
 import java.util.StringTokenizer;
-import java.util.Vector;
 
 public class Config implements Cloneable {
     
@@ -274,31 +275,32 @@ public class Config implements Cloneable {
         return buf.toString();
     }
     private static File[] readFileArray(String text, File base) {
-        Vector v = new Vector();
+        List<File> files = new ArrayList<File>();
         StringTokenizer tok = new StringTokenizer(text, "|");
-        while (tok.hasMoreTokens())
-            v.addElement(relateFile(base, tok.nextToken()));
-        File[] ret = new File[v.size()];
-        v.copyInto(ret);
-        return ret;
+        while (tok.hasMoreTokens()) {
+            files.add(relateFile(base, tok.nextToken()));
+        }
+        return files.toArray(new File[files.size()]);
     }
     private static String[] readStringArray(String text) {
-        Vector v = new Vector();
+        // XXX cannot use Collections.list since StringTokenizer implements Enumeration<Object> not Enumeration<String>!
+        List<String> strings = new ArrayList<String>();
         StringTokenizer tok = new StringTokenizer(text, "|");
-        while (tok.hasMoreTokens())
-            v.addElement(tok.nextToken());
-        String[] ret = new String[v.size()];
-        v.copyInto(ret);
-        return ret;
+        while (tok.hasMoreTokens()) {
+            strings.add(tok.nextToken());
+        }
+        return strings.toArray(new String[strings.size()]);
     }
     private static int[] readIntArray(String text) throws NumberFormatException {
-        Vector v = new Vector();
+        List<Integer> ints = new ArrayList<Integer>();
         StringTokenizer tok = new StringTokenizer(text, "|");
-        while (tok.hasMoreTokens())
-            v.addElement(new Integer(Integer.parseInt(tok.nextToken())));
-        int[] ret = new int[v.size()];
-        for (int i = 0; i < ret.length; i++)
-            ret[i] = ((Integer) v.elementAt(i)).intValue();
+        while (tok.hasMoreTokens()) {
+            ints.add(Integer.parseInt(tok.nextToken()));
+        }
+        int[] ret = new int[ints.size()];
+        for (int i = 0; i < ret.length; i++) {
+            ret[i] = ints.get(i);
+        }
         return ret;
     }
     

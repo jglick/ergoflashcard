@@ -18,9 +18,15 @@ package net.sf.ergoflashcard;
 
 import java.awt.BorderLayout;
 import java.awt.Frame;
-import java.util.Enumeration;
-import java.util.Hashtable;
-import java.util.Vector;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Comparator;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Iterator;
+import java.util.List;
+import java.util.Map;
+import java.util.Set;
 import javax.swing.JDialog;
 import javax.swing.JLabel;
 import javax.swing.JProgressBar;
@@ -70,26 +76,33 @@ public class Questions {
     }
     
     class Aggregate {
-        final Vector sections = new Vector(1); // Vector<String>
+        final List<String> sections = new ArrayList<String>(1);
         final String[] inSides;
-        final Vector outSides = new Vector(1); // Vector<String[]>
+        final List<String[]> outSides = new ArrayList<String[]>(1);
         Aggregate(String[] is) {
             inSides = is;
             //System.err.println ("New agg: " + this);
         }
         public boolean equals(Object o) {
-            if (o == null || ! (o instanceof Aggregate)) return false;
+            if (o == null || ! (o instanceof Aggregate)) {
+                return false;
+            }
             String[] test = ((Aggregate) o).inSides;
-            if (test.length != inSides.length) return false;
-            for (int i = 0; i < test.length; i++)
-                if (! test[i].equals(inSides[i]))
+            if (test.length != inSides.length) {
+                return false;
+            }
+            for (int i = 0; i < test.length; i++) {
+                if (!test[i].equals(inSides[i])) {
                     return false;
+                }
+            }
             return true;
         }
         public int hashCode() {
             int x = 0;
-            for (int i = 0; i < inSides.length; i++)
+            for (int i = 0; i < inSides.length; i++) {
                 x ^= inSides[i].hashCode();
+            }
             return x;
         }
         public String toString() {
@@ -104,7 +117,7 @@ public class Questions {
             //System.err.println ("Maybe add sec to agg " + this + ": " + sec);
             if (! sections.contains(sec)) {
                 //System.err.println ("\t(adding)");
-                sections.addElement(sec);
+                sections.add(sec);
             }
         }
         void addOutSides(String[] sides) {
@@ -112,60 +125,52 @@ public class Questions {
             //for (int i = 0; i < sides.length; i++)
             //System.err.print (" " + sides[i]);
             //System.err.println ();
-            goahead:
-            for (int i = 0; i < outSides.size(); i++) {
-                //System.err.println ("Considering existing side " + i);
-                String[] oSides = (String[]) outSides.elementAt(i);
-                if (oSides.length != sides.length) continue goahead;
-                for (int j = 0; j < oSides.length; j++) {
-                    if (! oSides[j].equals(sides[j])) {
-                        continue goahead;
-                    }
+            for (String[] oSides : outSides) {
+                if (Arrays.equals(oSides, sides)) {
+                    return;
                 }
-                return;
             }
             //System.err.println ("\t(adding)");
-            outSides.addElement(sides);
+            outSides.add(sides);
         }
         Question toQuestion() {
-            String[] secs = new String[sections.size()];
-            sections.copyInto(secs);
-            if (secs.length > 1) Main.bubblesort(secs, Main.STRING_SORTER);
-            String[][] outs = new String[outSides.size()][];
-            outSides.copyInto(outs);
-            if (outs.length > 1) Main.bubblesort(outs, new Main.Sorter() {
-                public int compare(Object o1, Object o2) {
-                    String[] s1 = (String[]) o1;
-                    String[] s2 = (String[]) o2;
-                    for (int i = 0; ; i++) {
-                        boolean t1 = (i < s1.length);
-                        boolean t2 = (i < s2.length);
-                        if (t1 && t2) {
-                            int c = s1[i].compareTo(s2[i]);
-                            if (c != 0) return c;
-                        } else if (t1 && ! t2) {
-                            return 1;
-                        } else if (! t1 && t2) {
-                            return -1;
-                        } else /* ! t1 && ! t2 */ {
-                            return 0;
+            String[] secs = sections.toArray(new String[sections.size()]);
+            if (secs.length > 1) {
+                Arrays.sort(secs, Main.STRING_SORTER);
+            }
+            String[][] outs = outSides.toArray(new String[outSides.size()][]);
+            if (outs.length > 1) {
+                Arrays.sort(outs, new Comparator<String[]>() {
+                    public int compare(String[] s1, String[] s2) {
+                        for (int i = 0; ; i++) {
+                            boolean t1 = (i < s1.length);
+                            boolean t2 = (i < s2.length);
+                            if (t1 && t2) {
+                                int c = s1[i].compareTo(s2[i]);
+                                if (c != 0) return c;
+                            } else if (t1 && ! t2) {
+                                return 1;
+                            } else if (! t1 && t2) {
+                                return -1;
+                            } else /* ! t1 && ! t2 */ {
+                                return 0;
+                            }
                         }
                     }
-                }
-            });
+                });
+            }
             return new Question(secs, inSides, outs);
         }
     }
     
     private static String[] extractSides(String[] sides, int[] indices) {
-        Vector resV = new Vector(Math.max(1, indices.length));
-        for (int i = 0; i < indices.length; i++) {
-            if (indices[i] < sides.length)
-                resV.addElement(sides[indices[i]]);
+        List<String> result = new ArrayList<String>(Math.max(1, indices.length));
+        for (int index : indices) {
+            if (index < sides.length) {
+                result.add(sides[index]);
+            }
         }
-        String[] res = new String[resV.size()];
-        resV.copyInto(res);
-        return res;
+        return result.toArray(new String[result.size()]);
     }
     
     public boolean isPrepared() {
@@ -184,9 +189,8 @@ public class Questions {
                 dlg.getContentPane().add(prog, BorderLayout.CENTER);
                 dlg.getContentPane().add(new JLabel("Analyzing questions, please wait..."), BorderLayout.SOUTH);
                 dlg.pack();
-                dlg.show();
-                // Hashtable<Aggregate,Aggregate>
-                Hashtable aggs = new Hashtable(Math.max(1, lines.length));
+                dlg.setVisible(true);
+                Map<Aggregate,Aggregate> aggs = new HashMap<Aggregate,Aggregate>(Math.max(1, lines.length));
                 
                 for (int i = 0; i < lines.length; i++) {
                     // 50% loading lines...
@@ -200,7 +204,7 @@ public class Questions {
                     String[] inSides = extractSides(line.sides, cfg.inSides);
                     String[] outSides = extractSides(line.sides, cfg.outSides);
                     Aggregate agg = new Aggregate(inSides);
-                    Aggregate existing = (Aggregate) aggs.get(agg);
+                    Aggregate existing = aggs.get(agg);
                     if (existing == null) {
                         aggs.put(agg, agg);
                     } else {
@@ -211,7 +215,7 @@ public class Questions {
                 }
                 
                 Question[] qs = new Question[aggs.size()];
-                Enumeration e = aggs.keys();
+                Iterator<Aggregate> e = aggs.keySet().iterator();
                 for (int i = 0; i < qs.length; i++) {
                     // ...50% creating questions.
                     final int val = 50 + i * 50 / qs.length;
@@ -220,8 +224,10 @@ public class Questions {
                             prog.setValue(val);
                         }
                     });
-                    qs[i] = ((Aggregate) e.nextElement()).toQuestion();
+                    assert e.hasNext();
+                    qs[i] = e.next().toQuestion();
                 }
+                assert !e.hasNext(); // right?
                 allQuestions = qs;
                 lines = null; // clear memory (maybe)
                 SwingUtilities.invokeLater(new Runnable() {
@@ -230,32 +236,30 @@ public class Questions {
                     }
                 });
             }
-            if (questions == null)
+            if (questions == null) {
                 refreshSectionsForQuestions();
+            }
         }
     }
     
     private synchronized void refreshSectionsForQuestions() {
-        Hashtable secs = new Hashtable();
-        for (int i = 0; i < cfg.sections.length; i++)
-            secs.put(cfg.sections[i], Boolean.TRUE);
-        Vector resV = new Vector(Math.min(1, allQuestions.length));
+        Set<String> secs = new HashSet<String>(Arrays.asList(cfg.sections));
+        List<Question> result = new ArrayList<Question>(Math.min(1, allQuestions.length));
         float pSum = 0.0f;
         countUnseen = 0;
-        for (int i = 0; i < allQuestions.length; i++) {
-            String[] qSecs = allQuestions[i].sections;
-            for (int j = 0; j < qSecs.length; j++) {
-                if (secs.get(qSecs[j]) != null) {
-                    pSum += allQuestions[i].getPerformance();
-                    resV.addElement(allQuestions[i]);
-                    if (! allQuestions[i].isEverBeenSeen()) countUnseen++;
+        for (Question q : allQuestions) {
+            for (String sec :  q.sections) {
+                if (secs.contains(sec)) {
+                    pSum += q.getPerformance();
+                    result.add(q);
+                    if (!q.isEverBeenSeen()) {
+                        countUnseen++;
+                    }
                     break;
                 }
             }
         }
-        Question[] qs = new Question[resV.size()];
-        resV.copyInto(qs);
-        questions = qs;
+        questions = result.toArray(new Question[result.size()]);
         performanceSum = pSum;
     }
     
@@ -310,11 +314,14 @@ public class Questions {
         public synchronized long getGracePeriod() {
             if (gracePeriod == -1) {
                 int len = 0;
-                for (int i = 0; i < in.length; i++)
-                    len += 10 + in[i].length();
-                for (int i = 0; i < out.length; i++)
-                    for (int j = 0; j < out[i].length; j++)
-                        len += 10 + out[i][j].length();
+                for (String inSide : in) {
+                    len += 10 + inSide.length();
+                }
+                for (String[] outSides: out) {
+                    for (String outSide : outSides) {
+                        len += 10 + outSide.length();
+                    }
+                }
                 if (len <= cfg.scoreGraceChars) {
                     gracePeriod = cfg.scoreGracePeriod;
                 } else {
@@ -371,7 +378,9 @@ public class Questions {
             float orig = getPerformance();
             float nue = cfg.traceFudge * rating + (1.0f - cfg.traceFudge) * orig;
             // XXX not the prettiest place to do this, but it will suffice
-            if (! isEverBeenSeen()) countUnseen--;
+            if (!isEverBeenSeen()) {
+                countUnseen--;
+            }
             setPerformance(nue);
             //System.err.println ("delay=" + delay + " correctness=" + correctness + " cfg.scoreGracePeriod=" + cfg.scoreGracePeriod + " cfg.scoreHalfLife=" + cfg.scoreHalfLife + " baseRating=" + baseRating + " rating=" + rating + " orig=" + orig + " nue=" + nue);
         }

@@ -43,10 +43,15 @@ import java.text.Collator;
 import java.text.DateFormat;
 import java.text.DecimalFormat;
 import java.text.SimpleDateFormat;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Comparator;
 import java.util.Date;
-import java.util.Enumeration;
-import java.util.Hashtable;
-import java.util.Vector;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Set;
+import java.util.SortedSet;
+import java.util.TreeSet;
 import javax.swing.Box;
 import javax.swing.BoxLayout;
 import javax.swing.JButton;
@@ -99,12 +104,8 @@ public class Main extends JFrame {
             }
             main.initConfig(cfg);
         }
-        main.show();
-        main.addWindowListener(new WindowAdapter() {
-            public void windowClosed(WindowEvent ev) {
-                System.exit(0);
-            }
-        });
+        main.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
+        main.setVisible(true);
     }
     
     private static final String CONFIG_EXTENSION = "ergoflashcardcfg";
@@ -176,19 +177,7 @@ public class Main extends JFrame {
             db.close();
             db = new DB(nue.dbFile);
         }
-        boolean sameFiles;
-        if (cfg.dataFiles.length != nue.dataFiles.length) {
-            sameFiles = false;
-        } else {
-            sameFiles = true;
-            for (int i = 0; i < cfg.dataFiles.length; i++) {
-                if (! cfg.dataFiles[i].equals(nue.dataFiles[i])) {
-                    sameFiles = false;
-                    break;
-                }
-            }
-        }
-        if (! sameFiles) {
+        if (!Arrays.equals(cfg.dataFiles, nue.dataFiles)) {
             readLines(nue);
             qs = new Questions(data, db, nue);
         } else {
@@ -240,10 +229,10 @@ public class Main extends JFrame {
         dlg.getContentPane().add(prog, BorderLayout.CENTER);
         dlg.getContentPane().add(new JLabel("Reading data files, please wait..."), BorderLayout.SOUTH);
         dlg.pack();
-        dlg.show();
+        dlg.setVisible(true);
         try {
-            Vector resV = new Vector(1000);
-            Hashtable secs = new Hashtable(100);
+            List<DataLine> result = new ArrayList<DataLine>(1000);
+            SortedSet<String> secs = new TreeSet<String>(LOCALE_SORTER);
             for (int i = 0; i < cfg.dataFiles.length; i++) {
                 final int _i = i;
                 SwingUtilities.invokeLater(new Runnable() {
@@ -252,20 +241,13 @@ public class Main extends JFrame {
                         prog.setString(cfg.dataFiles[_i].getName());
                     }
                 });
-                DataLine[] lines = DataLine.read(cfg.dataFiles[i]);
-                for (int j = 0; j < lines.length; j++) {
-                    resV.addElement(lines[j]);
-                    secs.put(lines[j].section, Boolean.TRUE);
+                for (DataLine line : DataLine.read(cfg.dataFiles[i])) {
+                    result.add(line);
+                    secs.add(line.section);
                 }
             }
-            data = new DataLine[resV.size()];
-            resV.copyInto(data);
-            availableSections = new String[secs.size()];
-            int pos = 0;
-            Enumeration e = secs.keys();
-            while (e.hasMoreElements())
-                availableSections[pos++] = (String) e.nextElement();
-            bubblesort(availableSections, LOCALE_SORTER);
+            data = result.toArray(new DataLine[result.size()]);
+            availableSections = secs.toArray(new String[secs.size()]);
         } catch (IOException ioe) {
             ioe.printStackTrace();
         }
@@ -276,20 +258,15 @@ public class Main extends JFrame {
         });
     }
     
-    interface Sorter {
-        int compare(Object o1, Object o2);
-    }
-    static final Sorter STRING_SORTER = new Sorter() {
-        public int compare(Object o1, Object o2) {
-            if (o1 == o2) return 0;
-            return ((String) o1).compareTo((String) o2);
+    static final Comparator<String> STRING_SORTER = new Comparator<String>() {
+        public int compare(String s1, String s2) {
+            if (s1 == s2) return 0;
+            return s1.compareTo(s2);
         }
     };
-    final Sorter LOCALE_SORTER = new Sorter() {
-        public int compare(Object o1, Object o2) {
-            if (o1 == o2) return 0;
-            String s1 = (String) o1;
-            String s2 = (String) o2;
+    final Comparator<String> LOCALE_SORTER = new Comparator<String>() {
+        public int compare(String s1, String s2) {
+            if (s1 == s2) return 0;
             if (coll != null) {
                 return coll.compare(s1, s2);
             } else {
@@ -297,60 +274,6 @@ public class Main extends JFrame {
             }
         }
     };
-    static void bubblesort(Object[] objs, Sorter sorter) {
-        // Now actually quicksort:
-        quicksort(objs, 0, objs.length, sorter, null);
-    }
-    interface Reporter {
-        void report(int pos);
-    }
-    static void bubblesort(Object[] objs, Sorter sorter, Reporter reporter) {
-        if (reporter != null) reporter.report(0);
-        quicksort(objs, 0, objs.length, sorter, reporter);
-    }
-    
-    private static void quicksort(Object[] objs, int start, int end,
-            Sorter sorter, Reporter reporter) {
-        //System.err.println ("quicksort: start=" + start + " end=" + end);
-        int len = end - start;
-        if (len < 2) {
-            // XXX this is not really right since it does not take into
-            // account time spent splitting into partitions before the
-            // recursion
-            if (reporter != null) reporter.report(end);
-            return;
-        }
-        double ran = Math.random();
-        int splitPoint = start + (int) (ran * len);
-        Object split = objs[splitPoint];
-        //System.err.println ("splitPoint=" + splitPoint + " split=" + split + " ran=" + ran);
-        int a = start, b = end;
-        // XXX would be nicer to collect equal items in a special middle section
-        // and not sort them recursively at all, but this should work anyway:
-        boolean doFirst = false;
-        while (a < b) {
-            Object test = objs[a];
-            //System.err.println ("a=" + a + " b=" + b + " test=" + test);
-            int c = sorter.compare(test, split);
-            if (c > 0) {
-                //System.err.println ("swap right");
-                b--;
-                if (a != b) {
-                    Object temp = test;
-                    objs[a] = objs[b];
-                    objs[b] = temp;
-                }
-            } else {
-                //System.err.println ("advance");
-                a++;
-                if (! doFirst && c < 0) doFirst = true;
-            }
-        }
-        //System.err.println ("done splitting: start=" + start + " end=" + end + " a=" + a + " b=" + b);
-        if (doFirst) quicksort(objs, start, a, sorter, reporter);
-        quicksort(objs, a, end, sorter, reporter);
-        //System.err.println ("done quicksort: start=" + start + " end=" + end);
-    }
     
     private JLabel totalScore;
     private JLabel thisScore;
@@ -677,37 +600,38 @@ public class Main extends JFrame {
         }
         public void actionPerformed(ActionEvent ev) {
             Config nue = cfg.cloneConfig();
-            Hashtable currIns = new Hashtable(Math.max(1, cfg.inSides.length));
-            for (int i = 0; i < cfg.inSides.length; i++)
-                currIns.put(new Integer(cfg.inSides[i]), Boolean.TRUE);
-            Hashtable currOuts = new Hashtable(Math.max(1, cfg.outSides.length));
-            for (int i = 0; i < cfg.outSides.length; i++)
-                currOuts.put(new Integer(cfg.outSides[i]), Boolean.TRUE);
-            Vector insV = new Vector(cfg.sideNames.length);
-            Vector outsV = new Vector(cfg.sideNames.length);
+            Set<Integer> currIns = new HashSet<Integer>(Math.max(1, cfg.inSides.length));
+            for (int inSide : cfg.inSides) {
+                currIns.add(inSide);
+            }
+            Set<Integer> currOuts = new HashSet<Integer>(Math.max(1, cfg.outSides.length));
+            for (int outSide : cfg.outSides) {
+                currOuts.add(outSide);
+            }
+            List<Integer> ins = new ArrayList<Integer>(cfg.sideNames.length);
+            List<Integer> outs = new ArrayList<Integer>(cfg.sideNames.length);
             for (int i = 0; i < cfg.sideNames.length; i++) {
-                Integer I = new Integer(i);
                 if (i == side) {
                     if (how == 1) {
-                        insV.addElement(I);
+                        ins.add(i);
                     } else if (how == 2) {
-                        outsV.addElement(I);
+                        outs.add(i);
                     }
                 } else {
-                    if (currIns.get(I) != null) {
-                        insV.addElement(I);
-                    } else if (currOuts.get(I) != null) {
-                        outsV.addElement(I);
+                    if (currIns.contains(i)) {
+                        ins.add(i);
+                    } else if (currOuts.contains(i)) {
+                        outs.add(i);
                     }
                 }
             }
-            nue.inSides = new int[insV.size()];
-            for (int i = 0; i < insV.size(); i++) {
-                nue.inSides[i] = ((Integer) insV.elementAt(i)).intValue();
+            nue.inSides = new int[ins.size()];
+            for (int i = 0; i < ins.size(); i++) {
+                nue.inSides[i] = ins.get(i);
             }
-            nue.outSides = new int[outsV.size()];
-            for (int i = 0; i < outsV.size(); i++) {
-                nue.outSides[i] = ((Integer) outsV.elementAt(i)).intValue();
+            nue.outSides = new int[outs.size()];
+            for (int i = 0; i < outs.size(); i++) {
+                nue.outSides[i] = outs.get(i);
             }
             qs = new Questions(data, db, nue);
             setConfigLater(nue);
@@ -735,14 +659,13 @@ public class Main extends JFrame {
                             (new JLabel("Analyzing performance, please wait..."),
                             BorderLayout.SOUTH);
                     dlg.pack();
-                    dlg.show();
+                    dlg.setVisible(true);
                     final Questions.Question[] qqs = new Questions.Question[qs.getCount()];
-                    for (int i = 0; i < qqs.length; i++)
+                    for (int i = 0; i < qqs.length; i++) {
                         qqs[i] = qs.getQuestion(i);
-                    bubblesort(qqs, new Sorter() {
-                        public int compare(Object o1, Object o2) {
-                            Questions.Question q1 = (Questions.Question) o1;
-                            Questions.Question q2 = (Questions.Question) o2;
+                    }
+                    Arrays.sort(qqs, new Comparator<Questions.Question>() {
+                        public int compare(Questions.Question q1, Questions.Question q2) {
                             switch (sort) {
                                 case 0:
                                     return coll.compare(q1.sections[0], q2.sections[0]);
@@ -772,18 +695,6 @@ public class Main extends JFrame {
                                     }
                                 default:
                                     throw new Error();
-                            }
-                        }
-                    }, new Reporter() {
-                        public void report(int pos) {
-                            final int val = pos * 50 / qqs.length;
-                            if (val > lastVal[0]) {
-                                lastVal[0] = val;
-                                SwingUtilities.invokeLater(new Runnable() {
-                                    public void run() {
-                                        prog.setValue(val);
-                                    }
-                                });
                             }
                         }
                     });
@@ -818,7 +729,7 @@ public class Main extends JFrame {
                     JDialog dialog = new JDialog(Main.this, "Performance View");
                     dialog.getContentPane().add(new JScrollPane(tab));
                     dialog.pack();
-                    dialog.show();
+                    dialog.setVisible(true);
                 }
             }, "calculating performance table");
             t.setPriority(Thread.NORM_PRIORITY);
@@ -903,7 +814,7 @@ public class Main extends JFrame {
         buttons.add(cancelButton);
         cont.add(buttons, BorderLayout.SOUTH);
         dlg.pack();
-        dlg.show();
+        dlg.setVisible(true);
     }
     
     private void doSaveAs() {
