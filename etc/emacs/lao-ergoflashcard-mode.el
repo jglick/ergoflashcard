@@ -18,15 +18,46 @@
 (quail-define-rules
  ;; Special letters:
  ("\\n" ?ŋ)
- ("\\e" ?ɛ)
- ("\\a" ?ə)
- ("\\o" ?ɔ)
- ;; Tone marks:
- ("\\-" ?̅)
+ ("\\ee" ?ɛ)
+ ("\\aa" ?ə)
+ ("\\oo" ?ɔ)
+ ;; Not exactly sure what this is, but used occasionally:
+ ("\\?" ?ʔ)
+ ;; Bare tone marks:
+ ("\\-" ?̄)
  ("\\`" ?̀)
  ("\\v" ?̌)
  ("\\'" ?́)
  ("\\^" ?̂)
+ ;; Better combinations for tones on 'i' (combining w/ dotted and dotless 'i' is bad):
+ ("\\i-" ?ī)
+ ("\\i`" ?ì)
+ ("\\iv" ?ĭ) ; actually a breve - my Java fonts have no glyph for small letter i with caron
+ ("\\i'" ?í)
+ ("\\i^" ?î)
+ ;; Other combos:
+ ("\\a`" ?à)
+ ("\\a'" ?á)
+ ("\\a^" ?â)
+ ;; No A-macron, A-caron
+ ("\\e`" ?è)
+ ("\\e'" ?é)
+ ("\\e^" ?ê)
+ ("\\ev" ?ě)
+ ;; No E-macron
+ ("\\o`" ?ò)
+ ("\\o'" ?ó)
+ ("\\o^" ?ô)
+ ;; No O-macron, O-caron
+ ("\\u`" ?ù)
+ ("\\u'" ?ú)
+ ("\\u^" ?û)
+ ("\\u-" ?ū)
+ ;; No U-caron
+ ("\\y'" ?ý)
+ ("\\y^" ?ŷ)
+ ;; No Y-grave, Y-macron, Y-caron
+ ;; No preaccented schwas, epsilons, or "turned C's"
  )
 
 (define-derived-mode lao-ergoflashcard-mode ergoflashcard-mode "Lao ErgoFlashCard"
