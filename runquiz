@@ -1,3 +1,0 @@
-#!/bin/sh
-cd `dirname $0`
-exec java -classpath . -Xincgc -ms10m -mx20m net.sf.ergoflashcard.Main "$@"

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.ant.freeform</type>
+    <configuration>
+        <general-data xmlns="http://www.netbeans.org/ns/freeform-project/1">
+            <name>ErgoFlashCard</name>
+            <folders>
+                <source-folder>
+                    <label>Sources</label>
+                    <type>java</type>
+                    <location>src</location>
+                </source-folder>
+            </folders>
+            <ide-actions>
+                <action name="build">
+                    <target>build</target>
+                </action>
+                <action name="rebuild">
+                    <target>clean</target>
+                    <target>build</target>
+                </action>
+                <action name="clean">
+                    <target>clean</target>
+                </action>
+                <action name="run">
+                    <target>run</target>
+                </action>
+            </ide-actions>
+            <view>
+                <items>
+                    <source-folder style="packages">
+                        <label>Sources</label>
+                        <location>src</location>
+                    </source-folder>
+                    <source-folder style="tree">
+                        <label>All Files</label>
+                        <location>.</location>
+                    </source-folder>
+                </items>
+                <context-menu>
+                    <ide-action name="build"/>
+                    <ide-action name="rebuild"/>
+                    <ide-action name="clean"/>
+                    <ide-action name="run"/>
+                </context-menu>
+            </view>
+            <subprojects/>
+        </general-data>
+        <java-data xmlns="http://www.netbeans.org/ns/freeform-project-java/1">
+            <compilation-unit>
+                <package-root>src</package-root>
+                <built-to>build/classes</built-to>
+                <source-level>1.5</source-level>
+            </compilation-unit>
+        </java-data>
+    </configuration>
+</project>

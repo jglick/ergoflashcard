@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright 2004 Jesse N. Glick
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+<project name="ergoflashcard" default="build" basedir=".">
+
+    <target name="build" description="Build app.">
+        <mkdir dir="build/classes"/>
+        <javac srcdir="src" destdir="build/classes" source="1.5" deprecation="true">
+            <compilerarg value="-Xlint:unchecked"/>
+        </javac>
+    </target>
+
+    <target name="run" depends="build" description="Run app.">
+        <java classname="net.sf.ergoflashcard.Main">
+            <classpath>
+                <pathelement location="build/classes"/>
+            </classpath>
+            <jvmarg value="-Xincgc"/>
+            <jvmarg value="-ms10m"/>
+            <jvmarg value="-mx20m"/>
+        </java>
+    </target>
+
+    <target name="clean" description="Clean build products.">
+        <delete dir="build"/>
+    </target>
+
+</project>
