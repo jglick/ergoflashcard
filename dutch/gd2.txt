@@ -1,134 +1,134 @@
 # -*- Dutch-Quiz -*-
 
 Go Dutch! 2 (Vocab. 1)
-agent:policeman:de
-af en toe:now and then
-auto:car:de; auto's
-daar:there
-dan:then
-echt:real
-geen:not a
-hiel:heel:de
-liever:rather
-moord:murder:de
-niet zo:not as
-ogenblik:moment:het
-ontvoering:kidnapping:de
-op:on
-politie:police:de
-rust:rest:de
-rustig:quiet, peaceful
-spannend:exciting
-teen:toe:de
-want:because
-we hebben wel:we do have
-zoals/als:like, as
-gek zijn op:to be crazy about
-last hebben met:to be in trouble with
-met rust laten:to leave in peace:laat met rust, liet, gelaten
-weten:to know:weet, wist, geweten
-kennen:to know:ken
-zien:to see:zie, zag, zagen, gezien
+agent - policeman - de
+af en toe - now and then
+auto - car - de; auto's
+daar - there
+dan - then
+echt - real
+geen - not a
+hiel - heel - de
+liever - rather
+moord - murder - de
+niet zo - not as
+ogenblik - moment - het
+ontvoering - kidnapping - de
+op - on
+politie - police - de
+rust - rest - de
+rustig - quiet, peaceful
+spannend - exciting
+teen - toe - de
+want - because
+we hebben wel - we do have
+zoals/als - like, as
+gek zijn op - to be crazy about
+last hebben met - to be in trouble with
+met rust laten - to leave in peace - laat met rust, liet, gelaten
+weten - to know - weet, wist, geweten
+kennen - to know - ken
+zien - to see - zie, zag, zagen, gezien
 
 Go Dutch! 2 (Present Tense)
-ik werk:I work
-jij werkt:you (i.) work
-u werkt:you (f.) work
-hij werkt:he works
-zij werkt:she works
-het werkt:it works
-wij werken:we work
-jullie werken:y'all work
-zij werken:they work
-ik sta:I stand
-jij staat:you (i.) stand
-ik sla:I hit
-u slaat:you (f.) hit
-ik ga:I go
-hij gaat:he goes
-ik doe:I do
-zij doet:she does
-ik zie:I see
-het ziet:it sees
-ik win:I win
-hij wint:he wins
-zij winnen:they win
-ik kies:I choose
-wij kiezen:we choose
-ik kus:I kiss
-wij kussen:we kiss
-ik schrijf:I write
-wij schrijven:we write
-ik bof:I am lucky
-wij boffen:we are lucky
+ik werk - I work
+jij werkt - you (i.) work
+u werkt - you (f.) work
+hij werkt - he works
+zij werkt - she works
+het werkt - it works
+wij werken - we work
+jullie werken - y'all work
+zij werken - they work
+ik sta - I stand
+jij staat - you (i.) stand
+ik sla - I hit
+u slaat - you (f.) hit
+ik ga - I go
+hij gaat - he goes
+ik doe - I do
+zij doet - she does
+ik zie - I see
+het ziet - it sees
+ik win - I win
+hij wint - he wins
+zij winnen - they win
+ik kies - I choose
+wij kiezen - we choose
+ik kus - I kiss
+wij kussen - we kiss
+ik schrijf - I write
+wij schrijven - we write
+ik bof - I am lucky
+wij boffen - we are lucky
 
 Go Dutch! 2 (Word Order)
-Ik lees het boek.:I read the book.
-Ik ben gelukkig.:I am happy.
-Lees ik het boek?:Do I read the book?
-Ben ik gelukkig?:Am I happy?
-Morgen lees ik het boek.:Tomorrow I read the book.
-Vandaag ben ik gelukkig.:Today I am happy.
-Jij bent gelukkig.:You are happy.
-Ben jij gelukkig?:Are you happy?
-Thuis ben jij gelukkig.:At home you are happy.
-Jij loopt naar huis.:You walk home.
-Loop jij naar huis?:Do you walk home?
-Morgen loop jij naar huis.:Tomorrow you walk home.
-Regent het?:Does it rain?
-Ik ga niet naar huis.:I don't go home.
+Ik lees het boek. - I read the book.
+Ik ben gelukkig. - I am happy.
+Lees ik het boek? - Do I read the book?
+Ben ik gelukkig? - Am I happy?
+Morgen lees ik het boek. - Tomorrow I read the book.
+Vandaag ben ik gelukkig. - Today I am happy.
+Jij bent gelukkig. - You are happy.
+Ben jij gelukkig? - Are you happy?
+Thuis ben jij gelukkig. - At home you are happy.
+Jij loopt naar huis. - You walk home.
+Loop jij naar huis? - Do you walk home?
+Morgen loop jij naar huis. - Tomorrow you walk home.
+Regent het? - Does it rain?
+Ik ga niet naar huis. - I don't go home.
 
 Go Dutch! 2 (Vocab. 2)
-alleen:alone, only
-altijd:always
-als:like
-bijna:almost
-bloes:blouse:de
-broek:pants:de
-das:tie:de
-ding:thing:het
-genoeg:enough
-hand:hand:de
-helemaal niet:not at all
-hemd:shirt:het
-hoed:hat:de
-jammer:pity
-koud:cold
-laars:boot:de; laarzen
-leuk:nice
-nat:wet
-natuurlijk:of course
-nooit:never
-pak:suit:het
-rok:skirt:de
-'s avonds:in the evening
-'s nachts:at night
-sjaal:scarf:de; -s
-stoel:chair:de
-te:too
-telefoon:telephone:de; -s
-uit:from
-weekeinde:weekend:het; -s
-gekleed gaan:to be dressed
-dragen:to wear, carry:draag, droeg, droegen, gedragen
-zitten:to sit:zit, zat, zaten, gezeten
-stoppen:to put:stop
+alleen - alone, only
+altijd - always
+als - like
+bijna - almost
+bloes - blouse - de
+broek - pants - de
+das - tie - de
+ding - thing - het
+genoeg - enough
+hand - hand - de
+helemaal niet - not at all
+hemd - shirt - het
+hoed - hat - de
+jammer - pity
+koud - cold
+laars - boot - de; laarzen
+leuk - nice
+nat - wet
+natuurlijk - of course
+nooit - never
+pak - suit - het
+rok - skirt - de
+'s avonds - in the evening
+'s nachts - at night
+sjaal - scarf - de; -s
+stoel - chair - de
+te - too
+telefoon - telephone - de; -s
+uit - from
+weekeinde - weekend - het; -s
+gekleed gaan - to be dressed
+dragen - to wear, carry - draag, droeg, droegen, gedragen
+zitten - to sit - zit, zat, zaten, gezeten
+stoppen - to put - stop
 
 Go Dutch! 2 (Derivations)
-moord:murder
-moordenaar:murderer
-moordenares:murderess
-kijken:to watch
-kijker:watcher
-huur:rent
-huurder:renter
-drinken:to drink
-drinkbaar:drinkable
-waar:true
-waarheid:truth
-werk:job
-werkloos:unemployed
-draagbaar:wearable, portable
-rusteloos:restless
-rusteloosheid:restlessness
-ziener:seer
+moord - murder
+moordenaar - murderer
+moordenares - murderess
+kijken - to watch
+kijker - watcher
+huur - rent
+huurder - renter
+drinken - to drink
+drinkbaar - drinkable
+waar - true
+waarheid - truth
+werk - job
+werkloos - unemployed
+draagbaar - wearable, portable
+rusteloos - restless
+rusteloosheid - restlessness
+ziener - seer

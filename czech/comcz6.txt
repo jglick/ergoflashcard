@@ -1,450 +1,450 @@
 # -*- Czech-Quiz -*-
 
 ComCz L. 6 (Gramm. A -- Reg. comp. superl.)
-rychlý:fast (adj.)
-rychlejší:faster (adj.)
-nejrychlejší:fastest (adj.)
-pomalý:slow (adj.)
-pomalejší:slower (adj.)
-nejpomalejší:slowest (adj.)
-chytrý:clever
-chytřejší:more clever
-nejchytřejší:most clever
-známý:well-known
-známější:more well-known
-nejznámější:most well-known
-slavný:famous
-slavnější:more famous
-nejslavnější:most famous
-krásný:beautiful
-krásnější:more beautiful
-nejkrásnější:most beautiful
-moderní:modern
-modernější:more modern
-nejmodernější:most modern
-starý:old
-starší:older
-nejstarší:oldest
-mladý:young
-mladší:younger
-nejmladší:youngest
-těžký:hard, difficult, heavy
-těžší:harder, more difficult, heavier
-nejtěžší:hardest, most difficult, heaviest
-sladký:sweet
-sladší:sweeter
-nejsladší:sweetest
-čistý:clean
-čistší:cleaner
-nejčistší:cleanest
-bohatý:rich
-bohatší:richer
-nejbohatší:richest
-drahý:expensive
-dražší:more expensive
-nejdražší:most expensive
-jednoduchý:single, simple
-jednodušší:singler, simpler
-nejjednodušší:most single, simplest
-hezký:pretty
-hezčí:prettier
-nejhezčí:prettiest
-lehký:light (adj., not heavy)
-lehčí:lighter (comp. adj., not heavier)
-nejlehčí:lightest (super. adj., not heaviest)
-rychle:quickly
-rychleji:more quickly
-nejrychleji:most quickly
-pomalu:slowly
-pomaleji:more slowly
-nejpomaleji:most slowly
-přesně:exactly
-přesněji:more exactly
-nejpřesněji:most exactly
-často:often
-častěji:more often
-nejčastěji:most often
-pozdě:late (adv.)
-později:later (adv.)
-nejpozději:latest (adv.)
-přátelský:friendly
-přátelštější:friendlier
-sympatický:sympathetic
-sympatičtější:more sympathetic
-přátelsky:in a friendly way
-přátelštěji:in a more friendly way
-sympaticky:sympathetically
-sympatičtěji:more sympathetically
+rychlý - fast (adj.)
+rychlejší - faster (adj.)
+nejrychlejší - fastest (adj.)
+pomalý - slow (adj.)
+pomalejší - slower (adj.)
+nejpomalejší - slowest (adj.)
+chytrý - clever
+chytřejší - more clever
+nejchytřejší - most clever
+známý - well-known
+známější - more well-known
+nejznámější - most well-known
+slavný - famous
+slavnější - more famous
+nejslavnější - most famous
+krásný - beautiful
+krásnější - more beautiful
+nejkrásnější - most beautiful
+moderní - modern
+modernější - more modern
+nejmodernější - most modern
+starý - old
+starší - older
+nejstarší - oldest
+mladý - young
+mladší - younger
+nejmladší - youngest
+těžký - hard, difficult, heavy
+těžší - harder, more difficult, heavier
+nejtěžší - hardest, most difficult, heaviest
+sladký - sweet
+sladší - sweeter
+nejsladší - sweetest
+čistý - clean
+čistší - cleaner
+nejčistší - cleanest
+bohatý - rich
+bohatší - richer
+nejbohatší - richest
+drahý - expensive
+dražší - more expensive
+nejdražší - most expensive
+jednoduchý - single, simple
+jednodušší - singler, simpler
+nejjednodušší - most single, simplest
+hezký - pretty
+hezčí - prettier
+nejhezčí - prettiest
+lehký - light (adj., not heavy)
+lehčí - lighter (comp. adj., not heavier)
+nejlehčí - lightest (super. adj., not heaviest)
+rychle - quickly
+rychleji - more quickly
+nejrychleji - most quickly
+pomalu - slowly
+pomaleji - more slowly
+nejpomaleji - most slowly
+přesně - exactly
+přesněji - more exactly
+nejpřesněji - most exactly
+často - often
+častěji - more often
+nejčastěji - most often
+pozdě - late (adv.)
+později - later (adv.)
+nejpozději - latest (adv.)
+přátelský - friendly
+přátelštější - friendlier
+sympatický - sympathetic
+sympatičtější - more sympathetic
+přátelsky - in a friendly way
+přátelštěji - in a more friendly way
+sympaticky - sympathetically
+sympatičtěji - more sympathetically
 
 ComCz L. 6 (Vocab.)
-bojovat:to fight (with, against, for):impf., s kým, proti komu, o co (koho)
-bolest:pain, ache:fem.
-být opožděn:to be delayed
-cirkus:circus:masc. hard
-cyklus:cycle:masc., cyklu
-čtvrť:district, quarter:fem.
-dojít:to get, reach:perf., dojdu
-dokonalý:perfect
-dostávat se:to get somewhere (impf.)
-dostat se:to get somewhere (perf.):dostanu
-génius:genius:masc., génia
-glóbus:globe:masc. hard
-hodnotit:to evaluate:impf.
-hrad:(fortified) castle
-hrozný:terrible, horrible
-klepat:to knock (at the door) (impf.):klepu
-zaklepat:to knock (at the door) (perf.):zaklepu
-klima:climate:neut., klimatu
-kouzelný:magic (adj.)
-krádež:theft, burglary:fem.
-král:king:masc. soft
-kritérium:criterium:neut., kritéria
-lanovka:cable railway (funicular)
-luxus:luxury:masc. hard
-milovat:to love, be fond of:impf.
-milovník:admirer, lover
-mlčet:to be (keep) silent:impf.
-mnohý:many (adj.)
-moudrost:wisdom
-nábřeží:quay, embankment
-nástup:entrance
-nástupiště:platform
-nastupovat:to get on (a vehicle) (impf.)
-nastoupit:to get on (a vehicle) (perf.)
-návštěvník:visitor
-obvinit:to blame, accuse someone of something:+ koho z čeho
-opilý:drunk (adj.)
-orloj:astronomical clock:masc.
-palác:palace:masc.
-panoráma:skyline:neut., panorámatu
-patřit:to belong to:impf., + ke komu
-pokračovat:to continue:impf., + v čem
-pověst:legend:fem.
-pravěk:primeval (primordial) age(s)
-proslavený:famous
-proslavit se:to become famous:perf., + čím
-předpovídat:to foretell, predict (impf.)
-předpovědět:to foretell, predict (perf.):předpovím
-představovat si:to imagine (impf.)
-představit si:to imagine (perf.)
-přecházet:to cross (a place) (impf.)
-přejít:to cross (a place) (perf.):přejdu
-přesvědčit se:to become convinced:perf., + o čem
-publikum:audience:neut., publika
-rozdělovat:to divide (impf.)
-rozdělit:to divide (perf.)
-schopnost:ability
-slavný:famous
-spojovat:to connect (impf.):+ s čím
-spojit:to connect (perf.):+ s čím
-stověžatý:hundred-spired
-strašný:fearful, awful
-střecha:roof
-synagoga:synagogue
-téma:topic, theme:neut., tématu
-tvořit:to make, shape:impf.
-úzký:narrow
-vést:to lead:impf., vedu
-většina:majority
-věž:spire, tower:fem.
-vchod:entrance
-vina:guilt, blame, fault
-viník:culprit, offender
-vinný:guilty
-vítězství:victory
-vízum:visa:neut., víza
-výběr:choice
-vydávat se:to set out (on a journey) (impf.)
-vydat se:to set out (on a journey) (perf.)
-východ:(an) exit
-výstup:(an) exit
-vystupovat:to get off (a vehicle) (impf.)
-vystoupit:to get off (a vehicle) (perf.)
-vzdělanost:culture, civilization
-vzpomínat si:to recall back to mind or memory (impf.):+ na co
-vzpomenout si:to recall back to mind or memory (perf.):vzpomněl, + na co
-zahnout:to turn:perf.
-zachovalý:well-preserved, maintained
-zakládat:to establish, found (impf.)
-založit:to establish, found (perf.)
-zamilovat se:to fall in love with:perf., + do čeho
-zbavit se:to deprive, rid (of):perf., + čeho
-zlatý:golden
-zranění:injury
-Žid:Jew
-Židovka:(female) Jew
-židovský:Jewish
+bojovat - to fight (with, against, for) - impf., s kým, proti komu, o co (koho)
+bolest - pain, ache - fem.
+být opožděn - to be delayed
+cirkus - circus - masc. hard
+cyklus - cycle - masc., cyklu
+čtvrť - district, quarter - fem.
+dojít - to get, reach - perf., dojdu
+dokonalý - perfect
+dostávat se - to get somewhere (impf.)
+dostat se - to get somewhere (perf.) - dostanu
+génius - genius - masc., génia
+glóbus - globe - masc. hard
+hodnotit - to evaluate - impf.
+hrad - (fortified) castle
+hrozný - terrible, horrible
+klepat - to knock (at the door) (impf.) - klepu
+zaklepat - to knock (at the door) (perf.) - zaklepu
+klima - climate - neut., klimatu
+kouzelný - magic (adj.)
+krádež - theft, burglary - fem.
+král - king - masc. soft
+kritérium - criterium - neut., kritéria
+lanovka - cable railway (funicular)
+luxus - luxury - masc. hard
+milovat - to love, be fond of - impf.
+milovník - admirer, lover
+mlčet - to be (keep) silent - impf.
+mnohý - many (adj.)
+moudrost - wisdom
+nábřeží - quay, embankment
+nástup - entrance
+nástupiště - platform
+nastupovat - to get on (a vehicle) (impf.)
+nastoupit - to get on (a vehicle) (perf.)
+návštěvník - visitor
+obvinit - to blame, accuse someone of something - + koho z čeho
+opilý - drunk (adj.)
+orloj - astronomical clock - masc.
+palác - palace - masc.
+panoráma - skyline - neut., panorámatu
+patřit - to belong to - impf., + ke komu
+pokračovat - to continue - impf., + v čem
+pověst - legend - fem.
+pravěk - primeval (primordial) age(s)
+proslavený - famous
+proslavit se - to become famous - perf., + čím
+předpovídat - to foretell, predict (impf.)
+předpovědět - to foretell, predict (perf.) - předpovím
+představovat si - to imagine (impf.)
+představit si - to imagine (perf.)
+přecházet - to cross (a place) (impf.)
+přejít - to cross (a place) (perf.) - přejdu
+přesvědčit se - to become convinced - perf., + o čem
+publikum - audience - neut., publika
+rozdělovat - to divide (impf.)
+rozdělit - to divide (perf.)
+schopnost - ability
+slavný - famous
+spojovat - to connect (impf.) - + s čím
+spojit - to connect (perf.) - + s čím
+stověžatý - hundred-spired
+strašný - fearful, awful
+střecha - roof
+synagoga - synagogue
+téma - topic, theme - neut., tématu
+tvořit - to make, shape - impf.
+úzký - narrow
+vést - to lead - impf., vedu
+většina - majority
+věž - spire, tower - fem.
+vchod - entrance
+vina - guilt, blame, fault
+viník - culprit, offender
+vinný - guilty
+vítězství - victory
+vízum - visa - neut., víza
+výběr - choice
+vydávat se - to set out (on a journey) (impf.)
+vydat se - to set out (on a journey) (perf.)
+východ - (an) exit
+výstup - (an) exit
+vystupovat - to get off (a vehicle) (impf.)
+vystoupit - to get off (a vehicle) (perf.)
+vzdělanost - culture, civilization
+vzpomínat si - to recall back to mind or memory (impf.) - + na co
+vzpomenout si - to recall back to mind or memory (perf.) - vzpomněl, + na co
+zahnout - to turn - perf.
+zachovalý - well-preserved, maintained
+zakládat - to establish, found (impf.)
+založit - to establish, found (perf.)
+zamilovat se - to fall in love with - perf., + do čeho
+zbavit se - to deprive, rid (of) - perf., + čeho
+zlatý - golden
+zranění - injury
+Žid - Jew
+Židovka - (female) Jew
+židovský - Jewish
 
 ComCz L. 6 (Gramm. C -- Decl. for. nouns)
-génius:genius (nom.)
-génia:genius (gen.)
-géniovi:genius (dat.)
-génia:genius (acc.)
-géniovi:genius (loc.)
-géniem:genius (inst.)
-géniové:geniuses (nom.)
-géniů:geniuses (gen.)
-géniům:geniuses (dat.)
-génie:geniuses (acc.)
-géniích:geniuses (loc.)
-génii:geniuses (inst.)
-cyklus:cycle (nom.)
-cyklu:cycle (gen.)
-cyklu:cycle (dat.)
-cyklus:cycle (acc.)
-cyklu:cycle (loc.)
-cyklem:cycle (inst.)
-cykly:cycles (nom.)
-cyklů:cycles (gen.)
-cyklům:cycles (dat.)
-cykly:cycles (acc.)
-cyklech:cycles (loc.)
-cykly:cycles (inst.)
-humanismus:humanism (nom.)
-humanismu:humanism (gen.)
-humanismu:humanism (dat.)
-humanismus:humanism (acc.)
-humanismu:humanism (loc.)
-humanismem:humanism (inst.)
-idea:idea (nom.)
-idey/ideje:idea (gen.)
-ideji:idea (dat.)
-ideu:idea (acc.)
-ideji:idea (loc.)
-ideou/idejí:idea (inst.)
-idey/ideje:ideas (nom.)
-idejí:ideas (gen.)
-ideám/idejím:ideas (dat.)
-idey/ideje:ideas (acc.)
-ideách/idejích:ideas (loc.)
-ideami/idejemi:ideas (inst.)
-muzeum:museum (nom.)
-muzea:museum (gen.)
-muzeu:museum (dat.)
-muzeum:museum (acc.)
-muzeu:museum (loc.)
-muzeem:museum (inst.)
-muzea:museums (nom.)
-muzeí:museums (gen.)
-muzeím:museums (dat.)
-muzea:museums (acc.)
-muzeích:museums (loc.)
-muzei:museums (inst.)
-centrum:center (nom.)
-centra:center (gen.)
-centru:center (dat.)
-centrum:center (acc.)
-centru:center (loc.)
-centrem:center (inst.)
-centra:centers (nom.)
-center:centers (gen.)
-centrům:centers (dat.)
-centra:centers (acc.)
-centrech:centers (loc.)
-centry:centers (inst.)
-drama:drama (nom.)
-dramatu:drama (gen.)
-dramatu:drama (dat.)
-drama:drama (acc.)
-dramatu:drama (loc.)
-dramatem:drama (inst.)
-dramata:dramas (nom.)
-dramat:dramas (gen.)
-dramatům:dramas (dat.)
-dramata:dramas (acc.)
-dramatech:dramas (loc.)
-dramaty:dramas (inst.)
-cirkus:circus (nom.)
-cirkusu:circus (gen.)
-cirkusu:circus (dat.)
-cirkus:circus (acc.)
-cirkuse:circus (loc.)
-cirkusem:circus (inst.)
-cirkusy:circuses (nom.)
-cirkusů:circuses (gen.)
-cirkusům:circuses (dat.)
-cirkusy:circuses (acc.)
-cirkusech:circuses (loc.)
-cirkusy:circuses (inst.)
-kritérium:criterium (nom.)
-kritéria:criterium (gen.)
-kritériu:criterium (dat.)
-kritérium:criterium (acc.)
-kritériu:criterium (loc.)
-kritériem:criterium (inst.)
-kritéria:criteria (nom.)
-kritérií:criteria (gen.)
-kritériím:criteria (dat.)
-kritéria:criteria (acc.)
-kritériích:criteria (loc.)
-kritérii:criteria (inst.)
-vízum:visa (nom.)
-víza:visa (gen.)
-vízu:visa (dat.)
-vízum:visa (acc.)
-vízu:visa (loc.)
-vízem:visa (inst.)
-víza:visas (nom.)
-víz:visas (gen.)
-vízům:visas (dat.)
-víza:visas (acc.)
-vízech:visas (loc.)
-vízy:visas (inst.)
-téma:theme (nom.)
-tématu:theme (gen.)
-tématu:theme (dat.)
-téma:theme (acc.)
-tématu:theme (loc.)
-tématem:theme (inst.)
-témata:themes (nom.)
-témat:themes (gen.)
-tématům:themes (dat.)
-témata:themes (acc.)
-tématech:themes (loc.)
-tématy:themes (inst.)
-# skipping: Amadeus, Ovidius, glóbus, luxus, realismus, kubismus, romantismus,
+génius - genius (nom.)
+génia - genius (gen.)
+géniovi - genius (dat.)
+génia - genius (acc.)
+géniovi - genius (loc.)
+géniem - genius (inst.)
+géniové - geniuses (nom.)
+géniů - geniuses (gen.)
+géniům - geniuses (dat.)
+génie - geniuses (acc.)
+géniích - geniuses (loc.)
+génii - geniuses (inst.)
+cyklus - cycle (nom.)
+cyklu - cycle (gen.)
+cyklu - cycle (dat.)
+cyklus - cycle (acc.)
+cyklu - cycle (loc.)
+cyklem - cycle (inst.)
+cykly - cycles (nom.)
+cyklů - cycles (gen.)
+cyklům - cycles (dat.)
+cykly - cycles (acc.)
+cyklech - cycles (loc.)
+cykly - cycles (inst.)
+humanismus - humanism (nom.)
+humanismu - humanism (gen.)
+humanismu - humanism (dat.)
+humanismus - humanism (acc.)
+humanismu - humanism (loc.)
+humanismem - humanism (inst.)
+idea - idea (nom.)
+idey/ideje - idea (gen.)
+ideji - idea (dat.)
+ideu - idea (acc.)
+ideji - idea (loc.)
+ideou/idejí - idea (inst.)
+idey/ideje - ideas (nom.)
+idejí - ideas (gen.)
+ideám/idejím - ideas (dat.)
+idey/ideje - ideas (acc.)
+ideách/idejích - ideas (loc.)
+ideami/idejemi - ideas (inst.)
+muzeum - museum (nom.)
+muzea - museum (gen.)
+muzeu - museum (dat.)
+muzeum - museum (acc.)
+muzeu - museum (loc.)
+muzeem - museum (inst.)
+muzea - museums (nom.)
+muzeí - museums (gen.)
+muzeím - museums (dat.)
+muzea - museums (acc.)
+muzeích - museums (loc.)
+muzei - museums (inst.)
+centrum - center (nom.)
+centra - center (gen.)
+centru - center (dat.)
+centrum - center (acc.)
+centru - center (loc.)
+centrem - center (inst.)
+centra - centers (nom.)
+center - centers (gen.)
+centrům - centers (dat.)
+centra - centers (acc.)
+centrech - centers (loc.)
+centry - centers (inst.)
+drama - drama (nom.)
+dramatu - drama (gen.)
+dramatu - drama (dat.)
+drama - drama (acc.)
+dramatu - drama (loc.)
+dramatem - drama (inst.)
+dramata - dramas (nom.)
+dramat - dramas (gen.)
+dramatům - dramas (dat.)
+dramata - dramas (acc.)
+dramatech - dramas (loc.)
+dramaty - dramas (inst.)
+cirkus - circus (nom.)
+cirkusu - circus (gen.)
+cirkusu - circus (dat.)
+cirkus - circus (acc.)
+cirkuse - circus (loc.)
+cirkusem - circus (inst.)
+cirkusy - circuses (nom.)
+cirkusů - circuses (gen.)
+cirkusům - circuses (dat.)
+cirkusy - circuses (acc.)
+cirkusech - circuses (loc.)
+cirkusy - circuses (inst.)
+kritérium - criterium (nom.)
+kritéria - criterium (gen.)
+kritériu - criterium (dat.)
+kritérium - criterium (acc.)
+kritériu - criterium (loc.)
+kritériem - criterium (inst.)
+kritéria - criteria (nom.)
+kritérií - criteria (gen.)
+kritériím - criteria (dat.)
+kritéria - criteria (acc.)
+kritériích - criteria (loc.)
+kritérii - criteria (inst.)
+vízum - visa (nom.)
+víza - visa (gen.)
+vízu - visa (dat.)
+vízum - visa (acc.)
+vízu - visa (loc.)
+vízem - visa (inst.)
+víza - visas (nom.)
+víz - visas (gen.)
+vízům - visas (dat.)
+víza - visas (acc.)
+vízech - visas (loc.)
+vízy - visas (inst.)
+téma - theme (nom.)
+tématu - theme (gen.)
+tématu - theme (dat.)
+téma - theme (acc.)
+tématu - theme (loc.)
+tématem - theme (inst.)
+témata - themes (nom.)
+témat - themes (gen.)
+tématům - themes (dat.)
+témata - themes (acc.)
+tématech - themes (loc.)
+tématy - themes (inst.)
+# skipping -  Amadeus, Ovidius, glóbus, luxus, realismus, kubismus, romantismus,
 # kapitalismus, egoismus, studium, stipendium, mauzoleum, datum, panoráma,
 # klima
 
 ComCz L. 6 (Gramm. B -- Possess.)
-bratrův syn:Brother's son (nom.)
-bratrova syna:Brother's son (gen.)
-bratrovu synovi:Brother's son (dat.)
-bratrova syna:Brother's son (acc.)
-bratrově synovi/bratrovu synovi:Brother's son (loc.)
-bratrovým synem:Brother's son (inst.)
-bratrovi synové:Brother's sons (nom.)
-bratrových synů:Brother's sons (gen.)
-bratrovým synům:Brother's sons (dat.)
-bratrovy syny:Brother's sons (acc.)
-bratrových synech:Brother's sons (loc.)
-bratrovými syny:Brother's sons (inst.)
-bratrův dům:Brother's house (nom.)
-bratrova domu:Brother's house (gen.)
-bratrovu domu:Brother's house (dat.)
-bratrův dům:Brother's house (acc.)
-bratrově domu/bratrovu domu:Brother's house (loc.)
-bratrovým domem:Brother's house (inst.)
-bratrovy domy:Brother's houses (nom.)
-bratrových domů:Brother's houses (gen.)
-bratrovým domům:Brother's houses (dat.)
-bratrovy domy:Brother's houses (acc.)
-bratrových domech:Brother's houses (loc.)
-bratrovými domy:Brother's houses (inst.)
-bratrovo auto:Brother's car (nom.)
-bratrova auta:Brother's car (gen.)
-bratrovu autu:Brother's car (dat.)
-bratrovo auto:Brother's car (acc.)
-bratrově autu/bratrovu autu:Brother's car (loc.)
-bratrovým autem:Brother's car (inst.)
-bratrova auta:Brother's cars (nom.)
-bratrových aut:Brother's cars (gen.)
-bratrovým autům:Brother's cars (dat.)
-bratrova auta:Brother's cars (acc.)
-bratrových autech:Brother's cars (loc.)
-bratrovými auty:Brother's cars (inst.)
-bratrova kniha:Brother's book (nom.)
-bratrovy knihy:Brother's book (gen.)
-bratrově knize:Brother's book (dat.)
-bratrovu knihu:Brother's book (acc.)
-bratrově knize:Brother's book (loc.)
-bratrovou knihou:Brother's book (inst.)
-bratrovy knihy:Brother's books (nom.)
-bratrových knih:Brother's books (gen.)
-bratrovým knihám:Brother's books (dat.)
-bratrovy knihy:Brother's books (acc.)
-bratrových knihách:Brother's books (loc.)
-bratrovými knihami:Brother's books (inst.)
-Evin syn:Eva's son (nom.)
-Evina syna:Eva's son (gen.)
-Evinu synovi:Eva's son (dat.)
-Evina syna:Eva's son (acc.)
-Evině synovi:Eva's son (loc.)
-Eviným synem:Eva's son (inst.)
-Evini synové:Eva's sons (nom.)
-Eviných synů:Eva's sons (gen.)
-Eviným synům:Eva's sons (dat.)
-Eviny syny:Eva's sons (acc.)
-Eviných synech:Eva's sons (loc.)
-Evinými syny:Eva's sons (inst.)
-Evin dům:Eva's house (nom.)
-Evina domu:Eva's house (gen.)
-Evinu domu:Eva's house (dat.)
-Evin dům:Eva's house (acc.)
-Evině domu:Eva's house (loc.)
-Eviným domem:Eva's house (inst.)
-Eviny domy:Eva's houses (nom.)
-Eviných domů:Eva's houses (gen.)
-Eviným domům:Eva's houses (dat.)
-Eviny domy:Eva's houses (acc.)
-Eviných domech:Eva's houses (loc.)
-Evinými domy:Eva's houses (inst.)
-Evino auto:Eva's car (nom.)
-Evina auta:Eva's car (gen.)
-Evině autu:Eva's car (dat.)
-Evino auto:Eva's car (acc.)
-Evině autu:Eva's car (loc.)
-Eviným autem:Eva's car (inst.)
-Evina auta:Eva's cars (nom.)
-Eviných aut:Eva's cars (gen.)
-Eviným autům:Eva's cars (dat.)
-Evina auta:Eva's cars (acc.)
-Eviných autech:Eva's cars (loc.)
-Evinými auty:Eva's cars (inst.)
-Evina kniha:Eva's book (nom.)
-Eviny knihy:Eva's book (gen.)
-Evině knize:Eva's book (dat.)
-Evinu knihu:Eva's book (acc.)
-Evině knize:Eva's book (loc.)
-Evinou knihou:Eva's book (inst.)
-Eviny knihy:Eva's books (nom.)
-Eviných knih:Eva's books (gen.)
-Eviným knihám:Eva's books (dat.)
-Eviny knihy:Eva's books (acc.)
-Eviných knihách:Eva's books (loc.)
-Evinými knihami:Eva's books (inst.)
-studentův pokoj:the student's room
-pokoje studentů:the students' rooms
-Palackého náměstí:Palacký's Square
-romány Škvoreckého:Škvorecký's novels
-obrazy Braunerové:Braunerová's pictures
-To je dům mého přítele Petra.:That is my friend Petr's house.
-To je Petrův dům.:That is Petr's house.
+bratrův syn - Brother's son (nom.)
+bratrova syna - Brother's son (gen.)
+bratrovu synovi - Brother's son (dat.)
+bratrova syna - Brother's son (acc.)
+bratrově synovi/bratrovu synovi - Brother's son (loc.)
+bratrovým synem - Brother's son (inst.)
+bratrovi synové - Brother's sons (nom.)
+bratrových synů - Brother's sons (gen.)
+bratrovým synům - Brother's sons (dat.)
+bratrovy syny - Brother's sons (acc.)
+bratrových synech - Brother's sons (loc.)
+bratrovými syny - Brother's sons (inst.)
+bratrův dům - Brother's house (nom.)
+bratrova domu - Brother's house (gen.)
+bratrovu domu - Brother's house (dat.)
+bratrův dům - Brother's house (acc.)
+bratrově domu/bratrovu domu - Brother's house (loc.)
+bratrovým domem - Brother's house (inst.)
+bratrovy domy - Brother's houses (nom.)
+bratrových domů - Brother's houses (gen.)
+bratrovým domům - Brother's houses (dat.)
+bratrovy domy - Brother's houses (acc.)
+bratrových domech - Brother's houses (loc.)
+bratrovými domy - Brother's houses (inst.)
+bratrovo auto - Brother's car (nom.)
+bratrova auta - Brother's car (gen.)
+bratrovu autu - Brother's car (dat.)
+bratrovo auto - Brother's car (acc.)
+bratrově autu/bratrovu autu - Brother's car (loc.)
+bratrovým autem - Brother's car (inst.)
+bratrova auta - Brother's cars (nom.)
+bratrových aut - Brother's cars (gen.)
+bratrovým autům - Brother's cars (dat.)
+bratrova auta - Brother's cars (acc.)
+bratrových autech - Brother's cars (loc.)
+bratrovými auty - Brother's cars (inst.)
+bratrova kniha - Brother's book (nom.)
+bratrovy knihy - Brother's book (gen.)
+bratrově knize - Brother's book (dat.)
+bratrovu knihu - Brother's book (acc.)
+bratrově knize - Brother's book (loc.)
+bratrovou knihou - Brother's book (inst.)
+bratrovy knihy - Brother's books (nom.)
+bratrových knih - Brother's books (gen.)
+bratrovým knihám - Brother's books (dat.)
+bratrovy knihy - Brother's books (acc.)
+bratrových knihách - Brother's books (loc.)
+bratrovými knihami - Brother's books (inst.)
+Evin syn - Eva's son (nom.)
+Evina syna - Eva's son (gen.)
+Evinu synovi - Eva's son (dat.)
+Evina syna - Eva's son (acc.)
+Evině synovi - Eva's son (loc.)
+Eviným synem - Eva's son (inst.)
+Evini synové - Eva's sons (nom.)
+Eviných synů - Eva's sons (gen.)
+Eviným synům - Eva's sons (dat.)
+Eviny syny - Eva's sons (acc.)
+Eviných synech - Eva's sons (loc.)
+Evinými syny - Eva's sons (inst.)
+Evin dům - Eva's house (nom.)
+Evina domu - Eva's house (gen.)
+Evinu domu - Eva's house (dat.)
+Evin dům - Eva's house (acc.)
+Evině domu - Eva's house (loc.)
+Eviným domem - Eva's house (inst.)
+Eviny domy - Eva's houses (nom.)
+Eviných domů - Eva's houses (gen.)
+Eviným domům - Eva's houses (dat.)
+Eviny domy - Eva's houses (acc.)
+Eviných domech - Eva's houses (loc.)
+Evinými domy - Eva's houses (inst.)
+Evino auto - Eva's car (nom.)
+Evina auta - Eva's car (gen.)
+Evině autu - Eva's car (dat.)
+Evino auto - Eva's car (acc.)
+Evině autu - Eva's car (loc.)
+Eviným autem - Eva's car (inst.)
+Evina auta - Eva's cars (nom.)
+Eviných aut - Eva's cars (gen.)
+Eviným autům - Eva's cars (dat.)
+Evina auta - Eva's cars (acc.)
+Eviných autech - Eva's cars (loc.)
+Evinými auty - Eva's cars (inst.)
+Evina kniha - Eva's book (nom.)
+Eviny knihy - Eva's book (gen.)
+Evině knize - Eva's book (dat.)
+Evinu knihu - Eva's book (acc.)
+Evině knize - Eva's book (loc.)
+Evinou knihou - Eva's book (inst.)
+Eviny knihy - Eva's books (nom.)
+Eviných knih - Eva's books (gen.)
+Eviným knihám - Eva's books (dat.)
+Eviny knihy - Eva's books (acc.)
+Eviných knihách - Eva's books (loc.)
+Evinými knihami - Eva's books (inst.)
+studentův pokoj - the student's room
+pokoje studentů - the students' rooms
+Palackého náměstí - Palacký's Square
+romány Škvoreckého - Škvorecký's novels
+obrazy Braunerové - Braunerová's pictures
+To je dům mého přítele Petra. - That is my friend Petr's house.
+To je Petrův dům. - That is Petr's house.
 
 ComCz L. 6 (Misc. -- Libuše)
-bída:poverty, misery
-dno:bottom
-hladina:surface
-kněžna:princess
-kolébka:cradle
-koupat se:to bathe:impf., koupu nebo koupám
-krev:blood:fem., gen. krve
-odlesk:reflection
-oheň:fire:masc.
-pláč:(a) cry:masc.
-plamen:flame
-ponížení:humiliation
-potopit se:to sink (perf.)
-požár:fire
-pustit:to drop, put:perf.
-rána:wound, injury
-rozpadat se:to fall apart (impf.)
-rozpadnout se:to fall apart (perf.)
-rušit:to disturb:impf.
-skála:rock
-sláva:fame
-spravedlnost:justice, fairness
-strach:fear
-svědek:witness
-téct:to flow:impf., teče
-úleva:relief
-umírat:to die (impf.)
-umřít:to die (perf.):umřu
-úsvit:daybreak, dawn
-věštit:to foretell:impf.
-vládnout:to govern, rule:impf.
-vlast:one's native country:fem.
-vykřiknout:to shout out:perf.
-zabíjet:to kill (impf.)
-zakrýt:to cover (perf.):zakryji
-zář:glare, shine:fem.
+bída - poverty, misery
+dno - bottom
+hladina - surface
+kněžna - princess
+kolébka - cradle
+koupat se - to bathe - impf., koupu nebo koupám
+krev - blood - fem., gen. krve
+odlesk - reflection
+oheň - fire - masc.
+pláč - (a) cry - masc.
+plamen - flame
+ponížení - humiliation
+potopit se - to sink (perf.)
+požár - fire
+pustit - to drop, put - perf.
+rána - wound, injury
+rozpadat se - to fall apart (impf.)
+rozpadnout se - to fall apart (perf.)
+rušit - to disturb - impf.
+skála - rock
+sláva - fame
+spravedlnost - justice, fairness
+strach - fear
+svědek - witness
+téct - to flow - impf., teče
+úleva - relief
+umírat - to die (impf.)
+umřít - to die (perf.) - umřu
+úsvit - daybreak, dawn
+věštit - to foretell - impf.
+vládnout - to govern, rule - impf.
+vlast - one's native country - fem.
+vykřiknout - to shout out - perf.
+zabíjet - to kill (impf.)
+zakrýt - to cover (perf.) - zakryji
+zář - glare, shine - fem.

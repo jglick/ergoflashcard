@@ -1,179 +1,179 @@
 # -*- Czech-Quiz -*-
 
 ComCz L. 7 (Vocab.)
-aby:so that, in order that
-ačkoli:though, although
-černá hodinka:a cozy chat (in twilight)
-čtenář:reader
-děvče:girl:neut., děvčete
-dobrodružný:adventurous
-dokázat:to manage (perf.):dokážu
-dokud:as long as, so long as
-dokud ne...:till, until
-dovolovat:to allow (impf.):+ komu
-dovolit:to allow (perf.):+ komu
-důležitý:important
-dvojče:twin:neut., dvojčete
-hádat se:to quarrel:impf., + o co s kým
-hájit:to stand up, vindicate (an idea):impf.
-hrabě:count, earl:hraběte
-i když:in spite of, although
-jakmile:as soon as
-jednak...jednak:partly...partly
-kdepak:not at all, of course not
-kdykoli/kdykoliv:at any time, whenever
-kníže:prince, duke:knížete
-koleda:carol
-kotě:kitten:neut., kotěte
-masáž:massage:fem.
-namalovat:to paint (perf.)
-nechávat:to leave something up to someone (impf.):+ na čem
-nechat:to leave something up to someone (perf.):+ na čem
-nejen...ale i...:not only...but also...
-než:before (conj.)
-obrna:paralysis
-okolí:surroundings
-okraj (města):outskirts:masc.
-onemocnět:to fall sick:perf., + čím
-opouštět:to leave, quit (impf.)
-opustit:to leave, quit (perf.)
-osud:fate, fortune
-ozvat se:to come through (on the phone):perf., ozvu se, + komu
-platit:to concern:impf., + o čem
-podmínka:condition
-požádat:to request, ask for:perf., + o co
-prožívat:to pass, spend, live (impf.)
-přednášet:to lecture:impf.
-přepisovat:to type up, retype (impf.)
-přepsat:to type up, retype (perf.):přepíšu
-přestat:to stop (doing something):perf., přestanu
-přestože:in spite of, although
-přihlásit se (do kurzu):to apply (oneself):perf.
-přísný:strict
-pustit (ke slovu):to let a person speak:perf.
-rehabilitační:rehabilitation (adj.)
-respektovat:to respect:impf.
-rod:family, clan
-rozčilit:to upset, excite:perf.
-rozmazlovat:to pamper:impf.
-rušit:to disturb:impf.
-samotný:alone
-scénář:script
-shodou okolností:coincidentally
-skvělý:splendid, great
-snažit se:to try (impf.):+ o co
-společnost:company, set
-spolupracovat:to cooperate:impf., s kým na čem
-svět:world:gen. světa
-štěně:puppy:gen. štěněte
-tehdy:that time (adv.)
-totiž:that is to say, namely
-uvažovat:to reason about, think over:impf., o čem
-verze:version:fem.
-vnouče:grandchild:gen. vnoučete
-vychovávat:to bring up (impf.)
-vychovat:to bring up (perf.)
-vzkazovat:to give a message, send word (impf.)
-vzkázat:to give a message, send word (perf.):vzkážu
-zatímco:while
-zdržet se:to be delayed:perf.
-zvíře:animal:gen. zvířete
-Platí?:OK? Are you game?
-Platí.:I am agreed.
+aby - so that, in order that
+ačkoli - though, although
+černá hodinka - a cozy chat (in twilight)
+čtenář - reader
+děvče - girl - neut., děvčete
+dobrodružný - adventurous
+dokázat - to manage (perf.) - dokážu
+dokud - as long as, so long as
+dokud ne... - till, until
+dovolovat - to allow (impf.) - + komu
+dovolit - to allow (perf.) - + komu
+důležitý - important
+dvojče - twin - neut., dvojčete
+hádat se - to quarrel - impf., + o co s kým
+hájit - to stand up, vindicate (an idea) - impf.
+hrabě - count, earl - hraběte
+i když - in spite of, although
+jakmile - as soon as
+jednak...jednak - partly...partly
+kdepak - not at all, of course not
+kdykoli/kdykoliv - at any time, whenever
+kníže - prince, duke - knížete
+koleda - carol
+kotě - kitten - neut., kotěte
+masáž - massage - fem.
+namalovat - to paint (perf.)
+nechávat - to leave something up to someone (impf.) - + na čem
+nechat - to leave something up to someone (perf.) - + na čem
+nejen...ale i... - not only...but also...
+než - before (conj.)
+obrna - paralysis
+okolí - surroundings
+okraj (města) - outskirts - masc.
+onemocnět - to fall sick - perf., + čím
+opouštět - to leave, quit (impf.)
+opustit - to leave, quit (perf.)
+osud - fate, fortune
+ozvat se - to come through (on the phone) - perf., ozvu se, + komu
+platit - to concern - impf., + o čem
+podmínka - condition
+požádat - to request, ask for - perf., + o co
+prožívat - to pass, spend, live (impf.)
+přednášet - to lecture - impf.
+přepisovat - to type up, retype (impf.)
+přepsat - to type up, retype (perf.) - přepíšu
+přestat - to stop (doing something) - perf., přestanu
+přestože - in spite of, although
+přihlásit se (do kurzu) - to apply (oneself) - perf.
+přísný - strict
+pustit (ke slovu) - to let a person speak - perf.
+rehabilitační - rehabilitation (adj.)
+respektovat - to respect - impf.
+rod - family, clan
+rozčilit - to upset, excite - perf.
+rozmazlovat - to pamper - impf.
+rušit - to disturb - impf.
+samotný - alone
+scénář - script
+shodou okolností - coincidentally
+skvělý - splendid, great
+snažit se - to try (impf.) - + o co
+společnost - company, set
+spolupracovat - to cooperate - impf., s kým na čem
+svět - world - gen. světa
+štěně - puppy - gen. štěněte
+tehdy - that time (adv.)
+totiž - that is to say, namely
+uvažovat - to reason about, think over - impf., o čem
+verze - version - fem.
+vnouče - grandchild - gen. vnoučete
+vychovávat - to bring up (impf.)
+vychovat - to bring up (perf.)
+vzkazovat - to give a message, send word (impf.)
+vzkázat - to give a message, send word (perf.) - vzkážu
+zatímco - while
+zdržet se - to be delayed - perf.
+zvíře - animal - gen. zvířete
+Platí? - OK? Are you game?
+Platí. - I am agreed.
 
 ComCz L. 7 (Gramm. C -- Conj.)
-spojka:conjunction
-spojovací výraz:link word
-a:and
-Navečeřeli se a šli do diavdla.:They had dinner and went to the theatre.
-Studuji češtinu a historii.:I study Czech and history.
-ale:but
-Dneska zůstaneme doma, ale zítra půjdeme na koncert.:Today we will stay home, but tomorrow we will go to the concert.
-ani...ani:neither...nor
-Nemám rád ani bílé ani červené víno.:I like neither white nor red wine.
-a tak:and so
-V USA jsem nemohl najít práci, a tak jsem přijel sem.:In the USA I could not find work, and so I came here.
-co:what
-Vím, co máš v té tašce.:I know what you have in that bag.
-jak:how
-Nevím, jak to mám udělat.:I do not know how I have to do it.
-jestli:if, whether
-Ptal se mě, jestli mám čas.:He asked me if I had time.
-Ještě nevím, jestli přijdou.:I still do not know if they will come.
-kam:where (dyn.)
-Šla na ples, kam později přišel i Zdeněk.:She went to the ball, where Zdeněk also went later.
-kde:where (stat.)
-Žiju ve městě, kde není ani jeden Američan.:I live in a city where there is not even one American.
-kdo:who
-Vím, kdo umí dobře německy.:I know who knows German well.
-kdy:when
-Přišel den, kdy jsem si myslel, že už to déle nevydržím.:The day came when I thought to myself that I wasn't going to take it anymore.
-který:who, which
-Žena, kterou jsem potkal u řeky, měla dlouhé vlasy.:The woman I ran into by the river had long hair.
-nebo:or
-Chtěl bych jet do Řecka nebo do Italie.:I would like to go to Greece or to Italy.
-než:than
-Je méně nadaný než jeho sestra.:He is less gifted than his sister.
-proto/a proto:therefore
-Chtěl jsem změnit svůj život, a proto jsem přijel do Prahy.:I wanted to change my life, and therefore I came to Prague.
-protože:because
-Dlouho jsem se nemohl naučit česky, protože gramatika je moc těžká.:For a long time I was not able to learn Czech because the grammar is very difficult.
-že:that (conj.)
-Nečekal jsem, že mi pomůžeš.:I didn't wait that you help me. (?)
-Řekl mi, že se už nevrátí.:He told me that he would no longer return.
-časové věty:time clauses
-když:when
-Když je manžel doma, vařím večeři.:When my husband is home, I cook dinner.
-Když jsem byla nemocná, navštívil mě dědeček.:When I was sick, my grandfather visited me.
-až:when, as late as
-Přijdu, až budu mít čas.:I will come when I have time.
-než:before
-Než se vrátí manžel, uvařím večeři.:Before my husband returns, I will cook dinner.
-jakmile:as soon as
-Jakmile manžel přijde domů, budeme večeřet.:As soon as my husband comes home, we will have dinner.
-zatímco:while
-Zatímco manžel čte noviny, dělám večeři.:While my husband is reasing the newspaper, I make dinner.
-kdykoli/kdykoliv/vždycky když:at any time, whenever
-Kdykoli dostanu dopis, snažím se hned odpovědět.:Whenever I get a letter, I try to answer it immediately.
-dokud:as long as, so long as
-dokud ne...:till, until
-Dokud nepřijde manžel, nebudeme večeřet.:Until my husband comes (home), we will not have dinner.
-Dokud budu nemocná, nepůjdu ven.:As long as I am ill, I will not go out.
-podmínkové věty:conditional clauses
-když/jestli/jestliže/-li:if, in case
-Když (jestli, jestliže) budu mít čas, půjdu do divadla./Budu-li mít čas, půjdu do divadla.:If I have time, I will go to the theatre.
-Když je hezky, chodím se koupat.:If it is nice out, I go to bathe.
-Jestli bude sněžit, pojedu na hory.:If it snows, I will go to the mountains.
-kdyby:if (subjun.)
-Kdybych měl dost peněz, jel bych do Egypta.:If I had enough money, I would go to Egypt.
-Kdybys jel s námi do Egypta, viděl bys pyramidy.:If you went with us to Egypt, you would see pyramids.
-přípustkové věty:clauses of concession
-i když/přestože/ačkoli:despite, although
-I když není teplo, půjdeme do lesa na houby.:Although it is not warm out, we will go into the forest for mushrooms.
-Přestože (ačkoli) jsem byl unavený, šel jsem na návštěvu.:Although I was tired, I went on a visit.
-přesto:in spite of (that, which)
-Neměl peníze, přesto si chtěl koupit drahou knihu.:He had no money, in spite of which he wanted to buy an expensive book.
+spojka - conjunction
+spojovací výraz - link word
+a - and
+Navečeřeli se a šli do diavdla. - They had dinner and went to the theatre.
+Studuji češtinu a historii. - I study Czech and history.
+ale - but
+Dneska zůstaneme doma, ale zítra půjdeme na koncert. - Today we will stay home, but tomorrow we will go to the concert.
+ani...ani - neither...nor
+Nemám rád ani bílé ani červené víno. - I like neither white nor red wine.
+a tak - and so
+V USA jsem nemohl najít práci, a tak jsem přijel sem. - In the USA I could not find work, and so I came here.
+co - what
+Vím, co máš v té tašce. - I know what you have in that bag.
+jak - how
+Nevím, jak to mám udělat. - I do not know how I have to do it.
+jestli - if, whether
+Ptal se mě, jestli mám čas. - He asked me if I had time.
+Ještě nevím, jestli přijdou. - I still do not know if they will come.
+kam - where (dyn.)
+Šla na ples, kam později přišel i Zdeněk. - She went to the ball, where Zdeněk also went later.
+kde - where (stat.)
+Žiju ve městě, kde není ani jeden Američan. - I live in a city where there is not even one American.
+kdo - who
+Vím, kdo umí dobře německy. - I know who knows German well.
+kdy - when
+Přišel den, kdy jsem si myslel, že už to déle nevydržím. - The day came when I thought to myself that I wasn't going to take it anymore.
+který - who, which
+Žena, kterou jsem potkal u řeky, měla dlouhé vlasy. - The woman I ran into by the river had long hair.
+nebo - or
+Chtěl bych jet do Řecka nebo do Italie. - I would like to go to Greece or to Italy.
+než - than
+Je méně nadaný než jeho sestra. - He is less gifted than his sister.
+proto/a proto - therefore
+Chtěl jsem změnit svůj život, a proto jsem přijel do Prahy. - I wanted to change my life, and therefore I came to Prague.
+protože - because
+Dlouho jsem se nemohl naučit česky, protože gramatika je moc těžká. - For a long time I was not able to learn Czech because the grammar is very difficult.
+že - that (conj.)
+Nečekal jsem, že mi pomůžeš. - I didn't wait that you help me. (?)
+Řekl mi, že se už nevrátí. - He told me that he would no longer return.
+časové věty - time clauses
+když - when
+Když je manžel doma, vařím večeři. - When my husband is home, I cook dinner.
+Když jsem byla nemocná, navštívil mě dědeček. - When I was sick, my grandfather visited me.
+až - when, as late as
+Přijdu, až budu mít čas. - I will come when I have time.
+než - before
+Než se vrátí manžel, uvařím večeři. - Before my husband returns, I will cook dinner.
+jakmile - as soon as
+Jakmile manžel přijde domů, budeme večeřet. - As soon as my husband comes home, we will have dinner.
+zatímco - while
+Zatímco manžel čte noviny, dělám večeři. - While my husband is reasing the newspaper, I make dinner.
+kdykoli/kdykoliv/vždycky když - at any time, whenever
+Kdykoli dostanu dopis, snažím se hned odpovědět. - Whenever I get a letter, I try to answer it immediately.
+dokud - as long as, so long as
+dokud ne... - till, until
+Dokud nepřijde manžel, nebudeme večeřet. - Until my husband comes (home), we will not have dinner.
+Dokud budu nemocná, nepůjdu ven. - As long as I am ill, I will not go out.
+podmínkové věty - conditional clauses
+když/jestli/jestliže/-li - if, in case
+Když (jestli, jestliže) budu mít čas, půjdu do divadla./Budu-li mít čas, půjdu do divadla. - If I have time, I will go to the theatre.
+Když je hezky, chodím se koupat. - If it is nice out, I go to bathe.
+Jestli bude sněžit, pojedu na hory. - If it snows, I will go to the mountains.
+kdyby - if (subjun.)
+Kdybych měl dost peněz, jel bych do Egypta. - If I had enough money, I would go to Egypt.
+Kdybys jel s námi do Egypta, viděl bys pyramidy. - If you went with us to Egypt, you would see pyramids.
+přípustkové věty - clauses of concession
+i když/přestože/ačkoli - despite, although
+I když není teplo, půjdeme do lesa na houby. - Although it is not warm out, we will go into the forest for mushrooms.
+Přestože (ačkoli) jsem byl unavený, šel jsem na návštěvu. - Although I was tired, I went on a visit.
+přesto - in spite of (that, which)
+Neměl peníze, přesto si chtěl koupit drahou knihu. - He had no money, in spite of which he wanted to buy an expensive book.
 
 ComCz L. 7 (Gramm. D -- Věty s aby)
-Nechce, aby ho někdo při práci rušil.:He doesn't want anyone to disturb him at work.
-Snažíme se, abychom je nerozmazlovali.:We try not to pamper them.
-hlavní věta:main clause
-věta účelová:clause of purpose
-Jedeme na hory, abychom lyžovali./Jedeme na hory lyžovat.:We are going to the mountains to ski.
-Jeli jsme na hory, abychom lyžovali./Jeli jsme na hory lyžovat.:We went to the mountains to ski.
-Pojedeme na hory, abychom lyžovali./Pojedeme na hory lyžovat.:We will go to the mountains to ski.
-Jeďte na hory, abyste lyžovali!:Go to the mountains to ski!
-Jedeme na hory, protože chceme lyžovat.:We are going to the mountains because we want to ski.
-Nepřejeme si, abyste tady kouřili.:We don't wish you to smoke here.
-Nechtěla, aby ji doprovázel.:She didn't want him to accompany her.
-Snažil jsem se, abych přijel včas.:I tried to come on time.
-Řekl mi, abych to udělal.:He told me to do it.
-Požádal jsem ho, aby mi pomohl.:I asked him to help me.
-Přítel mi radil, abych víc odpočíval.:A friend advised me to relax more.
-Prosili nás, abychom jeli s nimi.:They asked us to go with them.
-Dovolte, abych Vám představil svou ženu.:Let me introduce my wife.
-Vzkázal mi, abych mu zavolal.:He left me a message to call him.
-Připomeň mi, abych poslal ten dopis.:Remind me to send that letter.
-Není možné, aby tomu nerozuměli.:It isn't possible for them to understand that.
-Je třeba, aby to udělali včas.:It is necessary for them to do it on time.
-Není nutné, abyste tam chodili.:It isn't necessary for you to go there.
+Nechce, aby ho někdo při práci rušil. - He doesn't want anyone to disturb him at work.
+Snažíme se, abychom je nerozmazlovali. - We try not to pamper them.
+hlavní věta - main clause
+věta účelová - clause of purpose
+Jedeme na hory, abychom lyžovali./Jedeme na hory lyžovat. - We are going to the mountains to ski.
+Jeli jsme na hory, abychom lyžovali./Jeli jsme na hory lyžovat. - We went to the mountains to ski.
+Pojedeme na hory, abychom lyžovali./Pojedeme na hory lyžovat. - We will go to the mountains to ski.
+Jeďte na hory, abyste lyžovali! - Go to the mountains to ski!
+Jedeme na hory, protože chceme lyžovat. - We are going to the mountains because we want to ski.
+Nepřejeme si, abyste tady kouřili. - We don't wish you to smoke here.
+Nechtěla, aby ji doprovázel. - She didn't want him to accompany her.
+Snažil jsem se, abych přijel včas. - I tried to come on time.
+Řekl mi, abych to udělal. - He told me to do it.
+Požádal jsem ho, aby mi pomohl. - I asked him to help me.
+Přítel mi radil, abych víc odpočíval. - A friend advised me to relax more.
+Prosili nás, abychom jeli s nimi. - They asked us to go with them.
+Dovolte, abych Vám představil svou ženu. - Let me introduce my wife.
+Vzkázal mi, abych mu zavolal. - He left me a message to call him.
+Připomeň mi, abych poslal ten dopis. - Remind me to send that letter.
+Není možné, aby tomu nerozuměli. - It isn't possible for them to understand that.
+Je třeba, aby to udělali včas. - It is necessary for them to do it on time.
+Není nutné, abyste tam chodili. - It isn't necessary for you to go there.

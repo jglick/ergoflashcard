@@ -1,96 +1,96 @@
 # -*- Czech-Quiz -*-
 ElComCz Chapter 4
-doporučený dopis:registered letter:masc.
-drobné:change:pl.
-jižní:southern
-klášter:monastery:masc.
-klub:club:masc.
-letecky:air mail:adv.
-například:for example
-návštěva:a visit (noun):fem.
-navštívit:to visit:pf.
-pas:passport:masc.
-pohlednice:postcard:fem.
-posílat/poslat:to send/to mail
-přístě:next time:adv.
-rovně:straight (adv.)
-rozměnit:to change:pf.
-směnárna:exchange bureau:fem.
-snídaně:breakfast:fem.
-spisovatel:author/writer:masc.
-sympatický:nice/pleasant
-věrný:faithful
-volat:to call,to phone:impf.
-vyměnit:to exchange (money):pf.
-zámek:castle,chateau:masc.
-známka:stamp,grade:fem.
-žadný:no,none:pron.
-Učitelka ještě není tady.:The teacheress isn' t here yet.
-Učitelka je ještě tady.:The teacheress is still here.
-Učitelka je už tady.:The teacheress is already here.
-Učitelka už není tady.: The teacheress isn' t here anymore.
-Jdu do banky:I go to the bank.
-Jsem v bance:I am at the bank.
-Jdu do školy:I go to the school.
-Jsem ve škole:I am at the school.
-Jdu na výlet:I am going on a trip.
-Jsem na výletě:I am on a trip.
-Jsem na obědě:I am at lunch.
-Jdu do parku:I'm going to the park.
-Jsem v parku:I'm in the park.
-Jdu do obchodu:I'm going to the store.
-Jsem v obchodě:I'm at the store.
-Jdu nakupovat:I'm going shopping.
-Jdu na poštu:I'm going to the post office.
-Jdu na navštěvu:I'm going for a visit.
-první ulicí doleva:the first street on the left.
-druhou ulicí:the second street
-třetí ulicí:the third street
+doporučený dopis - registered letter - masc.
+drobné - change - pl.
+jižní - southern
+klášter - monastery - masc.
+klub - club - masc.
+letecky - air mail - adv.
+například - for example
+návštěva - a visit (noun) - fem.
+navštívit - to visit - pf.
+pas - passport - masc.
+pohlednice - postcard - fem.
+posílat/poslat - to send/to mail
+přístě - next time - adv.
+rovně - straight (adv.)
+rozměnit - to change - pf.
+směnárna - exchange bureau - fem.
+snídaně - breakfast - fem.
+spisovatel - author/writer - masc.
+sympatický - nice/pleasant
+věrný - faithful
+volat - to call,to phone - impf.
+vyměnit - to exchange (money) - pf.
+zámek - castle,chateau - masc.
+známka - stamp,grade - fem.
+žadný - no,none - pron.
+Učitelka ještě není tady. - The teacheress isn' t here yet.
+Učitelka je ještě tady. - The teacheress is still here.
+Učitelka je už tady. - The teacheress is already here.
+Učitelka už není tady. -  The teacheress isn' t here anymore.
+Jdu do banky - I go to the bank.
+Jsem v bance - I am at the bank.
+Jdu do školy - I go to the school.
+Jsem ve škole - I am at the school.
+Jdu na výlet - I am going on a trip.
+Jsem na výletě - I am on a trip.
+Jsem na obědě - I am at lunch.
+Jdu do parku - I'm going to the park.
+Jsem v parku - I'm in the park.
+Jdu do obchodu - I'm going to the store.
+Jsem v obchodě - I'm at the store.
+Jdu nakupovat - I'm going shopping.
+Jdu na poštu - I'm going to the post office.
+Jdu na navštěvu - I'm going for a visit.
+první ulicí doleva - the first street on the left.
+druhou ulicí - the second street
+třetí ulicí - the third street
 ElComCz Chapter 5
-přílis:too (much):adv.
-dost:enough/rather:adv.
-Pivo mi chutná:Beer appeals to my taste.
-Mám málo času:I have little time.
-tričko:t-shirt:neut.
-Znám Prahu málo:I know Prague little.
-cvičit:to exercise:impf.
-číšník:waiter
-divit se:to wonder/to be surprised:impf.
-tlustý:fat
-dvoulůžkový pokoj:double room:masc.
-džíny:jeans:pl.
-formulář:form:masc.
-hádat se:to quarrel/to argue:impf.
-Je to v pořádku.:That is all right.
-jednolůžkový pokoj:single room:masc.
-jednou:once, one time
-koupelna:bathroom
-led:ice:masc.
-Mít žízeň:to be thirsty
-nakonec:at the end:adv.
-naproti:opposite:prep.
-nechat si:to keep/to retain:pf.
-objednaný:ordered/booked:adj.
-objednat/objednávat:to order
-odcházet:to leave (somewhere,on foot) (impf.)
-omlouvat se:to apologize:impf.
-poezie:poetry:fem.
-přicházet:to come/to arrive (somewhere,on foot) (impf.)
-příjmení:last name:neut.
-přinášet:to bring/to serve (impf.)
-recepční:receptionist:masc.,fem.
-smět:may:smím
-spropitné:tip:neut.
-věřit:to believe (impf.)
-vracet:to repay (impf.)
-vracet se:to come back,to return (impf.)
-vrchní:headwaiter:masc.
+přílis - too (much) - adv.
+dost - enough/rather - adv.
+Pivo mi chutná - Beer appeals to my taste.
+Mám málo času - I have little time.
+tričko - t-shirt - neut.
+Znám Prahu málo - I know Prague little.
+cvičit - to exercise - impf.
+číšník - waiter
+divit se - to wonder/to be surprised - impf.
+tlustý - fat
+dvoulůžkový pokoj - double room - masc.
+džíny - jeans - pl.
+formulář - form - masc.
+hádat se - to quarrel/to argue - impf.
+Je to v pořádku. - That is all right.
+jednolůžkový pokoj - single room - masc.
+jednou - once, one time
+koupelna - bathroom
+led - ice - masc.
+Mít žízeň - to be thirsty
+nakonec - at the end - adv.
+naproti - opposite - prep.
+nechat si - to keep/to retain - pf.
+objednaný - ordered/booked - adj.
+objednat/objednávat - to order
+odcházet - to leave (somewhere,on foot) (impf.)
+omlouvat se - to apologize - impf.
+poezie - poetry - fem.
+přicházet - to come/to arrive (somewhere,on foot) (impf.)
+příjmení - last name - neut.
+přinášet - to bring/to serve (impf.)
+recepční - receptionist - masc.,fem.
+smět - may - smím
+spropitné - tip - neut.
+věřit - to believe (impf.)
+vracet - to repay (impf.)
+vracet se - to come back,to return (impf.)
+vrchní - headwaiter - masc.
 ElComCz Chapter 6
-Oblékal ses:You got dressed.
-Oblékal jsem se:I got dressed.
-sníst:to eat up:pf.
-obléknout se,si:to get dressed (pf.):obléknu,oblékl
-zapomenout:to forget (pf.):zapomenu,zapomněl
-začít:to start (pf.):začal
-přijmout:to receive (pf.):přijmu,přijal 
+Oblékal ses - You got dressed.
+Oblékal jsem se - I got dressed.
+sníst - to eat up - pf.
+obléknout se,si - to get dressed (pf.) - obléknu,oblékl
+zapomenout - to forget (pf.) - zapomenu,zapomněl
+začít - to start (pf.) - začal
+přijmout - to receive (pf.) - přijmu,přijal 
 

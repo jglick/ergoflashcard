@@ -1,61 +1,61 @@
 # -*- Czech-Quiz -*-
 
 ComCz L. 2 (Misc. -- Pražské jaro)
-báseň:poem:fem.
-festival:festival:masc. hard
-konat se:to take place:impf.
-mezinárodní:international
-obrovský:colossal
-orchestr:orchestra
-předprodej:booking office:masc.
-skladatel:composer
-umělec:artist
-vlast:one's native country:fem.
-vstupenka:ticket
-vybírat si:to choose (impf.):+ z čeho
-vybrat si:to choose (perf.):vyberu, + z čeho
-zájemce:interested, concerned person:masc.
-zemřít:to die:perf., zemřu
-zúčastnit se:to take part:perf., + čeho
+báseň - poem - fem.
+festival - festival - masc. hard
+konat se - to take place - impf.
+mezinárodní - international
+obrovský - colossal
+orchestr - orchestra
+předprodej - booking office - masc.
+skladatel - composer
+umělec - artist
+vlast - one's native country - fem.
+vstupenka - ticket
+vybírat si - to choose (impf.) - + z čeho
+vybrat si - to choose (perf.) - vyberu, + z čeho
+zájemce - interested, concerned person - masc.
+zemřít - to die - perf., zemřu
+zúčastnit se - to take part - perf., + čeho
 
 ComCz L. 2 (Vocab.)
-arašídové máslo:peanut butter
-domlouvat se:to arrange, agree on (impf.):+ s kým, + na čem
-domluvit se:to arrange, agree on (perf.):+ s kým, + na čem
-domluvený:arranged
-doprava:transportation, traffic
-hodit se:to match, suit:+ komu, ke komu
-javorový sirup:maple syrup
-koření:spice
-kromě:besides, except:+ čeho (koho)
-libreto:libreto???
-nenávidět:to hate:impf.
-odjíždět:to leave (in a vehicle) (impf.)
-odjet:to leave (in a vehicle) (perf.):odjedu
-opera:opera
-poděkování:thanks
-pohodlně:comfortably
-pozvání:invitation
-probudit se:to wake up:perf.
-prohlížet si:to have a look at, view (impf.)
-prohlédnout si:to have a look at, view (perf.)
-přebásnit:do a verse adaptation:perf.
-překvapení:surprise
-přijímat:to receive, accept (impf.)
-přijmout:to receive, accept (perf.):přijmu
-příroda:nature
-radost:joy, delight
-režie:directed by (i.e. direction)
-ředitelka:principal, administrator (fem.)
-volat:to call (impf.):komu
-zavolat:to call (perf.):komu
-vyhrát:to win:perf., vyhraju, + nad čím
-výška:height
-závod:contest, race
-zmizet:to disappear:perf.
-způsob:way, manner
-zůstávat:to stay (impf.)
-zůstat:to stay (perf.):zůstanu
-zvát:to invite (impf.):zvu
-pozvat:to invite (perf.):pozvu
-To je škoda.:It is a pity.
+arašídové máslo - peanut butter
+domlouvat se - to arrange, agree on (impf.) - + s kým, + na čem
+domluvit se - to arrange, agree on (perf.) - + s kým, + na čem
+domluvený - arranged
+doprava - transportation, traffic
+hodit se - to match, suit - + komu, ke komu
+javorový sirup - maple syrup
+koření - spice
+kromě - besides, except - + čeho (koho)
+libreto - libreto???
+nenávidět - to hate - impf.
+odjíždět - to leave (in a vehicle) (impf.)
+odjet - to leave (in a vehicle) (perf.) - odjedu
+opera - opera
+poděkování - thanks
+pohodlně - comfortably
+pozvání - invitation
+probudit se - to wake up - perf.
+prohlížet si - to have a look at, view (impf.)
+prohlédnout si - to have a look at, view (perf.)
+přebásnit - do a verse adaptation - perf.
+překvapení - surprise
+přijímat - to receive, accept (impf.)
+přijmout - to receive, accept (perf.) - přijmu
+příroda - nature
+radost - joy, delight
+režie - directed by (i.e. direction)
+ředitelka - principal, administrator (fem.)
+volat - to call (impf.) - komu
+zavolat - to call (perf.) - komu
+vyhrát - to win - perf., vyhraju, + nad čím
+výška - height
+závod - contest, race
+zmizet - to disappear - perf.
+způsob - way, manner
+zůstávat - to stay (impf.)
+zůstat - to stay (perf.) - zůstanu
+zvát - to invite (impf.) - zvu
+pozvat - to invite (perf.) - pozvu
+To je škoda. - It is a pity.

@@ -1,1265 +1,1265 @@
 # -*- Czech-Quiz -*-
 
 MCG Ch. 19 (Misc.)
-napočítati:to count to
-chtíti se komu:to feel like (i.e. desire)
-Chce se mi spat.:I feel like sleeping.:[or spát?]
-dveřmi:door (inst.)
-na štěstí:luckily, fortunately
-nikterak:in no way (arch.)
-prokousat:to bite one's way through
+napočítati - to count to
+chtíti se komu - to feel like (i.e. desire)
+Chce se mi spat. - I feel like sleeping. - [or spát?]
+dveřmi - door (inst.)
+na štěstí - luckily, fortunately
+nikterak - in no way (arch.)
+prokousat - to bite one's way through
 MCG Ch. 19 (Vocab.)
-čím..., tím...:the..., the...
-čím víc, tím lépe:the more the better
-dno:bottom
-druhý:second, other
-chvilka:short while
-za chvilku:after a short while
-komora:pantry, storeroom
-konec:end, finish:masc., gen. konce
-kopec:hill:masc., gen. kopce
--krát:-times (how often)
-dvakrát:twice
-desetkrát:ten times
-lavice:bench:fem.
-miska:dish, plate
-mračno:dark cloud, storm cloud
-neustále:unceasingly
-nízký:low
-nízko:low (adv.)
-odtud:from there
-omráčený:amazed, dumbfounded
-práh:threshold:gen. prahu
-proud:current
-robota:obligatory labor; hard work
-s(e) čeho:down from, off
-sedlák:peasant (masc.)
-silnice:highway:fem.
-síň:hall, corridor:fem.
-skrz, skrze:through:+ co
-strana:side/political party
-šťastný:lucky, happy
-nešťastný:unlucky, unhappy
-šťastně:luckily, happily
-víc, více:more
-zem, země:ground, floor:fem.
-dočkati se:to wait to see, wait until:1st, perf., + čeho
-hrnouti se:to rush, flock, stream, run:3rd, impf.
-křičeti:to cry out, exclaim (impf.):2nd (-í)
-křiknouti:to cry out, exclaim (perf.):3rd
-létati:to fly:1st, impf.
-měřiti:to measure (impf.):2nd
-změřiti:to measure (perf.):2nd
-najísti se:to eat one's fill:like jíst (najím se, ...), perf.
-mysliti (si):to think (impf.):2nd
-pomysliti (si):to think (perf.):2nd
-přibývati:to arrive (impf.)/to grow, increase (impf.):1st
-přibýti:to arrive (perf.)/to grow, increase (perf.):3rd, přibudu
-přiházeti se:to happen, occur (impf.):2nd (-ejí)
-přihoditi se:to happen, occur (perf.):2nd
-přikrývati:to cover (impf.):1st
-přikrýti:to cover (perf.):3rd, přikryji
-přinášeti:to bring (by carrying) (impf.):2nd (-ejí)
-přinésti:to bring (by carrying) (perf.):3rd, přinesu
-přiskočiti:to jump up, towards:2nd, perf.
-řezati:to cut:3rd, řeži, impf.
-spadnouti:to fall (down, off):3rd, perf.
-téci:to flow:3rd, teku, tečeš, tekl, impf.
-trvati:to last, endure, take (time):1st, impf.
-valiti:to roll (something), push over:2nd, impf.
-valiti se:to roll, pour (intrans.):2nd, impf.
+čím..., tím... - the..., the...
+čím víc, tím lépe - the more the better
+dno - bottom
+druhý - second, other
+chvilka - short while
+za chvilku - after a short while
+komora - pantry, storeroom
+konec - end, finish - masc., gen. konce
+kopec - hill - masc., gen. kopce
+-krát - -times (how often)
+dvakrát - twice
+desetkrát - ten times
+lavice - bench - fem.
+miska - dish, plate
+mračno - dark cloud, storm cloud
+neustále - unceasingly
+nízký - low
+nízko - low (adv.)
+odtud - from there
+omráčený - amazed, dumbfounded
+práh - threshold - gen. prahu
+proud - current
+robota - obligatory labor; hard work
+s(e) čeho - down from, off
+sedlák - peasant (masc.)
+silnice - highway - fem.
+síň - hall, corridor - fem.
+skrz, skrze - through - + co
+strana - side/political party
+šťastný - lucky, happy
+nešťastný - unlucky, unhappy
+šťastně - luckily, happily
+víc, více - more
+zem, země - ground, floor - fem.
+dočkati se - to wait to see, wait until - 1st, perf., + čeho
+hrnouti se - to rush, flock, stream, run - 3rd, impf.
+křičeti - to cry out, exclaim (impf.) - 2nd (-í)
+křiknouti - to cry out, exclaim (perf.) - 3rd
+létati - to fly - 1st, impf.
+měřiti - to measure (impf.) - 2nd
+změřiti - to measure (perf.) - 2nd
+najísti se - to eat one's fill - like jíst (najím se, ...), perf.
+mysliti (si) - to think (impf.) - 2nd
+pomysliti (si) - to think (perf.) - 2nd
+přibývati - to arrive (impf.)/to grow, increase (impf.) - 1st
+přibýti - to arrive (perf.)/to grow, increase (perf.) - 3rd, přibudu
+přiházeti se - to happen, occur (impf.) - 2nd (-ejí)
+přihoditi se - to happen, occur (perf.) - 2nd
+přikrývati - to cover (impf.) - 1st
+přikrýti - to cover (perf.) - 3rd, přikryji
+přinášeti - to bring (by carrying) (impf.) - 2nd (-ejí)
+přinésti - to bring (by carrying) (perf.) - 3rd, přinesu
+přiskočiti - to jump up, towards - 2nd, perf.
+řezati - to cut - 3rd, řeži, impf.
+spadnouti - to fall (down, off) - 3rd, perf.
+téci - to flow - 3rd, teku, tečeš, tekl, impf.
+trvati - to last, endure, take (time) - 1st, impf.
+valiti - to roll (something), push over - 2nd, impf.
+valiti se - to roll, pour (intrans.) - 2nd, impf.
 # ss 86
 MCG Ch. 19 (Gramm.)
-doktorům:doctors (dat.)
-psům:dogs (dat.)
-automobilům:automobiles (dat.)
-domům:houses (dat.)
-strýcům:uncles (dat.)
-přátelům:friends (dat.)
-míčům:balls (dat.)
-dnům:days (dat.)
-lidem:people (dat.)
-ženám:women (dat.)
-knihám:books (dat.)
-tužkám:pencils (dat.)
-restauracím:restaurants (dat.)
-přítelkyním:girlfriends (dat.)
-kostem:bones (dat.)
-řečem:speeches (dat.)
-děti:children (nom.)
-dětem:children (dat.)
-písně:songs (nom.)
-písním:songs (dat.)
-mysl:thought (nom.):fem. soft
-mysli:thoughts (nom.)
-myslím:thoughts (dat.)
-městům:cities (dat.)
-oknům:windows (dat.)
-polím:fields (dat.)
-vejcím:eggs (dat.)
-hřištím:playgrounds (dat.)
+doktorům - doctors (dat.)
+psům - dogs (dat.)
+automobilům - automobiles (dat.)
+domům - houses (dat.)
+strýcům - uncles (dat.)
+přátelům - friends (dat.)
+míčům - balls (dat.)
+dnům - days (dat.)
+lidem - people (dat.)
+ženám - women (dat.)
+knihám - books (dat.)
+tužkám - pencils (dat.)
+restauracím - restaurants (dat.)
+přítelkyním - girlfriends (dat.)
+kostem - bones (dat.)
+řečem - speeches (dat.)
+děti - children (nom.)
+dětem - children (dat.)
+písně - songs (nom.)
+písním - songs (dat.)
+mysl - thought (nom.) - fem. soft
+mysli - thoughts (nom.)
+myslím - thoughts (dat.)
+městům - cities (dat.)
+oknům - windows (dat.)
+polím - fields (dat.)
+vejcím - eggs (dat.)
+hřištím - playgrounds (dat.)
 # ss 87
-Dal jsem knihy těm malým žákům.:I gave books to those small pupils.
-Neodpovím svým cizím přátelům.:I will not answer my foreign friends.
-Řekl jsem to našim strýcům.:I told it to our uncles.
+Dal jsem knihy těm malým žákům. - I gave books to those small pupils.
+Neodpovím svým cizím přátelům. - I will not answer my foreign friends.
+Řekl jsem to našim strýcům. - I told it to our uncles.
 MCG Ch. 19 (Gramm.)/Deklinace číslovek
 # ss 88
-jedenáct:eleven
-dvanáct:twelve
-třináct:thirteen
-čtrnáct:fourteen
-patnáct:fifteen
-šestnáct:sixteen
-sedmnáct:seventeen
-osmnáct:eighteen
-devatenáct:nineteen
-dvacet:twenty
-dvanáct mladých lidí:twelve young people
-dvacet nových knih:twenty new books
+jedenáct - eleven
+dvanáct - twelve
+třináct - thirteen
+čtrnáct - fourteen
+patnáct - fifteen
+šestnáct - sixteen
+sedmnáct - seventeen
+osmnáct - eighteen
+devatenáct - nineteen
+dvacet - twenty
+dvanáct mladých lidí - twelve young people
+dvacet nových knih - twenty new books
 MCG Ch. 19 (Gramm.)
 # ss 89
-přijíti:to come (perf.)
-přiskočiti:to jump up to (perf.)
-přidati:to add (perf.)
-připsati:to write some more, add in writing (perf.)
-#b19x:přibýti:to grow, increase (perf.)
-přivařiti:to boil a little more (perf.)
-přibarviti:to tint, color lightly (perf.)
+přijíti - to come (perf.)
+přiskočiti - to jump up to (perf.)
+přidati - to add (perf.)
+připsati - to write some more, add in writing (perf.)
+#b19x - přibýti - to grow, increase (perf.)
+přivařiti - to boil a little more (perf.)
+přibarviti - to tint, color lightly (perf.)
 # ss 90
-zdravý:healthy
-zdravě:healthily
-slabý:weak
-slabě:weakly
-zajímavý:interesting
-zajímavě:interestingly
-jistý:sure, certain
-jistě:surely, certainly
-černý:black
-černě:blackly
-dobrý:good
-dobře:well
-tenký:thin
-tence:thinly
-tichý:silent
-tiše:silently
-rychlý:fast
-rychle:quickly
-veselý:gay, merry, funny
-vesele:gayly, merrily, funnily
-blízký:nearby, close
-blízko:near, closely
-daleký:far-away, distant
-daleko:far, distantly
-častý:frequent
-často:frequently, often
-dlouhý:long
-dlouho:long (adv.)
-český:Czech (adj.)
-česky:Czech (adv.)
-americký:American
-americky:American (adv.)
-hezký:pretty, fine, nice
-hezky:prettily, finely, nicely
-cizí:strange
-cize:strangely
-první:first (adj.)
-prvně:first (adv.)
-příští:next (adj.)
-#b19x:příště:next (adv.)
-báječně:wonderfully
-bíle:whitely
-bohatě:richly
-dávný:bygone
-dávno:long ago
-hladově:hungrily
-hlavně:chiefly
-hloupě:stupidly
-hodně:worthily/considerably (colloq.)
-horce:hotly
-chladně:coldly
-chudě:poorly
-jaký:what sort?
-jak:how
-jednotlivý:separate
-jednotlivě:separately
-jistě:surely
-konečný:final
-konečně:finally
-krásně:beautifully
-krutě:cruelly
-líně:lazily
-malý:small
-málo:little, few
-možný:possible
-možno/možná:possibly
-obyčejně:usually
-pěkně:nicely
-přesný:precise, exact
-přesně:precisely, exactly
-přímý:direct
-přímo:directly
-příště:in the future, the next time
-rusky:in Russian, in the Russian way
-silně:strongly
-skutečný:real
-skutečně:really
-společný:common
-společně:commonly
-spravný:correct
-spravně:correctly
-svatě:sacredly
-světle:brightly
-špatně:badly
-špinavý:dirty
-špinavě:dirtily
-těžký:heavy, difficult
-těžce/těžko:heavily, with difficulty
-unavený:weary
-unaveně:wearily
-úplný:full, complete
-úplně:completely
-veliký:great
-velice:greatly, extremely
-vlhký:damp
-vlhce/vlhko:damply
-výborně:excellently
-vysoký:high
-vysoce/vysoko:high(ly)
-žertovný:joking
-žertovně:jokingly
+zdravý - healthy
+zdravě - healthily
+slabý - weak
+slabě - weakly
+zajímavý - interesting
+zajímavě - interestingly
+jistý - sure, certain
+jistě - surely, certainly
+černý - black
+černě - blackly
+dobrý - good
+dobře - well
+tenký - thin
+tence - thinly
+tichý - silent
+tiše - silently
+rychlý - fast
+rychle - quickly
+veselý - gay, merry, funny
+vesele - gayly, merrily, funnily
+blízký - nearby, close
+blízko - near, closely
+daleký - far-away, distant
+daleko - far, distantly
+častý - frequent
+často - frequently, often
+dlouhý - long
+dlouho - long (adv.)
+český - Czech (adj.)
+česky - Czech (adv.)
+americký - American
+americky - American (adv.)
+hezký - pretty, fine, nice
+hezky - prettily, finely, nicely
+cizí - strange
+cize - strangely
+první - first (adj.)
+prvně - first (adv.)
+příští - next (adj.)
+#b19x - příště - next (adv.)
+báječně - wonderfully
+bíle - whitely
+bohatě - richly
+dávný - bygone
+dávno - long ago
+hladově - hungrily
+hlavně - chiefly
+hloupě - stupidly
+hodně - worthily/considerably (colloq.)
+horce - hotly
+chladně - coldly
+chudě - poorly
+jaký - what sort?
+jak - how
+jednotlivý - separate
+jednotlivě - separately
+jistě - surely
+konečný - final
+konečně - finally
+krásně - beautifully
+krutě - cruelly
+líně - lazily
+malý - small
+málo - little, few
+možný - possible
+možno/možná - possibly
+obyčejně - usually
+pěkně - nicely
+přesný - precise, exact
+přesně - precisely, exactly
+přímý - direct
+přímo - directly
+příště - in the future, the next time
+rusky - in Russian, in the Russian way
+silně - strongly
+skutečný - real
+skutečně - really
+společný - common
+společně - commonly
+spravný - correct
+spravně - correctly
+svatě - sacredly
+světle - brightly
+špatně - badly
+špinavý - dirty
+špinavě - dirtily
+těžký - heavy, difficult
+těžce/těžko - heavily, with difficulty
+unavený - weary
+unaveně - wearily
+úplný - full, complete
+úplně - completely
+veliký - great
+velice - greatly, extremely
+vlhký - damp
+vlhce/vlhko - damply
+výborně - excellently
+vysoký - high
+vysoce/vysoko - high(ly)
+žertovný - joking
+žertovně - jokingly
 MCG Ch. 19 (Misc.)
-Chce se mi jíst.:I feel like eating.
-Kolik je vám let?:How old are you?
-Kniha spadla na zem.:The book fell to the floor.
+Chce se mi jíst. - I feel like eating.
+Kolik je vám let? - How old are you?
+Kniha spadla na zem. - The book fell to the floor.
 
 MCG Ch. 20 (Misc.)
-humorista:humourist
-Cářství trebizonské:Empire of Trebizond
-všech:all (gen. pl.)
+humorista - humourist
+Cářství trebizonské - Empire of Trebizond
+všech - all (gen. pl.)
 MCG Ch. 20 (Vocab.)
-avšak:however
-básník:poet
-dále:further
-a tak dále:and so on:abbr. atd.
-dílo:work (e.g. of art), creation
-druh:kind, type
-důkaz:proof, demonstration
-inserát:advertisement
-ješitný:vain, conceited:ješitně
-klasický:classic:klasicky
-koketa:coquette
-kritika:criticism
-mnich:monk
-nápoj:beverage, drink
-napořád:continuously, all the time
-než, nežli:than (after comparatives)
-nýbrž:but rather (after negatives)
-pochybný:doubtful:pochybny
-odvaha:courage
-prostý:simple:prostě
-přece:nevertheless, still
-společnost:society:fem. soft
-svět:world:gen. světa
-vůbec:in general, on the whole
-vůbec...ne:not at all
-závažný:important, essential:závažně
-závod:firm, factory/contest, race
-zkrátka:in short
-zlý:bad, wicked, evil:zle
-znamenitý:famous, remarkable:znamenitě
-bohatnout:to grow wealthy (impf.):3rd
-zbohatnout:to grow wealthy (perf.):3rd
-dokazovat:to prove, demonstrate (impf.):3rd
-dokázat:to prove, demonstrate (perf.):3rd, dokáži
-hovět:to suit (someone):2nd (-ějí), + komu, impf.
-chudnout:to grow poor (impf.):3rd
-zchudnout:to grow poor (perf.):3rd
-konat:to perform, do, carry out (impf.):1st
-vykonat:to perform, do, carry out (perf.):1st
-obhajovat:to defend (e.g. in court) (impf.):3rd
-obhájit:to defend (e.g. in court) (perf.):2nd
-provádět:to carry out, effect (impf.):2nd (-ějí)
-provést:to carry out, effect (perf.):3rd, provedu, provedl
-přepínat:to exaggerate:1st, impf.
-stát:to stand:irreg. (stojím, stojíš, stojí...), stál, impv. stůj, impf.
-škodit:to harm, injure, damage (impf.):2nd, + komu
-uškodit:to harm, injure, damage (perf.):2nd, + komu
+avšak - however
+básník - poet
+dále - further
+a tak dále - and so on - abbr. atd.
+dílo - work (e.g. of art), creation
+druh - kind, type
+důkaz - proof, demonstration
+inserát - advertisement
+ješitný - vain, conceited - ješitně
+klasický - classic - klasicky
+koketa - coquette
+kritika - criticism
+mnich - monk
+nápoj - beverage, drink
+napořád - continuously, all the time
+než, nežli - than (after comparatives)
+nýbrž - but rather (after negatives)
+pochybný - doubtful - pochybny
+odvaha - courage
+prostý - simple - prostě
+přece - nevertheless, still
+společnost - society - fem. soft
+svět - world - gen. světa
+vůbec - in general, on the whole
+vůbec...ne - not at all
+závažný - important, essential - závažně
+závod - firm, factory/contest, race
+zkrátka - in short
+zlý - bad, wicked, evil - zle
+znamenitý - famous, remarkable - znamenitě
+bohatnout - to grow wealthy (impf.) - 3rd
+zbohatnout - to grow wealthy (perf.) - 3rd
+dokazovat - to prove, demonstrate (impf.) - 3rd
+dokázat - to prove, demonstrate (perf.) - 3rd, dokáži
+hovět - to suit (someone) - 2nd (-ějí), + komu, impf.
+chudnout - to grow poor (impf.) - 3rd
+zchudnout - to grow poor (perf.) - 3rd
+konat - to perform, do, carry out (impf.) - 1st
+vykonat - to perform, do, carry out (perf.) - 1st
+obhajovat - to defend (e.g. in court) (impf.) - 3rd
+obhájit - to defend (e.g. in court) (perf.) - 2nd
+provádět - to carry out, effect (impf.) - 2nd (-ějí)
+provést - to carry out, effect (perf.) - 3rd, provedu, provedl
+přepínat - to exaggerate - 1st, impf.
+stát - to stand - irreg. (stojím, stojíš, stojí...), stál, impv. stůj, impf.
+škodit - to harm, injure, damage (impf.) - 2nd, + komu
+uškodit - to harm, injure, damage (perf.) - 2nd, + komu
 MCG Ch. 20 (Misc.)
-bohulibý:pleasing to God, virtuous
-chudobný:poor
-lihuprostý:nonalcoholic
-positiv:positive (degree)
-superlativ:superlative (degree)
+bohulibý - pleasing to God, virtuous
+chudobný - poor
+lihuprostý - nonalcoholic
+positiv - positive (degree)
+superlativ - superlative (degree)
 MCG Ch. 20 (Gramm.)/MCG -- Locative
 # ss 91
-o doktorech:about doctors
-o psech:about dogs
-v automobilech:in automobiles
-v domech:in houses
-ve dnech:on days
-o lidech:about people
-o strýčcích/o strýčkách:about little uncles
-o hoších:about boys
-o bozích:about gods
-v lesích:in forests
-v kostelích:in churches
-o strýcích:about uncles
-o otcích:about fathers
-v míčích:in balls
-o ženách:about women
-o dcerách:about daughters
-o knihách:about books
-v restauracích:in restaurants
-o přítelkyních:about girlfriends
-v kostech:in bones
-o věcech:about things
-ve městech:in cities
-v oknech: in windows
-v perech:in pens
-v jablkách:in apples
-městečko:small town
-o městečkách:about small towns
-roucho:robe
-v rouchách:in robes
-v polích:in fields
-ve vejcích:in eggs
+o doktorech - about doctors
+o psech - about dogs
+v automobilech - in automobiles
+v domech - in houses
+ve dnech - on days
+o lidech - about people
+o strýčcích/o strýčkách - about little uncles
+o hoších - about boys
+o bozích - about gods
+v lesích - in forests
+v kostelích - in churches
+o strýcích - about uncles
+o otcích - about fathers
+v míčích - in balls
+o ženách - about women
+o dcerách - about daughters
+o knihách - about books
+v restauracích - in restaurants
+o přítelkyních - about girlfriends
+v kostech - in bones
+o věcech - about things
+ve městech - in cities
+v oknech -  in windows
+v perech - in pens
+v jablkách - in apples
+městečko - small town
+o městečkách - about small towns
+roucho - robe
+v rouchách - in robes
+v polích - in fields
+ve vejcích - in eggs
 # ss 92
-o mých dobrých přátelích:about my good friends
-o těch cizích studentech:about those foreign students
-na vašich velkých polích:on your large fields
+o mých dobrých přátelích - about my good friends
+o těch cizích studentech - about those foreign students
+na vašich velkých polích - on your large fields
 # ss 93
 MCG Ch. 20 (Gramm.)/Deklinace číslovek
-dvacet:twenty
-dvacet jeden (-na, -no):twenty-one
-dvacet dva (dvě):twenty-two
-dvacet tři:twenty-three
-dvacet čtyři:twenty-four
-dvacet pět:twenty-five
-dvacet šest:twenty-six
-dvacet sedm:twenty-seven
-dvacet osm:twenty-eight
-dvacet devět:twenty-nine
-třicet:thirty
-třicet jeden (-na, no):thirty-one
-třicet dva (dvě):thirty-two
-čtyřicet:forty
-padesát:fifty
-šedesát:sixty
-sedmdesát:seventy
-osmdesát:eighty
-devadesát:ninety
-sto:one hundred
-sto deset:one hundred ten
-sto dvacet pět:one hundred twenty-five
-čtyřicet jeden student:forty-one students
-šedesát dvě ženy:sixty-two women
-sto dvacet tři žáci:one hundred twenty-three pupils
-devadesát pět mužů:ninety-five men
-sto padesát sedm domů:one hundred fifty-seven houses
+dvacet - twenty
+dvacet jeden (-na, -no) - twenty-one
+dvacet dva (dvě) - twenty-two
+dvacet tři - twenty-three
+dvacet čtyři - twenty-four
+dvacet pět - twenty-five
+dvacet šest - twenty-six
+dvacet sedm - twenty-seven
+dvacet osm - twenty-eight
+dvacet devět - twenty-nine
+třicet - thirty
+třicet jeden (-na, no) - thirty-one
+třicet dva (dvě) - thirty-two
+čtyřicet - forty
+padesát - fifty
+šedesát - sixty
+sedmdesát - seventy
+osmdesát - eighty
+devadesát - ninety
+sto - one hundred
+sto deset - one hundred ten
+sto dvacet pět - one hundred twenty-five
+čtyřicet jeden student - forty-one students
+šedesát dvě ženy - sixty-two women
+sto dvacet tři žáci - one hundred twenty-three pupils
+devadesát pět mužů - ninety-five men
+sto padesát sedm domů - one hundred fifty-seven houses
 MCG Ch. 20 (Gramm.)
 # ss 94
-milý:dear, beloved
-milejší:dearer, more beloved
-světlejší:brighter
-cizejší:more foreign, stranger
-moudrý:wise
-moudřejší:wiser
-hloupější:more foolish
-známější:better-known
-hladovější:hungrier
-důležitý:important
-důležitější:more important
-krásnější:more beautiful
-češtější:more Czech
-němečtější:more German
-slabý:weak
-slabší:weaker
-chudší:poorer
-mladší:younger
-bohatší:richer
-čistý:clean
-čistší/čistější:cleaner
-blízký:near
-bližší:nearer
-krátký:short
-kratší:shorter
-nízký:low
-nižší:lower
-těžký:hard, heavy
-těžší:harder, heavier
-úzký:narrow
-užší:narrower
-tichý:quiet
-tišší:quieter
-drahý:dear, expensive
-dražší:dearer, more expensive
-starší:elder, older
-daleký:far, distant
-další:further, next
-hluboký:deep
-hlubší:deeper
-široký:wide
-širší:wider
-vysoký:high
-vyšší:higher
-hezčí:prettier
-tenký:thin, fine
-tenčí:thinner, finer
-měkký:soft
-měkčí:softer
-lehký:light (i.e. not heavy)
-lehčí:lighter (i.e. not heavier)
-vlhčí:damper
-lepší:better:from dobrý
-horší:worse:from špatný or zlý
-menší:smaller:from malý
-větší:greater:from velký or veliký
-delší:longer:from dlouhý
-Ten hoch je starší než já.:That boy is older than I.
-Maso je mnohem (o mnoho) dražší než zelenina.:Meat is much more expensive than vegetables.
-Můj bratr je tak starý jako tvůj, ale není tak silný.:My brother is as old as yours, but he is not so strong.
-Čím více, tím lépe.:The more the better.
-nejkrásnější:most beautiful
-nejkratší:shortest
-nejhezčí:prettiest
-nejlepší:best
-největší:greatest
+milý - dear, beloved
+milejší - dearer, more beloved
+světlejší - brighter
+cizejší - more foreign, stranger
+moudrý - wise
+moudřejší - wiser
+hloupější - more foolish
+známější - better-known
+hladovější - hungrier
+důležitý - important
+důležitější - more important
+krásnější - more beautiful
+češtější - more Czech
+němečtější - more German
+slabý - weak
+slabší - weaker
+chudší - poorer
+mladší - younger
+bohatší - richer
+čistý - clean
+čistší/čistější - cleaner
+blízký - near
+bližší - nearer
+krátký - short
+kratší - shorter
+nízký - low
+nižší - lower
+těžký - hard, heavy
+těžší - harder, heavier
+úzký - narrow
+užší - narrower
+tichý - quiet
+tišší - quieter
+drahý - dear, expensive
+dražší - dearer, more expensive
+starší - elder, older
+daleký - far, distant
+další - further, next
+hluboký - deep
+hlubší - deeper
+široký - wide
+širší - wider
+vysoký - high
+vyšší - higher
+hezčí - prettier
+tenký - thin, fine
+tenčí - thinner, finer
+měkký - soft
+měkčí - softer
+lehký - light (i.e. not heavy)
+lehčí - lighter (i.e. not heavier)
+vlhčí - damper
+lepší - better - from dobrý
+horší - worse - from špatný or zlý
+menší - smaller - from malý
+větší - greater - from velký or veliký
+delší - longer - from dlouhý
+Ten hoch je starší než já. - That boy is older than I.
+Maso je mnohem (o mnoho) dražší než zelenina. - Meat is much more expensive than vegetables.
+Můj bratr je tak starý jako tvůj, ale není tak silný. - My brother is as old as yours, but he is not so strong.
+Čím více, tím lépe. - The more the better.
+nejkrásnější - most beautiful
+nejkratší - shortest
+nejhezčí - prettiest
+nejlepší - best
+největší - greatest
 MCG Ch. 20 (Misc.)
-jeden z mých přátel:one of my friends
-Vůbec vám nerozumím.:I don't understand you at all.
+jeden z mých přátel - one of my friends
+Vůbec vám nerozumím. - I don't understand you at all.
 
 MCG Ch. 21 (Misc.)
-chodíval:would walk
-v hlavách hořící svíčka:at the head of the bed a burning candle
-na přilepšenou:as extra food
-potravní čára:tollgate
-smetli:they gulped down:from smést (colloq.)
-Copak!:What! (surprised)
-pamětní deska:memorial tablet
+chodíval - would walk
+v hlavách hořící svíčka - at the head of the bed a burning candle
+na přilepšenou - as extra food
+potravní čára - tollgate
+smetli - they gulped down - from smést (colloq.)
+Copak! - What! (surprised)
+pamětní deska - memorial tablet
 MCG Ch. 21 (Vocab.)
-cizinec:foreigner, stranger:masc., gen. cizince
-daň:tax, tribute:fem.
-divný:strange, curious:divně
-domov:home, native land:gen. domova
-# new spelling:
-gymnázium:high school:neut., gen. gymnázia
-hoch:boy, lad
-hořký:bitter:hořko or hořce
-hospoda:inn, tavern
-hostinský:innkeeper:subst. adj.
-hovor:conversation
-kamarád:comrade
-kolem:around, about:+ čeho
-kněz:priest:masc. soft, nom. pl. kněží
-kraj:land, country/edge, border:masc.
-leckterý:more than one, quite a few
-mrtvý:dead
-pás:belt/waist:gen. pasu
-peníze:money:masc. pl, gen. peněz
-pěšky:on foot
-pokuta:(monetary) fine
-pomník:monument, memorial
-prázdný:empty:prázdně
-prve:first (adv.)
-přísný:strict:přísně
-samý:nothing but, only
-sladký:sweet:sladce or sladko
-sláma:straw
-sud:barrel
-tady:here (colloq.)
-vedlejší:next, neighboring
-veselý:gay, merry, funny:vesele
-výňatek:excerpt:gen. výňatku
-okoušet:to taste, try, sample (impf.):2nd (-ejí)
-okusit:to taste, try, sample (perf.):2nd
-ozývat se:to resound (impf.):1st
-ozvat se:to resound (perf.):3rd, ozvu se
-pochutnávat si:to relish, eat with enjoyment (impf.):1st
-pochutnat si:to relish, eat with enjoyment (perf.):1st
-rodit se:to be born (impf.):2nd
-narodit se:to be born (perf.):2nd
-stávat se:to become (impf.):1st, + kým (čím)
-stát se:to become (perf.):3rd, stanu se, stal se, + kým (čím)
-stavit se:to stop, visit (impf.):2nd
-zastavit se:to stop, visit (perf.):2nd
-užívat:to use, make use of (impf.)/to enjoy (impf.):1st, + čeho
-užít:to use, make use of (perf.)/to enjoy (perf.):3rd, užiji, + čeho
-vzpomínat (si):to remember, recall (impf.):1st, na co, na koho
-vzpomenout (si):to remember, recall (perf.):3rd, vzpomněl, na co, na koho
-zapisovat:to write down, note (impf.):3rd
-zapsat:to write down, note (perf.):3rd, zapíši
-zdát se:to seem, appear:1st, + kým (čím), impf.
+cizinec - foreigner, stranger - masc., gen. cizince
+daň - tax, tribute - fem.
+divný - strange, curious - divně
+domov - home, native land - gen. domova
+# new spelling - 
+gymnázium - high school - neut., gen. gymnázia
+hoch - boy, lad
+hořký - bitter - hořko or hořce
+hospoda - inn, tavern
+hostinský - innkeeper - subst. adj.
+hovor - conversation
+kamarád - comrade
+kolem - around, about - + čeho
+kněz - priest - masc. soft, nom. pl. kněží
+kraj - land, country/edge, border - masc.
+leckterý - more than one, quite a few
+mrtvý - dead
+pás - belt/waist - gen. pasu
+peníze - money - masc. pl, gen. peněz
+pěšky - on foot
+pokuta - (monetary) fine
+pomník - monument, memorial
+prázdný - empty - prázdně
+prve - first (adv.)
+přísný - strict - přísně
+samý - nothing but, only
+sladký - sweet - sladce or sladko
+sláma - straw
+sud - barrel
+tady - here (colloq.)
+vedlejší - next, neighboring
+veselý - gay, merry, funny - vesele
+výňatek - excerpt - gen. výňatku
+okoušet - to taste, try, sample (impf.) - 2nd (-ejí)
+okusit - to taste, try, sample (perf.) - 2nd
+ozývat se - to resound (impf.) - 1st
+ozvat se - to resound (perf.) - 3rd, ozvu se
+pochutnávat si - to relish, eat with enjoyment (impf.) - 1st
+pochutnat si - to relish, eat with enjoyment (perf.) - 1st
+rodit se - to be born (impf.) - 2nd
+narodit se - to be born (perf.) - 2nd
+stávat se - to become (impf.) - 1st, + kým (čím)
+stát se - to become (perf.) - 3rd, stanu se, stal se, + kým (čím)
+stavit se - to stop, visit (impf.) - 2nd
+zastavit se - to stop, visit (perf.) - 2nd
+užívat - to use, make use of (impf.)/to enjoy (impf.) - 1st, + čeho
+užít - to use, make use of (perf.)/to enjoy (perf.) - 3rd, užiji, + čeho
+vzpomínat (si) - to remember, recall (impf.) - 1st, na co, na koho
+vzpomenout (si) - to remember, recall (perf.) - 3rd, vzpomněl, na co, na koho
+zapisovat - to write down, note (impf.) - 3rd
+zapsat - to write down, note (perf.) - 3rd, zapíši
+zdát se - to seem, appear - 1st, + kým (čím), impf.
 MCG Ch. 21 (Misc.)
-financ:tax official
-kobliha:doughnut
-městečko:small town
-oktaván:student in the 8th class (senior)
-potravní daň:customs duty
-šraňk:tollgate
+financ - tax official
+kobliha - doughnut
+městečko - small town
+oktaván - student in the 8th class (senior)
+potravní daň - customs duty
+šraňk - tollgate
 MCG Ch. 21 (Gramm.)
 # ss 95
-doktory:doctors (inst.)
-psy:dogs (inst.)
-automobily:automobiles (inst.)
-domy:houses (inst.)
-strýci:uncles (inst.)
-přáteli:friends (inst.)
-míči:balls (inst.)
-lidmi:people (inst.)
-koňmi:horses (inst.)
-ženami:women (inst.)
-dcerami:daughters (inst.)
-knihami:books (inst.)
-dušemi:souls (inst.)
-restauracemi:restaurants (inst.)
-přítelkyněmi:girlfriends (inst.)
-kostmi:bones (inst.)
-řečmi:speeches (inst.)
-dětmi:children (inst.)
-písněmi:songs (inst.)
-městy:cities (inst.)
-okny:windows (inst.)
-pery:pens (inst.)
-poli:fields (inst.)
-hřišti:playgrounds (inst.)
+doktory - doctors (inst.)
+psy - dogs (inst.)
+automobily - automobiles (inst.)
+domy - houses (inst.)
+strýci - uncles (inst.)
+přáteli - friends (inst.)
+míči - balls (inst.)
+lidmi - people (inst.)
+koňmi - horses (inst.)
+ženami - women (inst.)
+dcerami - daughters (inst.)
+knihami - books (inst.)
+dušemi - souls (inst.)
+restauracemi - restaurants (inst.)
+přítelkyněmi - girlfriends (inst.)
+kostmi - bones (inst.)
+řečmi - speeches (inst.)
+dětmi - children (inst.)
+písněmi - songs (inst.)
+městy - cities (inst.)
+okny - windows (inst.)
+pery - pens (inst.)
+poli - fields (inst.)
+hřišti - playgrounds (inst.)
 # ss 96
-nad našimi poli:above our fields
-s tvými dobrými přáteli:with your good friends
-pod těmi řekami:beneath those rivers
-nad cizími městy:above strange cities
+nad našimi poli - above our fields
+s tvými dobrými přáteli - with your good friends
+pod těmi řekami - beneath those rivers
+nad cizími městy - above strange cities
 # ss 97
-Můj otec je učitelem.:My father is a teacher.
-Washington je hlavním městem Spojených států.:Washington is the capital city of the United States.
-Můj přítel byl hercem.:My friend was an actor.
-Co je Praha Prahou.:As long as Prague is Prague.
-Mým oblíbeným románem je "Babička".:My favorite novel is "Babička."
-"Babička" je můj oblíbený román.:"Babička" is my favorite novel.
-Stal jsem se profesorem.:I became a professor.
-učit se:to learn to be (impf.):2nd, + kým
-vyučit se:to learn to be (perf.):2nd, + kým
-Vyučil jsem se strojníkem.:I learned to be a machinist.
-volit:to appoint, elect (impf.):2nd, + koho kým
-zvolit:to appoint, elect (perf.):2nd, + koho kým
-Zvolili ho presidentem.:They elected him president.
-Zdá se hodným člověkem.:He seems to be a good man.
-A zůstal hodným člověkem až do smrti.:And he remained a good man until his death.
-člověk s dobrou povahou/člověk dobré povahy:a man of good character
-dívka s červenými tvářemi:a girl with red cheeks
+Můj otec je učitelem. - My father is a teacher.
+Washington je hlavním městem Spojených států. - Washington is the capital city of the United States.
+Můj přítel byl hercem. - My friend was an actor.
+Co je Praha Prahou. - As long as Prague is Prague.
+Mým oblíbeným románem je "Babička". - My favorite novel is "Babička."
+"Babička" je můj oblíbený román. - "Babička" is my favorite novel.
+Stal jsem se profesorem. - I became a professor.
+učit se - to learn to be (impf.) - 2nd, + kým
+vyučit se - to learn to be (perf.) - 2nd, + kým
+Vyučil jsem se strojníkem. - I learned to be a machinist.
+volit - to appoint, elect (impf.) - 2nd, + koho kým
+zvolit - to appoint, elect (perf.) - 2nd, + koho kým
+Zvolili ho presidentem. - They elected him president.
+Zdá se hodným člověkem. - He seems to be a good man.
+A zůstal hodným člověkem až do smrti. - And he remained a good man until his death.
+člověk s dobrou povahou/člověk dobré povahy - a man of good character
+dívka s červenými tvářemi - a girl with red cheeks
 # ss 98
-Vezměte si chleba.:Take some bread.
-Vezměte si chléb.:Take the bread.
-Nemám peněz.:I have no money.
-Nemám ty peníze.:I don't have the money.
-Neřekl jsem ani slova.:I didn't say a word.
-Nemám ani koruny.:I haven't even a crown.
-Nemám přátel.:I have no friends.
-Nemám žádné peníze.:I have no money.
-Nemám ani jednoho přítele.:I have not a single friend.
-Nevím to.:I don't know that.
-Nemám nic.:I have nothing.
+Vezměte si chleba. - Take some bread.
+Vezměte si chléb. - Take the bread.
+Nemám peněz. - I have no money.
+Nemám ty peníze. - I don't have the money.
+Neřekl jsem ani slova. - I didn't say a word.
+Nemám ani koruny. - I haven't even a crown.
+Nemám přátel. - I have no friends.
+Nemám žádné peníze. - I have no money.
+Nemám ani jednoho přítele. - I have not a single friend.
+Nevím to. - I don't know that.
+Nemám nic. - I have nothing.
 # ss 99
-jistý:sure
-jistější:surer
-jistěji:more surely
-krásněji:more beautifully
-světleji:more brightly
-měkčeji:more softly
-slaběji:more weakly
-tišeji:more quietly
-lépe:better (adv.):from dobrý
-hůře:worse (adv.):from špatný, zlý
-více, víc:more:from mnoho
-méně, míň:less:from málo
-dráže:more dearly, more expensively:from drahý
-blíže:nearer (adv.):from blízký
-výše:higher (adv.):from vysoký
-šíře:more widely:from široký
-déle:longer (in time):from dlouhý
-dále:farther/further, in addition, (keep) on:from daleko
-jít dále:to go on, go farther
-číst dále:to read on, go on reading
-nejlépe:best (adv.)
-nejkrásněji:most beautifully
-nejvíce:most
+jistý - sure
+jistější - surer
+jistěji - more surely
+krásněji - more beautifully
+světleji - more brightly
+měkčeji - more softly
+slaběji - more weakly
+tišeji - more quietly
+lépe - better (adv.) - from dobrý
+hůře - worse (adv.) - from špatný, zlý
+více, víc - more - from mnoho
+méně, míň - less - from málo
+dráže - more dearly, more expensively - from drahý
+blíže - nearer (adv.) - from blízký
+výše - higher (adv.) - from vysoký
+šíře - more widely - from široký
+déle - longer (in time) - from dlouhý
+dále - farther/further, in addition, (keep) on - from daleko
+jít dále - to go on, go farther
+číst dále - to read on, go on reading
+nejlépe - best (adv.)
+nejkrásněji - most beautifully
+nejvíce - most
 MCG Ch. 21 (Misc.)
-#b21x:Nemám peněz.:I have no money.
-jet dále:to go on riding
-Co víte dále?:What more do you know?
+#b21x - Nemám peněz. - I have no money.
+jet dále - to go on riding
+Co víte dále? - What more do you know?
 
 MCG Ch. 22 (Misc.)
-horečné vzrušení:feverish excitement
-legie:legion
-po čtvrté:for the fourth time
-po prvé:for the first time
-po druhé:for the second time
-vyklove:will peck out
+horečné vzrušení - feverish excitement
+legie - legion
+po čtvrté - for the fourth time
+po prvé - for the first time
+po druhé - for the second time
+vyklove - will peck out
 MCG Ch. 22 (Vocab.)
-ať...nebo:whether...or
-divoký:wild, uncultivated:divoko, divoce
-dojem:impression:gen. dojmu
-energický:energetic:energicky
-Evropa:Europe
-humanita:humanity
-jaksi:somehow
-jednak...jednak:both...and/partly...partly
-krajan:fellow countryman
-krajina:countryside, region
-kulturní:cultural
-loď:ship, boat:fem.
-novinář:journalist, newspaperman
-o (co):against
-oko:eye
-otevřenost:openness, sincerity:fem.
-otevřený:open, frank, sincere:otevřeně
-ovoce:fruit:neut.
-pata:heel
-podiv:admiration
-podnikavý:enterprising:podnikavě
-popularita:popularity
-sláva:glory, fame/ceremony
-syrový:raw:syrovo, syrově
-tehdy:then, at that time
-válka:war
-věc:thing, affair, matter:fem.
-vrána:crow
-všechen:all, every
-všude:everywhere
-vztah:relation
-zbraň:weapon:fem.
-zralý:ripe:zrale
-chutnat:to taste (good, etc.):1st, impf., + dobře (etc.)
-považovat:to consider something as something:3rd, impf., + co za co
-prožívat:to live through, experience (impf.):1st
-prožít:to live through, experience (perf.):3rd, prožiji
-přednášet:to lecture:2nd (-ejí), impf.
-působit:to affect, influence:2nd, impf., + na co (koho)
-růst:to grow:3rd, impf., rostu, rostl
-zvykat (si):to get used to (impf.):1st, čemu or (colloq.) na co
-zvyknout (si):to get used to (perf.):3rd, čemu or (colloq.) na co
+ať...nebo - whether...or
+divoký - wild, uncultivated - divoko, divoce
+dojem - impression - gen. dojmu
+energický - energetic - energicky
+Evropa - Europe
+humanita - humanity
+jaksi - somehow
+jednak...jednak - both...and/partly...partly
+krajan - fellow countryman
+krajina - countryside, region
+kulturní - cultural
+loď - ship, boat - fem.
+novinář - journalist, newspaperman
+o (co) - against
+oko - eye
+otevřenost - openness, sincerity - fem.
+otevřený - open, frank, sincere - otevřeně
+ovoce - fruit - neut.
+pata - heel
+podiv - admiration
+podnikavý - enterprising - podnikavě
+popularita - popularity
+sláva - glory, fame/ceremony
+syrový - raw - syrovo, syrově
+tehdy - then, at that time
+válka - war
+věc - thing, affair, matter - fem.
+vrána - crow
+všechen - all, every
+všude - everywhere
+vztah - relation
+zbraň - weapon - fem.
+zralý - ripe - zrale
+chutnat - to taste (good, etc.) - 1st, impf., + dobře (etc.)
+považovat - to consider something as something - 3rd, impf., + co za co
+prožívat - to live through, experience (impf.) - 1st
+prožít - to live through, experience (perf.) - 3rd, prožiji
+přednášet - to lecture - 2nd (-ejí), impf.
+působit - to affect, influence - 2nd, impf., + na co (koho)
+růst - to grow - 3rd, impf., rostu, rostl
+zvykat (si) - to get used to (impf.) - 1st, čemu or (colloq.) na co
+zvyknout (si) - to get used to (perf.) - 3rd, čemu or (colloq.) na co
 MCG Ch. 22 (Misc.)
-hrdinství:heroism:neut.
-Japonsko:Japan
-náboženství:religion:neut.
-otírat:to wipe off (impf.)
-pionýrský:pioneer(ing) (adj.)
-pionýrství:pioneering (noun):neut.
-Sibiř:Siberia:fem.
-tažení:campaign:neut.
-tisíciletý:of a thousand years
-zemědíl:continent
+hrdinství - heroism - neut.
+Japonsko - Japan
+náboženství - religion - neut.
+otírat - to wipe off (impf.)
+pionýrský - pioneer(ing) (adj.)
+pionýrství - pioneering (noun) - neut.
+Sibiř - Siberia - fem.
+tažení - campaign - neut.
+tisíciletý - of a thousand years
+zemědíl - continent
 
 MCG Ch. 22 (Review)
 # ss 100
 
 # masc. anim.
 
-ten můj dobrý pán:that good gentleman of mine (nom.)
-toho mého dobrého pána:that good gentleman of mine (acc. or gen.)
-tomu mému dobrému pánovi (-u):that good gentleman of mine (dat.)
-můj dobrý páne:my good gentleman (voc.)
-můj dobrý hochu:my good lad (voc.)
-můj dobrý bratře:my good brother (voc.)
-můj dobrý profesore:my good professor (voc.)
-můj dobrý synu:my good son (voc.)
-můj dobrý člověče:my good person (voc.)
-můj dobrý otče:my good father (voc.)
-o tom mém dobrém pánovi (-u):about that good gentleman of mine
-tím mým dobrým pánem:that good gentleman of mine (inst.)
+ten můj dobrý pán - that good gentleman of mine (nom.)
+toho mého dobrého pána - that good gentleman of mine (acc. or gen.)
+tomu mému dobrému pánovi (-u) - that good gentleman of mine (dat.)
+můj dobrý páne - my good gentleman (voc.)
+můj dobrý hochu - my good lad (voc.)
+můj dobrý bratře - my good brother (voc.)
+můj dobrý profesore - my good professor (voc.)
+můj dobrý synu - my good son (voc.)
+můj dobrý člověče - my good person (voc.)
+můj dobrý otče - my good father (voc.)
+o tom mém dobrém pánovi (-u) - about that good gentleman of mine
+tím mým dobrým pánem - that good gentleman of mine (inst.)
 
-náš poslední král:our last king (nom.)
-našeho posledního krále:our last king (acc. or gen.)
-našemu poslednímu královi (-i):our last king (dat.)
-náš poslední králi:our last king (voc.)
-o našem posledním královi (-i):about our last king
-naším posledním králem:our last king (inst.)
+náš poslední král - our last king (nom.)
+našeho posledního krále - our last king (acc. or gen.)
+našemu poslednímu královi (-i) - our last king (dat.)
+náš poslední králi - our last king (voc.)
+o našem posledním královi (-i) - about our last king
+naším posledním králem - our last king (inst.)
 
-ti moji dobří páni (-ové):those good gentlemen of mine (nom. or voc.)
-ti moji dobří Češi:those good Czechs of mine (nom. or voc.)
-ti moji dobří strýčkové:those good little uncles of mine (nom. or voc.)
-ti moji dobří Američané:those good Americans of mine (nom. or voc.)
-ti moji dobří učitelé:those good teachers of mine (nom. or voc.)
-ti moji dobří přátelé:those good friends of mine (nom. or voc.)
-těch mých dobrých pánů:those good gentlemen of mine (gen.)
-těm mým dobrým pánům:those good gentlemen of mine (dat.)
-ty mé (moje) dobré pány:those good gentlemen of mine (acc.)
-o těch mých dobrých pánech:about those good gentlemen of mine
-o těch mých dobrých vojácích:about those good soldiers of mine
-o těch mých dobrých strýčcích:about those good little uncles of mine
-o těch mých dobrých bozích:about those good gods of mine
-těmi mými dobrými pány:those good gentlemen of mine (inst.)
+ti moji dobří páni (-ové) - those good gentlemen of mine (nom. or voc.)
+ti moji dobří Češi - those good Czechs of mine (nom. or voc.)
+ti moji dobří strýčkové - those good little uncles of mine (nom. or voc.)
+ti moji dobří Američané - those good Americans of mine (nom. or voc.)
+ti moji dobří učitelé - those good teachers of mine (nom. or voc.)
+ti moji dobří přátelé - those good friends of mine (nom. or voc.)
+těch mých dobrých pánů - those good gentlemen of mine (gen.)
+těm mým dobrým pánům - those good gentlemen of mine (dat.)
+ty mé (moje) dobré pány - those good gentlemen of mine (acc.)
+o těch mých dobrých pánech - about those good gentlemen of mine
+o těch mých dobrých vojácích - about those good soldiers of mine
+o těch mých dobrých strýčcích - about those good little uncles of mine
+o těch mých dobrých bozích - about those good gods of mine
+těmi mými dobrými pány - those good gentlemen of mine (inst.)
 
-naši poslední králové:our last kings (nom. or voc.)
-našich posledních králů:our last kings (gen.)
-našim posledním králům:our last kings (dat.)
-naše poslední krále:our last kings (acc.)
-o našich posledních králích:about our last kings
-našimi posledními králi:our last kings (inst.)
+naši poslední králové - our last kings (nom. or voc.)
+našich posledních králů - our last kings (gen.)
+našim posledním králům - our last kings (dat.)
+naše poslední krále - our last kings (acc.)
+o našich posledních králích - about our last kings
+našimi posledními králi - our last kings (inst.)
 
 # masc. inan.
 
-ten můj dobrý hrad:that good castle of mine (nom. or acc.)
-toho mého dobrého hradu:that good castle of mine (gen.)
-toho mého dobrého lesa:that good forest of mine (gen.)
-toho mého dobrého jazyka:that good language of mine (gen.)
-toho mého dobrého světa:that good world of mine (gen.)
-toho mého dobrého národa:that good nation of mine (gen.)
-toho mého dobrého potoka:that good brook of mine (gen.)
-tomu mému dobrému hradu:that good castle of mine (dat.)
-můj dobrý hrade:my good castle (voc.)
-o tom mém dobrém hradě:about that good castle of mine
-o tom mém dobrém sněhu:about that good snow of mine
-o tom mém dobrém vzduchu:about that good air of mine
-tím mým dobrým hradem:that good castle of mine (inst.)
+ten můj dobrý hrad - that good castle of mine (nom. or acc.)
+toho mého dobrého hradu - that good castle of mine (gen.)
+toho mého dobrého lesa - that good forest of mine (gen.)
+toho mého dobrého jazyka - that good language of mine (gen.)
+toho mého dobrého světa - that good world of mine (gen.)
+toho mého dobrého národa - that good nation of mine (gen.)
+toho mého dobrého potoka - that good brook of mine (gen.)
+tomu mému dobrému hradu - that good castle of mine (dat.)
+můj dobrý hrade - my good castle (voc.)
+o tom mém dobrém hradě - about that good castle of mine
+o tom mém dobrém sněhu - about that good snow of mine
+o tom mém dobrém vzduchu - about that good air of mine
+tím mým dobrým hradem - that good castle of mine (inst.)
 
-náš poslední míč:our last ball (nom. or acc.)
-našeho posledního míče:our last ball (gen.)
-našemu poslednímu míči:our last ball (dat.)
-náš poslední míči:our last ball (voc.)
-o našem posledním míči:about our last ball
-naším posledním míčem:our last ball (inst.)
+náš poslední míč - our last ball (nom. or acc.)
+našeho posledního míče - our last ball (gen.)
+našemu poslednímu míči - our last ball (dat.)
+náš poslední míči - our last ball (voc.)
+o našem posledním míči - about our last ball
+naším posledním míčem - our last ball (inst.)
 
-ty mé (moje) dobré hrady:those good castles of mine (nom. or voc. or acc.)
-těch mých dobrých hradů:those good castles of mine (gen.)
-těm mým dobrým hradům:those good castles of mine (dat.)
-o těch mých dobrých hradech:about those good castles of mine
-těmi mými dobrými hrady:those good castles of mine (inst.)
+ty mé (moje) dobré hrady - those good castles of mine (nom. or voc. or acc.)
+těch mých dobrých hradů - those good castles of mine (gen.)
+těm mým dobrým hradům - those good castles of mine (dat.)
+o těch mých dobrých hradech - about those good castles of mine
+těmi mými dobrými hrady - those good castles of mine (inst.)
 
-naše poslední míče:our last balls (nom. or voc. or acc.)
-našich posledních míčů:our last balls (gen.)
-našim posledním míčům:our last balls (dat.)
-o našich posledních míčích:about our last balls
-našimi posledními míči:our last balls (inst.)
+naše poslední míče - our last balls (nom. or voc. or acc.)
+našich posledních míčů - our last balls (gen.)
+našim posledním míčům - our last balls (dat.)
+o našich posledních míčích - about our last balls
+našimi posledními míči - our last balls (inst.)
 
 # fem.
 
-ta má (moje) dobrá kniha:that good book of mine (nom.)
-té mé dobré knihy:that good book of mine (gen.)
-té mé dobré knize:that good book of mine (dat.)
-té mé dobré matce:that good mother of mine (dat.)
-té mé dobré sestře:that good sister of mine (dat.)
-té mé dobré Praze:that good Prague of mine (dat.)
-té mé dobré mouše:that good fly of mine (dat.)
-tu mou (moji) dobrou knihu:that good book of mine (acc.)
-má (moje) dobrá kniho:my good book (voc.)
-o té mé dobré knize:about that good book of mine
-tou mou dobrou knihou:that good book of mine (inst.)
+ta má (moje) dobrá kniha - that good book of mine (nom.)
+té mé dobré knihy - that good book of mine (gen.)
+té mé dobré knize - that good book of mine (dat.)
+té mé dobré matce - that good mother of mine (dat.)
+té mé dobré sestře - that good sister of mine (dat.)
+té mé dobré Praze - that good Prague of mine (dat.)
+té mé dobré mouše - that good fly of mine (dat.)
+tu mou (moji) dobrou knihu - that good book of mine (acc.)
+má (moje) dobrá kniho - my good book (voc.)
+o té mé dobré knize - about that good book of mine
+tou mou dobrou knihou - that good book of mine (inst.)
 
-naše poslední duše:our last soul (nom.)
-naší poslední duše:our last soul (gen.)
-naší poslední duši:our last soul (dat.)
-naši poslední duši:our last soul (acc.)
-naše poslední duše:our last soul (voc.)
-o naší poslední duši:about our last soul
-naší poslední duší:our last soul (inst.)
+naše poslední duše - our last soul (nom.)
+naší poslední duše - our last soul (gen.)
+naší poslední duši - our last soul (dat.)
+naši poslední duši - our last soul (acc.)
+naše poslední duše - our last soul (voc.)
+o naší poslední duši - about our last soul
+naší poslední duší - our last soul (inst.)
 
-naše poslední řeč:our last speech (nom.)
-naší poslední řeči:our last speech (gen.)
-naší poslední řeči:our last speech (dat.)
-naši poslední řeč:our last speech (acc.)
-naše poslední řeči:our last speech (voc.)
-o naší poslední řeči:about our last speech
-naší poslední řečí:our last speech (inst.)
+naše poslední řeč - our last speech (nom.)
+naší poslední řeči - our last speech (gen.)
+naší poslední řeči - our last speech (dat.)
+naši poslední řeč - our last speech (acc.)
+naše poslední řeči - our last speech (voc.)
+o naší poslední řeči - about our last speech
+naší poslední řečí - our last speech (inst.)
 
-ty mé (moje) dobré knihy:those good books of mine (nom. or voc. or acc.)
-těch mých dobrých knih:those good books of mine (gen.)
-těm mým dobrým knihám:those good books of mine (dat.)
-o těch mých dobrých knihách:about those good books of mine
-těmi mými dobrými knihami:those good books of mine (inst.)
+ty mé (moje) dobré knihy - those good books of mine (nom. or voc. or acc.)
+těch mých dobrých knih - those good books of mine (gen.)
+těm mým dobrým knihám - those good books of mine (dat.)
+o těch mých dobrých knihách - about those good books of mine
+těmi mými dobrými knihami - those good books of mine (inst.)
 
-naše poslední duše:our last souls (nom. or voc. or acc.)
-našich posledních duší:our last souls (gen.)
-našim posledním duším:our last souls (dat.)
-o našich posledních duších:about our last souls
-našimi posledními dušemi:our last souls (inst.)
+naše poslední duše - our last souls (nom. or voc. or acc.)
+našich posledních duší - our last souls (gen.)
+našim posledním duším - our last souls (dat.)
+o našich posledních duších - about our last souls
+našimi posledními dušemi - our last souls (inst.)
 
-naše poslední řeči:our last speeches (nom. or voc. or acc.)
-našich posledních řečí:our last speeches (gen.)
-našich posledních bohyň:our last goddesses (gen.)
-našich posledních čepic:our last caps (gen.)
-našim posledním řečem (-ím):our last speeches (dat.)
-našim posledním kostem:our last bones (dat.)
-o našich posledních řečech (-ích):about our last speeches
-o našich posledních kostech:about our last bones
-našimi posledními řečmi:our last speeches (inst.)
+naše poslední řeči - our last speeches (nom. or voc. or acc.)
+našich posledních řečí - our last speeches (gen.)
+našich posledních bohyň - our last goddesses (gen.)
+našich posledních čepic - our last caps (gen.)
+našim posledním řečem (-ím) - our last speeches (dat.)
+našim posledním kostem - our last bones (dat.)
+o našich posledních řečech (-ích) - about our last speeches
+o našich posledních kostech - about our last bones
+našimi posledními řečmi - our last speeches (inst.)
 
 # neut.
 
-to mé (moje) dobré pero:that good pen of mine (nom. or voc. or acc.)
-toho mého dobrého pera:that good pen of mine (gen.)
-tomu mému dobrému peru:that good pen of mine (dat.)
-o tom mém dobrém peru:about that good pen of mine
-o tom mém dobrém másle:about that good butter of mine
-o tom mém dobrém městě:about that good city of mine
-o tom mém dobrém mléku:about that good milk of mine
-o tom mém dobrém Rusku:about that good Russia of mine
-tím mým dobrým perem:that good pen of mine (inst.)
+to mé (moje) dobré pero - that good pen of mine (nom. or voc. or acc.)
+toho mého dobrého pera - that good pen of mine (gen.)
+tomu mému dobrému peru - that good pen of mine (dat.)
+o tom mém dobrém peru - about that good pen of mine
+o tom mém dobrém másle - about that good butter of mine
+o tom mém dobrém městě - about that good city of mine
+o tom mém dobrém mléku - about that good milk of mine
+o tom mém dobrém Rusku - about that good Russia of mine
+tím mým dobrým perem - that good pen of mine (inst.)
 
-naše poslední pole:our last field (nom. or voc. or acc.)
-našeho posledního pole:our last field (gen.)
-našemu poslednímu poli:our last field (dat.)
-o našem posledním poli:about our last field
-naším posledním polem:our last field (inst.)
+naše poslední pole - our last field (nom. or voc. or acc.)
+našeho posledního pole - our last field (gen.)
+našemu poslednímu poli - our last field (dat.)
+o našem posledním poli - about our last field
+naším posledním polem - our last field (inst.)
 
-ta má (moje) dobrá pera:those good pens of mine (nom. or voc. or acc.)
-těch mých dobrých per:those good pens of mine (gen.)
-těm mým dobrým perům:those good pens of mine (dat.)
-o těch mých dobrých perech:about those good pens of mine
-o těch mých dobrých jablkách:about those good apples of mine
-o těch mých dobrých městečkách:about those good small towns of mine
-těmi mými dobrými pery:those good pens of mine (inst.)
+ta má (moje) dobrá pera - those good pens of mine (nom. or voc. or acc.)
+těch mých dobrých per - those good pens of mine (gen.)
+těm mým dobrým perům - those good pens of mine (dat.)
+o těch mých dobrých perech - about those good pens of mine
+o těch mých dobrých jablkách - about those good apples of mine
+o těch mých dobrých městečkách - about those good small towns of mine
+těmi mými dobrými pery - those good pens of mine (inst.)
 
-naše poslední pole:our last fields (nom. or voc. or acc.)
-našich posledních polí:our last fields (gen.)
-našim posledním polím:our last fields (dat.)
-o našich posledních polích:about our last fields
-našimi posledními poli:our last fields (inst.)
+naše poslední pole - our last fields (nom. or voc. or acc.)
+našich posledních polí - our last fields (gen.)
+našim posledním polím - our last fields (dat.)
+o našich posledních polích - about our last fields
+našimi posledními poli - our last fields (inst.)
 
 # ss 101
 MCG Ch. 22 (Gramm.) -- všechen
-všechen:all, every (masc. nom. sg., inan. acc. sg.)
-všechna, vše:all, every (fem. nom. sg.)
-všechno, vše:all, every (neut. nom. or acc. sg.)
-všeho:all, every (masc. or neut. gen. sg., anim. acc. sg.)
-vší:all, every (fem. gen. sg.)
-všemu:all, every (masc. or neut. dat. sg.)
-vší:all, every (fem. dat. sg.)
-všechnu, vši:all, every (fem. acc. sg.)
-(o) všem:all, every (masc. or neut. prep. sg.)
-(o) vší:all, every (fem. prep. sg.)
-vším:all, every (masc. or neut. inst. sg.)
-vší:all, every (fem. inst. sg.)
-všichni:all, every (anim. nom. pl.)
-všechny:all, every (inan. nom. pl.)
-všechny:all, every (fem. nom. pl.)
-všechna:all, every (neut. nom. pl.)
-všech:all, every (gen. pl., all genders)
-všem:all, every (dat. pl., all genders)
-všechny:all, every (masc. acc. pl.)
-všechny:all, every (fem. acc. pl.)
-všechna:all, every (neut. acc. pl.)
-(o) všech:all, every (prep. pl., all genders)
-všemi:all, every (inst. pl., all genders)
-všecek:all, every (alt., masc. nom. or acc. sg.)
-všecka:all, every (alt., fem. nom. or acc. sg.)
-všecko:all, every (alt., neut. nom. or acc. sg.)
-všici:all, every (alt., anim. nom. or acc. pl.)
-všecky:all, every (alt., inan. nom. or acc. pl.)
-všecky:all, every (alt., fem. nom. or acc. pl.)
-všecka:all, every (alt., neut. nom. or acc. pl.)
-Četl jste všechny tyto knihy?:Have you read all these books?
-Četl jsem všechny.:I read them all (i.e. the books).
-Nevím všecko.:I don't know everything.
+všechen - all, every (masc. nom. sg., inan. acc. sg.)
+všechna, vše - all, every (fem. nom. sg.)
+všechno, vše - all, every (neut. nom. or acc. sg.)
+všeho - all, every (masc. or neut. gen. sg., anim. acc. sg.)
+vší - all, every (fem. gen. sg.)
+všemu - all, every (masc. or neut. dat. sg.)
+vší - all, every (fem. dat. sg.)
+všechnu, vši - all, every (fem. acc. sg.)
+(o) všem - all, every (masc. or neut. prep. sg.)
+(o) vší - all, every (fem. prep. sg.)
+vším - all, every (masc. or neut. inst. sg.)
+vší - all, every (fem. inst. sg.)
+všichni - all, every (anim. nom. pl.)
+všechny - all, every (inan. nom. pl.)
+všechny - all, every (fem. nom. pl.)
+všechna - all, every (neut. nom. pl.)
+všech - all, every (gen. pl., all genders)
+všem - all, every (dat. pl., all genders)
+všechny - all, every (masc. acc. pl.)
+všechny - all, every (fem. acc. pl.)
+všechna - all, every (neut. acc. pl.)
+(o) všech - all, every (prep. pl., all genders)
+všemi - all, every (inst. pl., all genders)
+všecek - all, every (alt., masc. nom. or acc. sg.)
+všecka - all, every (alt., fem. nom. or acc. sg.)
+všecko - all, every (alt., neut. nom. or acc. sg.)
+všici - all, every (alt., anim. nom. or acc. pl.)
+všecky - all, every (alt., inan. nom. or acc. pl.)
+všecky - all, every (alt., fem. nom. or acc. pl.)
+všecka - all, every (alt., neut. nom. or acc. pl.)
+Četl jste všechny tyto knihy? - Have you read all these books?
+Četl jsem všechny. - I read them all (i.e. the books).
+Nevím všecko. - I don't know everything.
 MCG Ch. 22 (Gramm.)/Deklinace číslovek
 # ss 102
-sto:one hundred
-dvě stě:two hundred
-tři sta:three hundred
-čtyři sta:four hundred
-pět set:five hundred
-šest set:six hundred
-sedm set:seven hundred
-osm set:eight hundred
-devět set:nine hundred
-tisíc:one thousand
-dva tisíce:two thousand
-tři tisíce:three thousand
-čtyři tisíce:four thousand
-pět tisíc:five thousand
-sto tisíc:one hundred thousand
-milion:one million
-dva miliony:two million
-pět milionů:five million
-miliarda:one billion
-šest set padesát miliard:six hundred fifty billion
-šest milionů tři sta tisíc pět set kilometrů:six million three hundred thousand five hundred kilometers
-osm milionů pět set tisíc čtyři sta jeden kilometr:eight million five hundred thousand four hundred one kilometers
-devět milionů tři sta tisíc osm set dva kilometry:nine million three hundred thousand eight hundred two kilometers
+sto - one hundred
+dvě stě - two hundred
+tři sta - three hundred
+čtyři sta - four hundred
+pět set - five hundred
+šest set - six hundred
+sedm set - seven hundred
+osm set - eight hundred
+devět set - nine hundred
+tisíc - one thousand
+dva tisíce - two thousand
+tři tisíce - three thousand
+čtyři tisíce - four thousand
+pět tisíc - five thousand
+sto tisíc - one hundred thousand
+milion - one million
+dva miliony - two million
+pět milionů - five million
+miliarda - one billion
+šest set padesát miliard - six hundred fifty billion
+šest milionů tři sta tisíc pět set kilometrů - six million three hundred thousand five hundred kilometers
+osm milionů pět set tisíc čtyři sta jeden kilometr - eight million five hundred thousand four hundred one kilometers
+devět milionů tři sta tisíc osm set dva kilometry - nine million three hundred thousand eight hundred two kilometers
 
 MCG Ch. 23 (Misc.)
-dát se do čeho:to start something, take up (work, etc.)
-práce ve velkém:work on a large scale
-co:why (sometimes)
-srdéčko:little heart:srdce (dimin.)
+dát se do čeho - to start something, take up (work, etc.)
+práce ve velkém - work on a large scale
+co - why (sometimes)
+srdéčko - little heart - srdce (dimin.)
 # vocab.
 MCG Ch. 23 (Vocab.)
-dělník:worker, workman
-dolar:dollar
-fysický:physical:fysicky
-hon, honba:hunt, chase
-hora:mountain
-hybný:agile, flexible:hybně
-industrialisace:industrialization
-kapitalismus:capitalism:gen. kapitalismu
-kvalita:quality
-kvantita:quantity
-láska:love
-len:flax:gen. lnu
-měřítko:scale, ruler
-o (+ čem):during, at (a time)
-obilí:grain
-ohled:consideration, regard, respect
-ponížený:humble:poníženě
-pracovní:work, of work (adj.):pracovně
-proti (čemu):opposite, against/by comparison with
-rozdíl:difference
-rozměr:dimension
-smysl:sense, meaning/purpose
-socialismus:socialism:gen. socialismu
-spíš, spíše:rather
-šikovný:skilled, skillful:šikovně
-školský:school, of school (adj.)
-tempo:tempo
-volný:free, independent:volno, volně
-vzdálený:distant, far-off:vzdáleně
-vzdělání:culture, education
-zboží:goods, merchandise
-bolet:to pain, hurt (said of things):2nd (-ejí or -í), impf.
-cenit:to value, estimate (impf.):2nd
-ocenit:to value, estimate (perf.):2nd
-cenit se:to be valued:2nd, impf.
-nalézat:to find (impf.):1st
-nalézt:to find (perf.):naleznu
-plít:to weed:3rd, pleji, plel, impf.
-potěšit:to comfort, console:2nd, perf.
-přeceňovat:to overrate, overestimate (impf.):3rd
-přecenit:to overrate, overestimate (perf.):2nd
-překvapovat:to surprise (impf.):3rd
-překvapit:to surprise (perf.):2nd
-sklízet:to gather, harvest (impf.):2nd (-ejí)
-sklidit:to gather, harvest (perf.):2nd
-vadnout:to wither, fade (impf.):3rd
-uvadnout:to wither, fade (perf.):3rd
-zásobovat:to supply (impf.):3rd, koho čím
-zásobit:to supply (perf.):2nd, koho čím
+dělník - worker, workman
+dolar - dollar
+fysický - physical - fysicky
+hon, honba - hunt, chase
+hora - mountain
+hybný - agile, flexible - hybně
+industrialisace - industrialization
+kapitalismus - capitalism - gen. kapitalismu
+kvalita - quality
+kvantita - quantity
+láska - love
+len - flax - gen. lnu
+měřítko - scale, ruler
+o (+ čem) - during, at (a time)
+obilí - grain
+ohled - consideration, regard, respect
+ponížený - humble - poníženě
+pracovní - work, of work (adj.) - pracovně
+proti (čemu) - opposite, against/by comparison with
+rozdíl - difference
+rozměr - dimension
+smysl - sense, meaning/purpose
+socialismus - socialism - gen. socialismu
+spíš, spíše - rather
+šikovný - skilled, skillful - šikovně
+školský - school, of school (adj.)
+tempo - tempo
+volný - free, independent - volno, volně
+vzdálený - distant, far-off - vzdáleně
+vzdělání - culture, education
+zboží - goods, merchandise
+bolet - to pain, hurt (said of things) - 2nd (-ejí or -í), impf.
+cenit - to value, estimate (impf.) - 2nd
+ocenit - to value, estimate (perf.) - 2nd
+cenit se - to be valued - 2nd, impf.
+nalézat - to find (impf.) - 1st
+nalézt - to find (perf.) - naleznu
+plít - to weed - 3rd, pleji, plel, impf.
+potěšit - to comfort, console - 2nd, perf.
+přeceňovat - to overrate, overestimate (impf.) - 3rd
+přecenit - to overrate, overestimate (perf.) - 2nd
+překvapovat - to surprise (impf.) - 3rd
+překvapit - to surprise (perf.) - 2nd
+sklízet - to gather, harvest (impf.) - 2nd (-ejí)
+sklidit - to gather, harvest (perf.) - 2nd
+vadnout - to wither, fade (impf.) - 3rd
+uvadnout - to wither, fade (perf.) - 3rd
+zásobovat - to supply (impf.) - 3rd, koho čím
+zásobit - to supply (perf.) - 2nd, koho čím
 MCG Ch. 23 (Misc.)
-amerikanismus:Americanism:gen. amerikanismu
-bezohledný:ruthless
-diškrece:tip (colloq.):fem.
-krejcar:kreutzer (Austrian coin)
-mák:poppy
-milionář:millionaire
-miliardář:billionaire
-nastokrát:a hundred times
-skonat:to die:perf.
-vypovědět:to dismiss, get rid of:perf.
+amerikanismus - Americanism - gen. amerikanismu
+bezohledný - ruthless
+diškrece - tip (colloq.) - fem.
+krejcar - kreutzer (Austrian coin)
+mák - poppy
+milionář - millionaire
+miliardář - billionaire
+nastokrát - a hundred times
+skonat - to die - perf.
+vypovědět - to dismiss, get rid of - perf.
 MCG Ch. 23 (Gramm.)
 # ss 103
-bratrův:Brother's (masc. nom. sg.)
-bratrova:Brother's (fem. nom. sg.)
-bratrovo:Brother's (neut. nom. sg.)
-bratrova:Brother's (anim. acc. sg.)
-bratrův:Brother's (inan. acc. sg.)
-bratrovu:Brother's (fem. acc. sg.)
-bratrovo:Brother's (neut. acc. sg.)
-bratrova:Brother's (masc. gen. sg.)
-bratrovy:Brother's (fem. gen. sg.)
-bratrova:Brother's (neut. gen. sg.)
-bratrovu:Brother's (masc. dat. sg.)
-bratrově:Brother's (fem. dat. sg.)
-bratrovu:Brother's (neut. dat. sg.)
-bratrově:Brother's (masc. prep. sg.)
-bratrově:Brother's (fem. prep. sg.)
-bratrově:Brother's (neut. prep. sg.)
-bratrovým:Brother's (masc. inst. sg.)
-bratrovou:Brother's (fem. inst. sg.)
-bratrovým:Brother's (neut. inst. sg.)
-bratrovi:Brother's (anim. nom. pl.)
-bratrovy:Brother's (inan. nom. pl.)
-bratrovy:Brother's (fem. nom. pl.)
-bratrova:Brother's (neut. nom. pl.)
-bratrovy:Brother's (masc. acc. pl.)
-bratrovy:Brother's (fem. acc. pl.)
-bratrova:Brother's (neut. acc. pl.)
-bratrových:Brother's (gen. pl., all genders)
-bratrovým:Brother's (dat. pl., all genders)
-bratrových:Brother's (prep. pl., all genders)
-bratrovými:Brother's (inst. pl., all genders)
-humorista:humorist
-humoristův:(the) humorist's
-vůdce:leader:masc.
-vůdcův:(the) leader's
-Smetanův:Smetana's
-Miladin:Milada's
-matčin:Mother's
-sestřin:Sister's
-bratrův kabát:Brother's coat
-sestřina kniha:Sister's book
-v Miladině pokoji:in Milada's room
-strýčkův dům:Uncle's house
-dům našeho strýčka:our uncle's house
-Novákovo pole:Novák's field
-pole pana Nováka:Mr. Novák's field
-pole Karla Nováka:Karel Novák's field
-Palackého most:Palacký's bridge
-mateřské srdce:a mother's heart
-bratrská láska:a brother's love, brotherly love
-pražské ulice:the streets of Prague
-městský park:the city park
-školní hřiště:the school playground
-psův pán:the dog's master
-psí kosti:dog bones
-rybí polévka:fish soup
-boží:God's
+bratrův - Brother's (masc. nom. sg.)
+bratrova - Brother's (fem. nom. sg.)
+bratrovo - Brother's (neut. nom. sg.)
+bratrova - Brother's (anim. acc. sg.)
+bratrův - Brother's (inan. acc. sg.)
+bratrovu - Brother's (fem. acc. sg.)
+bratrovo - Brother's (neut. acc. sg.)
+bratrova - Brother's (masc. gen. sg.)
+bratrovy - Brother's (fem. gen. sg.)
+bratrova - Brother's (neut. gen. sg.)
+bratrovu - Brother's (masc. dat. sg.)
+bratrově - Brother's (fem. dat. sg.)
+bratrovu - Brother's (neut. dat. sg.)
+bratrově - Brother's (masc. prep. sg.)
+bratrově - Brother's (fem. prep. sg.)
+bratrově - Brother's (neut. prep. sg.)
+bratrovým - Brother's (masc. inst. sg.)
+bratrovou - Brother's (fem. inst. sg.)
+bratrovým - Brother's (neut. inst. sg.)
+bratrovi - Brother's (anim. nom. pl.)
+bratrovy - Brother's (inan. nom. pl.)
+bratrovy - Brother's (fem. nom. pl.)
+bratrova - Brother's (neut. nom. pl.)
+bratrovy - Brother's (masc. acc. pl.)
+bratrovy - Brother's (fem. acc. pl.)
+bratrova - Brother's (neut. acc. pl.)
+bratrových - Brother's (gen. pl., all genders)
+bratrovým - Brother's (dat. pl., all genders)
+bratrových - Brother's (prep. pl., all genders)
+bratrovými - Brother's (inst. pl., all genders)
+humorista - humorist
+humoristův - (the) humorist's
+vůdce - leader - masc.
+vůdcův - (the) leader's
+Smetanův - Smetana's
+Miladin - Milada's
+matčin - Mother's
+sestřin - Sister's
+bratrův kabát - Brother's coat
+sestřina kniha - Sister's book
+v Miladině pokoji - in Milada's room
+strýčkův dům - Uncle's house
+dům našeho strýčka - our uncle's house
+Novákovo pole - Novák's field
+pole pana Nováka - Mr. Novák's field
+pole Karla Nováka - Karel Novák's field
+Palackého most - Palacký's bridge
+mateřské srdce - a mother's heart
+bratrská láska - a brother's love, brotherly love
+pražské ulice - the streets of Prague
+městský park - the city park
+školní hřiště - the school playground
+psův pán - the dog's master
+psí kosti - dog bones
+rybí polévka - fish soup
+boží - God's
 # ss 104
-udělán:done
-psán:written
-milován:(be)loved (p.p.p.)
-ukázán:pointed out (p.p.p.)
-slyšen:heard (p.p.p.)
-viděn:seen
-mluven:spoken
-vodit:to lead around
-vozen/voděn:led around (p.p.p.)
-soudit:to judge
-souzen:judged (p.p.p.)
-placen:paid (p.p.p.)
-chycen:caught, seized (p.p.p.)
-ztracen:lost (p.p.p.)
-nošen:worn (p.p.p. to wear)
-prošen:asked (p.p.p.)
-myšlen:thought (p.p.p.)
-pustit:to let go (perf.)
-puštěn:let go (p.p.p.)
-vozit:to haul around
-vožen:hauled around (p.p.p.)
-pit:drunk (p.p.p.)
-myt:washed (p.p.p.)
-kryt:covered (p.p.p.)
-minout:to pass, miss:?
-minut:passed, missed (p.p.p.)
-nesen:carried (p.p.p.)
-veden:led (p.p.p.)
-tisknout:to print, press
-tisknut/tištěn:printed, pressed (p.p.p.):from tisknout
-tažen:drawn, pulled:from táhnout
-bodnout:to stab
-bodnut:stabbed (p.p.p.)
-vytisknout:to print/to drive out
-vytištěn:printed (p.p.p.)
-vytisknut:driven out
-čten:read (p.p.p.)
-pečen:baked (p.p.p.)
-pomožen:helped (p.p.p.)
-řečen:said (p.p.p.)
-vzat:taken
-Syn je milován.:The son is (be)loved.
-Kniha je už vytištěna.:The book is already printed.
-Okno je otevřeno.:The window is open.
-Doktoři byli pochváleni.:The doctors were praised.
-Ty dopisy byly přepsány.:Those letters were retyped.
-Ženy jsou unavený.:The women are tired.
-Okna jsou zavřena.:The windows are closed.
-To se říká.:That is (often) said.
-Bylo řečeno na schůzi, že...:It was said at the meeting that...
-Zde se prodávají knihy.:Books are sold here.
-Ta kniha byla už prodána.:That book had been sold already.
-Žák byl pochválen učitelem.:The pupil was praised by the teacher.
-Zahrada byla pokryta sněhem.:The garden was covered with snow.
-tištěná kniha:a printed book
-prodané knihy:books which have been sold
-milovaný syn:the beloved son
-ztracené peníze:the lost money
-Našel jsem peníze, ztracené mým přítelem.:I found the money lost by my friend.
+udělán - done
+psán - written
+milován - (be)loved (p.p.p.)
+ukázán - pointed out (p.p.p.)
+slyšen - heard (p.p.p.)
+viděn - seen
+mluven - spoken
+vodit - to lead around
+vozen/voděn - led around (p.p.p.)
+soudit - to judge
+souzen - judged (p.p.p.)
+placen - paid (p.p.p.)
+chycen - caught, seized (p.p.p.)
+ztracen - lost (p.p.p.)
+nošen - worn (p.p.p. to wear)
+prošen - asked (p.p.p.)
+myšlen - thought (p.p.p.)
+pustit - to let go (perf.)
+puštěn - let go (p.p.p.)
+vozit - to haul around
+vožen - hauled around (p.p.p.)
+pit - drunk (p.p.p.)
+myt - washed (p.p.p.)
+kryt - covered (p.p.p.)
+minout - to pass, miss - ?
+minut - passed, missed (p.p.p.)
+nesen - carried (p.p.p.)
+veden - led (p.p.p.)
+tisknout - to print, press
+tisknut/tištěn - printed, pressed (p.p.p.) - from tisknout
+tažen - drawn, pulled - from táhnout
+bodnout - to stab
+bodnut - stabbed (p.p.p.)
+vytisknout - to print/to drive out
+vytištěn - printed (p.p.p.)
+vytisknut - driven out
+čten - read (p.p.p.)
+pečen - baked (p.p.p.)
+pomožen - helped (p.p.p.)
+řečen - said (p.p.p.)
+vzat - taken
+Syn je milován. - The son is (be)loved.
+Kniha je už vytištěna. - The book is already printed.
+Okno je otevřeno. - The window is open.
+Doktoři byli pochváleni. - The doctors were praised.
+Ty dopisy byly přepsány. - Those letters were retyped.
+Ženy jsou unavený. - The women are tired.
+Okna jsou zavřena. - The windows are closed.
+To se říká. - That is (often) said.
+Bylo řečeno na schůzi, že... - It was said at the meeting that...
+Zde se prodávají knihy. - Books are sold here.
+Ta kniha byla už prodána. - That book had been sold already.
+Žák byl pochválen učitelem. - The pupil was praised by the teacher.
+Zahrada byla pokryta sněhem. - The garden was covered with snow.
+tištěná kniha - a printed book
+prodané knihy - books which have been sold
+milovaný syn - the beloved son
+ztracené peníze - the lost money
+Našel jsem peníze, ztracené mým přítelem. - I found the money lost by my friend.
 # ss 105
-myšlení:thought, thinking
-čtení:reading (ger.)
-učení:learning, studying (ger.)
-chození:walking (ger.)
-psaní:a piece of writing
-mlčení:silence
-umění:art:from umět
+myšlení - thought, thinking
+čtení - reading (ger.)
+učení - learning, studying (ger.)
+chození - walking (ger.)
+psaní - a piece of writing
+mlčení - silence
+umění - art - from umět
 # ss 106
-psaní:writing, letter (nom., voc., acc.)
-psaní:writing, letter (gen.)
-psaní:writing, letter (dat.)
-psaní:writing, letter (prep.)
-psaním:writing, letter (inst.)
-psaní:writings, letters (nom., acc.)
-psaní:writings, letters (gen.)
-psaním:writings, letters (dat.)
-psaních:writings, letters (prep.)
-psaními:writings, letters (inst.)
+psaní - writing, letter (nom., voc., acc.)
+psaní - writing, letter (gen.)
+psaní - writing, letter (dat.)
+psaní - writing, letter (prep.)
+psaním - writing, letter (inst.)
+psaní - writings, letters (nom., acc.)
+psaní - writings, letters (gen.)
+psaním - writings, letters (dat.)
+psaních - writings, letters (prep.)
+psaními - writings, letters (inst.)
 MCG Ch. 23 (Misc.)
-Dali jsme se do práce.:We set to work.
-jako bych (bys, by, ...):as if I (you, it, ...)
-v tom ohledu:in that respect
+Dali jsme se do práce. - We set to work.
+jako bych (bys, by, ...) - as if I (you, it, ...)
+v tom ohledu - in that respect
 
 MCG Ch. 24 (Misc.)
-s sebou:along, with oneself
-útulek pro rodičky:maternity home
-To nejde koupit.:That cannot be bought.
-Co bys taky chodila?:Why should you go anyway?
+s sebou - along, with oneself
+útulek pro rodičky - maternity home
+To nejde koupit. - That cannot be bought.
+Co bys taky chodila? - Why should you go anyway?
 
 MCG Ch. 24 (Vocab.)
-asi:probably/about, approximately
-autor:author
-budoucnost:future
-hrdina:hero:masc.
-jednoduchý:simple:jednoduše
-květ:flower
-ledacos:something
-mnohý:much, many/many a
-právo:right, law
-rada:advice, council:fem.
-rada:counsellor:masc.
-sluha:servant:masc.
-služka:maid, female servant
-studium:study:neut.
-táta:Dad, daddy:masc.
-teta:aunt
-tolik:so much, so many:+ čeho
-úkol:lesson, task, role
-vedle:beside, alongside:+ čeho
-vůdce:leader:masc.
-bývat:to be (often, usually):freq. of být
-loučit se:to part, take leave (impf.):+ s kým
-rozloučit se:to part, take leave (perf.):+ s kým
-odnášet:to carry off, take away (impf.):-ejí
-odnést:to carry off, take away (perf.):odnesu
-odporovat:to contradict:impf., + komu
-poskytovat:to provide, give (impf.):+ komu co
-poskytnout:to provide, give (perf.):+ komu co
-překládat:to transfer, translate (impf.)
-přeložit:to transfer, translate (perf.)
-pronikat:to penetrate (impf.)
-proniknout:to penetrate (perf.)
-přijíždět:to come, arrive (in a vehicle) (impf.)
-přijet:to come, arrive (in a vehicle) (perf.):přijedu
-rozhodovat:to decide, resolve (impf.)
-rozhodnout:to decide, resolve (perf.)
-soudit:to judge:impf.
-toužit:to long for, be homesick for, yearn (impf.):+ po kom (čem)
-zatoužit:to long for, be homesick for, yearn (perf.):+ po kom (čem)
-učit se:to study, learn (impf.):+ čemu
-naučit se:to study, learn (perf.):+ čemu
-vadit:to matter, hurt, make a difference
-vyrovnávat se:to become equal to (impf.):+ komu
-vyrovnat se:to become equal to (perf.):+ komu
-zvát:to call, name, invite:zvu
+asi - probably/about, approximately
+autor - author
+budoucnost - future
+hrdina - hero - masc.
+jednoduchý - simple - jednoduše
+květ - flower
+ledacos - something
+mnohý - much, many/many a
+právo - right, law
+rada - advice, council - fem.
+rada - counsellor - masc.
+sluha - servant - masc.
+služka - maid, female servant
+studium - study - neut.
+táta - Dad, daddy - masc.
+teta - aunt
+tolik - so much, so many - + čeho
+úkol - lesson, task, role
+vedle - beside, alongside - + čeho
+vůdce - leader - masc.
+bývat - to be (often, usually) - freq. of být
+loučit se - to part, take leave (impf.) - + s kým
+rozloučit se - to part, take leave (perf.) - + s kým
+odnášet - to carry off, take away (impf.) - -ejí
+odnést - to carry off, take away (perf.) - odnesu
+odporovat - to contradict - impf., + komu
+poskytovat - to provide, give (impf.) - + komu co
+poskytnout - to provide, give (perf.) - + komu co
+překládat - to transfer, translate (impf.)
+přeložit - to transfer, translate (perf.)
+pronikat - to penetrate (impf.)
+proniknout - to penetrate (perf.)
+přijíždět - to come, arrive (in a vehicle) (impf.)
+přijet - to come, arrive (in a vehicle) (perf.) - přijedu
+rozhodovat - to decide, resolve (impf.)
+rozhodnout - to decide, resolve (perf.)
+soudit - to judge - impf.
+toužit - to long for, be homesick for, yearn (impf.) - + po kom (čem)
+zatoužit - to long for, be homesick for, yearn (perf.) - + po kom (čem)
+učit se - to study, learn (impf.) - + čemu
+naučit se - to study, learn (perf.) - + čemu
+vadit - to matter, hurt, make a difference
+vyrovnávat se - to become equal to (impf.) - + komu
+vyrovnat se - to become equal to (perf.) - + komu
+zvát - to call, name, invite - zvu
 
 MCG Ch. 24 (Misc.)
-amerikanisovat:to Americanize:impf.
-čáp:stork
-čtyřletý:four-year-old
-evropeisovat:to Europeanize:impf.
-holčička:little girl
-miminko:infant, baby (colloq.)
-poevropeisovat se:to become Europeanized:impf.
+amerikanisovat - to Americanize - impf.
+čáp - stork
+čtyřletý - four-year-old
+evropeisovat - to Europeanize - impf.
+holčička - little girl
+miminko - infant, baby (colloq.)
+poevropeisovat se - to become Europeanized - impf.
 
 MCG Ch. 24 (Gramm.)
 # ss 107
-sluha:(man-)servant (nom.)
-sluho:(man-)servant (voc.)
-sluhy:(man-)servant (gen.)
-sluhovi:(man-)servant (dat.)
-sluhu:(man-)servant (acc.)
-sluhovi:(man-)servant (loc.)
-sluhou:(man-)servant (inst.)
-sluhové:(men-)servants (nom.)
-sluhů:(men-)servants (gen.)
-sluhům:(men-)servants (dat.)
-sluhy:(men-)servants (acc.)
-sluzích:(men-)servants (loc.)
-sluhy:(men-)servants (inst.)
-houslista:violinist
-houslisté:violinists
-komunista:communist
-komunisté:communists
-vůdce:leader (nom.)/leader (voc.)
-vůdce:leader (gen.)
-vůdci:leader (dat.)
-vůdce:leader (acc.)
-vůdci:leader (loc.)
-vůdcem:leader (inst.)
-vůdci:leaders (nom.)
-vůdců:leaders (gen.)
-vůdcům:leaders (dat.)
-vůdce:leaders (acc.)
-vůdcích:leaders (loc.)
-vůdci:leaders (inst.)
-Starý sluha odešel.:The old servant went off.
+sluha - (man-)servant (nom.)
+sluho - (man-)servant (voc.)
+sluhy - (man-)servant (gen.)
+sluhovi - (man-)servant (dat.)
+sluhu - (man-)servant (acc.)
+sluhovi - (man-)servant (loc.)
+sluhou - (man-)servant (inst.)
+sluhové - (men-)servants (nom.)
+sluhů - (men-)servants (gen.)
+sluhům - (men-)servants (dat.)
+sluhy - (men-)servants (acc.)
+sluzích - (men-)servants (loc.)
+sluhy - (men-)servants (inst.)
+houslista - violinist
+houslisté - violinists
+komunista - communist
+komunisté - communists
+vůdce - leader (nom.)/leader (voc.)
+vůdce - leader (gen.)
+vůdci - leader (dat.)
+vůdce - leader (acc.)
+vůdci - leader (loc.)
+vůdcem - leader (inst.)
+vůdci - leaders (nom.)
+vůdců - leaders (gen.)
+vůdcům - leaders (dat.)
+vůdce - leaders (acc.)
+vůdcích - leaders (loc.)
+vůdci - leaders (inst.)
+Starý sluha odešel. - The old servant went off.
 
 # ss 108
-sebe:oneself (gen.)
-sobě:oneself (dat. long)
-si:oneself (dat. short)
-sebe:oneself (acc. long)
-se:oneself (acc. short)
-sobě:oneself (loc.)
-sebou:oneself (inst.)
-Dělám to pro sebe.:I am doing this for myself.
-Rád mluvíte o sobě.:You like to talk about yourself.
-Vezměte tu knihu s sebou.:Take this book along.
+sebe - oneself (gen.)
+sobě - oneself (dat. long)
+si - oneself (dat. short)
+sebe - oneself (acc. long)
+se - oneself (acc. short)
+sobě - oneself (loc.)
+sebou - oneself (inst.)
+Dělám to pro sebe. - I am doing this for myself.
+Rád mluvíte o sobě. - You like to talk about yourself.
+Vezměte tu knihu s sebou. - Take this book along.
 
 MCG Ch. 24 (Gramm.)/Deklinace číslovek
 # ss 109
-první:first
-druhý:second
-třetí:third
-čtvrtý:fourth
-pátý:fifth
-šestý:sixth
-sedmý:seventh
-osmý:eighth
-devátý:ninth
-desátý:tenth
-ve čtvrté knize:in the fourth book
-na deváté ulici:on Ninth Street
+první - first
+druhý - second
+třetí - third
+čtvrtý - fourth
+pátý - fifth
+šestý - sixth
+sedmý - seventh
+osmý - eighth
+devátý - ninth
+desátý - tenth
+ve čtvrté knize - in the fourth book
+na deváté ulici - on Ninth Street
 
 MCG Ch. 24 (Gramm.)
 # ss 110
-Jdu dnes do školy.:Today I am going to school.
-Chodím do školy.:I go to (attend) school.
-Teď nesu knihy z knihovny domů.:Now I am taking books home from the library.
-Nosím každý den knihy z knihovny domů.:Every day I take books home from the library.
-Chodili jsme po ulicích.:We walked about the streets.
-Dítě již chodí.:The child walks already.
-Nechoď tam!:Don't go there!
-Nechci, abys chodil do biografu.:I don't want you to go to the movies.
-hledět:to look:impf.
-hlídat:to watch, guard:iter. of hledět
-nést:to carry:impf., nesu
-nosit:to wear (habitually):iter. of nést
-běžet:to run:impf., -í
-běhat:to run around (often):iter. of běžet
-číst:to read (impf.):čtu
-čítat:to read (often), count, consider:iter. of číst
-jezdit:to ride, travel:iter. of jet
-jídat:to eat habitually:iter. of jíst
-chodit:to go, walk around (often):iter. of jít
-letět:to fly (impf.):-í
-létat:to fly around (often):iter. of letět
-slyšet:to hear:impf.
-slýchat:to hear (often):iter. of slyšet
-táhnout:to pull, drag (impf.)
-tahat:to pull, drag (frequently, habitually):iter. of táhnout
-vést:to lead (impf.):vedu
-vodit:to lead around (often):iter. of vést
-vidět:to see:impf.
-vídat:to see (regularly, habitually):iter. of vidět
+Jdu dnes do školy. - Today I am going to school.
+Chodím do školy. - I go to (attend) school.
+Teď nesu knihy z knihovny domů. - Now I am taking books home from the library.
+Nosím každý den knihy z knihovny domů. - Every day I take books home from the library.
+Chodili jsme po ulicích. - We walked about the streets.
+Dítě již chodí. - The child walks already.
+Nechoď tam! - Don't go there!
+Nechci, abys chodil do biografu. - I don't want you to go to the movies.
+hledět - to look - impf.
+hlídat - to watch, guard - iter. of hledět
+nést - to carry - impf., nesu
+nosit - to wear (habitually) - iter. of nést
+běžet - to run - impf., -í
+běhat - to run around (often) - iter. of běžet
+číst - to read (impf.) - čtu
+čítat - to read (often), count, consider - iter. of číst
+jezdit - to ride, travel - iter. of jet
+jídat - to eat habitually - iter. of jíst
+chodit - to go, walk around (often) - iter. of jít
+letět - to fly (impf.) - -í
+létat - to fly around (often) - iter. of letět
+slyšet - to hear - impf.
+slýchat - to hear (often) - iter. of slyšet
+táhnout - to pull, drag (impf.)
+tahat - to pull, drag (frequently, habitually) - iter. of táhnout
+vést - to lead (impf.) - vedu
+vodit - to lead around (often) - iter. of vést
+vidět - to see - impf.
+vídat - to see (regularly, habitually) - iter. of vidět
 
 # ss 111
-Dříve jsem spával dobře.:I used to sleep well.
-Hrávali jsme karty.:We used to play cards.
-Mívám obtíže ve své práci.:I often have difficulties in my work.
-#b24x:Chodím do školy.:...
-Chodívám do divadla.:I go to the theatre once in a while.
-Nosím klobouk.:I wear a hat (as a rule).
-Nosívám klobouk.:I sometimes wear a hat.
+Dříve jsem spával dobře. - I used to sleep well.
+Hrávali jsme karty. - We used to play cards.
+Mívám obtíže ve své práci. - I often have difficulties in my work.
+#b24x - Chodím do školy. - ...
+Chodívám do divadla. - I go to the theatre once in a while.
+Nosím klobouk. - I wear a hat (as a rule).
+Nosívám klobouk. - I sometimes wear a hat.
 
 # ss 112
 # skipping verbs of going
-Peníze došly.:The money has run out.
-Vešel do domu.:He entered the house.
-přinášet:to bring (carrying) (impf.)
-přinést:to bring (carrying) (perf.)
-odvážet:to haul away (impf.)
-odvézt:to haul away (perf.)
-probíhat:to run through (impf.)
-proběhnout:to run through (perf.)
+Peníze došly. - The money has run out.
+Vešel do domu. - He entered the house.
+přinášet - to bring (carrying) (impf.)
+přinést - to bring (carrying) (perf.)
+odvážet - to haul away (impf.)
+odvézt - to haul away (perf.)
+probíhat - to run through (impf.)
+proběhnout - to run through (perf.)
 
 MCG Ch. 24 (Misc.)
-To nevadí.:That does not matter.
-něco dobrého (nového, ...):something good (new, ...)
-tak zvaný:so-called
-v budoucnosti:in the future
+To nevadí. - That does not matter.
+něco dobrého (nového, ...) - something good (new, ...)
+tak zvaný - so-called
+v budoucnosti - in the future

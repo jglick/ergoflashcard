@@ -1,1140 +1,1140 @@
 # -*- Czech-Quiz -*-
 
 MCG Ch. 13 (Misc.)
-když:if (pres. tense) (colloq.)/if (fut. tense) (std.)
-nádobí:dishes:neut. sg.
-až do:until
-pomohu-li jí:if (whether) I will help her
-Nevím, pomůže-li nám bratr.:I don't know if Brother will help us.
-až dostanu:when I will get
+když - if (pres. tense) (colloq.)/if (fut. tense) (std.)
+nádobí - dishes - neut. sg.
+až do - until
+pomohu-li jí - if (whether) I will help her
+Nevím, pomůže-li nám bratr. - I don't know if Brother will help us.
+až dostanu - when I will get
 MCG Ch. 13 (Vocab.)
-až:until, when:fut. tense
-čepice:cap:fem.
-dárek:gift, present:gen. dárku
-hadr:rag
-hotový:ready, finished
-líto:sorry:+ komu, + koho (jeho, jí)
-Je mi vás líto.:I am sorry for you.
-mýdlo:soap
-najednou:at once, suddenly
-nejdřív(e):first (adv.)
-ochotně:willingly
-pak:then, next
-podlaha:floor
-půl:half:+ čeho
-skoro:almost, nearly
-strýc:uncle:masc.
-zítra:tomorrow
-bráti:to take (impf.):3rd, beru
-vzíti:to take (perf.):3rd, vezmu, vzal
-dostávati:to receive, obtain, get (impf.):1st
-dostati:to receive, obtain, get (perf.):3rd, dostanu
-dovolovati:to allow (impf.):3rd, + komu dělat
-dovoliti:to allow (perf.):2nd, + komu dělat
-směti:to be allowed to:2nd, smějí, + dělat, impf.
-umývati:to wash (impf.):1st
-umýti:to wash (perf.):3rd, umyji
-utíkati:to run away, escape (impf.):1st
-utéci:to run away, escape (perf.):3rd, uteku, utečeš, utekl
-vbíhati:to run in (impf.):1st
-vběhnouti:to run in (perf.):3rd
-vybíhati:to run out (impf.):1st
-vyběhnouti:to run out (perf.):3rd
-začínati:to begin, start (impf.):1st, + dělat
-začíti:to begin, start (perf.):3rd, začnu, začal, + dělat
-zůstávati:to dwell, stay, remain (impf.):1st
-zůstati:to dwell, stay, remain (perf.):3rd, zůstanu
+až - until, when - fut. tense
+čepice - cap - fem.
+dárek - gift, present - gen. dárku
+hadr - rag
+hotový - ready, finished
+líto - sorry - + komu, + koho (jeho, jí)
+Je mi vás líto. - I am sorry for you.
+mýdlo - soap
+najednou - at once, suddenly
+nejdřív(e) - first (adv.)
+ochotně - willingly
+pak - then, next
+podlaha - floor
+půl - half - + čeho
+skoro - almost, nearly
+strýc - uncle - masc.
+zítra - tomorrow
+bráti - to take (impf.) - 3rd, beru
+vzíti - to take (perf.) - 3rd, vezmu, vzal
+dostávati - to receive, obtain, get (impf.) - 1st
+dostati - to receive, obtain, get (perf.) - 3rd, dostanu
+dovolovati - to allow (impf.) - 3rd, + komu dělat
+dovoliti - to allow (perf.) - 2nd, + komu dělat
+směti - to be allowed to - 2nd, smějí, + dělat, impf.
+umývati - to wash (impf.) - 1st
+umýti - to wash (perf.) - 3rd, umyji
+utíkati - to run away, escape (impf.) - 1st
+utéci - to run away, escape (perf.) - 3rd, uteku, utečeš, utekl
+vbíhati - to run in (impf.) - 1st
+vběhnouti - to run in (perf.) - 3rd
+vybíhati - to run out (impf.) - 1st
+vyběhnouti - to run out (perf.) - 3rd
+začínati - to begin, start (impf.) - 1st, + dělat
+začíti - to begin, start (perf.) - 3rd, začnu, začal, + dělat
+zůstávati - to dwell, stay, remain (impf.) - 1st
+zůstati - to dwell, stay, remain (perf.) - 3rd, zůstanu
 MCG Ch. 13 (Gramm.)
-Psal jsem úlohu, když bratr vešel.:I was writing my lesson when Brother came in.:interrupted action
-Celý rok jsem vstával časně.:For a whole year I got up early.:habitual action
-Co jste včera dělal? Nakupoval jsem.:What did you do yesterday? I was shopping.:action itself stressed
-Vstal jsem a šel dolů.:I got up and went downstairs.:single completed action
-Prodal jsem dnes tu knihu.:I sold that book today.:single completed action
-Prodal jsem svůj kabát, a teď je mi zima.:I sold my coat, and now I am cold.:result of action stressed
+Psal jsem úlohu, když bratr vešel. - I was writing my lesson when Brother came in. - interrupted action
+Celý rok jsem vstával časně. - For a whole year I got up early. - habitual action
+Co jste včera dělal? Nakupoval jsem. - What did you do yesterday? I was shopping. - action itself stressed
+Vstal jsem a šel dolů. - I got up and went downstairs. - single completed action
+Prodal jsem dnes tu knihu. - I sold that book today. - single completed action
+Prodal jsem svůj kabát, a teď je mi zima. - I sold my coat, and now I am cold. - result of action stressed
 MCG Ch. 13 (Vocab.)
-dávati:to give, put (impf.):1st
-dáti:to give, put (perf.):1st
-doporučovati:to recommend (impf.):3rd
-doporučiti:to recommend (perf.):2nd
-kupovati:to buy (impf.):3rd
-koupiti:to buy (perf.):2nd
-navštěvovati:to visit (impf.):3rd
-navštíviti:to visit (perf.):2nd
-nechávati:to leave, let (impf.):1st
-nechati:to leave, let (perf.):1st
-objednávati:to order (impf.):1st
-objednati:to order (perf.):1st
-odmítati:to refuse (impf.):1st
-odmítnouti:to refuse (perf.):3rd
-odpovídati:to answer (impf.):1st
-odpověděti:to answer (perf.):like věděti (odpovím...odpovědí)
-padati:to fall (impf.):1st
-padnouti:to fall (perf.):3rd
-podávati:to hand, pass (impf.):1st
-podati:to hand, pass (perf.):1st
-pomáhati:to help (impf.):1st
-pomoci:to help (perf.):like moci (pomohu, pomůžeš, pomohl)
-potkávati:to meet (impf.):1st
-potkati:to meet (perf.):1st
-prodávati:to sell (impf.):1st
-prodati:to sell (perf.):1st
-prohlížeti:to look over (impf.):2nd
-prohlédnouti:to look over (perf.):3rd
-překládati:to translate (impf.):1st
-přeložiti:to translate (perf.):2nd
-přinášeti:to bring (impf.):2nd
-přinésti:to bring (perf.):like nésti (přinesu, přinesl)
-přiznávati:to admit (impf.):1st
-přiznati:to admit (perf.):1st
-říkati:to say (impf.):1st
-říci:to say (perf.):3rd, řeknu, řekl
-slibovati:to promise (impf.):3rd
-slíbiti:to promise (perf.):2nd
-trhati:to tear, jerk (impf.):1st
-trhnouti:to tear, jerk (perf.):3rd
-vraceti:to return (something) (impf.):2nd
-vrátiti:to return (something) (perf.):2nd
-vstávati:to get up, arise (impf.):1st
-vstáti:to get up, arise (perf.):3rd, vstanu
-zakrývati:to cover (impf.):1st
-zakrýti:to cover (perf.):3rd, zakryji
+dávati - to give, put (impf.) - 1st
+dáti - to give, put (perf.) - 1st
+doporučovati - to recommend (impf.) - 3rd
+doporučiti - to recommend (perf.) - 2nd
+kupovati - to buy (impf.) - 3rd
+koupiti - to buy (perf.) - 2nd
+navštěvovati - to visit (impf.) - 3rd
+navštíviti - to visit (perf.) - 2nd
+nechávati - to leave, let (impf.) - 1st
+nechati - to leave, let (perf.) - 1st
+objednávati - to order (impf.) - 1st
+objednati - to order (perf.) - 1st
+odmítati - to refuse (impf.) - 1st
+odmítnouti - to refuse (perf.) - 3rd
+odpovídati - to answer (impf.) - 1st
+odpověděti - to answer (perf.) - like věděti (odpovím...odpovědí)
+padati - to fall (impf.) - 1st
+padnouti - to fall (perf.) - 3rd
+podávati - to hand, pass (impf.) - 1st
+podati - to hand, pass (perf.) - 1st
+pomáhati - to help (impf.) - 1st
+pomoci - to help (perf.) - like moci (pomohu, pomůžeš, pomohl)
+potkávati - to meet (impf.) - 1st
+potkati - to meet (perf.) - 1st
+prodávati - to sell (impf.) - 1st
+prodati - to sell (perf.) - 1st
+prohlížeti - to look over (impf.) - 2nd
+prohlédnouti - to look over (perf.) - 3rd
+překládati - to translate (impf.) - 1st
+přeložiti - to translate (perf.) - 2nd
+přinášeti - to bring (impf.) - 2nd
+přinésti - to bring (perf.) - like nésti (přinesu, přinesl)
+přiznávati - to admit (impf.) - 1st
+přiznati - to admit (perf.) - 1st
+říkati - to say (impf.) - 1st
+říci - to say (perf.) - 3rd, řeknu, řekl
+slibovati - to promise (impf.) - 3rd
+slíbiti - to promise (perf.) - 2nd
+trhati - to tear, jerk (impf.) - 1st
+trhnouti - to tear, jerk (perf.) - 3rd
+vraceti - to return (something) (impf.) - 2nd
+vrátiti - to return (something) (perf.) - 2nd
+vstávati - to get up, arise (impf.) - 1st
+vstáti - to get up, arise (perf.) - 3rd, vstanu
+zakrývati - to cover (impf.) - 1st
+zakrýti - to cover (perf.) - 3rd, zakryji
 MCG Ch. 13 (Gramm.)
-Vždycky jsem pomáhal matce.:I have always helped Mother.
-Včera jsem pomohl matce.:Yesterday I helped Mother.
-Dnes pomáhám matce.:Today I am helping Mother.
-Vždycky budu pomáhat matce.:I shall always help my mother.
-Pomohu matce prodat dům.:I shall help Mother sell our house.
-Budu pomáhat ochotně.:I will help gladly.
-Každý den musím pomáhat matce.:I must help my mother every day.
-Dnes musím pomoci matce.:Today I must help my mother (do some task).
+Vždycky jsem pomáhal matce. - I have always helped Mother.
+Včera jsem pomohl matce. - Yesterday I helped Mother.
+Dnes pomáhám matce. - Today I am helping Mother.
+Vždycky budu pomáhat matce. - I shall always help my mother.
+Pomohu matce prodat dům. - I shall help Mother sell our house.
+Budu pomáhat ochotně. - I will help gladly.
+Každý den musím pomáhat matce. - I must help my mother every day.
+Dnes musím pomoci matce. - Today I must help my mother (do some task).
 MCG Ch. 13 (Vocab.)
-budu:I will be
-budeš:you will be
-bude:he, she, it will be (there will be)
-budeme:we will be
-budete:y'all will be
-budou:they will be (there will be)
+budu - I will be
+budeš - you will be
+bude - he, she, it will be (there will be)
+budeme - we will be
+budete - y'all will be
+budou - they will be (there will be)
 MCG Ch. 13 (Gramm.)
-budu čísti:I shall read (be reading)
-budeme dávat:we shall give (be giving)
-budu čísti:I will read (be reading)
-budeš čísti:you will read (be reading)
-bude čísti:he, she, it will read (be reading)
-budeme čísti:we will read (be reading)
-budete čísti:y'all will read (be reading)
-budou čísti:they will read (be reading)
-dám:I will give (will have given)
-dáš:you will give (will have given)
-dá:he, she, it will give (will have given)
-dáme:we will give (will have given)
-dáte:y'all will give (will have given)
-dají:they will give (will have given)
-řeknu:I will say (will have said)
-řekneš:you will say (will have said)
-řekne:he, she, it will say (will have said)
-řekneme:we will say (will have said)
-řeknete:y'all will say (will have said)
-řeknou:they will say (will have said)
-Včera jsme pomáhali matce celý den.:Yesterday we helped Mother all day.
-Pomáhal jsem matce, když bratr přišel domů.:I was helping Mother when Brother came in.
-Pomohli jsme matce prodat dům.:We helped Mother sell the house.
-Loni jsme každý den pomáhali matce.:Last year we helped Mother every day.
-Věděl jsem, že bratr chtěl jít do bia.:I knew that Brother had wanted to go to the movies.
-Věděl jsem, že bratr chce jít do bia.:I knew that Brother wanted to go to the movies.
-Věděl jsem, že bratr bude chtít jít do bia.:I knew that Brother would want to go to the movies.
-Až dostanu jeho dopis, řeknu vám, co dělá.:When I get his letter, I will tell you what he is doing.
-Když dostanu jeho dopis, řeknu vám, co dělá.:If I get his letter, I will tell you what he is doing.
-Nepomůžeš-li mi, nedostaneš nic.:If you don't help (me), you will get nothing.
+budu čísti - I shall read (be reading)
+budeme dávat - we shall give (be giving)
+budu čísti - I will read (be reading)
+budeš čísti - you will read (be reading)
+bude čísti - he, she, it will read (be reading)
+budeme čísti - we will read (be reading)
+budete čísti - y'all will read (be reading)
+budou čísti - they will read (be reading)
+dám - I will give (will have given)
+dáš - you will give (will have given)
+dá - he, she, it will give (will have given)
+dáme - we will give (will have given)
+dáte - y'all will give (will have given)
+dají - they will give (will have given)
+řeknu - I will say (will have said)
+řekneš - you will say (will have said)
+řekne - he, she, it will say (will have said)
+řekneme - we will say (will have said)
+řeknete - y'all will say (will have said)
+řeknou - they will say (will have said)
+Včera jsme pomáhali matce celý den. - Yesterday we helped Mother all day.
+Pomáhal jsem matce, když bratr přišel domů. - I was helping Mother when Brother came in.
+Pomohli jsme matce prodat dům. - We helped Mother sell the house.
+Loni jsme každý den pomáhali matce. - Last year we helped Mother every day.
+Věděl jsem, že bratr chtěl jít do bia. - I knew that Brother had wanted to go to the movies.
+Věděl jsem, že bratr chce jít do bia. - I knew that Brother wanted to go to the movies.
+Věděl jsem, že bratr bude chtít jít do bia. - I knew that Brother would want to go to the movies.
+Až dostanu jeho dopis, řeknu vám, co dělá. - When I get his letter, I will tell you what he is doing.
+Když dostanu jeho dopis, řeknu vám, co dělá. - If I get his letter, I will tell you what he is doing.
+Nepomůžeš-li mi, nedostaneš nic. - If you don't help (me), you will get nothing.
 
 MCG Ch. 14 (Misc.)
-pokračování:to be continued
-míti (dělat):to be to (do), to have to (do)
-jen co dopiji:as soon as I finish drinking
+pokračování - to be continued
+míti (dělat) - to be to (do), to have to (do)
+jen co dopiji - as soon as I finish drinking
 MCG Ch. 14 (Vocab.)
-buffet:buffet, lunch room
-chvíle:while, time:fem.
-lávka:bench
-lidový:folk, of the people
-místo:place, seat
-píseň:song:fem., gen. písně
-příběh:narrative, event
-přímo:straight, directly
-skutečně:really, actually, in fact
-šálek:cup:gen. šálku
-telefon:telephone
-včera:yesterday
-vlak:train
-vůz:wagon, carriage, car:gen. vozu
-za (+ co):within, by the end of
-běhati:to run:1st, impf.
-doufati:to hope:1st, impf.
-hleděti:to look at (impf.):2nd (-í), + na co (koho)
-pohleděti:to look at (perf.):2nd (-í), + na co (koho)
-nacházeti:to find (impf.):2nd (-ejí)
-najíti:to find (perf.):3rd, like jíti (najdu, našel)
-odcházeti:to go away, leave (on foot) (impf.):2nd (-ejí)
-odejíti:to go away, leave (on foot) (perf.):3rd, like jíti (odejdu, odešel [?])
-odjížděti:to ride away, leave (in a vehicle) (impf.):2nd (-ějí)
-odjeti:to ride away, leave (in a vehicle) (perf.):3rd, like jeti (odjedu, odjel)
-přicházeti:to come, arrive (impf.):2nd (-ejí)
-přijíti:to come, arrive (on foot) (perf.):3rd, like jíti (přijdu, přišel)
-seděti:to sit, be sitting:2nd (-í), impf.
-sedati si:to sit down (impf.):1st
-sednouti si:to sit down (perf.):3rd
-scházeti:to assemble, meet, gather (impf.):2nd (-ejí)
-sejíti:to assemble, meet, gather (perf.):3rd, like jíti (sejdu, sešel)
-vypravovati:to narrate, tell:3rd, impf.
-vyskakovati:to jump out, up (impf.):3rd
-vyskočiti:to jump out, up (perf.):2nd
-zahlédnouti:to catch sight of:3rd, perf.
-zdraviti:to greet (impf.):2nd
-pozdraviti:to greet (perf.):2nd
+buffet - buffet, lunch room
+chvíle - while, time - fem.
+lávka - bench
+lidový - folk, of the people
+místo - place, seat
+píseň - song - fem., gen. písně
+příběh - narrative, event
+přímo - straight, directly
+skutečně - really, actually, in fact
+šálek - cup - gen. šálku
+telefon - telephone
+včera - yesterday
+vlak - train
+vůz - wagon, carriage, car - gen. vozu
+za (+ co) - within, by the end of
+běhati - to run - 1st, impf.
+doufati - to hope - 1st, impf.
+hleděti - to look at (impf.) - 2nd (-í), + na co (koho)
+pohleděti - to look at (perf.) - 2nd (-í), + na co (koho)
+nacházeti - to find (impf.) - 2nd (-ejí)
+najíti - to find (perf.) - 3rd, like jíti (najdu, našel)
+odcházeti - to go away, leave (on foot) (impf.) - 2nd (-ejí)
+odejíti - to go away, leave (on foot) (perf.) - 3rd, like jíti (odejdu, odešel [?])
+odjížděti - to ride away, leave (in a vehicle) (impf.) - 2nd (-ějí)
+odjeti - to ride away, leave (in a vehicle) (perf.) - 3rd, like jeti (odjedu, odjel)
+přicházeti - to come, arrive (impf.) - 2nd (-ejí)
+přijíti - to come, arrive (on foot) (perf.) - 3rd, like jíti (přijdu, přišel)
+seděti - to sit, be sitting - 2nd (-í), impf.
+sedati si - to sit down (impf.) - 1st
+sednouti si - to sit down (perf.) - 3rd
+scházeti - to assemble, meet, gather (impf.) - 2nd (-ejí)
+sejíti - to assemble, meet, gather (perf.) - 3rd, like jíti (sejdu, sešel)
+vypravovati - to narrate, tell - 3rd, impf.
+vyskakovati - to jump out, up (impf.) - 3rd
+vyskočiti - to jump out, up (perf.) - 2nd
+zahlédnouti - to catch sight of - 3rd, perf.
+zdraviti - to greet (impf.) - 2nd
+pozdraviti - to greet (perf.) - 2nd
 MCG Ch. 14 (Misc.)
-dušenka:darling
-nádraží:station
-nastoupiti:to board, walk onto:perf.
-okénko:little window
-udobřiti:to reconcile:perf.
-vykřiknouti:to cry out, exclaim:perf.
-zmeškati:to miss, be late for:perf.
+dušenka - darling
+nádraží - station
+nastoupiti - to board, walk onto - perf.
+okénko - little window
+udobřiti - to reconcile - perf.
+vykřiknouti - to cry out, exclaim - perf.
+zmeškati - to miss, be late for - perf.
 MCG Ch. 14 (Gramm.)
-Dělám to dnes.:I am doing it today.:impf. usage
-Udělám to zítra.:I will do it tomorrow.:perf. usage
-baviti se:to have a good time (impf.):2nd
-pobaviti se:to have a good time (perf.):2nd
-čekati:to wait (impf.):1st
-počkati:to wait (perf.):1st
-děkovati:to thank (impf.):3rd, + komu
-poděkovati:to thank (perf.):3rd, + komu
-dělat:to make, do (impf.):1st
-udělat:to make, do (perf.):1st
-chváliti:to praise (impf.):2nd
-pochváliti:to praise (perf.):2nd
-koupati (se):to bathe (oneself) (impf.):3rd, koupu (se)
-vykoupati (se):to bathe (oneself) (perf.):3rd, like koupati (vykoupu (se))
-mýti (se):to wash (oneself) (impf.):3rd, myji (se), myl (se)
-umýti (se):to wash (oneself) (perf.):3rd, like mýti (se) (umyji, umyl)
-obědvati:to dine (impf.):1st
-poobědvati:to dine (perf.):1st
-pozorovati:to notice (impf.):3rd
-zpozorovati:to notice (perf.):3rd
-psáti:to write (impf.):3rd, píši, psál
-napsati:to write (perf.):3rd, like psáti (napíši, napsál [?])
-ptáti se:to ask (impf.):1st, + koho (gen.) co
-zeptati se:to ask (perf.):1st, + koho (gen.) co
-rozuměti:to understand (impf.):2nd (-ějí)
-porozuměti:to understand (perf.):2nd (-ějí)
-slábnouti:to grow feeble (impf.):3rd
-zeslábnouti:to grow feeble (perf.):3rd
-smáti se:to laugh (impf.):3rd, směji se,, smál se (+ komu)
-zasmáti se:to laugh (perf.):3rd, like smáti (zasměji se, zasmál [?] se) (+ komu)
-snídati:to eat breakfast (impf.):1st
-posnídati:to eat breakfast (perf.):1st
-stárnouti:to grow old (impf.):3rd
-zestárnouti:to grow old (perf.):3rd
-volati:to call (cry out, summon, telephone...):impf.
-vyvolati:to cry out:perf.
-povolati:to summon:perf.
-zavolati:to telephone:perf.
-půjdu:I will go on foot (impf.)
-půjdeš:you will go on foot (impf.)
-půjde:(he, she, it) will go on foot (impf.)
-půjdeme:we will go on foot (impf.)
-půjdete:y'all will go on foot (impf.)
-půjdou:they will go on foot (impf.)
-pojedu:I will ride (impf.)
-pojedeš:you will ride (impf.)
-pojede:(he, she, it) will ride (impf.)
-pojedeme:we will ride (impf.)
-pojedete:y'all will ride (impf.)
-pojedou:they will ride (impf.)
-Šel jsem do školy.:I went to school.:tech. impf.
-dojíti:to arrive, reach (on foot) (perf.):like jíti
-projíti:to go through, past, to pass (on foot) (perf.):like jíti
-přejíti:to over, across, to cross (on foot) (perf.):like jíti
-sejíti se:to come together, meet (on foot) (perf.):like jíti
-vejíti:to go in, come in, enter (on foot) (perf.):like jíti
-vyjíti:to go out (on foot) (perf.):like jíti
-do-(dělat):attainment of goal of action, arrival (vbl. pfx.)
-od(e)-(dělat):motion away, separation (vbl. pfx.)
-pro-(dělat):motion through, past (vbl. pfx.)
-pře-(dělat):motion across, over (vbl. pfx.)
-při-(dělat):motion here, arrival (vbl. pfx.)
-s(e)-(dělat):motion together, joining (vbl. pfx.)
-v(e)-(dělat):motion into (vbl. pfx.)
-vy-(dělat):motion out of (vbl. pfx.)
-dojeti:to arrive, reach (in a vehicle) (perf.):like jeti
-opisovati:to copy (impf.)
-opsati:to copy (perf.):like psáti
-popisovati:to describe (impf.)
-popsati:to describe (perf.):like psáti
-podpisovati se:to sign (impf.)
-podepsati se:to sign (perf.):like psáti
-předpisovati:to prescribe (impf.)
-předepsati:to prescribe (perf.):like psáti
-znáti:to know:impf.
-poznávati:to recognize (impf.)
-poznati:to recognize (perf.):like znáti
-přiznávati:to admit (impf.)
-přiznati:to admit (perf.):like znáti
-jíti:to go on foot:impf.
-vcházeti:to enter (impf.)
-jeti:to ride:impf.
-přijeti:to come riding (perf.):like jeti
-přijížděti:to come riding (impf.)
-přibýti:to come, increase (perf.):like býti (přibudu, přibyl)
-pomoci:to help (perf.):like moci
-viděti:to see (impf.)
-uviděti:to catch sight of (perf.)
-hledati:to look for (impf.)
-vyhledati:to find by looking (perf.)
+Dělám to dnes. - I am doing it today. - impf. usage
+Udělám to zítra. - I will do it tomorrow. - perf. usage
+baviti se - to have a good time (impf.) - 2nd
+pobaviti se - to have a good time (perf.) - 2nd
+čekati - to wait (impf.) - 1st
+počkati - to wait (perf.) - 1st
+děkovati - to thank (impf.) - 3rd, + komu
+poděkovati - to thank (perf.) - 3rd, + komu
+dělat - to make, do (impf.) - 1st
+udělat - to make, do (perf.) - 1st
+chváliti - to praise (impf.) - 2nd
+pochváliti - to praise (perf.) - 2nd
+koupati (se) - to bathe (oneself) (impf.) - 3rd, koupu (se)
+vykoupati (se) - to bathe (oneself) (perf.) - 3rd, like koupati (vykoupu (se))
+mýti (se) - to wash (oneself) (impf.) - 3rd, myji (se), myl (se)
+umýti (se) - to wash (oneself) (perf.) - 3rd, like mýti (se) (umyji, umyl)
+obědvati - to dine (impf.) - 1st
+poobědvati - to dine (perf.) - 1st
+pozorovati - to notice (impf.) - 3rd
+zpozorovati - to notice (perf.) - 3rd
+psáti - to write (impf.) - 3rd, píši, psál
+napsati - to write (perf.) - 3rd, like psáti (napíši, napsál [?])
+ptáti se - to ask (impf.) - 1st, + koho (gen.) co
+zeptati se - to ask (perf.) - 1st, + koho (gen.) co
+rozuměti - to understand (impf.) - 2nd (-ějí)
+porozuměti - to understand (perf.) - 2nd (-ějí)
+slábnouti - to grow feeble (impf.) - 3rd
+zeslábnouti - to grow feeble (perf.) - 3rd
+smáti se - to laugh (impf.) - 3rd, směji se,, smál se (+ komu)
+zasmáti se - to laugh (perf.) - 3rd, like smáti (zasměji se, zasmál [?] se) (+ komu)
+snídati - to eat breakfast (impf.) - 1st
+posnídati - to eat breakfast (perf.) - 1st
+stárnouti - to grow old (impf.) - 3rd
+zestárnouti - to grow old (perf.) - 3rd
+volati - to call (cry out, summon, telephone...) - impf.
+vyvolati - to cry out - perf.
+povolati - to summon - perf.
+zavolati - to telephone - perf.
+půjdu - I will go on foot (impf.)
+půjdeš - you will go on foot (impf.)
+půjde - (he, she, it) will go on foot (impf.)
+půjdeme - we will go on foot (impf.)
+půjdete - y'all will go on foot (impf.)
+půjdou - they will go on foot (impf.)
+pojedu - I will ride (impf.)
+pojedeš - you will ride (impf.)
+pojede - (he, she, it) will ride (impf.)
+pojedeme - we will ride (impf.)
+pojedete - y'all will ride (impf.)
+pojedou - they will ride (impf.)
+Šel jsem do školy. - I went to school. - tech. impf.
+dojíti - to arrive, reach (on foot) (perf.) - like jíti
+projíti - to go through, past, to pass (on foot) (perf.) - like jíti
+přejíti - to over, across, to cross (on foot) (perf.) - like jíti
+sejíti se - to come together, meet (on foot) (perf.) - like jíti
+vejíti - to go in, come in, enter (on foot) (perf.) - like jíti
+vyjíti - to go out (on foot) (perf.) - like jíti
+do-(dělat) - attainment of goal of action, arrival (vbl. pfx.)
+od(e)-(dělat) - motion away, separation (vbl. pfx.)
+pro-(dělat) - motion through, past (vbl. pfx.)
+pře-(dělat) - motion across, over (vbl. pfx.)
+při-(dělat) - motion here, arrival (vbl. pfx.)
+s(e)-(dělat) - motion together, joining (vbl. pfx.)
+v(e)-(dělat) - motion into (vbl. pfx.)
+vy-(dělat) - motion out of (vbl. pfx.)
+dojeti - to arrive, reach (in a vehicle) (perf.) - like jeti
+opisovati - to copy (impf.)
+opsati - to copy (perf.) - like psáti
+popisovati - to describe (impf.)
+popsati - to describe (perf.) - like psáti
+podpisovati se - to sign (impf.)
+podepsati se - to sign (perf.) - like psáti
+předpisovati - to prescribe (impf.)
+předepsati - to prescribe (perf.) - like psáti
+znáti - to know - impf.
+poznávati - to recognize (impf.)
+poznati - to recognize (perf.) - like znáti
+přiznávati - to admit (impf.)
+přiznati - to admit (perf.) - like znáti
+jíti - to go on foot - impf.
+vcházeti - to enter (impf.)
+jeti - to ride - impf.
+přijeti - to come riding (perf.) - like jeti
+přijížděti - to come riding (impf.)
+přibýti - to come, increase (perf.) - like býti (přibudu, přibyl)
+pomoci - to help (perf.) - like moci
+viděti - to see (impf.)
+uviděti - to catch sight of (perf.)
+hledati - to look for (impf.)
+vyhledati - to find by looking (perf.)
 MCG Ch. 14 (Misc.)
-Můj přítel přišel k nám.:My friend came to see us.
-Musím ho zavolat.:I must telephone him.
-Sedl jsem si k oknu.:I sat down by the window.
-Hledím na něco.:I am looking at something.
+Můj přítel přišel k nám. - My friend came to see us.
+Musím ho zavolat. - I must telephone him.
+Sedl jsem si k oknu. - I sat down by the window.
+Hledím na něco. - I am looking at something.
 
 MCG Ch. 15 (Misc.)
-Toto ji přivedlo do velkých rozpaků.:This caused her great embarrassment.
-Je ženám dovoleno.:Women are permitted.:(pssv. cnstr.)
-nádvoří:courtyard:neut.
-lépe řečeno:rather said
-Sestře zase dělalo starost něco jiného.:Something else was bothering Sister.
-dáti tisknout:to have printed
-dáti (co) (dělat):to have something done
+Toto ji přivedlo do velkých rozpaků. - This caused her great embarrassment.
+Je ženám dovoleno. - Women are permitted. - (pssv. cnstr.)
+nádvoří - courtyard - neut.
+lépe řečeno - rather said
+Sestře zase dělalo starost něco jiného. - Something else was bothering Sister.
+dáti tisknout - to have printed
+dáti (co) (dělat) - to have something done
 MCG Ch. 15 (Vocab.)
-císař:emperor:masc.
-císařovna:empress
-dítě:child:neut.
-doba:time
-jeden (-na, -no):one, a certain
-jistý:sure, certain
-jistě:sure, certain (adv.)
-jméno:name
-komposice:composition, theme:fem.
-král:king:masc. soft.
-mezitím:meanwhile
-páže:page (i.e. messenger):neut.
-pokud:as far as, as long as
-pokud...ne:until
-poněvadž:since, because
-prostraný:spacious, wide
-rád:glad, gladly:pred. adj., ráda...
-rada:advice, counsel/council
-sám:alone, oneself:always pred. adj., sama...
-ticho:quiet, silence
-tisk:print (noun)
-třeba:perhaps, if you wish/even
-unavený:tired, weary
-uvnitř:inside, within:(+ čeho)
-však:but, however:encl.
-výlet:outing, picnic, trip
-vzhůru:upward, up the hill
-za (+ co):as, for, in exchange for (something)
-kráčeti:to walk, stride:2nd (-ejí), impf.
-líbiti se:to please:2nd, + komu
-obsluhovati:to serve, wait on (impf.):3rd
-obsloužiti:to serve, wait on (perf.):2nd
-odpouštěti:to forgive (impf.):2nd (-ějí), + komu co
-odpustiti:to forgive (perf.):2nd, + komu co
-chápati:to understand, grasp (impf.):1st
-pochopiti:to understand, grasp (perf.):2nd
-poznávati:to recognize, get to know (impf.):1st
-poznati:to recognize, get to know (perf.):1st
-prohlašovati:to announce, proclaim (impf.):3rd
-prohlásiti:to announce, proclaim (perf.):2nd
-stavěti:to build (impf.):2nd (-ějí)
-vystavěti:to build (perf.):2nd (-ějí)
-tisknouti:to print, press:3rd, impf.
-tratiti:to lose (impf.):2nd
-ztratiti:to lose (perf.):2nd
-ztratiti se:to get lost:2nd, perf.
-vstupovati:to enter (impf.):3rd
-vstoupiti:to enter (perf.):2nd
-vynechávati:to omit, leave out (impf.):1st
-vynechati:to omit, leave out (perf.):1st
-zlobiti:to tease, annoy, anger (impf.):2nd
-rozzlobiti:to tease, annoy, anger (perf.):2nd
-zlobiti se:to get angry (impf.):2nd
-rozzlobiti se:to get angry (perf.):2nd
-zpívati:to sing (impf.):1st
-zazpívati:to sing (perf.):1st
+císař - emperor - masc.
+císařovna - empress
+dítě - child - neut.
+doba - time
+jeden (-na, -no) - one, a certain
+jistý - sure, certain
+jistě - sure, certain (adv.)
+jméno - name
+komposice - composition, theme - fem.
+král - king - masc. soft.
+mezitím - meanwhile
+páže - page (i.e. messenger) - neut.
+pokud - as far as, as long as
+pokud...ne - until
+poněvadž - since, because
+prostraný - spacious, wide
+rád - glad, gladly - pred. adj., ráda...
+rada - advice, counsel/council
+sám - alone, oneself - always pred. adj., sama...
+ticho - quiet, silence
+tisk - print (noun)
+třeba - perhaps, if you wish/even
+unavený - tired, weary
+uvnitř - inside, within - (+ čeho)
+však - but, however - encl.
+výlet - outing, picnic, trip
+vzhůru - upward, up the hill
+za (+ co) - as, for, in exchange for (something)
+kráčeti - to walk, stride - 2nd (-ejí), impf.
+líbiti se - to please - 2nd, + komu
+obsluhovati - to serve, wait on (impf.) - 3rd
+obsloužiti - to serve, wait on (perf.) - 2nd
+odpouštěti - to forgive (impf.) - 2nd (-ějí), + komu co
+odpustiti - to forgive (perf.) - 2nd, + komu co
+chápati - to understand, grasp (impf.) - 1st
+pochopiti - to understand, grasp (perf.) - 2nd
+poznávati - to recognize, get to know (impf.) - 1st
+poznati - to recognize, get to know (perf.) - 1st
+prohlašovati - to announce, proclaim (impf.) - 3rd
+prohlásiti - to announce, proclaim (perf.) - 2nd
+stavěti - to build (impf.) - 2nd (-ějí)
+vystavěti - to build (perf.) - 2nd (-ějí)
+tisknouti - to print, press - 3rd, impf.
+tratiti - to lose (impf.) - 2nd
+ztratiti - to lose (perf.) - 2nd
+ztratiti se - to get lost - 2nd, perf.
+vstupovati - to enter (impf.) - 3rd
+vstoupiti - to enter (perf.) - 2nd
+vynechávati - to omit, leave out (impf.) - 1st
+vynechati - to omit, leave out (perf.) - 1st
+zlobiti - to tease, annoy, anger (impf.) - 2nd
+rozzlobiti - to tease, annoy, anger (perf.) - 2nd
+zlobiti se - to get angry (impf.) - 2nd
+rozzlobiti se - to get angry (perf.) - 2nd
+zpívati - to sing (impf.) - 1st
+zazpívati - to sing (perf.) - 1st
 MCG Ch. 15 (Misc.)
-přestrojiti se:to change clothes, disguise oneself (perf.)
-přístup:entry
-rozjímati:to reflect, meditate (impf.)
-spisek:writing, literary work:gen. spisku
-vsaditi se:to wager, bet (perf.)
-vévoda:duke:masc.
-vyptávati se:to inquire (impf.)
-žárlivý:jealous
+přestrojiti se - to change clothes, disguise oneself (perf.)
+přístup - entry
+rozjímati - to reflect, meditate (impf.)
+spisek - writing, literary work - gen. spisku
+vsaditi se - to wager, bet (perf.)
+vévoda - duke - masc.
+vyptávati se - to inquire (impf.)
+žárlivý - jealous
 MCG Ch. 15 (Gramm.)
-zdravý syn:the healthy son
-Syn je zdráv.:The son is healthy.
-zdravá dcera:the healthy daughter
-Dcera je zdráva.:The daughter is healthy.
-hotové jídlo:ready meal
-Jídlo je hotovo.:The meal is ready.
-Syn a dcera jsou zdrávi.:The son and daughter are healthy.
-Šaty jsou hotovy.:The clothes are ready.
-Matka a dcera jsou zdrávy.:The mother and daughter are healthy.
-Toto okno a ono jsou otevřena.:This window and that one are open.
-mrtvý:dead (attrib.| ... ňeco)
-mrtev:dead (pred.| je ...):mrtva...
-šťastný:happy, lucky (attrib.| ... ňeco)
-šťasten:happy, lucky (pred.| je ...):šťastna...
-hotový:ready, finished (attrib.| ... ňeco)
-hotov:ready, finished (pred.| je ...):hotova...
-jistý:sure, certain (attrib.| ... ňeco)
-jist:sure, certain (pred.| je ...):jista...
-laskavý:gracious, kind, affable (attrib.| ... ňeco)
-laskav:gracious, kind, affable (pred.| je ...):laskava...
-nemocný:sick (attrib.| ... ňeco)
-nemocen:sick (pred.| je ...):nemocna...
-plný:full (attrib.| ... ňeco)
-pln:full (pred.| je ...):plna...
-starý:old (attrib.| ... ňeco)
-stár:old (pred.| je ...):stára...
-sytý:full, satiated (attrib.| ... ňeco)
-syt:full, satiated (pred.| je ...):syta...
-zdravý:healthy, well (attrib.| ... ňeco)
-zdráv:healthy, well (pred.| je ...):zdráva...
-živý:alive (attrib.| ... ňeco)
-živ:alive (pred.| je ...):živa...
-unavený:tired, wearied (attrib.| ... ňeco):p.p.p.
-opuštěný:deserted (attrib.| ... ňeco):p.p.p.
-Jsem unaven.:I am tired.
-Okno je zavřeno.:The window is closed.
-rád:glad:pred. only, ráda...
-#b15x:saam:alone, oneself:pred. only, sama...
-Sám jsem šel do školy.:I went to school by myself.
-Byli sami v domě.:They were alone in the house.
+zdravý syn - the healthy son
+Syn je zdráv. - The son is healthy.
+zdravá dcera - the healthy daughter
+Dcera je zdráva. - The daughter is healthy.
+hotové jídlo - ready meal
+Jídlo je hotovo. - The meal is ready.
+Syn a dcera jsou zdrávi. - The son and daughter are healthy.
+Šaty jsou hotovy. - The clothes are ready.
+Matka a dcera jsou zdrávy. - The mother and daughter are healthy.
+Toto okno a ono jsou otevřena. - This window and that one are open.
+mrtvý - dead (attrib.| ... ňeco)
+mrtev - dead (pred.| je ...) - mrtva...
+šťastný - happy, lucky (attrib.| ... ňeco)
+šťasten - happy, lucky (pred.| je ...) - šťastna...
+hotový - ready, finished (attrib.| ... ňeco)
+hotov - ready, finished (pred.| je ...) - hotova...
+jistý - sure, certain (attrib.| ... ňeco)
+jist - sure, certain (pred.| je ...) - jista...
+laskavý - gracious, kind, affable (attrib.| ... ňeco)
+laskav - gracious, kind, affable (pred.| je ...) - laskava...
+nemocný - sick (attrib.| ... ňeco)
+nemocen - sick (pred.| je ...) - nemocna...
+plný - full (attrib.| ... ňeco)
+pln - full (pred.| je ...) - plna...
+starý - old (attrib.| ... ňeco)
+stár - old (pred.| je ...) - stára...
+sytý - full, satiated (attrib.| ... ňeco)
+syt - full, satiated (pred.| je ...) - syta...
+zdravý - healthy, well (attrib.| ... ňeco)
+zdráv - healthy, well (pred.| je ...) - zdráva...
+živý - alive (attrib.| ... ňeco)
+živ - alive (pred.| je ...) - živa...
+unavený - tired, wearied (attrib.| ... ňeco) - p.p.p.
+opuštěný - deserted (attrib.| ... ňeco) - p.p.p.
+Jsem unaven. - I am tired.
+Okno je zavřeno. - The window is closed.
+rád - glad - pred. only, ráda...
+#b15x - saam - alone, oneself - pred. only, sama...
+Sám jsem šel do školy. - I went to school by myself.
+Byli sami v domě. - They were alone in the house.
 # ss 68
-Rád mluvím se svým učitelem.:I like to talk to my teacher.
-Sestra ráda spí.:Sister likes to sleep.
-Rádi navštěvujeme babičku.:We like to visit Grandmother.
-Rád jím maso.:I like (to eat) meat.
-míti rád:to like (infrml.)
-Mám rád svého přítele.:I like my friend.
-Sestra mě má ráda.:Sister likes me.
-Váš dům se mi líbí.:I like your house.
-Sestře se nelíbí ten člověk.:Sister does not like that man.
-Sestra dobře zná toho člověka a nemá ho ráda.:Sister knows that man well and does not like him.
-Nemám rád dům, ve kterém jsem dlouho bydlel.:I do not like a house in which I have lived for a long time.
+Rád mluvím se svým učitelem. - I like to talk to my teacher.
+Sestra ráda spí. - Sister likes to sleep.
+Rádi navštěvujeme babičku. - We like to visit Grandmother.
+Rád jím maso. - I like (to eat) meat.
+míti rád - to like (infrml.)
+Mám rád svého přítele. - I like my friend.
+Sestra mě má ráda. - Sister likes me.
+Váš dům se mi líbí. - I like your house.
+Sestře se nelíbí ten člověk. - Sister does not like that man.
+Sestra dobře zná toho člověka a nemá ho ráda. - Sister knows that man well and does not like him.
+Nemám rád dům, ve kterém jsem dlouho bydlel. - I do not like a house in which I have lived for a long time.
 MCG Ch. 15 (Gramm.)/Imperative
 # ss 69
-věř:Believe!
-věřte:Believe, y'all!
-věřme:Let's believe!
-lež:Lie (down)!
-ležte:Lie (down), y'all!
-ležme:Let's lie (down)!
-rozuměj:Understand!
-rozumějte:Understand, y'all!
-rozumějme:Let's understand!
-nes:Carry!
-neste:Carry, y'all!
-nesme:Let's carry!
-myj:Wash! (impf.)
-myjte:Wash, y'all! (impf.)
-myjme:Let's wash! (impf.)
-maž:Grease!
-mažte:Grease, y'all!
-mažme:Let's grease!
-děkuj:Give thanks!
-děkujte:Give thanks, y'all!
-děkujme:Let's give thanks!
-dej:Give! (perf.)
-dejte:Give, y'all! (perf.)
-dejme:Let's give! (perf.)
-dělej:Do! (impf.)
-dělejte:Do, y'all! (impf.)
-dělejme:Let's do! (impf.)
-táhni:Pull!
-táhněte:Pull, y'all!
-táhněme:Let's pull!
-sedni si:Sit down!
-sedněte si:Sit down, y'all!
-sedněme si:Let's sit down!
-čti:Read!
-čtěte:Read, y'all!
-čtěme:Let's read!
-plať:Pay!
-plaťte:Pay, y'all!
-plaťme:Let's pay!
-seď:(Continue to) sit!
-seďte:(Continue to) sit, y'all!
-seďme:Let's (continue to) sit!
-pomoz:Help! (perf.)
-pomozte:Help, y'all! (perf.)
-pomozme:Let's help! (perf.)
-buď:Be!
-buďte:Be, y'all!
-buďme:Let's be!
-jez:Eat!
-jezte:Eat, y'all!
-jezme:Let's eat!
-kup:Buy! (perf.)
-kupte:Buy, y'all! (perf.)
-kupme:Let's buy! (perf.)
-věz:Know (a fact)!
-vězte:Know (a fact), y'all!
-vězme:Let's know (a fact)!
-viz:See!
-vizte:See, y'all!
-vizme:Let's see!
+věř - Believe!
+věřte - Believe, y'all!
+věřme - Let's believe!
+lež - Lie (down)!
+ležte - Lie (down), y'all!
+ležme - Let's lie (down)!
+rozuměj - Understand!
+rozumějte - Understand, y'all!
+rozumějme - Let's understand!
+nes - Carry!
+neste - Carry, y'all!
+nesme - Let's carry!
+myj - Wash! (impf.)
+myjte - Wash, y'all! (impf.)
+myjme - Let's wash! (impf.)
+maž - Grease!
+mažte - Grease, y'all!
+mažme - Let's grease!
+děkuj - Give thanks!
+děkujte - Give thanks, y'all!
+děkujme - Let's give thanks!
+dej - Give! (perf.)
+dejte - Give, y'all! (perf.)
+dejme - Let's give! (perf.)
+dělej - Do! (impf.)
+dělejte - Do, y'all! (impf.)
+dělejme - Let's do! (impf.)
+táhni - Pull!
+táhněte - Pull, y'all!
+táhněme - Let's pull!
+sedni si - Sit down!
+sedněte si - Sit down, y'all!
+sedněme si - Let's sit down!
+čti - Read!
+čtěte - Read, y'all!
+čtěme - Let's read!
+plať - Pay!
+plaťte - Pay, y'all!
+plaťme - Let's pay!
+seď - (Continue to) sit!
+seďte - (Continue to) sit, y'all!
+seďme - Let's (continue to) sit!
+pomoz - Help! (perf.)
+pomozte - Help, y'all! (perf.)
+pomozme - Let's help! (perf.)
+buď - Be!
+buďte - Be, y'all!
+buďme - Let's be!
+jez - Eat!
+jezte - Eat, y'all!
+jezme - Let's eat!
+kup - Buy! (perf.)
+kupte - Buy, y'all! (perf.)
+kupme - Let's buy! (perf.)
+věz - Know (a fact)!
+vězte - Know (a fact), y'all!
+vězme - Let's know (a fact)!
+viz - See!
+vizte - See, y'all!
+vizme - Let's see!
 # ss 70
-Honzo, hned se umyj!:Honza, wash yourself at once!
-Řekněte mi, kde bydlíte!:Tell me where you live.
-Myj se každý den!:Wash yourself every day.
-Pište mi každý týden!:Write me every week.
-Neříkejte to učiteli!:Do not tell the teacher that!
-Nemyj se teď; nemohu na tebe čekat!:Do not wash now; I cannot wait for you!
-Nesedněte si na můj klobouk!:Do not sit on my hat!
+Honzo, hned se umyj! - Honza, wash yourself at once!
+Řekněte mi, kde bydlíte! - Tell me where you live.
+Myj se každý den! - Wash yourself every day.
+Pište mi každý týden! - Write me every week.
+Neříkejte to učiteli! - Do not tell the teacher that!
+Nemyj se teď; nemohu na tebe čekat! - Do not wash now; I cannot wait for you!
+Nesedněte si na můj klobouk! - Do not sit on my hat!
 MCG Ch. 15 (Gramm.)
 # ss 71
-chváliti:to praise (impf.)
-pochváliti:to praise (perf.)
-obědvati:to dine (impf.)
-poobědvati:to dine (perf.)
-jísti:to eat (impf.)
-pojísti:to have a bite (perf.)
-jíti:to go (on foot)
-popojíti:to take a few steps (perf.)
-rozejíti se:to part, break up, go off in different directions (perf.)
-rozcházeti se:to part, break up, go off in different directions (impf.)
-nésti:to carry
-roznésti:to deliver, distribute (perf.)
-roznášeti:to deliver, distribute (impf.)
-bráti:to take (impf.)
-rozebrati:to take apart, analyze (perf.)
-rozbírati:to take apart, analyze (impf.)
-bíti:to strike
-rozbíti:to break into pieces (perf.):+ co
-rozbíjeti:to break into pieces (impf.):+ co
-pršeti:to rain
-rozpršeti se:to suddenly pour (rain) (perf.)
-smáti se:to laugh
-rozesmáti se:to burst out laughing (perf.)
+chváliti - to praise (impf.)
+pochváliti - to praise (perf.)
+obědvati - to dine (impf.)
+poobědvati - to dine (perf.)
+jísti - to eat (impf.)
+pojísti - to have a bite (perf.)
+jíti - to go (on foot)
+popojíti - to take a few steps (perf.)
+rozejíti se - to part, break up, go off in different directions (perf.)
+rozcházeti se - to part, break up, go off in different directions (impf.)
+nésti - to carry
+roznésti - to deliver, distribute (perf.)
+roznášeti - to deliver, distribute (impf.)
+bráti - to take (impf.)
+rozebrati - to take apart, analyze (perf.)
+rozbírati - to take apart, analyze (impf.)
+bíti - to strike
+rozbíti - to break into pieces (perf.) - + co
+rozbíjeti - to break into pieces (impf.) - + co
+pršeti - to rain
+rozpršeti se - to suddenly pour (rain) (perf.)
+smáti se - to laugh
+rozesmáti se - to burst out laughing (perf.)
 MCG Ch. 15 (Misc.)
-Dám si vystavět nový dům.:I will have a new house built.
-Musím si koupit auto, třeba i staré.:I must buy a car, even an old one.
-Třeba je to pravda.:Perhaps that's true.
-Vezmi si třeba tento román.:Take this novel, if you wish.
-Musím dělat něco jiného.:I must do something else.
+Dám si vystavět nový dům. - I will have a new house built.
+Musím si koupit auto, třeba i staré. - I must buy a car, even an old one.
+Třeba je to pravda. - Perhaps that's true.
+Vezmi si třeba tento román. - Take this novel, if you wish.
+Musím dělat něco jiného. - I must do something else.
 
 MCG Ch. 16 (Misc.)
-v Čechách:in Bohemia:prep. pl.
+v Čechách - in Bohemia - prep. pl.
 MCG Ch. 16 (Vocab.)
-bůh:god:gen. boha
-Bulhar:Bulgarian (man)
-Čechy:Bohemia:fem. pl.
-Československo:Czechoslovakia
-dáma:lady
-dokonce:even
-dveře:door:fem. pl.
-hlavní:main, chief
-honem:at once, immediately
-Chorvát:Croatian (man)
-jednotlivý:individual, separate
-Jugoslavie:Yugoslavia:fem.
-ležák:loafer
-Morava:Moravia
-na Moravě:in Moravia
-Moravan:Moravian (man)
-národ:nation, people:inan., gen. národa
-Polák:Pole (man)
-Polsko:Poland
-pudr:powder
-republika:republic
-Rus:Russian (man)
-Rusko:Russia
-Slezan:Silesian (man)
-Slezsko:Silesia
-slib:promise
-Slovák:Slovak (man)
-Slovensko:Slovakia
-na Slovensku:in Slovakia
-slovo:word
-Srb:Serb (man)
-trpělivost:patience:fem.
-úděs:horror
-vrata:gate:neut. pl.
-však:but, however:encl.
-země:land, country, region:fem.
-žebrák:beggar
-železný:iron
-měniti:to change, alter (impf.):2nd
-změniti:to change, alter (perf.):2nd
-míniti:to think, mean:2nd, impf.
-otvírati:to open (impf.):1st
-otevříti:to open (perf.):3rd, otevřu, otevřel
-poučovati:to instruct, inform (impf.):3rd
-poučiti:to instruct, inform (perf.):2nd
-probíjeti:to beat through, pierce (impf.):2nd, -ejí
-probíti:to beat through, pierce (perf.):3rd, probiji
-zavírati:to close, shut (impf.):1st
-zavříti:to close, shut (perf.):3rd, zavřu, zavřel
+bůh - god - gen. boha
+Bulhar - Bulgarian (man)
+Čechy - Bohemia - fem. pl.
+Československo - Czechoslovakia
+dáma - lady
+dokonce - even
+dveře - door - fem. pl.
+hlavní - main, chief
+honem - at once, immediately
+Chorvát - Croatian (man)
+jednotlivý - individual, separate
+Jugoslavie - Yugoslavia - fem.
+ležák - loafer
+Morava - Moravia
+na Moravě - in Moravia
+Moravan - Moravian (man)
+národ - nation, people - inan., gen. národa
+Polák - Pole (man)
+Polsko - Poland
+pudr - powder
+republika - republic
+Rus - Russian (man)
+Rusko - Russia
+Slezan - Silesian (man)
+Slezsko - Silesia
+slib - promise
+Slovák - Slovak (man)
+Slovensko - Slovakia
+na Slovensku - in Slovakia
+slovo - word
+Srb - Serb (man)
+trpělivost - patience - fem.
+úděs - horror
+vrata - gate - neut. pl.
+však - but, however - encl.
+země - land, country, region - fem.
+žebrák - beggar
+železný - iron
+měniti - to change, alter (impf.) - 2nd
+změniti - to change, alter (perf.) - 2nd
+míniti - to think, mean - 2nd, impf.
+otvírati - to open (impf.) - 1st
+otevříti - to open (perf.) - 3rd, otevřu, otevřel
+poučovati - to instruct, inform (impf.) - 3rd
+poučiti - to instruct, inform (perf.) - 2nd
+probíjeti - to beat through, pierce (impf.) - 2nd, -ejí
+probíti - to beat through, pierce (perf.) - 3rd, probiji
+zavírati - to close, shut (impf.) - 1st
+zavříti - to close, shut (perf.) - 3rd, zavřu, zavřel
 MCG Ch. 16 (Misc.)
-autonomie:autonomy:fem.
-pudřenka:compact (for makeup)
-pudrovati:to powder (impf.)
+autonomie - autonomy - fem.
+pudřenka - compact (for makeup)
+pudrovati - to powder (impf.)
 MCG Ch. 16 (Gramm.)
 # ss 72
-lev:lion
-lvi:lions
-strýc:uncle
-strýci:uncles
-pes:dog
-psi:dogs
-student:student
-studenti:students
-doktor:doctor
-doktoři:doctors
-žák:pupil
-žáci:pupils
-#b16x:bůh:god
-bozi:gods
-hoch:boy
-hoši:boys
-syn:son
-synové/syni:sons
-muž:man
-mužové/muži:men
-pán:gentleman
-pánové/páni:gentlemen
-strýček:little uncle (Unkie)
-strýčkové/strýčci:little uncles (Unkies)
-Čech:Czech (man)
-Čechové/Češi:Czechs (men)
-Srb:Serb (man)
-Srbové/Srbi:Serbs (men)
-Rus:Russian (man)
-Rusové/Rusi:Russians (men)
-otec:father
-otcové/otci:fathers
-Angličan:Englishman
-Angličané/Angličani:Englishmen
-Američan:American (man)
-Američané/Američani:Americans (men)
-učitel:teacher
-učitelé:teachers
-přítel:friend
-přátelé:friends
-člověk:person
-lidé:people
-mladý hoch:young boy
-mladí hoši:young boys
-hodný bratr:worthy brother
-hodní bratři:worthy brothers
-dobrý žák:good pupil
-dobří žáci:good pupils
-velký zloděj:big thief
-velcí zloději:big thieves
-drahý otec:dear father
-drazí otcové:dear fathers
-hluchý člověk:deaf person
-hluší lidé:deaf people
-příští učitel:next teacher
-příští učitelé:next teachers
-její profesor:her professor
-její profesoři:her professors
-český král:Czech king
-čeští králové:Czech kings
-americký student:American student
-američtí studenti:American students
-ten:that (masc. nom.)
-ti:those (anim. nom.)
-tito:these (anim. nom.)
-tihle:these here (anim. nom.)
-moji:my (anim. nom. pl.)
-tvoji:your (anim. nom. pl.)
-naši:our (anim. nom. pl.)
-vaši:your all (anim. nom. pl.)
+lev - lion
+lvi - lions
+strýc - uncle
+strýci - uncles
+pes - dog
+psi - dogs
+student - student
+studenti - students
+doktor - doctor
+doktoři - doctors
+žák - pupil
+žáci - pupils
+#b16x - bůh - god
+bozi - gods
+hoch - boy
+hoši - boys
+syn - son
+synové/syni - sons
+muž - man
+mužové/muži - men
+pán - gentleman
+pánové/páni - gentlemen
+strýček - little uncle (Unkie)
+strýčkové/strýčci - little uncles (Unkies)
+Čech - Czech (man)
+Čechové/Češi - Czechs (men)
+Srb - Serb (man)
+Srbové/Srbi - Serbs (men)
+Rus - Russian (man)
+Rusové/Rusi - Russians (men)
+otec - father
+otcové/otci - fathers
+Angličan - Englishman
+Angličané/Angličani - Englishmen
+Američan - American (man)
+Američané/Američani - Americans (men)
+učitel - teacher
+učitelé - teachers
+přítel - friend
+přátelé - friends
+člověk - person
+lidé - people
+mladý hoch - young boy
+mladí hoši - young boys
+hodný bratr - worthy brother
+hodní bratři - worthy brothers
+dobrý žák - good pupil
+dobří žáci - good pupils
+velký zloděj - big thief
+velcí zloději - big thieves
+drahý otec - dear father
+drazí otcové - dear fathers
+hluchý člověk - deaf person
+hluší lidé - deaf people
+příští učitel - next teacher
+příští učitelé - next teachers
+její profesor - her professor
+její profesoři - her professors
+český král - Czech king
+čeští králové - Czech kings
+americký student - American student
+američtí studenti - American students
+ten - that (masc. nom.)
+ti - those (anim. nom.)
+tito - these (anim. nom.)
+tihle - these here (anim. nom.)
+moji - my (anim. nom. pl.)
+tvoji - your (anim. nom. pl.)
+naši - our (anim. nom. pl.)
+vaši - your all (anim. nom. pl.)
 # ss 73
-automobil:automobile
-automobily:automobiles
-dům:house
-domy:houses
-řeka:river
-řeky:rivers
-žena:woman
-ženy:women
-míč:ball
-míče:balls
-dešť:rain
-deště:rains (pl. noun)
-restaurace:restaurant/restaurants
-duše:soul/souls
-přítelkyně:girlfriend/girlfriends
-den:day
-dni/dny:days
-rok:year
-léto:summer
-léta:summers/years
-kost:bone
-kosti:bones
-věc:thing, affair, matter
-věci:things, affairs, matters
-řeč:speech
-řeči:speeches
-píseň:song
-písně:songs
-dobré domy:good houses
-drahé přítelkyně:dear girlfriends
-její sestry:her sisters
-ty:those (inam. or fem. nom. pl.)
-tyto:these (inam. or fem. nom. pl.)
-tyhle:these here (inam. or fem. nom. pl.)
-mé/moje:my (inam. or fem. nom. pl.)
-tvé/tvoje:your (inam. or fem. nom. pl.)
-naše:our (inam. or fem. nom. pl.)
-vaše:your all (inam. or fem. nom. pl.)
+automobil - automobile
+automobily - automobiles
+dům - house
+domy - houses
+řeka - river
+řeky - rivers
+žena - woman
+ženy - women
+míč - ball
+míče - balls
+dešť - rain
+deště - rains (pl. noun)
+restaurace - restaurant/restaurants
+duše - soul/souls
+přítelkyně - girlfriend/girlfriends
+den - day
+dni/dny - days
+rok - year
+léto - summer
+léta - summers/years
+kost - bone
+kosti - bones
+věc - thing, affair, matter
+věci - things, affairs, matters
+řeč - speech
+řeči - speeches
+píseň - song
+písně - songs
+dobré domy - good houses
+drahé přítelkyně - dear girlfriends
+její sestry - her sisters
+ty - those (inam. or fem. nom. pl.)
+tyto - these (inam. or fem. nom. pl.)
+tyhle - these here (inam. or fem. nom. pl.)
+mé/moje - my (inam. or fem. nom. pl.)
+tvé/tvoje - your (inam. or fem. nom. pl.)
+naše - our (inam. or fem. nom. pl.)
+vaše - your all (inam. or fem. nom. pl.)
 # ss 74
-město:city
-města:cities
-okno:window
-okna:windows
-vejce:egg/eggs
-hřiště:playground/playgrounds
-dítě:child:neut.
-děti:children:decl. as fem. like kosti
-dobrá pera:good pens
-velká města:big cities
-její okna:her windows
-ta:those (neut. nom. pl.)
-tato:these (neut. nom. pl.)
-tahle:these here (neut. nom. pl.)
-má/moje:my (neut. nom. pl.)
-tvá/tvoje:your (neut. nom. pl.)
-naše:our (neut. nom. pl.)
-vaše:your all (neut. nom. pl.)
+město - city
+města - cities
+okno - window
+okna - windows
+vejce - egg/eggs
+hřiště - playground/playgrounds
+dítě - child - neut.
+děti - children - decl. as fem. like kosti
+dobrá pera - good pens
+velká města - big cities
+její okna - her windows
+ta - those (neut. nom. pl.)
+tato - these (neut. nom. pl.)
+tahle - these here (neut. nom. pl.)
+má/moje - my (neut. nom. pl.)
+tvá/tvoje - your (neut. nom. pl.)
+naše - our (neut. nom. pl.)
+vaše - your all (neut. nom. pl.)
 # ss 75
-ti moji dobří páni (-ové):those good gentlemen of mine
-ti vaši mocní králové:those powerful kings of yours
-ty mé (moje) velké domy:those large houses of mine
-ty naše letní deště:those summer rains of ours
-ty mé (moje) dobré dcery:those good daughters of mine
-ty naše dobré přítelkyně:those good girlfriends of ours
-ty mé (moje) dlouhé řeči:those long speeches of mine
-ta má (moje) velká města:those large cities of mine
-ta naše úrodná pole:those fertile fields of ours
+ti moji dobří páni (-ové) - those good gentlemen of mine
+ti vaši mocní králové - those powerful kings of yours
+ty mé (moje) velké domy - those large houses of mine
+ty naše letní deště - those summer rains of ours
+ty mé (moje) dobré dcery - those good daughters of mine
+ty naše dobré přítelkyně - those good girlfriends of ours
+ty mé (moje) dlouhé řeči - those long speeches of mine
+ta má (moje) velká města - those large cities of mine
+ta naše úrodná pole - those fertile fields of ours
 # ss 76
-hodina:hour, lesson
-hodiny:hours/clock
-hodinky:watch
-lid:a people, folk
-lidé:people:anim. pl.
-novina:piece of news
-noviny:newspaper
-dveře:door:fem. pl.
-peníze:money:inan. pl.
-šaty:clothing, a dress:fem. pl.
-kamna:oven:neut. pl.
-vrata:gate:neut. pl.
-Čechy:Bohemia:fem. pl.
-Krkonoše:Giant Mountains:fem. pl.
-Strakonice:Strakonice (town in southern Bohemia):fem. pl.
-Tatry:Tatra Mountains:fem. pl.
+hodina - hour, lesson
+hodiny - hours/clock
+hodinky - watch
+lid - a people, folk
+lidé - people - anim. pl.
+novina - piece of news
+noviny - newspaper
+dveře - door - fem. pl.
+peníze - money - inan. pl.
+šaty - clothing, a dress - fem. pl.
+kamna - oven - neut. pl.
+vrata - gate - neut. pl.
+Čechy - Bohemia - fem. pl.
+Krkonoše - Giant Mountains - fem. pl.
+Strakonice - Strakonice (town in southern Bohemia) - fem. pl.
+Tatry - Tatra Mountains - fem. pl.
 MCG Ch. 16 (Misc.)
-Zavřete (otevřete) okno (dveře, vrata).:Close (open) the window (door, gate).
-Co tím míníte?:What do you mean by that?
-Paní a pánové!:Ladies and gentlemen!
+Zavřete (otevřete) okno (dveře, vrata). - Close (open) the window (door, gate).
+Co tím míníte? - What do you mean by that?
+Paní a pánové! - Ladies and gentlemen!
 
 MCG Ch. 17 (Misc.)
-roční období:seasons of the year:neut.
-podnebí:climate:neut.
-nebýt sněhu a zimních sportů:were it not for snow and winter sports
-nebýt:were it not for:+ čeho
-uličník:street boy, ruffian
+roční období - seasons of the year - neut.
+podnebí - climate - neut.
+nebýt sněhu a zimních sportů - were it not for snow and winter sports
+nebýt - were it not for - + čeho
+uličník - street boy, ruffian
 MCG Ch. 17 (Vocab.)
-anděl:angel:masc. hard, nom. pl. andělé
-člen:member
-dětinský:childlike, childish
-dort:cake
-hodně:very, considerably
-horký:hot
-je horko:the weather is hot
-chladný:cool
-je chladno:the weather is cool
-jaro:spring (the season)
-na jaře:in spring
-kostel:church:gen. kostela
-kredenc:buffet, serving table:masc. or fem. soft
-krutý:cruel, harsh
-kůň:horse:masc., gen. koně, nom. pl. koně
-léto:summer
-v létě:in summer
-měsíc:month/moon:masc.
-nebe:sky, heaven:neut., nom. pl. nebesa
-neboť:for (conj.)
-oblíbený:favorite
-panenka:maiden/doll
-podzim:autumn
-na podzim:in autumn
-prázdniny:holidays, vacation:fem. pl.
-přesný:exact, precise
-přesněji:more exactly
-rodiče:parents
-týden:week:gen. týdne, nom. pl. týdny
-úplně:completely
-víra:faith
-vlhký:damp, humid
-je vlhko:the weather is damp
-vojna:military service
-vraný:coal-black
-vzduch:air
-zajíc:hare:anim.
-zázrak:miracle
-díti se:to happen, occur:3rd, sing. děje se, plur. dějí se, dělo se, impf.
-honiti:to hunt, chase:2nd, impf.
-chytati:to seize, catch (impf.):1st
-chytiti:to seize, catch (perf.):2nd
-klečeti:to kneel (impf.):2nd (-í)
-kleknouti:to kneel (perf.):3rd
-páliti:to burn (impf.):2nd
-spáliti:to burn (perf.):2nd
-zapomínati:to forget (impf.):1st
-zapomenouti:to forget (perf.):3rd, zapomněl
-zapomínati (co):to leave (something) behind, at home (impf.):1st
-zapomenouti (co):to leave (something) behind, at home (perf.):3rd, zapomněl
-zapomínati (na co, koho):to forget about (impf.):1st
-zapomenouti (na co, koho):to forget about (perf.):3rd, zapomněl
+anděl - angel - masc. hard, nom. pl. andělé
+člen - member
+dětinský - childlike, childish
+dort - cake
+hodně - very, considerably
+horký - hot
+je horko - the weather is hot
+chladný - cool
+je chladno - the weather is cool
+jaro - spring (the season)
+na jaře - in spring
+kostel - church - gen. kostela
+kredenc - buffet, serving table - masc. or fem. soft
+krutý - cruel, harsh
+kůň - horse - masc., gen. koně, nom. pl. koně
+léto - summer
+v létě - in summer
+měsíc - month/moon - masc.
+nebe - sky, heaven - neut., nom. pl. nebesa
+neboť - for (conj.)
+oblíbený - favorite
+panenka - maiden/doll
+podzim - autumn
+na podzim - in autumn
+prázdniny - holidays, vacation - fem. pl.
+přesný - exact, precise
+přesněji - more exactly
+rodiče - parents
+týden - week - gen. týdne, nom. pl. týdny
+úplně - completely
+víra - faith
+vlhký - damp, humid
+je vlhko - the weather is damp
+vojna - military service
+vraný - coal-black
+vzduch - air
+zajíc - hare - anim.
+zázrak - miracle
+díti se - to happen, occur - 3rd, sing. děje se, plur. dějí se, dělo se, impf.
+honiti - to hunt, chase - 2nd, impf.
+chytati - to seize, catch (impf.) - 1st
+chytiti - to seize, catch (perf.) - 2nd
+klečeti - to kneel (impf.) - 2nd (-í)
+kleknouti - to kneel (perf.) - 3rd
+páliti - to burn (impf.) - 2nd
+spáliti - to burn (perf.) - 2nd
+zapomínati - to forget (impf.) - 1st
+zapomenouti - to forget (perf.) - 3rd, zapomněl
+zapomínati (co) - to leave (something) behind, at home (impf.) - 1st
+zapomenouti (co) - to leave (something) behind, at home (perf.) - 3rd, zapomněl
+zapomínati (na co, koho) - to forget about (impf.) - 1st
+zapomenouti (na co, koho) - to forget about (perf.) - 3rd, zapomněl
 # ss 77
 MCG Ch. 17 (Gramm.)
-doktor:doctor
-doktoři:doctors (nom.)
-doktory:doctors (acc.)
-pes:dog
-psi:dogs (nom.)
-psy:dogs (acc.)
-voják:soldier
-vojáci:soldiers (nom.)
-vojáky:soldiers (acc.)
-automobil:automobile
-automobily:automobiles (nom.)/automobiles (acc.)
-dům:house
-domy:houses (nom.)/houses (acc.)
-strýc:uncle
-strýci:uncles (nom.)
-strýce:uncles (acc.)
-otec:father
-otci:fathers (nom.)
-otce:fathers (acc.)
-kůň:horse
-koně:horses (nom.)/horses (acc.)
-přítel:friend
-přátelé:friends (nom.)
-přátele:friends (acc.)
-míč:ball
-míče:balls (nom.)/balls (acc.)
-lidé:people (nom.)
-lidi:people (acc.)
-den:day
-dni/dny:days (nom.)/days (acc.)
-žena:woman
-ženy:women (nom.)/women (acc.)
-dcera:daughter
-dcery:daughters (nom.)/daughters (acc.)
-kniha:book
-knihy:books (nom.)/books (acc.)
-restaurace:restaurant/restaurants (nom.)/restaurants (acc.)
-přítelkyně:girlfriend/girlfriends (nom.)/girlfriends (acc.)
-píseň:song
-písně:songs (nom.)/songs (acc.)
-kost:bone
-kosti:bones (nom.)/bones (acc.)
-řeč:speech
-řeči:speeches (nom.)/speeches (acc.)
-město:city
-města:cities (nom.)/cities (acc.)
-okno:window
-okna:windows (nom.)/windows (acc.)
-nebe:sky
-nebesa:skies (nom.)/skies (acc.)
-vejce:egg/eggs (nom.)/eggs (acc.)
-hřiště:playground/playgrounds (nom.)/playgrounds (acc.)
+doktor - doctor
+doktoři - doctors (nom.)
+doktory - doctors (acc.)
+pes - dog
+psi - dogs (nom.)
+psy - dogs (acc.)
+voják - soldier
+vojáci - soldiers (nom.)
+vojáky - soldiers (acc.)
+automobil - automobile
+automobily - automobiles (nom.)/automobiles (acc.)
+dům - house
+domy - houses (nom.)/houses (acc.)
+strýc - uncle
+strýci - uncles (nom.)
+strýce - uncles (acc.)
+otec - father
+otci - fathers (nom.)
+otce - fathers (acc.)
+kůň - horse
+koně - horses (nom.)/horses (acc.)
+přítel - friend
+přátelé - friends (nom.)
+přátele - friends (acc.)
+míč - ball
+míče - balls (nom.)/balls (acc.)
+lidé - people (nom.)
+lidi - people (acc.)
+den - day
+dni/dny - days (nom.)/days (acc.)
+žena - woman
+ženy - women (nom.)/women (acc.)
+dcera - daughter
+dcery - daughters (nom.)/daughters (acc.)
+kniha - book
+knihy - books (nom.)/books (acc.)
+restaurace - restaurant/restaurants (nom.)/restaurants (acc.)
+přítelkyně - girlfriend/girlfriends (nom.)/girlfriends (acc.)
+píseň - song
+písně - songs (nom.)/songs (acc.)
+kost - bone
+kosti - bones (nom.)/bones (acc.)
+řeč - speech
+řeči - speeches (nom.)/speeches (acc.)
+město - city
+města - cities (nom.)/cities (acc.)
+okno - window
+okna - windows (nom.)/windows (acc.)
+nebe - sky
+nebesa - skies (nom.)/skies (acc.)
+vejce - egg/eggs (nom.)/eggs (acc.)
+hřiště - playground/playgrounds (nom.)/playgrounds (acc.)
 # ss 78
-ty:those (masc. pl. acc.)
-ty:those (fem. pl. acc.)
-ta:those (neut. pl. acc.)
-mé/moje:my (masc. pl. acc.)
-mé/moje:my (fem. pl. acc.)
-má/moje:my (neut. pl. acc.)
-naše:our (masc. pl. acc)
-naše:our (fem. pl. acc)
-naše:our (neut. pl. acc)
-Znám ty dobré doktory.:I know those good doctors.
-Vidím vaše mladé dcery.:I see Your young daughters.
-Znám ty dobré domy.:I know those good houses.
-Znám tvoje velká pole.:I know your big fields.
-Neznám ty cizí lidi.:I do not know those foreign people.
+ty - those (masc. pl. acc.)
+ty - those (fem. pl. acc.)
+ta - those (neut. pl. acc.)
+mé/moje - my (masc. pl. acc.)
+mé/moje - my (fem. pl. acc.)
+má/moje - my (neut. pl. acc.)
+naše - our (masc. pl. acc)
+naše - our (fem. pl. acc)
+naše - our (neut. pl. acc)
+Znám ty dobré doktory. - I know those good doctors.
+Vidím vaše mladé dcery. - I see Your young daughters.
+Znám ty dobré domy. - I know those good houses.
+Znám tvoje velká pole. - I know your big fields.
+Neznám ty cizí lidi. - I do not know those foreign people.
 MCG Ch. 17 (Gramm.)/Deklinace číslovek
 # ss 79
-jeden:one (masc.)
-jedna:one (fem.)
-jedno:one (neut.)
-dva:two (masc.)
-dvě:two (fem.)/two (neut.)
-tři:three
-čtyři:four
-Je zde jen jeden hoch.:There is only one boy here.
-Ten člověk má jednoho syna a jednu dceru.:This man has one son and one daughter.
-Píši jedním perem.:I am writing with one pen.
-Dva muži (dvě ženy) na vás čekají.:Two men (women) are waiting to see you.
-Mám dva domy (dvě pole).:I have two houses (fields).
-Zde jsou tři knihy.:Here are three books.
-Mám čtyři pera.:I have four pens.
+jeden - one (masc.)
+jedna - one (fem.)
+jedno - one (neut.)
+dva - two (masc.)
+dvě - two (fem.)/two (neut.)
+tři - three
+čtyři - four
+Je zde jen jeden hoch. - There is only one boy here.
+Ten člověk má jednoho syna a jednu dceru. - This man has one son and one daughter.
+Píši jedním perem. - I am writing with one pen.
+Dva muži (dvě ženy) na vás čekají. - Two men (women) are waiting to see you.
+Mám dva domy (dvě pole). - I have two houses (fields).
+Zde jsou tři knihy. - Here are three books.
+Mám čtyři pera. - I have four pens.
 MCG Ch. 17 (Gramm.)
 # ss 80
-měl(a) bych:I would have
-měl(a) bys:you would have
-měl(a,o) by:he (she, it) would have
-měli(y) bychom:we would have
-měli(y) byste:y'all would have
-měl(a) byste:You would have
-měli(y,a) by:they would have
-Umyl bych se.:I should wash.
-V Praze byste žili?:Would y'all live in Prague?
-Kdybych měl čas, pracoval bych.:If I had time, I would work.
-Kdybys měl čas, pracoval bys.:If you had time, you would work.
-Kdyby měl čas, pracoval by.:If he had time, he would work.
-Kdybychom měli čas, pracovali bychom.:If we had time, we would work.
-Kdybyste měli čas, pracovali byste.:If y'all had time, you would work.
-Kdyby měli čas, pracovali by.:If they had time, they would work.
-Šel bych do kina, kdybych nemusel pracovat.:I would go to the movies, if I did not have to work.
-Kdybych byl bohat.:If only I were rich.
-Koupil bych si nové auto.:I would (like to) buy a new car.
-Jestliže si koupíme auto, navštívíme strýce./Koupíme-li si auto, navštívíme strýce.:If we buy a car, we shall visit uncle.
-Když se vám nelíbí ten člověk, proč ho navštěvujete?:If you do not like that man, why do you visit him?
-Kdyby byla měla čas, byla by vám jistě pomohla.:If she had had time, she surely would have helped you.
-Kdybych byl býval tehdy bohat, byl bych si koupil ten dům.:If I had been rich then, I should have bought that house.
-Jestliže zítra budu mít čas, budu pracovat.:If I (will) have time tomorrow, I will work.
-# b17x:Kdybych měl čas, pracoval bych.:If I had time, I would work.
-Kdybych byl měl včera čas, byl bych pracoval.:If I had had time yesterday, I would have worked.
+měl(a) bych - I would have
+měl(a) bys - you would have
+měl(a,o) by - he (she, it) would have
+měli(y) bychom - we would have
+měli(y) byste - y'all would have
+měl(a) byste - You would have
+měli(y,a) by - they would have
+Umyl bych se. - I should wash.
+V Praze byste žili? - Would y'all live in Prague?
+Kdybych měl čas, pracoval bych. - If I had time, I would work.
+Kdybys měl čas, pracoval bys. - If you had time, you would work.
+Kdyby měl čas, pracoval by. - If he had time, he would work.
+Kdybychom měli čas, pracovali bychom. - If we had time, we would work.
+Kdybyste měli čas, pracovali byste. - If y'all had time, you would work.
+Kdyby měli čas, pracovali by. - If they had time, they would work.
+Šel bych do kina, kdybych nemusel pracovat. - I would go to the movies, if I did not have to work.
+Kdybych byl bohat. - If only I were rich.
+Koupil bych si nové auto. - I would (like to) buy a new car.
+Jestliže si koupíme auto, navštívíme strýce./Koupíme-li si auto, navštívíme strýce. - If we buy a car, we shall visit uncle.
+Když se vám nelíbí ten člověk, proč ho navštěvujete? - If you do not like that man, why do you visit him?
+Kdyby byla měla čas, byla by vám jistě pomohla. - If she had had time, she surely would have helped you.
+Kdybych byl býval tehdy bohat, byl bych si koupil ten dům. - If I had been rich then, I should have bought that house.
+Jestliže zítra budu mít čas, budu pracovat. - If I (will) have time tomorrow, I will work.
+# b17x - Kdybych měl čas, pracoval bych. - If I had time, I would work.
+Kdybych byl měl včera čas, byl bych pracoval. - If I had had time yesterday, I would have worked.
 MCG Ch. 17 (Misc.)
-Kdo mi to vzal?:Who took that from me?
-Jaké je dnes počasí?:What is the weather today?
-Je hezky.:It is fine out.
-Je teplo.:It is warm.
-Je horko.:It is hot.
-Je zima.:It is cold.
-Je chladno.:It is cool.
-Je vlhko.:It is humid.
+Kdo mi to vzal? - Who took that from me?
+Jaké je dnes počasí? - What is the weather today?
+Je hezky. - It is fine out.
+Je teplo. - It is warm.
+Je horko. - It is hot.
+Je zima. - It is cold.
+Je chladno. - It is cool.
+Je vlhko. - It is humid.
 
 MCG Ch. 18 (Misc.)
-dříví:wood (lumber, firewood, ...)
-v ústech:in my mouth:prep. pl.
-pročpak:why?
-šavlička:small sabre
-to samé:the same thing, this very thing
+dříví - wood (lumber, firewood, ...)
+v ústech - in my mouth - prep. pl.
+pročpak - why?
+šavlička - small sabre
+to samé - the same thing, this very thing
 MCG Ch. 18 (Vocab.)
-bok:side (of a person)
-po boku:at one's side
-cizí:strange, foreign
-člen:member
-kousek:a small piece:gen. kousku
-hrnec:pot:gen. hrnce
-hodný:good, worthy
-holka:girl
-hřích:sin
-chalupa:cottage, hut
-jahoda:berry
-kaše:porridge:fem.
-odněkud:from somewhere
-plný:full:+ čeho
-prodej:sale:masc.
-na prodej:for sale
-slepice:hen:fem.
-spolu:together
-tolik..kolik:as much..as:+ čeho
-tu, tuhle:here, now
-tuze:too, very
-tvrdý:hard, stiff
-vdova:widow
-ves:village:fem. soft, gen. vsi
-vesnice:village:fem.
-zlatý:gold, golden
-doprovázeti:to accompany (impf.):2nd (-ejí)
-doprovoditi:to accompany (perf.):2nd
-držeti:to hold:2nd (-í), impf.
-choditi:to go, walk (habitually):2nd, impf.
-nositi:to carry, wear (habitually):2nd, impf.
-postaviti:to stand (something), put, place:2nd, perf.
-povídati:to tell, relate, say (impf.):1st
-pověděti:to tell, relate, say (perf.):like věděti (povím, pověděl)
-přestávati:to stop, cease (impf.):1st, + dělat
-přestati:to stop, cease (perf.):3rd, přestanu, + dělat
-sbírati:to collect, gather (impf.):1st
-sebrati:to collect, gather (perf.):3rd, seberu
-vařiti:to boil, cook (impf.):2nd
-uvařiti:to boil, cook (perf.):2nd
-vypadati:to look like, appear:1st, impf.
-zbývati:to be left, remain (impf.):1st
-zbýti:to be left, remain (perf.):3rd, zbudu
-žádati:to ask, demand (impf.):1st, + koho o co
-požádati:to ask, demand (perf.):1st, + koho o co
-živiti:to feed, support:2nd, impf.
-živiti se:to earn one's living:2nd, impf.
+bok - side (of a person)
+po boku - at one's side
+cizí - strange, foreign
+člen - member
+kousek - a small piece - gen. kousku
+hrnec - pot - gen. hrnce
+hodný - good, worthy
+holka - girl
+hřích - sin
+chalupa - cottage, hut
+jahoda - berry
+kaše - porridge - fem.
+odněkud - from somewhere
+plný - full - + čeho
+prodej - sale - masc.
+na prodej - for sale
+slepice - hen - fem.
+spolu - together
+tolik..kolik - as much..as - + čeho
+tu, tuhle - here, now
+tuze - too, very
+tvrdý - hard, stiff
+vdova - widow
+ves - village - fem. soft, gen. vsi
+vesnice - village - fem.
+zlatý - gold, golden
+doprovázeti - to accompany (impf.) - 2nd (-ejí)
+doprovoditi - to accompany (perf.) - 2nd
+držeti - to hold - 2nd (-í), impf.
+choditi - to go, walk (habitually) - 2nd, impf.
+nositi - to carry, wear (habitually) - 2nd, impf.
+postaviti - to stand (something), put, place - 2nd, perf.
+povídati - to tell, relate, say (impf.) - 1st
+pověděti - to tell, relate, say (perf.) - like věděti (povím, pověděl)
+přestávati - to stop, cease (impf.) - 1st, + dělat
+přestati - to stop, cease (perf.) - 3rd, přestanu, + dělat
+sbírati - to collect, gather (impf.) - 1st
+sebrati - to collect, gather (perf.) - 3rd, seberu
+vařiti - to boil, cook (impf.) - 2nd
+uvařiti - to boil, cook (perf.) - 2nd
+vypadati - to look like, appear - 1st, impf.
+zbývati - to be left, remain (impf.) - 1st
+zbýti - to be left, remain (perf.) - 3rd, zbudu
+žádati - to ask, demand (impf.) - 1st, + koho o co
+požádati - to ask, demand (perf.) - 1st, + koho o co
+živiti - to feed, support - 2nd, impf.
+živiti se - to earn one's living - 2nd, impf.
 MCG Ch. 18 (Misc.)
-hrneček:small pot:gen. hrnečku
-navařiti:to cook a large quantity (of something):2nd, perf., + čeho
-roznemoci se:to fall ill:like moci (roznemohu, roznemůžeš, roznemohl), perf.
-včerejšek:yesterday (as a noun):gen. včerejška
-žebračka:beggar woman
+hrneček - small pot - gen. hrnečku
+navařiti - to cook a large quantity (of something) - 2nd, perf., + čeho
+roznemoci se - to fall ill - like moci (roznemohu, roznemůžeš, roznemohl), perf.
+včerejšek - yesterday (as a noun) - gen. včerejška
+žebračka - beggar woman
 MCG Ch. 18 (Gramm.)/MCG -- Genitive
 # ss 81
-doktor:doctor (nom.)
-doktoři:doctors (nom.)
-doktorů:doctors (gen.)
-pes:dog (nom.)
-psi:dogs (nom.)
-psů:dogs (gen.)
-den:day (nom.)
-dni/dny:days (nom.)
-dnů/dní:days (gen.)
-týden:week (nom.)
-týdny:weeks (nom.)
-týdnů:weeks (gen.)
-kostel:church (nom.)
-kostely:churches (nom.)
-kostelů:churches (gen.)
-strýc:uncle (nom.)
-strýci:uncles (nom.)
-strýců:uncles (gen.)
-míč:ball (nom.)
-míče:balls (nom.)
-míčů:balls (gen.)
-lidé:people (nom.)
-lidí:people (gen.)
-přítel:friend (nom.)
-přátel:friends (gen.)
-peníze:money (nom.):pl.
-peněz:money (gen.):pl.
-rok:year (nom.)
-roků:years (gen.) (general uses)
-léto:summer (nom.)
-let:summers, years (gen.):"years" with quantity exprs.
-pět let:five years
-mnoho let:many years
-žena:woman (nom.)
-ženy:women (nom.)
-žen:women (gen.)
-dcera:daughter (nom.)
-dcery:daughters (nom.)
-dcer:daughters (gen.)
-kniha:book (nom.)
-knihy:books (nom.)
-knih:books (gen.)
-babička:grandmother (nom.)
-babičky:grandmothers (nom.)
-babiček:grandmothers (gen.)
-matka:mother (nom.)
-matky:mothers (nom.)
-matek:mothers (gen.)
-restaurace:restaurant (nom.)/restaurants (nom.)
-restaurací:restaurants (gen.)
-kost:bone (nom.)
-kosti:bones (nom.)
-kostí:bones (gen.)
-řeč:speech (nom.)
-řeči:speeches (nom.)
-řečí:speeches (gen.)
-píseň:song (nom.)
-písně:songs (nom.)
-písní:songs (gen.)
-bohyně:goddess (nom.)/goddesses (nom.)
-bohyň:goddesses (gen.)
-přítelkyně:girlfriend (nom.)/girlfriends (nom.)
-přítelkyň:girlfriends (gen.)
-čepice:cap (nom.)/caps (nom.)
-čepic:caps (gen.)
-ulice:street (nom.)/streets (nom.)
-ulic:streets (gen.)
-pero:pen (nom.)
-pera:pens (nom.)
-per:pens (gen.)
-okno:window (nom.)
-okna:windows (nom.)
-oken:windows (gen.)
-město:city (nom.)
-města:cities (nom.)
-měst:cities (gen.)
-pole:field (nom.)/fields (nom.)
-polí:fields (gen.)
-slunce:sun (nom.)/suns (nom.)
-sluncí:suns (gen.)
-hřiště:playground (nom.)
-hřišť:playgrounds (gen.)
-vejce:egg (nom.)
-vajec:eggs (gen.)
+doktor - doctor (nom.)
+doktoři - doctors (nom.)
+doktorů - doctors (gen.)
+pes - dog (nom.)
+psi - dogs (nom.)
+psů - dogs (gen.)
+den - day (nom.)
+dni/dny - days (nom.)
+dnů/dní - days (gen.)
+týden - week (nom.)
+týdny - weeks (nom.)
+týdnů - weeks (gen.)
+kostel - church (nom.)
+kostely - churches (nom.)
+kostelů - churches (gen.)
+strýc - uncle (nom.)
+strýci - uncles (nom.)
+strýců - uncles (gen.)
+míč - ball (nom.)
+míče - balls (nom.)
+míčů - balls (gen.)
+lidé - people (nom.)
+lidí - people (gen.)
+přítel - friend (nom.)
+přátel - friends (gen.)
+peníze - money (nom.) - pl.
+peněz - money (gen.) - pl.
+rok - year (nom.)
+roků - years (gen.) (general uses)
+léto - summer (nom.)
+let - summers, years (gen.) - "years" with quantity exprs.
+pět let - five years
+mnoho let - many years
+žena - woman (nom.)
+ženy - women (nom.)
+žen - women (gen.)
+dcera - daughter (nom.)
+dcery - daughters (nom.)
+dcer - daughters (gen.)
+kniha - book (nom.)
+knihy - books (nom.)
+knih - books (gen.)
+babička - grandmother (nom.)
+babičky - grandmothers (nom.)
+babiček - grandmothers (gen.)
+matka - mother (nom.)
+matky - mothers (nom.)
+matek - mothers (gen.)
+restaurace - restaurant (nom.)/restaurants (nom.)
+restaurací - restaurants (gen.)
+kost - bone (nom.)
+kosti - bones (nom.)
+kostí - bones (gen.)
+řeč - speech (nom.)
+řeči - speeches (nom.)
+řečí - speeches (gen.)
+píseň - song (nom.)
+písně - songs (nom.)
+písní - songs (gen.)
+bohyně - goddess (nom.)/goddesses (nom.)
+bohyň - goddesses (gen.)
+přítelkyně - girlfriend (nom.)/girlfriends (nom.)
+přítelkyň - girlfriends (gen.)
+čepice - cap (nom.)/caps (nom.)
+čepic - caps (gen.)
+ulice - street (nom.)/streets (nom.)
+ulic - streets (gen.)
+pero - pen (nom.)
+pera - pens (nom.)
+per - pens (gen.)
+okno - window (nom.)
+okna - windows (nom.)
+oken - windows (gen.)
+město - city (nom.)
+města - cities (nom.)
+měst - cities (gen.)
+pole - field (nom.)/fields (nom.)
+polí - fields (gen.)
+slunce - sun (nom.)/suns (nom.)
+sluncí - suns (gen.)
+hřiště - playground (nom.)
+hřišť - playgrounds (gen.)
+vejce - egg (nom.)
+vajec - eggs (gen.)
 # ss 82
-dobrých:good (pl. gen.):all genders
-příštích:next (pl. gen.):all genders
-těch:those (gen.):all genders
-mých:my (pl. gen.):all genders
-našich:our (pl. gen.):all genders
-mnoho dobrých mužů:many good men
-mnoho dobrých žen:many good women
-mnoho cizích lidí:many strange people
-Lidé šli z těch domů.:The people went out of those houses.
-Žáci jdou z našich škol.:The pupils go out of our schools.
+dobrých - good (pl. gen.) - all genders
+příštích - next (pl. gen.) - all genders
+těch - those (gen.) - all genders
+mých - my (pl. gen.) - all genders
+našich - our (pl. gen.) - all genders
+mnoho dobrých mužů - many good men
+mnoho dobrých žen - many good women
+mnoho cizích lidí - many strange people
+Lidé šli z těch domů. - The people went out of those houses.
+Žáci jdou z našich škol. - The pupils go out of our schools.
 # ss 83
 MCG Ch. 18 (Gramm.)/Deklinace číslovek
-pět:five
-šest:six
-sedm:seven
-osm:eight
-devět:nine
-deset:ten
-Pět mladých studentů bydlí u nás.:Five young students live at our place.
-Vidím osm velkých domů.:I see eight large houses.
-Máte deset tužek?:Do you have ten pencils?
-Šest nových knih leželo na stole.:Six new books were lying on the table.
-málo peněz:little money
-mnoho peněz:much money
-několik knih:several books
-kolik knih?:how many books?
-tolik knih:so many books
+pět - five
+šest - six
+sedm - seven
+osm - eight
+devět - nine
+deset - ten
+Pět mladých studentů bydlí u nás. - Five young students live at our place.
+Vidím osm velkých domů. - I see eight large houses.
+Máte deset tužek? - Do you have ten pencils?
+Šest nových knih leželo na stole. - Six new books were lying on the table.
+málo peněz - little money
+mnoho peněz - much money
+několik knih - several books
+kolik knih? - how many books?
+tolik knih - so many books
 MCG Ch. 18 (Gramm.)
 # ss 84
-Kéž bychom byli mladí!:If we were only young!
-Měl bys pracovat!:You ought to be working (but aren't)!
-Jak by mohl nepřijít!:How could he not come!
-Mohl byste mi říci, kdy budete doma?:Could you tell me when you will be at home?
-Pracuji, abych byl bohat.:I work so that I may be rich.
-Pracuješ, abys byl bohat.:You work so that you may be rich.
-Pracuje, aby byl bohat.:He works so that he may be rich.
-Pracujeme, abychom byli bohati.:We work so that we may be rich.
-Pracujete, abyste byl(i) bohat(i).:You (y'all) work so that you may be rich.
-Pracují, aby byli bohati.:They work so that they may be rich.
-Koupím chléb, abychom měli co jíst.:I will buy bread so that we may have something to eat.
-Chci, abys mi pomohl.:I want you to help me.
-Chci ti pomoci.:I want to help you.
-Řekl jsem mu, aby ke mně přišel.:I told him to come to see me.
-Matka dovolila Františkovi, aby si hrál na dvoře.:Mother allowed František to play in the yard.
-Přeji si, abychom byli šťastni.:I wish that we may be happy.
-Myslím, že vás neznám.:I think I don't know you.
-Věří, že bude šťasten.:He believes that he will be happy.
-Doufám, že brzo koupím nový dům.:I hope that I will buy a new house soon.
-Jsem rád, že jste přijel.:I'm glad that you have come.
+Kéž bychom byli mladí! - If we were only young!
+Měl bys pracovat! - You ought to be working (but aren't)!
+Jak by mohl nepřijít! - How could he not come!
+Mohl byste mi říci, kdy budete doma? - Could you tell me when you will be at home?
+Pracuji, abych byl bohat. - I work so that I may be rich.
+Pracuješ, abys byl bohat. - You work so that you may be rich.
+Pracuje, aby byl bohat. - He works so that he may be rich.
+Pracujeme, abychom byli bohati. - We work so that we may be rich.
+Pracujete, abyste byl(i) bohat(i). - You (y'all) work so that you may be rich.
+Pracují, aby byli bohati. - They work so that they may be rich.
+Koupím chléb, abychom měli co jíst. - I will buy bread so that we may have something to eat.
+Chci, abys mi pomohl. - I want you to help me.
+Chci ti pomoci. - I want to help you.
+Řekl jsem mu, aby ke mně přišel. - I told him to come to see me.
+Matka dovolila Františkovi, aby si hrál na dvoře. - Mother allowed František to play in the yard.
+Přeji si, abychom byli šťastni. - I wish that we may be happy.
+Myslím, že vás neznám. - I think I don't know you.
+Věří, že bude šťasten. - He believes that he will be happy.
+Doufám, že brzo koupím nový dům. - I hope that I will buy a new house soon.
+Jsem rád, že jste přijel. - I'm glad that you have come.
 # ss 85
-nalíti (na co):to pour (onto something):perf.
-psáti:to write (impf.)
-napsati:to write (perf.)
-napracovati se:to work hard:perf.
-nanositi dříví:to carry a great deal of wood:perf.
-navařiti si kaše:to cook a great deal of porridge:perf., note kaše (gen.)
-najísti se:to eat, eat one's fill:perf. (+ čeho)
-natrhnouti:to tear partly off:perf.
-nakrojiti chléb:to cut into the bread (for the first time):perf.
-sejíti:to go down, descend:perf.
-seskočiti:to jump down:perf.
-sejíti se:to meet, come together:perf.
-spojiti:to join:perf.
+nalíti (na co) - to pour (onto something) - perf.
+psáti - to write (impf.)
+napsati - to write (perf.)
+napracovati se - to work hard - perf.
+nanositi dříví - to carry a great deal of wood - perf.
+navařiti si kaše - to cook a great deal of porridge - perf., note kaše (gen.)
+najísti se - to eat, eat one's fill - perf. (+ čeho)
+natrhnouti - to tear partly off - perf.
+nakrojiti chléb - to cut into the bread (for the first time) - perf.
+sejíti - to go down, descend - perf.
+seskočiti - to jump down - perf.
+sejíti se - to meet, come together - perf.
+spojiti - to join - perf.
 MCG Ch. 18 (Misc.)
-Jsou ti čtyři roky.:You are four years old.
-Je ti pět let.:You are five years old.
-#b18x:Chci, abys mi pomohl.:I want you to help me.
-Učitel řekl žákovi, aby četl tu knihu.:The teacher told the pupil to read that book.
-Měl bych teď pracovat.:I should be working now.
+Jsou ti čtyři roky. - You are four years old.
+Je ti pět let. - You are five years old.
+#b18x - Chci, abys mi pomohl. - I want you to help me.
+Učitel řekl žákovi, aby četl tu knihu. - The teacher told the pupil to read that book.
+Měl bych teď pracovat. - I should be working now.

@@ -16,20 +16,21 @@
 
 ; (makunbound 'quiz-font-lock-keywords)
 (defconst quiz-font-lock-keywords
+  ;; Still a few things that should match that don't - e.g. "foo- -bar", "t-shirt", "pre- and post-" - but oh well.
+  (let ((segment "\\(\\([^#\n-]\\|-[^\n ]\\)\\([^\n-]\\|[^\n ]-[^\n ]\\| -[^\n ]\\|[^\n ]- \\)*\\([^\n ]-\\)?\\)")) ; 4 parens
   `(
-    ("^\\([^#:\n][^:\n]*\\)\\(:\\)\\([^:\n]+\\)\\(\\(:\\)\\([^:\n]+\\)\\)?$"
+    (,(concat "^" segment "\\( - \\)" segment "\\(\\( - \\)" segment "\\)?$")
      (1 font-lock-function-name-face)
-     (2 font-lock-comment-face)
-     (3 'default)
-     (5 font-lock-comment-face nil t)
-     (6 font-lock-type-face nil t)
+     (5 font-lock-comment-face)
+     (6 'default)
+     (11 font-lock-comment-face nil t)
+     (12 font-lock-type-face nil t)
      )
-    ("^\\([^#:\n \t][^#:\n]*\\)\n" (0 ,(if (boundp 'font-lock-builtin-face) 'font-lock-builtin-face 'font-lock-reference-face)))
-    ("/" (0 ,(if (boundp 'font-lock-warning-face) 'font-lock-warning-face 'quiz-bogus-face) t))
-    ("|" (0 font-lock-string-face t))
+    (,(concat "^" segment "\n") (0 ,(if (boundp 'font-lock-builtin-face) 'font-lock-builtin-face 'font-lock-reference-face)))
+    (" / " (0 ,(if (boundp 'font-lock-warning-face) 'font-lock-warning-face 'quiz-bogus-face) t))
     ("^#.*$" (0 font-lock-comment-face t))
     ("^[^#\n].*\n" (0 quiz-bogus-face nil))
-    ))
+    )))
 
 ;; Cribbed from make-mode.el:
 (defface quiz-bogus-face

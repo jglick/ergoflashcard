@@ -1,1087 +1,1087 @@
 # -*- Czech-Quiz -*-
 
 MCG Ch. 7 (Misc.)
-protože už dlouho čekáme:because we have been waiting for a long time
-žiji v Praze už dlouho:I have been living in Prague for a long time
-že ano:isn't it so?
-sám:alone
+protože už dlouho čekáme - because we have been waiting for a long time
+žiji v Praze už dlouho - I have been living in Prague for a long time
+že ano - isn't it so?
+sám - alone
 MCG Ch. 7 (Vocab.)
-Amerika:America
-brzo/brzy:soon
-celý:whole, entire
-den:day
-dávno:long ago
-dlouho:long, a long time
-elektrika:tram
-hrad:castle, fortress
-chrám:cathedral
-jednou:once
-každý:each, every (one)
-krásný:beautiful, handsome
-letos:this year
-loni:last year
-městský:city (adj.)
-možný:possible
-na:onto, to, for:+ acc.
-na:on, at:+ pr.
-o:about, concerning:+ pr.
-pěkný:fine, pretty
-po:after, around, through:+ pr.
-pohled:view, sight
-po prvé:for the first time
-pošta:mail, post office
-pražský:Prague (adj.)
-procházka:walk, stroll (noun)
-příjezd:arrival
-rok:year
-řeka:river
-s (se):down from, off, from the top of:+ gen.
-strach:fear, terror
-svatý:holy, saintly
-universita:university
-úřad:office, agency
-v (ve):in, within:+ pr.
-kupovati:to buy:3rd
+Amerika - America
+brzo/brzy - soon
+celý - whole, entire
+den - day
+dávno - long ago
+dlouho - long, a long time
+elektrika - tram
+hrad - castle, fortress
+chrám - cathedral
+jednou - once
+každý - each, every (one)
+krásný - beautiful, handsome
+letos - this year
+loni - last year
+městský - city (adj.)
+možný - possible
+na - onto, to, for - + acc.
+na - on, at - + pr.
+o - about, concerning - + pr.
+pěkný - fine, pretty
+po - after, around, through - + pr.
+pohled - view, sight
+po prvé - for the first time
+pošta - mail, post office
+pražský - Prague (adj.)
+procházka - walk, stroll (noun)
+příjezd - arrival
+rok - year
+řeka - river
+s (se) - down from, off, from the top of - + gen.
+strach - fear, terror
+svatý - holy, saintly
+universita - university
+úřad - office, agency
+v (ve) - in, within - + pr.
+kupovati - to buy - 3rd
 MCG Ch. 7 (Gramm.)
-kupuje:buys
+kupuje - buys
 MCG Ch. 7 (Vocab.)
-cestovati:to travel:3rd
+cestovati - to travel - 3rd
 MCG Ch. 7 (Gramm.)
-cestuje:travels
+cestuje - travels
 MCG Ch. 7 (Vocab.)
-milovati:to love:3rd
+milovati - to love - 3rd
 MCG Ch. 7 (Gramm.)
-miluje:loves
+miluje - loves
 MCG Ch. 7 (Vocab.)
-navštěvovati:to visit:3rd
+navštěvovati - to visit - 3rd
 MCG Ch. 7 (Gramm.)
-navštěvuje:visits
+navštěvuje - visits
 MCG Ch. 7 (Vocab.)
-pospíchati:to hurry, hasten:1st
-pracovati:to work:3rd
+pospíchati - to hurry, hasten - 1st
+pracovati - to work - 3rd
 MCG Ch. 7 (Gramm.)
-pracuje:works
+pracuje - works
 MCG Ch. 7 (Vocab.)
-studovati:to study:3rd
+studovati - to study - 3rd
 MCG Ch. 7 (Gramm.)
-studuje:studies
+studuje - studies
 MCG Ch. 7 (Vocab.)
-věděti:to know (a fact):irreg.
-žíti:to live:3rd, žiji
+věděti - to know (a fact) - irreg.
+žíti - to live - 3rd, žiji
 MCG Ch. 7 (Gramm.)
-mluvím o panu profesoru Novákovi:I am speaking about Professor Novák
+mluvím o panu profesoru Novákovi - I am speaking about Professor Novák
 MCG Ch. 7 (Gramm.)/MCG -- Locative
-v potoku:in the brook
-v potoce:in the brook:unus.
-v domě:in the house
-v chlebě:in the bread
-na stole:on the table
-o psovi:about the dog
-o psu:about the dog:unus.
-o tatínkovi:about Father
-o tatínku:about Father:unus.
-ve škole:at the school
-o huse:about the goose
-o krávě:about the cow
-o koze:about the goat
-v Praze:in Prague
-o kočce:about the cat
-na hře:at the play
-v mléku:in the milk
-v mléce:in the milk:unus.
-v peru:in the pen
-v městě:in the city
-v jídle:in the food
-v okně:in the window
-o velkém psu:about the big dog
-ve velké škole:in the big school
-ve velkém městě:in the big city
-jdu do školy:I am going to school
-jsem ve škole:I am at (in) school
-na stole:on the table
-ve stole:inside the table
-na knize:on top of the book
-dávám knihu na stůl:I put the book on the table
-kniha spadla se stolu:the book fell off the table
-jdu na hodinu:I am going to the lesson
-jsem na hodině:I am at the lesson
-jdu na návštěvu:I am going on a visit
-jdu na procházku:I am going for a walk
-jdu na poštu:I am going to the post office
-jsem na poště:I am at the post office
-jdu na úřad:I am going to an office (on business)
-jdu do úřadu:I am going to the office (where I work)
-na universitu:to the university
-na universitě:at the university
-myslím na sestru:I am thinking about my sister
-čekáme na profesora:we are waiting for the professor
-po hodině:after the lesson
-po hře:after the play
-cestoval po Americe:he travelled around America
-mluvíme o bratrovi:we are talking about Brother
+v potoku - in the brook
+v potoce - in the brook - unus.
+v domě - in the house
+v chlebě - in the bread
+na stole - on the table
+o psovi - about the dog
+o psu - about the dog - unus.
+o tatínkovi - about Father
+o tatínku - about Father - unus.
+ve škole - at the school
+o huse - about the goose
+o krávě - about the cow
+o koze - about the goat
+v Praze - in Prague
+o kočce - about the cat
+na hře - at the play
+v mléku - in the milk
+v mléce - in the milk - unus.
+v peru - in the pen
+v městě - in the city
+v jídle - in the food
+v okně - in the window
+o velkém psu - about the big dog
+ve velké škole - in the big school
+ve velkém městě - in the big city
+jdu do školy - I am going to school
+jsem ve škole - I am at (in) school
+na stole - on the table
+ve stole - inside the table
+na knize - on top of the book
+dávám knihu na stůl - I put the book on the table
+kniha spadla se stolu - the book fell off the table
+jdu na hodinu - I am going to the lesson
+jsem na hodině - I am at the lesson
+jdu na návštěvu - I am going on a visit
+jdu na procházku - I am going for a walk
+jdu na poštu - I am going to the post office
+jsem na poště - I am at the post office
+jdu na úřad - I am going to an office (on business)
+jdu do úřadu - I am going to the office (where I work)
+na universitu - to the university
+na universitě - at the university
+myslím na sestru - I am thinking about my sister
+čekáme na profesora - we are waiting for the professor
+po hodině - after the lesson
+po hře - after the play
+cestoval po Americe - he travelled around America
+mluvíme o bratrovi - we are talking about Brother
 MCG Ch. 7 (Gramm.)
-dával jsem:I (masc.) gave, was giving
-dávala jsem:I (fem.) gave
-dávali jsme:we (masc.) gave
-dávaly jsme:we (fem.) gave
-dával jsi:you (masc.) gave
-dávala jsi:you (fem.) gave
-dával:(he) gave
-dávala:(she) gave
-jel jsem:I (masc.) rode
-jela jsem:I (fem.) rode
-jel jsi:you (masc.) rode
-jela jsi:you (fem.) rode
-jel:(he) rode
-jela:(she) rode
-jelo:(it) rode
-jeli jsme:we (masc.) rode
-jely jsme:we (fem.) rode
-jel jste:you (Sir) rode
-jela jste:you (Ma'am) rode
-jeli jste:y'all (masc.) rode
-jely jste:y'all (fem.) rode
-jeli:(they masc.) rode
-jely:(they masc. inam.) rode
-jely:(they fem.) rode
-jela:(they neut.) rode
-viděl jsi babičku?:did you see Grandmother?
-byli jsme dnes v Praze:we were in Prague today
-bylo pero na stole?:was the pen on the table?
-v Praze jste už byl?:have you been in _Prague_?
-byl jste už v Praze?:have you been in Prague?
-a do Ameriky jsme jeli:and we went to _America_
-a jeli jsme do Ameriky:and we went to America
-byl:(he) was
-znal:(he) knew (was acquainted with)
-spal:(he) slept
-nesl:(he) carried
-nes':(he) carried (colloq.)
-mohl:(he) could
-moh':(he) could (colloq.)
-četl:(he) read
-čet':(he) read (colloq.)
-pekl:(he) baked
-pek':(he) baked (colloq.)
-jedl:(he) ate
-jed':(he) ate (colloq.)
-měl:(he) had
-mělo:(it) had
-šel:(he) went
-šla:(she) went
-šlo:(it) went
-šli:(they masc.) went
-šly:(they masc. inam.) went
-šly:(they fem.) went
-šla:(they neut.) went
-nejedl jste?:haven't you eaten?
-pracuji:I work:liter.
-pracuju:I work:colloq.
-pracuješ:you work
-pracuje:works
-pracujeme:we work
-pracujete:y'all work
-pracují:they work
-pracoval jsem:I worked
-vím:I know (a fact)
-víš:you know (a fact)
-ví:knows (a fact)
-víme:we know (a fact)
-víte:y'all know (a fact)
-vědí:they know (a fact)
-vím, že bratr není doma:I know that Brother is not at home
-znám pana Čapka:I know Mr. Čapek
-znám toto město:I know this city
-znám fysiku:I know physics
-čekám na sestru:I am waiting for Sister
-myslím na babičku:I am thinking about Grandmother
-mám strach:I am afraid
-to je možné:that is possible
-je možné, že...:it is possible that...
-jíti na procházku:to go for a walk
-jíti na poštu:to go to the post office
-jíti na úřad:to go to an office
-jíti na universitu:to go to the university
+dával jsem - I (masc.) gave, was giving
+dávala jsem - I (fem.) gave
+dávali jsme - we (masc.) gave
+dávaly jsme - we (fem.) gave
+dával jsi - you (masc.) gave
+dávala jsi - you (fem.) gave
+dával - (he) gave
+dávala - (she) gave
+jel jsem - I (masc.) rode
+jela jsem - I (fem.) rode
+jel jsi - you (masc.) rode
+jela jsi - you (fem.) rode
+jel - (he) rode
+jela - (she) rode
+jelo - (it) rode
+jeli jsme - we (masc.) rode
+jely jsme - we (fem.) rode
+jel jste - you (Sir) rode
+jela jste - you (Ma'am) rode
+jeli jste - y'all (masc.) rode
+jely jste - y'all (fem.) rode
+jeli - (they masc.) rode
+jely - (they masc. inam.) rode
+jely - (they fem.) rode
+jela - (they neut.) rode
+viděl jsi babičku? - did you see Grandmother?
+byli jsme dnes v Praze - we were in Prague today
+bylo pero na stole? - was the pen on the table?
+v Praze jste už byl? - have you been in _Prague_?
+byl jste už v Praze? - have you been in Prague?
+a do Ameriky jsme jeli - and we went to _America_
+a jeli jsme do Ameriky - and we went to America
+byl - (he) was
+znal - (he) knew (was acquainted with)
+spal - (he) slept
+nesl - (he) carried
+nes' - (he) carried (colloq.)
+mohl - (he) could
+moh' - (he) could (colloq.)
+četl - (he) read
+čet' - (he) read (colloq.)
+pekl - (he) baked
+pek' - (he) baked (colloq.)
+jedl - (he) ate
+jed' - (he) ate (colloq.)
+měl - (he) had
+mělo - (it) had
+šel - (he) went
+šla - (she) went
+šlo - (it) went
+šli - (they masc.) went
+šly - (they masc. inam.) went
+šly - (they fem.) went
+šla - (they neut.) went
+nejedl jste? - haven't you eaten?
+pracuji - I work - liter.
+pracuju - I work - colloq.
+pracuješ - you work
+pracuje - works
+pracujeme - we work
+pracujete - y'all work
+pracují - they work
+pracoval jsem - I worked
+vím - I know (a fact)
+víš - you know (a fact)
+ví - knows (a fact)
+víme - we know (a fact)
+víte - y'all know (a fact)
+vědí - they know (a fact)
+vím, že bratr není doma - I know that Brother is not at home
+znám pana Čapka - I know Mr. Čapek
+znám toto město - I know this city
+znám fysiku - I know physics
+čekám na sestru - I am waiting for Sister
+myslím na babičku - I am thinking about Grandmother
+mám strach - I am afraid
+to je možné - that is possible
+je možné, že... - it is possible that...
+jíti na procházku - to go for a walk
+jíti na poštu - to go to the post office
+jíti na úřad - to go to an office
+jíti na universitu - to go to the university
 
 MCG Ch. 8 (Misc.)
-nevím už:I no longer know
-už ne:no longer, no more
-míti pravdu:to be right
-ten rozhled prý je velmi krásný:they say that the view is very beautiful
-ti:you (dat.)
-když mluvím na Macka:when I speak to Macek (a cat)
-zdali:(introduce an emphatic yes-no question)
-tě:you (acc.)
-po chvíli:after a while
-jezdívali:(they masc.) used to go
-lev:lion:gen. lva
+nevím už - I no longer know
+už ne - no longer, no more
+míti pravdu - to be right
+ten rozhled prý je velmi krásný - they say that the view is very beautiful
+ti - you (dat.)
+když mluvím na Macka - when I speak to Macek (a cat)
+zdali - (introduce an emphatic yes-no question)
+tě - you (acc.)
+po chvíli - after a while
+jezdívali - (they masc.) used to go
+lev - lion - gen. lva
 MCG Ch. 8 (Vocab.)
-asi:probably:encl.
-brána:gate
-cesta:way, road
-dálka:far-off expanse, distance
-dost/dosti:enough, sufficient(ly)
-hlava:head
-hloupý:foolish, stupid
-jízda:trip, ride
-kudy:by what route?
-les:woods, forest:gen. lesa
-maso:meat, flesh
-mezi:between, among:+ inst. (stat.)/+ acc. (dyn.)
-most:bridge
-nad:over, above:+ inst. (stat.)/+ acc. (dyn.)
-nebo/anebo:or
-odtamtud:from there
-paní:Mrs., lady, mistress:indecl. in sg.
-pod:beneath, under:+ inst. (stat.)/+ acc. (dyn.)
-pravda:truth
-prý:they say, it is said (skeptically):encl.
-před:before, in front of:+ inst. (stat.)/+ acc. (dyn.)
-přes:through, across:+ acc.
-při:during/in the presence of, near:+ pr.
-rozhled:view
-ruka:hand, arm
-s (se):with, together with:+ instr.
-sníh:snow:gen. sněhu
-správný:right, correct
-stejně:likewise, anyway, all the same
-světlo:light
-tudy:by that route
-vlevo:on the left, to the left
-vršek:hill:gen. vršku
-do vršku:up the hill
-za:behind, beyond:+ inst. (stat.)/+ acc. (dyn.)
-zahrada:garden
-zoologický:zoological
-zpět:back (adv.)
-bíti:to strike, beat:3rd, biji
-kynouti:to beckon:3rd, + dat.
-kývati:to nod:1st
-kývati hlavou:to nod one's head
-mlčeti:to be silent:2nd, mlčí
-musiti:to have to, must:2nd, musí, + inf.
-museti:to have to, must:2nd, musejí, + inf.
-padati:to fall:1st
-slábnouti:to become weak, weaken:3rd
-stárnouti:to become old, age:3rd
-táhnouti:to pull:3rd
-trhati:to tear, pull, pluck:1st
-vésti:to lead:3rd, vedu, vedl
+asi - probably - encl.
+brána - gate
+cesta - way, road
+dálka - far-off expanse, distance
+dost/dosti - enough, sufficient(ly)
+hlava - head
+hloupý - foolish, stupid
+jízda - trip, ride
+kudy - by what route?
+les - woods, forest - gen. lesa
+maso - meat, flesh
+mezi - between, among - + inst. (stat.)/+ acc. (dyn.)
+most - bridge
+nad - over, above - + inst. (stat.)/+ acc. (dyn.)
+nebo/anebo - or
+odtamtud - from there
+paní - Mrs., lady, mistress - indecl. in sg.
+pod - beneath, under - + inst. (stat.)/+ acc. (dyn.)
+pravda - truth
+prý - they say, it is said (skeptically) - encl.
+před - before, in front of - + inst. (stat.)/+ acc. (dyn.)
+přes - through, across - + acc.
+při - during/in the presence of, near - + pr.
+rozhled - view
+ruka - hand, arm
+s (se) - with, together with - + instr.
+sníh - snow - gen. sněhu
+správný - right, correct
+stejně - likewise, anyway, all the same
+světlo - light
+tudy - by that route
+vlevo - on the left, to the left
+vršek - hill - gen. vršku
+do vršku - up the hill
+za - behind, beyond - + inst. (stat.)/+ acc. (dyn.)
+zahrada - garden
+zoologický - zoological
+zpět - back (adv.)
+bíti - to strike, beat - 3rd, biji
+kynouti - to beckon - 3rd, + dat.
+kývati - to nod - 1st
+kývati hlavou - to nod one's head
+mlčeti - to be silent - 2nd, mlčí
+musiti - to have to, must - 2nd, musí, + inf.
+museti - to have to, must - 2nd, musejí, + inf.
+padati - to fall - 1st
+slábnouti - to become weak, weaken - 3rd
+stárnouti - to become old, age - 3rd
+táhnouti - to pull - 3rd
+trhati - to tear, pull, pluck - 1st
+vésti - to lead - 3rd, vedu, vedl
 MCG Ch. 8 (Gramm.)
-bratrem:brother (inst.)
-domem:house (inst.)
-matkou:mother (inst.)
-knihou:book (inst.)
-perem:pen (inst.)
-městem:city (inst.)
-s velkým psem:with the big dog
-s mladou sestrou:with the young sister
-s velkým oknem:with the big window
-žák píše tužkou:the student writes with a pencil
-jedeme autem do Prahy:we are going by car to Prague
-bratr kývá hlavou:Brother nods his head
-jeli jsme parkem:we drove in (through) the park
-šel jsem lesem:I walked in (through) the woods
-kterou cestou jste jel do Prahy?:by what road did you go to Prague?
-šel jsem s bratrem do bia:I went with Brother to the movies
-píši perem:I am writing with a pen
-bydlím s bratrem:I live with my brother
-paní Čapková žije za městem:Mrs. Čapek lives outside the city
-dnes jedeme za město:today we are going out of the city
-tatínek je před domem:Father is in front of the house
-tatínek jde před dům:Father goes in front of the house
-kniha leží pod stolem:the book is lying under the table
-kniha padá pod stůl:the book falls under the table
-ten:that (masc. nom.)
-toho:that (masc. gen.)
-tomu:that (masc. dat.)
-toho:that (masc. anim. acc.)
-ten:that (masc. inam. acc.)
-tom:that (masc. prep.)
-tím:that (masc. inst.)
-ta:that (fem. nom.)
-té:that (fem. gen.)
-té:that (fem. dat.)
-tu:that (fem. acc.)
-té:that (fem. prep.)
-tou:that (fem. inst.)
-to:that (neut. nom.)
-toho:that (neut. gen.)
-tomu:that (neut. dat.)
-to:that (neut. acc.)
-tom:that (neut. prep.)
-tím:that (neut. inst.)
-ten dobrý bratr:that good brother (nom.)
-toho dobrého bratra:that good brother (gen.)
-tomu dobrému bratrovi (bratru):that good brother (dat.)
-toho dobrého bratra:that good brother (acc.)
-dobrý bratře:good brother (voc.)
-dobrý profesore:good professor (voc.)
-tom dobrém bratrovi (bratru):that good brother (prep.)
-tím dobrým bratrem:that good brother (inst.)
-ten dobrý film:that good film (nom.)
-toho dobrého filmu:that good film (gen.)
-toho dobrého chleba:that good bread (gen.)
-tomu dobrému filmu:that good film (dat.)
-ten dobrý film:that good film (acc.)
-dobrý filme:good film (voc.)
-tom dobrém filmu:that good film (prep.)
-tím dobrým filmem:that good film (inst.)
-ta dobrá kniha:that good book (nom.)
-té dobré knihy:that good book (gen.)
-té dobré knize:that good book (dat.)
-tu dobrou knihu:that good book (acc.)
-dobrá kniho:good book (voc.)
-té dobré knize:that good book (prep.)
-tou dobrou knihou:that good book (inst.)
-to dobré pero:that good pen (nom.)
-toho dobrého pera:that good pen (gen.)
-tomu dobrému peru:that good pen (dat.)
-to dobré pero:that good pen (acc.)
-dobré pero:good pen (voc.)
-tom dobrém peru:that good pen (prep.)
-tím dobrým perem:that good pen (inst.)
-táhnu:I pull
-táhneš:you pull
-táhne:pulls
-táhneme:we pull
-táhnete:y'all pull
-táhnou:they pull
-táhl:(he) pulled
-kynul:(he) beckoned
-sestra mluvila s doktorem:Sister spoke with the doctor
-šel jsem do vršku:I walked up the hill
-máte pravdu:you are right
-nemáte pravdu:you are wrong
+bratrem - brother (inst.)
+domem - house (inst.)
+matkou - mother (inst.)
+knihou - book (inst.)
+perem - pen (inst.)
+městem - city (inst.)
+s velkým psem - with the big dog
+s mladou sestrou - with the young sister
+s velkým oknem - with the big window
+žák píše tužkou - the student writes with a pencil
+jedeme autem do Prahy - we are going by car to Prague
+bratr kývá hlavou - Brother nods his head
+jeli jsme parkem - we drove in (through) the park
+šel jsem lesem - I walked in (through) the woods
+kterou cestou jste jel do Prahy? - by what road did you go to Prague?
+šel jsem s bratrem do bia - I went with Brother to the movies
+píši perem - I am writing with a pen
+bydlím s bratrem - I live with my brother
+paní Čapková žije za městem - Mrs. Čapek lives outside the city
+dnes jedeme za město - today we are going out of the city
+tatínek je před domem - Father is in front of the house
+tatínek jde před dům - Father goes in front of the house
+kniha leží pod stolem - the book is lying under the table
+kniha padá pod stůl - the book falls under the table
+ten - that (masc. nom.)
+toho - that (masc. gen.)
+tomu - that (masc. dat.)
+toho - that (masc. anim. acc.)
+ten - that (masc. inam. acc.)
+tom - that (masc. prep.)
+tím - that (masc. inst.)
+ta - that (fem. nom.)
+té - that (fem. gen.)
+té - that (fem. dat.)
+tu - that (fem. acc.)
+té - that (fem. prep.)
+tou - that (fem. inst.)
+to - that (neut. nom.)
+toho - that (neut. gen.)
+tomu - that (neut. dat.)
+to - that (neut. acc.)
+tom - that (neut. prep.)
+tím - that (neut. inst.)
+ten dobrý bratr - that good brother (nom.)
+toho dobrého bratra - that good brother (gen.)
+tomu dobrému bratrovi (bratru) - that good brother (dat.)
+toho dobrého bratra - that good brother (acc.)
+dobrý bratře - good brother (voc.)
+dobrý profesore - good professor (voc.)
+tom dobrém bratrovi (bratru) - that good brother (prep.)
+tím dobrým bratrem - that good brother (inst.)
+ten dobrý film - that good film (nom.)
+toho dobrého filmu - that good film (gen.)
+toho dobrého chleba - that good bread (gen.)
+tomu dobrému filmu - that good film (dat.)
+ten dobrý film - that good film (acc.)
+dobrý filme - good film (voc.)
+tom dobrém filmu - that good film (prep.)
+tím dobrým filmem - that good film (inst.)
+ta dobrá kniha - that good book (nom.)
+té dobré knihy - that good book (gen.)
+té dobré knize - that good book (dat.)
+tu dobrou knihu - that good book (acc.)
+dobrá kniho - good book (voc.)
+té dobré knize - that good book (prep.)
+tou dobrou knihou - that good book (inst.)
+to dobré pero - that good pen (nom.)
+toho dobrého pera - that good pen (gen.)
+tomu dobrému peru - that good pen (dat.)
+to dobré pero - that good pen (acc.)
+dobré pero - good pen (voc.)
+tom dobrém peru - that good pen (prep.)
+tím dobrým perem - that good pen (inst.)
+táhnu - I pull
+táhneš - you pull
+táhne - pulls
+táhneme - we pull
+táhnete - y'all pull
+táhnou - they pull
+táhl - (he) pulled
+kynul - (he) beckoned
+sestra mluvila s doktorem - Sister spoke with the doctor
+šel jsem do vršku - I walked up the hill
+máte pravdu - you are right
+nemáte pravdu - you are wrong
 
 MCG Ch. 9 (Misc.)
-pánské obleky:men's clothing
-dámské šaty:women's clothing
-dovedeš nakupovat celý den:you know how to shop all day
-že?:yeah?:abbr. že ano?
-vždycky se udobříme:we always become reconciled
+pánské obleky - men's clothing
+dámské šaty - women's clothing
+dovedeš nakupovat celý den - you know how to shop all day
+že? - yeah? - abbr. že ano?
+vždycky se udobříme - we always become reconciled
 MCG Ch. 9 (Vocab.)
-ach!:oh!
-cenný:valuable
-časně:early (adv.)
-dívka:girl
-drahý:dear, expensive
-had:snake
-hlasitě:loudly
-i...i:both...and
-já:I
-kabát:coat, overcoat
-krátký:short, brief
-levný:cheap, inexpensive
-levně:cheaply
-liška:fox
-no:well (interj.)
-opravdu:indeed, actually
-právě:just (now)
-špatný:bad
-špatně:badly
-špinavý:dirty
-takový:such (a)
-třída:avenue, boulevard
-ty:you
-znova:again, anew
-žena:woman, wife
-baviti:to amuse, entertain:2nd
-baviti se:to have a good time:2nd
-česati se:to comb one's hair:3rd, češi se
-hádati se:to quarrel:1st
-hráti si:to play:3rd, hraji si, hrál si
-chtíti:to want:3rd, irreg., + inf.
-chci:I want:_never_ chcu
-chceš:you want
-chce:wants
-chceme:we want
-chcete:y'all want
-chtějí:they want:_never_ chcou
-chváliti:to praise:2nd
-kašlati:to cough:3rd, kašlu
-koupati se:to bathe (oneself):3rd, koupu se
-mazati:to grease, spread:3rd, maži
-mýti:to wash:3rd, myji
-mýti se:to wash oneself:3rd, myji se
-nakupovati:to shop:3rd
-potřebovati:to need:3rd
-prodávati:to sell:1st
-přiznávati:to admit, confess:1st
-přiznávati se:to admit one's own guilt:1st
-ptáti se:to ask, question:1st, + gen.
-skákati:to jump:3rd, skáči
-slibovati:to promise:3rd
-slyšeti:to hear:2nd, slyší
-smáti se:to laugh at:3rd, směji se, smál se, + dat.
+ach! - oh!
+cenný - valuable
+časně - early (adv.)
+dívka - girl
+drahý - dear, expensive
+had - snake
+hlasitě - loudly
+i...i - both...and
+já - I
+kabát - coat, overcoat
+krátký - short, brief
+levný - cheap, inexpensive
+levně - cheaply
+liška - fox
+no - well (interj.)
+opravdu - indeed, actually
+právě - just (now)
+špatný - bad
+špatně - badly
+špinavý - dirty
+takový - such (a)
+třída - avenue, boulevard
+ty - you
+znova - again, anew
+žena - woman, wife
+baviti - to amuse, entertain - 2nd
+baviti se - to have a good time - 2nd
+česati se - to comb one's hair - 3rd, češi se
+hádati se - to quarrel - 1st
+hráti si - to play - 3rd, hraji si, hrál si
+chtíti - to want - 3rd, irreg., + inf.
+chci - I want - _never_ chcu
+chceš - you want
+chce - wants
+chceme - we want
+chcete - y'all want
+chtějí - they want - _never_ chcou
+chváliti - to praise - 2nd
+kašlati - to cough - 3rd, kašlu
+koupati se - to bathe (oneself) - 3rd, koupu se
+mazati - to grease, spread - 3rd, maži
+mýti - to wash - 3rd, myji
+mýti se - to wash oneself - 3rd, myji se
+nakupovati - to shop - 3rd
+potřebovati - to need - 3rd
+prodávati - to sell - 1st
+přiznávati - to admit, confess - 1st
+přiznávati se - to admit one's own guilt - 1st
+ptáti se - to ask, question - 1st, + gen.
+skákati - to jump - 3rd, skáči
+slibovati - to promise - 3rd
+slyšeti - to hear - 2nd, slyší
+smáti se - to laugh at - 3rd, směji se, smál se, + dat.
 MCG Ch. 9 (Gramm.)/MCG Ch. 11 (Gramm.)
-já:I (nom.):str.
-mne:me (gen.) (str.)
-mě:me (gen.) (encl.):rare
-mně:me (dat.) (str.)
-mi:me (dat.) (encl.)
-mne:me (acc.) (str.)
-mě:me (acc.) (encl.)
-mně:me (prep.):encl.
-mnou:me (inst.):encl.
-ty:you (nom.):str.
-tebe:you (gen.) (str.)
-tě:you (gen.) (encl.):rare
-tobě:you (dat.) (str.)
-ti:you (dat.) (encl.)
-tebe:you (acc.) (str.)
-tě:you (acc.) (encl.)
-ty:you (voc.):str.
-tobě:you (prep.):encl.
-tebou:you (inst.):encl.
+já - I (nom.) - str.
+mne - me (gen.) (str.)
+mě - me (gen.) (encl.) - rare
+mně - me (dat.) (str.)
+mi - me (dat.) (encl.)
+mne - me (acc.) (str.)
+mě - me (acc.) (encl.)
+mně - me (prep.) - encl.
+mnou - me (inst.) - encl.
+ty - you (nom.) - str.
+tebe - you (gen.) (str.)
+tě - you (gen.) (encl.) - rare
+tobě - you (dat.) (str.)
+ti - you (dat.) (encl.)
+tebe - you (acc.) (str.)
+tě - you (acc.) (encl.)
+ty - you (voc.) - str.
+tobě - you (prep.) - encl.
+tebou - you (inst.) - encl.
 MCG Ch. 9 (Gramm.)
-já nejsem profesor, jsem doktor:_I_ am not a professor, I am a doctor
-já jedu dnes do Prahy, a ty jedeš do Brna:_I_ am going to Prague today, and _you_ are going to Brno
-kdo jede do Ameriky? ty?:who is going to America? _you_?
-já to vždycky říkal:I have always said that!
-profesor Novák mě včera viděl v biu:Professor Novák saw me in the movies last night
-včera jsme tě viděli v divadle:we saw you in the theatre yesterday
-o tobě jsme mluvili, a ne o mně:we spoke about _you_, and not about _me_
-mluvili jsme o tobě včera:we talked about you yesterday
-to nevím:that, I don't know
-nevím to:I don't know that
-profesor odpovídá mně, a ne tobě:the professor is answering me, and not you
-profesor mi odpovídá:the professor is answering me
-ke mně jde doktor Čapek:Dr. Čapek is coming to see me
-mimo mne je zde paní Dostálová:besides me, Mrs. Dostál is here
+já nejsem profesor, jsem doktor - _I_ am not a professor, I am a doctor
+já jedu dnes do Prahy, a ty jedeš do Brna - _I_ am going to Prague today, and _you_ are going to Brno
+kdo jede do Ameriky? ty? - who is going to America? _you_?
+já to vždycky říkal - I have always said that!
+profesor Novák mě včera viděl v biu - Professor Novák saw me in the movies last night
+včera jsme tě viděli v divadle - we saw you in the theatre yesterday
+o tobě jsme mluvili, a ne o mně - we spoke about _you_, and not about _me_
+mluvili jsme o tobě včera - we talked about you yesterday
+to nevím - that, I don't know
+nevím to - I don't know that
+profesor odpovídá mně, a ne tobě - the professor is answering me, and not you
+profesor mi odpovídá - the professor is answering me
+ke mně jde doktor Čapek - Dr. Čapek is coming to see me
+mimo mne je zde paní Dostálová - besides me, Mrs. Dostál is here
 MCG Ch. 9 (Vocab.)
-se:oneself (acc. refl.):encl., indecl.
-se:one, you (passive, indefinite pro.):encl., indecl.
-si:oneself (dat. refl.):encl., indecl.
+se - oneself (acc. refl.) - encl., indecl.
+se - one, you (passive, indefinite pro.) - encl., indecl.
+si - oneself (dat. refl.) - encl., indecl.
 MCG Ch. 9 (Gramm.)
-myji se:I wash (myself)
-myješ se:you wash (yourself)
-myje se:washes (himself, herself, itself)
-myjeme se:we wash (ourselves)
-myjete se:y'all wash (yourselves)
-myjí se:they wash (themselves)
-smáli jsme se dlouho:we laughed for a long time
-hrál jsem si u tebe:I played at your (place)
-říkám si, že dost nepracuji:I tell myself I don't work enough
-kupuji si nový kabát:I am buying (myself) a new coat
-ptám se matky, kde je můj kabát:I ask Mother where my coat is
-bratr se mi směje:Brother is laughing at me
-sestra si hraje na dvoře:Sister is playing in the yard
-nalévám si trochu vody:I pour (myself) a little water
-milujeme se:we love each other
-učitel a žák se často stýkají:the teacher and the pupil see each other often
-v tomto obchodě se prodává chléb:bread is sold in this store
-knihy se tisknou:books are printed
-říká se, že ten román je zajímavý:it is said that that novel is interesting
-tady se dobře jí a pije:here one eats and drinks well
-v tomto městě se žije dobře:people live well in this town
-já vím, jak se kupuje levně:I know how to buy things cheaply
-maži:I grease:liter.
-mažu:I grease:colloq.
-mažeš:you grease
-maže:greases
-mažeme:we grease
-mažete:y'all grease
-maží:they grease:liter.
-mažou:they grease:colloq.
-kašlu:I cough
-kašleš:you cough
-kašle:coughs
-kašleme:we cough
-kašlete:y'all cough
-kašlou:they cough
-mazal:(he) greased
-kašlal:(he) coughed
-ráno se myji a češu:in the morning I wash, and comb my hair
-kupujeme si nové auto:we are buying a new car
-bratr si hraje na dvoře:Brother is playing in the yard
-bavíme se dobře:we are having a good time
-sestra se směje bratrovi:Sister is laughing at Brother
-ptám se maminky, ...:I ask Mother, ...
-jdu do města:I am going downtown
+myji se - I wash (myself)
+myješ se - you wash (yourself)
+myje se - washes (himself, herself, itself)
+myjeme se - we wash (ourselves)
+myjete se - y'all wash (yourselves)
+myjí se - they wash (themselves)
+smáli jsme se dlouho - we laughed for a long time
+hrál jsem si u tebe - I played at your (place)
+říkám si, že dost nepracuji - I tell myself I don't work enough
+kupuji si nový kabát - I am buying (myself) a new coat
+ptám se matky, kde je můj kabát - I ask Mother where my coat is
+bratr se mi směje - Brother is laughing at me
+sestra si hraje na dvoře - Sister is playing in the yard
+nalévám si trochu vody - I pour (myself) a little water
+milujeme se - we love each other
+učitel a žák se často stýkají - the teacher and the pupil see each other often
+v tomto obchodě se prodává chléb - bread is sold in this store
+knihy se tisknou - books are printed
+říká se, že ten román je zajímavý - it is said that that novel is interesting
+tady se dobře jí a pije - here one eats and drinks well
+v tomto městě se žije dobře - people live well in this town
+já vím, jak se kupuje levně - I know how to buy things cheaply
+maži - I grease - liter.
+mažu - I grease - colloq.
+mažeš - you grease
+maže - greases
+mažeme - we grease
+mažete - y'all grease
+maží - they grease - liter.
+mažou - they grease - colloq.
+kašlu - I cough
+kašleš - you cough
+kašle - coughs
+kašleme - we cough
+kašlete - y'all cough
+kašlou - they cough
+mazal - (he) greased
+kašlal - (he) coughed
+ráno se myji a češu - in the morning I wash, and comb my hair
+kupujeme si nové auto - we are buying a new car
+bratr si hraje na dvoře - Brother is playing in the yard
+bavíme se dobře - we are having a good time
+sestra se směje bratrovi - Sister is laughing at Brother
+ptám se maminky, ... - I ask Mother, ...
+jdu do města - I am going downtown
 
 MCG Ch. 10 (Misc.)
-přeloženo:translated
-pro toho, kdo umí:for one who knows
-odpoví:(he, she, it) will answer
-v něm:in it
+přeloženo - translated
+pro toho, kdo umí - for one who knows
+odpoví - (he, she, it) will answer
+v něm - in it
 MCG Ch. 10 (Vocab.)
-ani:not even, nor
-aspoň:at least
-báječný:marvelous, wonderful
-bohužel:unfortunately
-Čech:Czech man
-česky:in Czech (adv.)
-čeština:Czech (language)
-dosud:until now, before now
-hotel:hotel
-jazyk:language, tongue:gen. jazyka
-kromě:besides, except:+ gen.
-kurs:course
-literatura:literature
-mnohokrát:many times
-my:we
-natrvalo:for a long time, permanently
-nějaký:some, any (adj.)
-němčina:German (language)
-německy:in German (adv.)
-nic:nothing
-nijak:not at all, in no way
-nikam:nowhere (dyn.)
-nikde:nowhere (stat.)
-nikdo:no one
-obliba:favor, popularity
-obyčejně:commonly, usually
-ovšem:of course
-přes:across, over/in spite of:+ acc.
-přesto:nevertheless
-rusky:in Russian (adv.)
-slovanský:Slavic (adj.)
-slovenský:Slovak (adj.)
-slovenština:Slovak (language)
-společný:mutual, in common
-těžký:heavy, difficult
-téměř:almost, nearly
-totiž:that is
-vy:y'all
-známý:known, famous
-známý:acquaintance:subst. adj.
-zprvu:at first
-žádný:no, not any (adj.)
-děkovati:to thank:3rd, + dat.
-konversovati:to converse:3rd
-poslouchati:to listen to, obey:1st, + acc.
-překládati:to translate:1st
-snažiti se:to try, attempt:2nd, + inf.
+ani - not even, nor
+aspoň - at least
+báječný - marvelous, wonderful
+bohužel - unfortunately
+Čech - Czech man
+česky - in Czech (adv.)
+čeština - Czech (language)
+dosud - until now, before now
+hotel - hotel
+jazyk - language, tongue - gen. jazyka
+kromě - besides, except - + gen.
+kurs - course
+literatura - literature
+mnohokrát - many times
+my - we
+natrvalo - for a long time, permanently
+nějaký - some, any (adj.)
+němčina - German (language)
+německy - in German (adv.)
+nic - nothing
+nijak - not at all, in no way
+nikam - nowhere (dyn.)
+nikde - nowhere (stat.)
+nikdo - no one
+obliba - favor, popularity
+obyčejně - commonly, usually
+ovšem - of course
+přes - across, over/in spite of - + acc.
+přesto - nevertheless
+rusky - in Russian (adv.)
+slovanský - Slavic (adj.)
+slovenský - Slovak (adj.)
+slovenština - Slovak (language)
+společný - mutual, in common
+těžký - heavy, difficult
+téměř - almost, nearly
+totiž - that is
+vy - y'all
+známý - known, famous
+známý - acquaintance - subst. adj.
+zprvu - at first
+žádný - no, not any (adj.)
+děkovati - to thank - 3rd, + dat.
+konversovati - to converse - 3rd
+poslouchati - to listen to, obey - 1st, + acc.
+překládati - to translate - 1st
+snažiti se - to try, attempt - 2nd, + inf.
 MCG Ch. 10 (Misc.)
-cizinec:foreigner
-opuštěný:deserted, lonely
-pokoj:room
-polsky:in Polish (adv.)
-samouk:self-taught person
-srbsky:in Serb (adv.)
-vysílání:broadcast:neut.
-zlepšiti se:to improve, be improved
+cizinec - foreigner
+opuštěný - deserted, lonely
+pokoj - room
+polsky - in Polish (adv.)
+samouk - self-taught person
+srbsky - in Serb (adv.)
+vysílání - broadcast - neut.
+zlepšiti se - to improve, be improved
 MCG Ch. 10 (Gramm.)/MCG Ch. 11 (Gramm.)
-my:we (nom.):str.
-nás:us (gen.):encl.
-nám:us (dat.):encl.
-nás:us (acc.):encl.
-nás:us (prep.):encl.
-námi:us (inst.):encl.
-vy:y'all (nom.):str.
-vás:y'all (gen.):encl.
-vám:y'all (dat.):encl.
-vás:y'all (acc.):encl.
-vy:y'all (voc.):str.
-vás:y'all (prep.):encl.
-vámi:y'all (inst.):encl.
+my - we (nom.) - str.
+nás - us (gen.) - encl.
+nám - us (dat.) - encl.
+nás - us (acc.) - encl.
+nás - us (prep.) - encl.
+námi - us (inst.) - encl.
+vy - y'all (nom.) - str.
+vás - y'all (gen.) - encl.
+vám - y'all (dat.) - encl.
+vás - y'all (acc.) - encl.
+vy - y'all (voc.) - str.
+vás - y'all (prep.) - encl.
+vámi - y'all (inst.) - encl.
 MCG Ch. 10 (Gramm.)
-my jedeme do Ameriky, a vy ne:we are going to America, but you are not
-pan Novák vás nezná:Mr. Novák does not know you
-kdo:who (nom.)
-koho:who (gen.)
-komu:who (dat.)
-koho:who (acc.)
-kom:who (prep.)
-kým:who (inst.)
-co:what (nom.)
-čeho:what (gen.)
-čemu:what (dat.)
-co:what (acc.)
-čem:what (prep.)
-čím:what (inst.)
-můj:my, mine (masc. nom., voc.)
-mého:my, mine (masc. gen.)
-mému:my, mine (masc. dat.)
-mého:my, mine (anim. acc.)
-můj:my, mine (inan. acc.)
-mém:my, mine (masc. prep.)
-mým:my, mine (masc. inst.)
-má:my (fem. nom., voc.)
-moje:mine (fem. nom., voc.)
-mé:my, mine (fem. gen.)
-mé:my, mine (fem. dat.)
-mou:my (fem. acc.)
-moji:mine (fem. acc.)
-mé:my, mine (fem. prep.)
-mou:my, mine (fem. inst.)
-mé:my (neut. nom., voc.)
-moje:mine (neut. nom., voc.)
-mého:my, mine (neut. gen.)
-mému:my, mine (neut. dat.)
-mé:my (neut. acc.)
-moje:mine (neut. acc.)
-mém:my, mine (neut. prep.)
-mým:my, mine (neut. inst.)
-náš:our (masc. nom., voc.)
-našeho:our (masc. gen.)
-našemu:our (masc. dat.)
-náš:our (masc. acc.)
-našem:our (masc. prep.)
-naším:our (masc. inst.)
-naše:our (fem. nom., voc.)
-naší:our (fem. gen.)
-naší:our (fem. dat.)
-naši:our (fem. acc.)
-naší:our (fem. prep.)
-naší:our (fem. inst.)
-naše:our (neut. nom., voc.)
-našeho:our (neut. gen.)
-našemu:our (neut. dat.)
-naše:our (neut. acc.)
-našem:our (neut. prep.)
-naším:our (neut. inst.)
-nikdo tam nebyl:no one was there
-dnes nedělám nic:today I am not doing anything
-sestra nemá žádný papír:Sister has no paper
-teď už nikde nepracuji:I'm not working anywhere now
-dnes nikam nejdeme:we're not going anywhere today
-není nijak bohatý:he isn't rich by any means
-bratr ani nejedl:Brother did not even eat
-nejedl ani nepil:he did not eat and he did not drink
-nemám ani pero, ani tužku:I have neither a pen nor a pencil
-co tam děláš? nic:what are you doing there? nothing
-nikdo tam nikdy nebyl:no one has ever been there
-nic:nothing (nom.)
-ničeho:nothing (gen.)
-ničemu:nothing (dat.)
-nic:nothing (acc.)
-ničem:nothing (prep.)
-ničím:nothing (inst.)
-dávati:to give:1st
-dávám:I give
-dáváš:you give
-dává:gives
-dáváme:we give
-dáváte:y'all give
-dávají:they give
-mluviti:to speak:2nd
-mluvím:I speak
-mluvíš:you speak
-mluví:speaks
-mluvíme:we speak
-mluvíte:y'all speak
-mluví:they speak
-uměti:to know how to:2nd
-umím:I know how to
-umíš:you know how to
-umí:knows how to
-umíme:we know how to
-umíte:y'all know how to
-umějí:they know how to
-vésti:to lead:3rd
-vedu:I lead
-vedeš:you lead
-vede:leads
-vedeme:we lead
-vedete:y'all lead
-vedou:they lead
-žíti:to live:3rd
-žiji:I live:liter.
-žiju:I live:colloq.
-žiješ:you live
-žije:lives
-žijeme:we live
-žijete:y'all live
-žijí:they live:liter.
-žijou:they live:colloq.
-milovati:to love:3rd
-miluji:I love:liter.
-miluju:I love:colloq.
-miluješ:you love
-miluje:loves
-milujeme:we love
-milujete:y'all love
-milují:they love
-slábnouti:to grow weak:3rd
-slábnu:I grow weak
-slábneš:you grow weak
-slábne:grows weak
-slábneme:we grow weak
-slábnete:y'all grow weak
-slábnou:they grow weak
-koupati:to bathe:3rd
-koupu:I bathe
-koupeš:you bathe
-koupe:bathes
-koupeme:we bathe
-koupete:y'all bathe
-koupou:they bathe
-mazati:to grease:3rd
-maži:I grease:liter.
-mažu:I grease:colloq.
-mažeš:you grease
-maže:greases
-mažeme:we grease
-mažete:y'all grease
-maží:they grease:liter.
-mažou:they grease:colloq.
-žijem:we live:very colloq.
-milujem:we love:very colloq.
-koupem:we bathe:very colloq.
-hrál:(he) played (at something)
-smál se:(he) laughed (at someone)
-dělal:(he) did
-mluvil:(he) spoke
-ležel:(he) lay
-uměl:(he) knew how to
-nesl:(he) carried
-pil:(he) drank
-táhl:(he) pulled
-kynul:(he) beckoned
-děkoval:(he) thanked
-koupal:(he) bathed
-mazal:(he) greased
-mluviti česky:to speak Czech
-mluviti německy:to speak German
-mluviti rusky:to speak Russian
-psát česky:to write Czech
-číst česky:to read Czech
-uměti česky:to know Czech
-dlouho studoval, ale přesto neumí česky:he studied for a long time, but still he does not know Czech
-děkuji vám mnohokrát:thank you very much
-to je dobré:that is good
-to je špatné:that is bad
+my jedeme do Ameriky, a vy ne - we are going to America, but you are not
+pan Novák vás nezná - Mr. Novák does not know you
+kdo - who (nom.)
+koho - who (gen.)
+komu - who (dat.)
+koho - who (acc.)
+kom - who (prep.)
+kým - who (inst.)
+co - what (nom.)
+čeho - what (gen.)
+čemu - what (dat.)
+co - what (acc.)
+čem - what (prep.)
+čím - what (inst.)
+můj - my, mine (masc. nom., voc.)
+mého - my, mine (masc. gen.)
+mému - my, mine (masc. dat.)
+mého - my, mine (anim. acc.)
+můj - my, mine (inan. acc.)
+mém - my, mine (masc. prep.)
+mým - my, mine (masc. inst.)
+má - my (fem. nom., voc.)
+moje - mine (fem. nom., voc.)
+mé - my, mine (fem. gen.)
+mé - my, mine (fem. dat.)
+mou - my (fem. acc.)
+moji - mine (fem. acc.)
+mé - my, mine (fem. prep.)
+mou - my, mine (fem. inst.)
+mé - my (neut. nom., voc.)
+moje - mine (neut. nom., voc.)
+mého - my, mine (neut. gen.)
+mému - my, mine (neut. dat.)
+mé - my (neut. acc.)
+moje - mine (neut. acc.)
+mém - my, mine (neut. prep.)
+mým - my, mine (neut. inst.)
+náš - our (masc. nom., voc.)
+našeho - our (masc. gen.)
+našemu - our (masc. dat.)
+náš - our (masc. acc.)
+našem - our (masc. prep.)
+naším - our (masc. inst.)
+naše - our (fem. nom., voc.)
+naší - our (fem. gen.)
+naší - our (fem. dat.)
+naši - our (fem. acc.)
+naší - our (fem. prep.)
+naší - our (fem. inst.)
+naše - our (neut. nom., voc.)
+našeho - our (neut. gen.)
+našemu - our (neut. dat.)
+naše - our (neut. acc.)
+našem - our (neut. prep.)
+naším - our (neut. inst.)
+nikdo tam nebyl - no one was there
+dnes nedělám nic - today I am not doing anything
+sestra nemá žádný papír - Sister has no paper
+teď už nikde nepracuji - I'm not working anywhere now
+dnes nikam nejdeme - we're not going anywhere today
+není nijak bohatý - he isn't rich by any means
+bratr ani nejedl - Brother did not even eat
+nejedl ani nepil - he did not eat and he did not drink
+nemám ani pero, ani tužku - I have neither a pen nor a pencil
+co tam děláš? nic - what are you doing there? nothing
+nikdo tam nikdy nebyl - no one has ever been there
+nic - nothing (nom.)
+ničeho - nothing (gen.)
+ničemu - nothing (dat.)
+nic - nothing (acc.)
+ničem - nothing (prep.)
+ničím - nothing (inst.)
+dávati - to give - 1st
+dávám - I give
+dáváš - you give
+dává - gives
+dáváme - we give
+dáváte - y'all give
+dávají - they give
+mluviti - to speak - 2nd
+mluvím - I speak
+mluvíš - you speak
+mluví - speaks
+mluvíme - we speak
+mluvíte - y'all speak
+mluví - they speak
+uměti - to know how to - 2nd
+umím - I know how to
+umíš - you know how to
+umí - knows how to
+umíme - we know how to
+umíte - y'all know how to
+umějí - they know how to
+vésti - to lead - 3rd
+vedu - I lead
+vedeš - you lead
+vede - leads
+vedeme - we lead
+vedete - y'all lead
+vedou - they lead
+žíti - to live - 3rd
+žiji - I live - liter.
+žiju - I live - colloq.
+žiješ - you live
+žije - lives
+žijeme - we live
+žijete - y'all live
+žijí - they live - liter.
+žijou - they live - colloq.
+milovati - to love - 3rd
+miluji - I love - liter.
+miluju - I love - colloq.
+miluješ - you love
+miluje - loves
+milujeme - we love
+milujete - y'all love
+milují - they love
+slábnouti - to grow weak - 3rd
+slábnu - I grow weak
+slábneš - you grow weak
+slábne - grows weak
+slábneme - we grow weak
+slábnete - y'all grow weak
+slábnou - they grow weak
+koupati - to bathe - 3rd
+koupu - I bathe
+koupeš - you bathe
+koupe - bathes
+koupeme - we bathe
+koupete - y'all bathe
+koupou - they bathe
+mazati - to grease - 3rd
+maži - I grease - liter.
+mažu - I grease - colloq.
+mažeš - you grease
+maže - greases
+mažeme - we grease
+mažete - y'all grease
+maží - they grease - liter.
+mažou - they grease - colloq.
+žijem - we live - very colloq.
+milujem - we love - very colloq.
+koupem - we bathe - very colloq.
+hrál - (he) played (at something)
+smál se - (he) laughed (at someone)
+dělal - (he) did
+mluvil - (he) spoke
+ležel - (he) lay
+uměl - (he) knew how to
+nesl - (he) carried
+pil - (he) drank
+táhl - (he) pulled
+kynul - (he) beckoned
+děkoval - (he) thanked
+koupal - (he) bathed
+mazal - (he) greased
+mluviti česky - to speak Czech
+mluviti německy - to speak German
+mluviti rusky - to speak Russian
+psát česky - to write Czech
+číst česky - to read Czech
+uměti česky - to know Czech
+dlouho studoval, ale přesto neumí česky - he studied for a long time, but still he does not know Czech
+děkuji vám mnohokrát - thank you very much
+to je dobré - that is good
+to je špatné - that is bad
 
 MCG Ch. 11 (Misc.)
-za město:beyond the city, out to the country (dyn.)
-za městem:out of town (stat.)
-býti učitelem:to serve as teacher
-přeskakovati:to jump over:3rd
-zatahovati se:to become clouded:3rd
-spustí se:falls
-schovati se:to take shelter
-přestává:stops
-poznává:recognizes
-inteligentní:intelligent
-stín:shadow, shade
-příjemný:pleasant
-prudký:rapid, violent
+za město - beyond the city, out to the country (dyn.)
+za městem - out of town (stat.)
+býti učitelem - to serve as teacher
+přeskakovati - to jump over - 3rd
+zatahovati se - to become clouded - 3rd
+spustí se - falls
+schovati se - to take shelter
+přestává - stops
+poznává - recognizes
+inteligentní - intelligent
+stín - shadow, shade
+příjemný - pleasant
+prudký - rapid, violent
 MCG Ch. 11 (Vocab.)
-buď...anebo:either...or
-dešť:rain:inan. soft
-hezký:pretty, fine, nice
-hřiště:playground:neut. soft
-chlapec:boy, fellow:anim. soft, gen. chlapce
-chudý:poor
-lhář:liar:anim. soft
-míč:ball:inan. soft
-mrak:cloud
-nadarmo:in vain
-náhle:suddenly, unexpectedly
-nálada:mood, spirit
-návštěva:visit
-nyní:now, at present
-obloha:sky
-otec:father:anim. soft, gen. otce, voc. otče
-pojednou:all at once, suddenly
-pole:field:neut. soft
-poledne:noon:neut. soft
-příroda:nature, country, open air
-přítel:friend:anim. soft
-slunce:sun:neut. soft
-srdce:heart:neut. soft
-stejný:equal, of the same kind
-studentský:student (adj.)
-učitel:teacher:anim. soft
-vážný:serious
-venkov:countryside, country:gen. venkova
-venkovský:country (adj.)
-zamračeně:gloomily
-zloděj:thief:anim. soft
-žertovně:jokingly
-život:life:gen. života
-flirtovati:to flirt:3rd
-házeti:to throw, cast:2nd, házejí
-odmítati:to refuse to:1st, + inf.
-potkávati:to meet, pass:1st
-pozorovati:to observe, notice:3rd
-pršeti:to rain:2nd
-prší:it is raining
-přinášeti:to bring:2nd, přinášejí
-svítiti:to shine:2nd
-začínati:to begin, start:1st, + inf.
-zakrývati:to cover:1st
+buď...anebo - either...or
+dešť - rain - inan. soft
+hezký - pretty, fine, nice
+hřiště - playground - neut. soft
+chlapec - boy, fellow - anim. soft, gen. chlapce
+chudý - poor
+lhář - liar - anim. soft
+míč - ball - inan. soft
+mrak - cloud
+nadarmo - in vain
+náhle - suddenly, unexpectedly
+nálada - mood, spirit
+návštěva - visit
+nyní - now, at present
+obloha - sky
+otec - father - anim. soft, gen. otce, voc. otče
+pojednou - all at once, suddenly
+pole - field - neut. soft
+poledne - noon - neut. soft
+příroda - nature, country, open air
+přítel - friend - anim. soft
+slunce - sun - neut. soft
+srdce - heart - neut. soft
+stejný - equal, of the same kind
+studentský - student (adj.)
+učitel - teacher - anim. soft
+vážný - serious
+venkov - countryside, country - gen. venkova
+venkovský - country (adj.)
+zamračeně - gloomily
+zloděj - thief - anim. soft
+žertovně - jokingly
+život - life - gen. života
+flirtovati - to flirt - 3rd
+házeti - to throw, cast - 2nd, házejí
+odmítati - to refuse to - 1st, + inf.
+potkávati - to meet, pass - 1st
+pozorovati - to observe, notice - 3rd
+pršeti - to rain - 2nd
+prší - it is raining
+přinášeti - to bring - 2nd, přinášejí
+svítiti - to shine - 2nd
+začínati - to begin, start - 1st, + inf.
+zakrývati - to cover - 1st
 MCG Ch. 11 (Gramm.)
-přítel:friend (nom.)
+přítel - friend (nom.)
 MCG Ch. 11 (Gramm.)/MCG -- Genitive
-přítele:friend (gen.)
+přítele - friend (gen.)
 MCG Ch. 11 (Gramm.)
-přítelovi/příteli:friend (dat.)
-přítele:friend (acc.)
-příteli:friend (voc.)
-přítelovi/příteli:friend (prep.)
-přítelem:friend (inst.)
-bratr:brother (nom.)
+přítelovi/příteli - friend (dat.)
+přítele - friend (acc.)
+příteli - friend (voc.)
+přítelovi/příteli - friend (prep.)
+přítelem - friend (inst.)
+bratr - brother (nom.)
 MCG Ch. 11 (Gramm.)/MCG -- Genitive
-bratra:brother (gen.)
+bratra - brother (gen.)
 MCG Ch. 11 (Gramm.)
-bratrovi/bratru:brother (dat.)
-bratra:brother (acc.)
-bratře:brother (voc.)
-bratrovi/bratru:brother (prep.)
-bratrem:brother (inst.)
-míč:ball (nom.)
+bratrovi/bratru - brother (dat.)
+bratra - brother (acc.)
+bratře - brother (voc.)
+bratrovi/bratru - brother (prep.)
+bratrem - brother (inst.)
+míč - ball (nom.)
 MCG Ch. 11 (Gramm.)/MCG -- Genitive
-míče:ball (gen.)
+míče - ball (gen.)
 MCG Ch. 11 (Gramm.)
-míči:ball (dat.)
-míč:ball (acc.)
-míči:ball (voc.)
-míči:ball (prep.)
-míčem:ball (inst.)
-park:park (nom.)
+míči - ball (dat.)
+míč - ball (acc.)
+míči - ball (voc.)
+míči - ball (prep.)
+míčem - ball (inst.)
+park - park (nom.)
 MCG Ch. 11 (Gramm.)/MCG -- Genitive
-parku:park (gen.)
+parku - park (gen.)
 MCG Ch. 11 (Gramm.)
-parku:park (dat.)
-park:park (acc.)
-parku:park (voc.)
-parku:park (prep.)
-parkem:park (inst.)
-pole:field (nom.)
+parku - park (dat.)
+park - park (acc.)
+parku - park (voc.)
+parku - park (prep.)
+parkem - park (inst.)
+pole - field (nom.)
 MCG Ch. 11 (Gramm.)/MCG -- Genitive
-pole:field (gen.)
+pole - field (gen.)
 MCG Ch. 11 (Gramm.)
-poli:field (dat.)
-pole:field (acc.)
-pole:field (voc.)
-poli:field (prep.)
-polem:field (inst.)
-hřiště:playground (nom.)
+poli - field (dat.)
+pole - field (acc.)
+pole - field (voc.)
+poli - field (prep.)
+polem - field (inst.)
+hřiště - playground (nom.)
 MCG Ch. 11 (Gramm.)/MCG -- Genitive
-hřiště:playground (gen.)
+hřiště - playground (gen.)
 MCG Ch. 11 (Gramm.)
-hřišti:playground (dat.)
-hřiště:playground (acc.)
-hřiště:playground (voc.)
-hřišti:playground (prep.)
-hřištěm:playground (inst.)
-okno:window (nom.)
+hřišti - playground (dat.)
+hřiště - playground (acc.)
+hřiště - playground (voc.)
+hřišti - playground (prep.)
+hřištěm - playground (inst.)
+okno - window (nom.)
 MCG Ch. 11 (Gramm.)/MCG -- Genitive
-okna:window (gen.)
+okna - window (gen.)
 MCG Ch. 11 (Gramm.)
-oknu:window (dat.)
-okno:window (acc.)
-okno:window (voc.)
-okně:window (prep.)
-oknem:window (inst.)
-on:he (nom.):str.
+oknu - window (dat.)
+okno - window (acc.)
+okno - window (voc.)
+okně - window (prep.)
+oknem - window (inst.)
+on - he (nom.) - str.
 MCG Ch. 11 (Gramm.)/MCG -- Genitive
-jeho:him (gen. str.)
-ho:him (gen. encl.)
+jeho - him (gen. str.)
+ho - him (gen. encl.)
 MCG Ch. 11 (Gramm.)
-jemu:him (dat. str.)
-mu:him (dat. encl.)
-jeho/jej (?):him (anim. acc. str.)
-ho:him (anim. acc. encl.)
-jej:him (inan. acc.)
-jem:him (prep.):theor.
-o něm:about him
-jím:him (inst.)
-ona:she (nom.):str.
+jemu - him (dat. str.)
+mu - him (dat. encl.)
+jeho/jej (?) - him (anim. acc. str.)
+ho - him (anim. acc. encl.)
+jej - him (inan. acc.)
+jem - him (prep.) - theor.
+o něm - about him
+jím - him (inst.)
+ona - she (nom.) - str.
 MCG Ch. 11 (Gramm.)/MCG -- Genitive
-jí:her (gen.)
+jí - her (gen.)
 MCG Ch. 11 (Gramm.)
-jí:her (dat.)
-ji:her (acc.)
-jí:her (prep.):theor.
-o ní:about her
-jí:her (inst.)
-ono:it (nom.):str.
+jí - her (dat.)
+ji - her (acc.)
+jí - her (prep.) - theor.
+o ní - about her
+jí - her (inst.)
+ono - it (nom.) - str.
 MCG Ch. 11 (Gramm.)/MCG -- Genitive
-jeho:it (gen. str.)
-ho:it (gen. encl.)
+jeho - it (gen. str.)
+ho - it (gen. encl.)
 MCG Ch. 11 (Gramm.)
-jemu:it (dat. str.)
-mu:it (dat. encl.)
-je:it (acc.)
-jem:it (prep.):theor.
-o něm:about it
-jím:it (inst.)
-oni:they (anim. nom.):str.
-ony:they (inan. nom.):str.
-ony:they (fem. nom.):str.
-ona:they (neut. nom.):str.
+jemu - it (dat. str.)
+mu - it (dat. encl.)
+je - it (acc.)
+jem - it (prep.) - theor.
+o něm - about it
+jím - it (inst.)
+oni - they (anim. nom.) - str.
+ony - they (inan. nom.) - str.
+ony - they (fem. nom.) - str.
+ona - they (neut. nom.) - str.
 MCG Ch. 11 (Gramm.)/MCG -- Genitive
-jich:them (gen.)
+jich - them (gen.)
 MCG Ch. 11 (Gramm.)
-jim:them (dat.)
-je:them (acc.)
-jich:them (prep.):theor.
-o nich:about them
-jimi:them (inst.)
-otec a matka jsou doma:Father and Mother are at home
-on píše a ona čte:he is writing and she is reading
-to je pan Novák a jeho žena:this is Mr. Novák and his wife
-znám ji, ale neznám jeho:I know _her_, but I do not know _him_
-to je pan Novák; neznám ho:this is Mr. Novák; I do not know him
-mluvili jsme o nich:we talked about them
-o nich jsme mluvili, a ne o vás:we talked about _them_, and not about _you_
+jim - them (dat.)
+je - them (acc.)
+jich - them (prep.) - theor.
+o nich - about them
+jimi - them (inst.)
+otec a matka jsou doma - Father and Mother are at home
+on píše a ona čte - he is writing and she is reading
+to je pan Novák a jeho žena - this is Mr. Novák and his wife
+znám ji, ale neznám jeho - I know _her_, but I do not know _him_
+to je pan Novák; neznám ho - this is Mr. Novák; I do not know him
+mluvili jsme o nich - we talked about them
+o nich jsme mluvili, a ne o vás - we talked about _them_, and not about _you_
 MCG Ch. 11 (Gramm.)/MCG -- Genitive
-u něho:at his house
+u něho - at his house
 MCG Ch. 11 (Gramm.)
-k ní:to(wards) her
-mimo ně:besides them
-s nimi:with them
-kdo:who?
-někdo:someone:pro. like kdo
-nikdo:no one
-co:what?
-něco:something:pro. like co
-nic:nothing
-jaký:what kind of?
+k ní - to(wards) her
+mimo ně - besides them
+s nimi - with them
+kdo - who?
+někdo - someone - pro. like kdo
+nikdo - no one
+co - what?
+něco - something - pro. like co
+nic - nothing
+jaký - what kind of?
 MCG Ch. 11 (Vocab.)/MCG Ch. 11 (Gramm.)
-nějaký:some, some sort of:hard adj.
+nějaký - some, some sort of - hard adj.
 MCG Ch. 11 (Gramm.)
-nijaký:of no kind
-který:which one?
+nijaký - of no kind
+který - which one?
 MCG Ch. 11 (Vocab.)/MCG Ch. 11 (Gramm.)
-některý:some, a certain:hard adj.
+některý - some, a certain - hard adj.
 MCG Ch. 11 (Gramm.)
-nikterý:none:arch., use žádný
-jak:how?
+nikterý - none - arch., use žádný
+jak - how?
 MCG Ch. 11 (Vocab.)/MCG Ch. 11 (Gramm.)
-nějak:somehow, in some way:adv.
+nějak - somehow, in some way - adv.
 MCG Ch. 11 (Gramm.)
-nijak:in no way
-kde:where (stat.)?
-někde:somewhere (stat.):adv.
-nikde:nowhere (stat.)
-kam:where (dyn.)?
+nijak - in no way
+kde - where (stat.)?
+někde - somewhere (stat.) - adv.
+nikde - nowhere (stat.)
+kam - where (dyn.)?
 MCG Ch. 11 (Vocab.)/MCG Ch. 11 (Gramm.)
-někam:somewhere (dyn.):adv.
+někam - somewhere (dyn.) - adv.
 MCG Ch. 11 (Gramm.)
-nikam:nowhere (dyn.)
-kolik:how much, many?:+ gen.
-několik:some, several, a few
+nikam - nowhere (dyn.)
+kolik - how much, many? - + gen.
+několik - some, several, a few
 
 MCG Ch. 12 (Misc.)
-bílá polévka:white (cream) soup
-hnědá polévka:clear (broth) soup
-sní:eats up
-platit, prosím:the check, please:abbr. of chci platit (I want to pay)
-prosím:please:lit. I ask
-omlouvati se:to apologize:1st
-zpropitné:tip (for waitstaff)
-všichni:all
-kývá na vrchního:nods to the headwaiter
-začínáti se:to begin (commence)
-nikdo z nás:none of us
+bílá polévka - white (cream) soup
+hnědá polévka - clear (broth) soup
+sní - eats up
+platit, prosím - the check, please - abbr. of chci platit (I want to pay)
+prosím - please - lit. I ask
+omlouvati se - to apologize - 1st
+zpropitné - tip (for waitstaff)
+všichni - all
+kývá na vrchního - nods to the headwaiter
+začínáti se - to begin (commence)
+nikdo z nás - none of us
 MCG Ch. 12 (Vocab.)
-čí:whose?
-číšník:waiter
-desert:dessert
-hnědý:brown
-hovězí:beef:subst. adj.
-chod:course (of a meal)
-chuť:appetite, taste:fem. soft
-kapusta:kale
-káva:coffee
-kost:bone:fem. soft
-kuchyně:kitchen:fem. soft
-lístek:ticket, note, sheet:gen. lístku
-jídelní lístek:menu
-moučník:pastry
-nápoj:beverage:inan. soft
-omáčka:sauce, gravy
-pečeně:roast meat:fem. soft
-pivo:beer
-polévka:soup
-předkrm:hors d'oeuvres, appetizer
-příští:future, next
-restaurace:restaurant:fem. soft
-rozmluva:conversation
-ryba:fish
-rybí:fish (adj.)
-salát:lettuce, salad
-světlý:light, bright
-sýr:cheese:gen. sýra
-špenát:spinach
-šunka:ham
-telecí:veal:subst. adj.
-účet:bill, account:gen. účtu
-vejce:egg:neut. soft
-vrchní:upper, chief/headwaiter:subst. adj.
-výborný:fine, excellent
-zelenina:vegetables:mass noun
-doporučovati:to recommend:3rd
-nechávati:to leave, let, let alone:1st
-obědvati:to dine, eat dinner:1st
-objednávati (si):to order:1st
-platiti:to pay:2nd
-podávati:to hand, pass, serve:1st
-prohlížeti:to look over, through:2nd, prohlížejí
-přáti:to wish:3rd, přeji, přál, + komu co
-přáti si:to wish (for oneself)
-souhlasiti:to agree:2nd, + s kým
-vraceti:to give back, return (something):2nd, vracejí
-vraceti se:to return, go back, come back
-vycházeti:to go out (on foot), leave:2nd, vycházejí
+čí - whose?
+číšník - waiter
+desert - dessert
+hnědý - brown
+hovězí - beef - subst. adj.
+chod - course (of a meal)
+chuť - appetite, taste - fem. soft
+kapusta - kale
+káva - coffee
+kost - bone - fem. soft
+kuchyně - kitchen - fem. soft
+lístek - ticket, note, sheet - gen. lístku
+jídelní lístek - menu
+moučník - pastry
+nápoj - beverage - inan. soft
+omáčka - sauce, gravy
+pečeně - roast meat - fem. soft
+pivo - beer
+polévka - soup
+předkrm - hors d'oeuvres, appetizer
+příští - future, next
+restaurace - restaurant - fem. soft
+rozmluva - conversation
+ryba - fish
+rybí - fish (adj.)
+salát - lettuce, salad
+světlý - light, bright
+sýr - cheese - gen. sýra
+špenát - spinach
+šunka - ham
+telecí - veal - subst. adj.
+účet - bill, account - gen. účtu
+vejce - egg - neut. soft
+vrchní - upper, chief/headwaiter - subst. adj.
+výborný - fine, excellent
+zelenina - vegetables - mass noun
+doporučovati - to recommend - 3rd
+nechávati - to leave, let, let alone - 1st
+obědvati - to dine, eat dinner - 1st
+objednávati (si) - to order - 1st
+platiti - to pay - 2nd
+podávati - to hand, pass, serve - 1st
+prohlížeti - to look over, through - 2nd, prohlížejí
+přáti - to wish - 3rd, přeji, přál, + komu co
+přáti si - to wish (for oneself)
+souhlasiti - to agree - 2nd, + s kým
+vraceti - to give back, return (something) - 2nd, vracejí
+vraceti se - to return, go back, come back
+vycházeti - to go out (on foot), leave - 2nd, vycházejí
 MCG Ch. 12 (Gramm.)
-restaurace:restaurant (nom.)
-restaurace:restaurant (gen.)
-restauraci:restaurant (dat.)
-restauraci:restaurant (acc.)
-restaurace:restaurant (voc.)
-restauraci:restaurant (prep.)
-restaurací:restaurant (inst.)
-kuchyně:kitchen (nom.)
-kuchyně:kitchen (gen.)
-kuchyni:kitchen (dat.)
-kuchyni:kitchen (acc.)
-kuchyně:kitchen (voc.)
-kuchyni:kitchen (prep.)
-kuchyní:kitchen (inst.)
-kniha:book (nom.)
-knihy:book (gen.)
-knize:book (dat.)
-knihu:book (acc.)
-kniho:book (voc.)
-knize:book (prep.)
-knihou:book (inst.)
-kost:bone (nom.)
-kosti:bone (gen.)
-kosti:bone (dat.)
-kost:bone (acc.)
-kosti:bone (voc.)
-kosti:bone (prep.)
-kostí:bone (inst.)
-tužka:pencil (nom.)
-tužky:pencil (gen.)
-tužce:pencil (dat.)
-tužku:pencil (acc.)
-tužko:pencil (voc.)
-tužce:pencil (prep.)
-tužkou:pencil (inst.)
-příští:future, next (masc., nom. voc.)
-příštího:future, next (masc., gen.)
-příštímu:future, next (masc., dat.)
-příští:future, next (inan., acc.)
-příštího:future, next (anim., acc.)
-příštím:future, next (masc., prep.)
-příštím:future, next (masc., inst.)
-příští:future, next (fem., nom. voc.)
-příští:future, next (fem., gen.)
-příští:future, next (fem., dat.)
-příští:future, next (fem., acc.)
-příští:future, next (fem., prep.)
-příští:future, next (fem., inst.)
-příští:future, next (neut., nom. voc.)
-příštího:future, next (neut., gen.)
-příštímu:future, next (neut., dat.)
-příští:future, next (neut., acc.)
-příštím:future, next (neut., prep.)
-příštím:future, next (neut., inst.)
-její:her, hers:soft adj.
-který:which (one)?/who, which, that (rel.):hard adj.
-Ten žák, který zde není, je můj přítel.:The student who isn't here is my friend.
-Ten pán, kterého neznáte, je náš učitel.:That gentleman, whom you don't know, is our teacher.
-Kniha, kterou čtete, je moje.:The book which you are reading is mine.
-Pero, kterým píšete, je špatné.:The pen with which you are writing is a bad one.
-Nevíte, čí je ten dům?:Don't you know whose house that is?
-Čím perem píšete?:With whose pen are you writing?
-Co si přejete?:What do you wish?
-Dobrou chuť!:Good appetite!
-nejdřív(e):first (adv.)
+restaurace - restaurant (nom.)
+restaurace - restaurant (gen.)
+restauraci - restaurant (dat.)
+restauraci - restaurant (acc.)
+restaurace - restaurant (voc.)
+restauraci - restaurant (prep.)
+restaurací - restaurant (inst.)
+kuchyně - kitchen (nom.)
+kuchyně - kitchen (gen.)
+kuchyni - kitchen (dat.)
+kuchyni - kitchen (acc.)
+kuchyně - kitchen (voc.)
+kuchyni - kitchen (prep.)
+kuchyní - kitchen (inst.)
+kniha - book (nom.)
+knihy - book (gen.)
+knize - book (dat.)
+knihu - book (acc.)
+kniho - book (voc.)
+knize - book (prep.)
+knihou - book (inst.)
+kost - bone (nom.)
+kosti - bone (gen.)
+kosti - bone (dat.)
+kost - bone (acc.)
+kosti - bone (voc.)
+kosti - bone (prep.)
+kostí - bone (inst.)
+tužka - pencil (nom.)
+tužky - pencil (gen.)
+tužce - pencil (dat.)
+tužku - pencil (acc.)
+tužko - pencil (voc.)
+tužce - pencil (prep.)
+tužkou - pencil (inst.)
+příští - future, next (masc., nom. voc.)
+příštího - future, next (masc., gen.)
+příštímu - future, next (masc., dat.)
+příští - future, next (inan., acc.)
+příštího - future, next (anim., acc.)
+příštím - future, next (masc., prep.)
+příštím - future, next (masc., inst.)
+příští - future, next (fem., nom. voc.)
+příští - future, next (fem., gen.)
+příští - future, next (fem., dat.)
+příští - future, next (fem., acc.)
+příští - future, next (fem., prep.)
+příští - future, next (fem., inst.)
+příští - future, next (neut., nom. voc.)
+příštího - future, next (neut., gen.)
+příštímu - future, next (neut., dat.)
+příští - future, next (neut., acc.)
+příštím - future, next (neut., prep.)
+příštím - future, next (neut., inst.)
+její - her, hers - soft adj.
+který - which (one)?/who, which, that (rel.) - hard adj.
+Ten žák, který zde není, je můj přítel. - The student who isn't here is my friend.
+Ten pán, kterého neznáte, je náš učitel. - That gentleman, whom you don't know, is our teacher.
+Kniha, kterou čtete, je moje. - The book which you are reading is mine.
+Pero, kterým píšete, je špatné. - The pen with which you are writing is a bad one.
+Nevíte, čí je ten dům? - Don't you know whose house that is?
+Čím perem píšete? - With whose pen are you writing?
+Co si přejete? - What do you wish?
+Dobrou chuť! - Good appetite!
+nejdřív(e) - first (adv.)

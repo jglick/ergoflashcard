@@ -1,71 +1,71 @@
 # -*- Czech-Quiz -*-
 
 ComCz L. 9 (Vocab.)
-bezpečnost:safety, security
-boháč:rich man
-brát na lehkou váhu:to make light of something:impf.
-cítit:to feel:impf.
-cukrovka:diabetes
-čert:devil
-divoký:wild
-dvojí:of two kinds, sorts
-hrob:grave, tomb
-jed:poison
-kdysi:at one time, once
-lesnictví:forestry
-majetek:property, possession
-maturita:GCE examination, graduation
-majitel:owner
-minule:last time
-náklad:charge, expense
-namáhavý:difficult, hard
-natočit:to shoot, record (film):perf.
-nedostupný:inaccessible
-nepřítel:enemy
-nespokojenost:dissatisfaction
-odhad:judgement, estimation
-odmítat:to reject, turn down (impf.)
-odmítnout:to reject, turn down (perf.)
-okouzlit:to fascinate:perf., + koho čím
-okouzlující:facinating
-opona:curtain
-oznamovat:to announce, inform (impf.):+ komu co
-oznámit:to announce, inform (perf.):+ komu co
-pád:(grammatical) case
-počáteční:initial, opening
-počítat:to take a count on:impf., + s čím
-popel:ash:masc. hard
-potíž:difficulty, trouble:fem.
-požadavek:requirement
-pronásledovat:to pursue, haunt:impf.
-proslulý:famous
-předepisovaný:prescribed
-přehnaný:excessive, exorbitant
-překvapovat:to surprise (impf.):+ koho čím
-překvapit:to surprise (perf.):+ koho čím
-přidat se:to join, add:perf., + k čemu
-připadat:to seem:impf., + čemu
-rozhodovat:to decide (impf.):+ o čem
-rozhodnout:to decide (perf.):+ o čem
-rybářství:fishing
-secese:Jugendstill, art nouveau:fem.
-sedlo:saddle(-back)
-skutečnost:reality
-svěží:fresh
-tajit:to conceal:impf., + co před čím
-tehdy:at that time, then
-tenkrát:at the time, then
-tentokrát:this time
-tištěný:printed (part. adj.)
-tleskat:to applaud:impf., + komu
-únik:escape
-úroveň:standard (noun):fem.
-uvést:to show, perform (film):perf., uvedu
-vlídný:cozy (weather)
-vypravovat/vyprávět:to narrate:impf., + co komu o čem
-záležitost:matter
-zdokonalovat:to perfect, make perfect (impf.)
-zdokonalit:to perfect, make perfect (perf.)
-změnit:to change:perf.
-znamenat:to mean:impf.
-železný:iron (adj.)
+bezpečnost - safety, security
+boháč - rich man
+brát na lehkou váhu - to make light of something - impf.
+cítit - to feel - impf.
+cukrovka - diabetes
+čert - devil
+divoký - wild
+dvojí - of two kinds, sorts
+hrob - grave, tomb
+jed - poison
+kdysi - at one time, once
+lesnictví - forestry
+majetek - property, possession
+maturita - GCE examination, graduation
+majitel - owner
+minule - last time
+náklad - charge, expense
+namáhavý - difficult, hard
+natočit - to shoot, record (film) - perf.
+nedostupný - inaccessible
+nepřítel - enemy
+nespokojenost - dissatisfaction
+odhad - judgement, estimation
+odmítat - to reject, turn down (impf.)
+odmítnout - to reject, turn down (perf.)
+okouzlit - to fascinate - perf., + koho čím
+okouzlující - facinating
+opona - curtain
+oznamovat - to announce, inform (impf.) - + komu co
+oznámit - to announce, inform (perf.) - + komu co
+pád - (grammatical) case
+počáteční - initial, opening
+počítat - to take a count on - impf., + s čím
+popel - ash - masc. hard
+potíž - difficulty, trouble - fem.
+požadavek - requirement
+pronásledovat - to pursue, haunt - impf.
+proslulý - famous
+předepisovaný - prescribed
+přehnaný - excessive, exorbitant
+překvapovat - to surprise (impf.) - + koho čím
+překvapit - to surprise (perf.) - + koho čím
+přidat se - to join, add - perf., + k čemu
+připadat - to seem - impf., + čemu
+rozhodovat - to decide (impf.) - + o čem
+rozhodnout - to decide (perf.) - + o čem
+rybářství - fishing
+secese - Jugendstill, art nouveau - fem.
+sedlo - saddle(-back)
+skutečnost - reality
+svěží - fresh
+tajit - to conceal - impf., + co před čím
+tehdy - at that time, then
+tenkrát - at the time, then
+tentokrát - this time
+tištěný - printed (part. adj.)
+tleskat - to applaud - impf., + komu
+únik - escape
+úroveň - standard (noun) - fem.
+uvést - to show, perform (film) - perf., uvedu
+vlídný - cozy (weather)
+vypravovat/vyprávět - to narrate - impf., + co komu o čem
+záležitost - matter
+zdokonalovat - to perfect, make perfect (impf.)
+zdokonalit - to perfect, make perfect (perf.)
+změnit - to change - perf.
+znamenat - to mean - impf.
+železný - iron (adj.)

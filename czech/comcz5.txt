@@ -1,174 +1,174 @@
 # -*- Czech-Quiz -*-
 
 ComCz L. 5 (Misc. -- Doplňující)
-bránit:to defend, fight for:impf.
-činnost:activity
-dávat najevo:to show, to make plain (impf.)
-dobročinný:charitable
-dozvědět se:to learn of:perf., dozvím se, + o čem
-intervenovat:to intervene, plead for:impf., + za co
-jednotlivec:individual
-litovat:to commiserate:impf., + čeho (koho?)
-ochranka:safeguard
-smát se:to laugh:impf., směji se, + komu
-patos:pathos:masc. hard
-pumový:bombing (adj.)
-shodnout se:to agree, get along:perf., + na čem
-stydět se:to be ashamed of:impf., + za co
-titul:title:masc. hard
-unikat:to escape (impf.):+ komu, před čím
-uniknout:to escape (perf.):+ komu, před čím
-útok:attack
-vážit si:to respect:impf., + koho (gen.) za co
-věrnost:loyalty, faith
-veřejnost:(the) public
-vypuknout:to break out:perf.
+bránit - to defend, fight for - impf.
+činnost - activity
+dávat najevo - to show, to make plain (impf.)
+dobročinný - charitable
+dozvědět se - to learn of - perf., dozvím se, + o čem
+intervenovat - to intervene, plead for - impf., + za co
+jednotlivec - individual
+litovat - to commiserate - impf., + čeho (koho?)
+ochranka - safeguard
+smát se - to laugh - impf., směji se, + komu
+patos - pathos - masc. hard
+pumový - bombing (adj.)
+shodnout se - to agree, get along - perf., + na čem
+stydět se - to be ashamed of - impf., + za co
+titul - title - masc. hard
+unikat - to escape (impf.) - + komu, před čím
+uniknout - to escape (perf.) - + komu, před čím
+útok - attack
+vážit si - to respect - impf., + koho (gen.) za co
+věrnost - loyalty, faith
+veřejnost - (the) public
+vypuknout - to break out - perf.
 
 ComCz L. 5 (Vocab.)
-barokní:baroque
-bledý:pale
-brána:gate
-být střední postavy:to be medium height
-čin:act, deed
-dojem:impression:masc. hard
-dosahovat:to reach, gain (impf.):+ čeho
-dosáhnout:to reach, gain (perf.):+ čeho
-držet slovo:to keep one's word:impf.
-důsledek:consequence
-hubený:thin
-kdysi:at one time, once
-knír:moustache
-kudrnatý:curly
-náhodou:incidentally
-nesmrtelný:immortal
-odepsat:to write back:perf., odepíšu, + komu
-ohled:regard, respect, consideration
-opálený:suntanned
-ostatní:the other (people), the rest
-piha:freckle
-pleť:complexion:fem.
-plnoštíhlý:half-slim
-povaha:character, nature
-právo:right, law
-projet:to pass (e.g. through a gate):perf., projedu
-přesto:in spite of
-příbuzný:(a) relative:subst. adj.
-reagovat:to respond (impf.):+ na co
-zareagovat:to respond (perf.):+ na co
-schůzka:meeting
-skupina:group
-snědý:tanned
-snít:to dream:impf., + o čem
-spoléhat se:to rely (up)on (impf.):+ na čem
-spolehnout se:to rely (up)on (perf.):+ na čem
-štíhlý:slim
-tunel:tunnel:masc. hard
-úspěšný:successful
-vláda:government
-vlastnost:quality, character, feature
-vlnitý:wavy
-vráska:wrinkle
-vybírat (si):to choose (impf.)
-vybrat (si):to choose (perf.):vyberu
-vyniknout:to excel, surpass:perf., + nad čím
-výsledek:result, outcome
-vzhled:looks, exterior
-zaujmout:to engage, absorb:perf., zaujmu, + koho čím
-zdát se:to seem:impf.
+barokní - baroque
+bledý - pale
+brána - gate
+být střední postavy - to be medium height
+čin - act, deed
+dojem - impression - masc. hard
+dosahovat - to reach, gain (impf.) - + čeho
+dosáhnout - to reach, gain (perf.) - + čeho
+držet slovo - to keep one's word - impf.
+důsledek - consequence
+hubený - thin
+kdysi - at one time, once
+knír - moustache
+kudrnatý - curly
+náhodou - incidentally
+nesmrtelný - immortal
+odepsat - to write back - perf., odepíšu, + komu
+ohled - regard, respect, consideration
+opálený - suntanned
+ostatní - the other (people), the rest
+piha - freckle
+pleť - complexion - fem.
+plnoštíhlý - half-slim
+povaha - character, nature
+právo - right, law
+projet - to pass (e.g. through a gate) - perf., projedu
+přesto - in spite of
+příbuzný - (a) relative - subst. adj.
+reagovat - to respond (impf.) - + na co
+zareagovat - to respond (perf.) - + na co
+schůzka - meeting
+skupina - group
+snědý - tanned
+snít - to dream - impf., + o čem
+spoléhat se - to rely (up)on (impf.) - + na čem
+spolehnout se - to rely (up)on (perf.) - + na čem
+štíhlý - slim
+tunel - tunnel - masc. hard
+úspěšný - successful
+vláda - government
+vlastnost - quality, character, feature
+vlnitý - wavy
+vráska - wrinkle
+vybírat (si) - to choose (impf.)
+vybrat (si) - to choose (perf.) - vyberu
+vyniknout - to excel, surpass - perf., + nad čím
+výsledek - result, outcome
+vzhled - looks, exterior
+zaujmout - to engage, absorb - perf., zaujmu, + koho čím
+zdát se - to seem - impf.
 
 ComCz L. 5 (Vocab. -- Vlastnosti)
-bojácný:timid
-bezohledný:ruthless, inconsiderate
-ctižádostivý:ambitious
-důkladný:thorough
-lehkomyslný:frivolous, reckless, easygoing
-líný:lazy
-nejistý:insecure
-obětavý:self-sacrificing
-odpovědný:responsible
-ohleduplný:considerate, thoughtful
-opatrný:cautious, careful
-pilný:diligent
-plachý:shy, self-conscious
-povrchní:superficial
-pozorný:attentive, considerate
-pracovitý:hard-working
-přátelský:friendly
-pyšný:proud
-sebevědomý:self-confident
-skromný:modest
-sobecký:selfish
-spolehlivý:reliable
-staromódní:old-fashioned
-starostlivý:concerned, anxious
-statečný:brave
-trpělivý:patient
-unavený:tired
-upřímný:sincere, frank
-věrný:loyal, faithful
-závistivý:envious
-zvědavý:curious
-žárlivý:jealous
+bojácný - timid
+bezohledný - ruthless, inconsiderate
+ctižádostivý - ambitious
+důkladný - thorough
+lehkomyslný - frivolous, reckless, easygoing
+líný - lazy
+nejistý - insecure
+obětavý - self-sacrificing
+odpovědný - responsible
+ohleduplný - considerate, thoughtful
+opatrný - cautious, careful
+pilný - diligent
+plachý - shy, self-conscious
+povrchní - superficial
+pozorný - attentive, considerate
+pracovitý - hard-working
+přátelský - friendly
+pyšný - proud
+sebevědomý - self-confident
+skromný - modest
+sobecký - selfish
+spolehlivý - reliable
+staromódní - old-fashioned
+starostlivý - concerned, anxious
+statečný - brave
+trpělivý - patient
+unavený - tired
+upřímný - sincere, frank
+věrný - loyal, faithful
+závistivý - envious
+zvědavý - curious
+žárlivý - jealous
 
 ComCz L. 5 (Gramm. B -- Decl. num.)/Deklinace číslovek
-dva:two (masc. nom.)
-dvě:two (fem. nom.)
-dvě:two (neut. nom.)
-dvou:two (gen.)
-dvěma:two (dat.)
-dva:two (masc. acc.)
-dvě:two (fem. acc.)
-dvě:two (neut. acc.)
-dvou:two (loc.)
-dvěma:two (inst.)
-oba:both (masc. nom.)
-obě:both (fem. nom.)
-obě:both (neut. nom.)
-obou:both (gen.)
-oběma:both (dat.)
-oba:both (masc. acc.)
-obě:both (fem. acc.)
-obě:both (neut. acc.)
-obou:both (loc.)
-oběma:both (inst.)
-tři:three (nom.)
-tří:three (gen.)
-třem:three (dat.)
-tři:three (acc.)
-třech:three (loc.)
-třemi:three (inst.)
-čtyři:four (nom.)
-čtyř:four (gen.)
-čtyřem:four (dat.)
-čtyři:four (acc.)
-čtyřech:four (loc.)
-čtyřmi:four (inst.)
-pět:five (nom.)
-pěti:five (gen.)
-pěti:five (dat.)
-pět:five (acc.)
-pěti:five (loc.)
-pěti:five (inst.)
-dvacet pět studentů:twenty-five students (nom.)
-dvaceti pěti studentů:twenty-five students (gen.)
-dvaceti pěti studentům:twenty-five students (dat.)
-dvacet pět studentů:twenty-five students (acc.)
-dvaceti pěti studentech:twenty-five students (loc.)
-dvaceti pěti studenty:twenty-five students (inst.)
-Byli tam všichni kromě pěti studentů.:Everyone was there except five students.
-Řekni to těm deseti kolegům.:Tell it to those ten colleagues.
-Diskutovali o dvaceti nových knihách.:They discussed twenty new books.
-Mluvil jsem se svými dvěma kamarádkami.:I spoke with my two girl-friends.
-sto:one hundred
-dvě stě:two hundred
-pět set:five hundred
-tisíc:one thousand
-dva tisíce:two thousand
-pět tisíc:five thousand
-se sto korunami/se stem korun:with one hundred crowns
-mnoho studentek:many female students (nom.)
-mnoha studentek:many female students (gen.)
-mnoha studentkám:many female students (dat.)
-mnoho studentek:many female students (acc.)
-mnoha studentkách:many female students (loc.)
-mnoha studentkami:many female students (inst.)
+dva - two (masc. nom.)
+dvě - two (fem. nom.)
+dvě - two (neut. nom.)
+dvou - two (gen.)
+dvěma - two (dat.)
+dva - two (masc. acc.)
+dvě - two (fem. acc.)
+dvě - two (neut. acc.)
+dvou - two (loc.)
+dvěma - two (inst.)
+oba - both (masc. nom.)
+obě - both (fem. nom.)
+obě - both (neut. nom.)
+obou - both (gen.)
+oběma - both (dat.)
+oba - both (masc. acc.)
+obě - both (fem. acc.)
+obě - both (neut. acc.)
+obou - both (loc.)
+oběma - both (inst.)
+tři - three (nom.)
+tří - three (gen.)
+třem - three (dat.)
+tři - three (acc.)
+třech - three (loc.)
+třemi - three (inst.)
+čtyři - four (nom.)
+čtyř - four (gen.)
+čtyřem - four (dat.)
+čtyři - four (acc.)
+čtyřech - four (loc.)
+čtyřmi - four (inst.)
+pět - five (nom.)
+pěti - five (gen.)
+pěti - five (dat.)
+pět - five (acc.)
+pěti - five (loc.)
+pěti - five (inst.)
+dvacet pět studentů - twenty-five students (nom.)
+dvaceti pěti studentů - twenty-five students (gen.)
+dvaceti pěti studentům - twenty-five students (dat.)
+dvacet pět studentů - twenty-five students (acc.)
+dvaceti pěti studentech - twenty-five students (loc.)
+dvaceti pěti studenty - twenty-five students (inst.)
+Byli tam všichni kromě pěti studentů. - Everyone was there except five students.
+Řekni to těm deseti kolegům. - Tell it to those ten colleagues.
+Diskutovali o dvaceti nových knihách. - They discussed twenty new books.
+Mluvil jsem se svými dvěma kamarádkami. - I spoke with my two girl-friends.
+sto - one hundred
+dvě stě - two hundred
+pět set - five hundred
+tisíc - one thousand
+dva tisíce - two thousand
+pět tisíc - five thousand
+se sto korunami/se stem korun - with one hundred crowns
+mnoho studentek - many female students (nom.)
+mnoha studentek - many female students (gen.)
+mnoha studentkám - many female students (dat.)
+mnoho studentek - many female students (acc.)
+mnoha studentkách - many female students (loc.)
+mnoha studentkami - many female students (inst.)

@@ -23,8 +23,10 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.Reader;
-import java.util.StringTokenizer;
-import java.util.Vector;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Iterator;
+import java.util.List;
 
 public final class DataLine {
     
@@ -42,7 +44,7 @@ public final class DataLine {
     public String toString() {
         StringBuffer buf = new StringBuffer(section);
         for (int i = 0; i < sides.length; i++) {
-            buf.append(':');
+            buf.append(" - ");
             buf.append(sides[i]);
         }
         return buf.toString();
@@ -61,34 +63,25 @@ public final class DataLine {
             Reader r = new InputStreamReader(is, "UTF-8");
             BufferedReader br = new BufferedReader(r);
             String line;
-            Vector entries = new Vector(250);
+            List entries = new ArrayList(250);
             String currSec = null;
             while ((line = br.readLine()) != null) {
                 if (line.startsWith("#") || line.length() == 0) continue;
-                // XXX handle some whitespace on the line
-                if (line.indexOf(":") == -1) {
+                if (line.indexOf(" - ") == -1) {
                     currSec = line;
                     continue;
                 }
-                if (currSec == null) {
+                if (currSec == null)
                     throw new IOException("Must set a section before the first line");
-                }
-                Vector fields = new Vector(4);
-                // XXX handle backslashed metachars
-                StringTokenizer colonTok =
-                        new StringTokenizer(currSec + ":" + line, ":");
-                int product = 1;
-                while (colonTok.hasMoreTokens()) {
-                    String field = colonTok.nextToken();
-                    StringTokenizer slashTok = new StringTokenizer(field, "/");
-                    Vector alts = new Vector(1);
-                    while (slashTok.hasMoreTokens()) {
-                        // XXX backslashes would be better, this is temporary:
-                        String alt = slashTok.nextToken().replace('|', ':');
-                        alts.addElement(alt);
-                    }
-                    product *= alts.size();
-                    fields.addElement(alts);
+                List fields = new ArrayList(4);
+                List sectionAlts = split(currSec, " / ");
+                fields.add(sectionAlts);
+                int product = sectionAlts.size();
+                Iterator it = split(line, " - ").iterator();
+                while (it.hasNext()) {
+                    List sideAlts = split((String)it.next(), " / ");
+                    fields.add(sideAlts);
+                    product *= sideAlts.size();
                 }
                 if (fields.size() < 2 || product == 0)
                     throw new IOException("Bad: " + line);
@@ -97,25 +90,38 @@ public final class DataLine {
                     String[] sides = new String[fields.size() - 1];
                     int j = i;
                     for (int k = 0; k < fields.size(); k++) {
-                        Vector alts = (Vector) fields.elementAt(k);
-                        String alt = (String) alts.elementAt(j % alts.size());
-                        if (k == 0) {
+                        List alts = (List)fields.get(k);
+                        String alt = ((String)alts.get(j % alts.size())).trim();
+                        if (k == 0)
                             section = alt;
-                        } else {
+                        else
                             sides[k - 1] = alt;
-                        }
                         j /= alts.size();
                     }
                     if (j != 0) throw new Error("miscalc'd alts");
-                    entries.addElement(new DataLine(section, sides));
+                    entries.add(new DataLine(section, sides));
                 }
             }
-            DataLine[] toRet = new DataLine[entries.size()];
-            entries.copyInto(toRet);
-            return toRet;
+            return (DataLine[])entries.toArray(new DataLine[entries.size()]);
         } finally {
             is.close();
         }
+    }
+    
+    private static List split(String text, String sep) {
+        int i = text.indexOf(sep);
+        if (i == -1) {
+            return Collections.singletonList(text);
+        }
+        List l = new ArrayList(2);
+        l.add(text.substring(0, i));
+        int j;
+        while ((j = text.indexOf(sep, i + sep.length())) != -1) {
+            l.add(text.substring(i + sep.length(), j));
+            i = j;
+        }
+        l.add(text.substring(i + sep.length()));
+        return l;
     }
     
 }

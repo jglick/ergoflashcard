@@ -1,84 +1,84 @@
 # -*- Czech-Quiz -*-
 
 ComCz L. 3 (Misc. -- Doplňující)
-celkem:together (adv.)
-civilizace:civilization
-chovat:to breed, raise (animals):impf.
-jehněčí:lamb:neut. subst. adj.
-kapela:pop group
-kočka:cat
-koza:goat
-kráva:cow
-kuchařka:cookbook
-kůň:horse:toho koně
-majetek:possession
-osobitý:individual, peculiar
-ovce:sheep:fem.
-pes:dog:toho psa
-sláva:fame
-slušný:proper
-utíkat:to run away (impf.):+ komu
-výročí:anniversary
-vyrůstat:to grow up (impf.)
-vyrůst:to grow up (perf.):vyrostu
-živit se:to work, earn one's living (impf.):+ čím
-uživit se:to work, earn one's living (perf.):+ čím
+celkem - together (adv.)
+civilizace - civilization
+chovat - to breed, raise (animals) - impf.
+jehněčí - lamb - neut. subst. adj.
+kapela - pop group
+kočka - cat
+koza - goat
+kráva - cow
+kuchařka - cookbook
+kůň - horse - toho koně
+majetek - possession
+osobitý - individual, peculiar
+ovce - sheep - fem.
+pes - dog - toho psa
+sláva - fame
+slušný - proper
+utíkat - to run away (impf.) - + komu
+výročí - anniversary
+vyrůstat - to grow up (impf.)
+vyrůst - to grow up (perf.) - vyrostu
+živit se - to work, earn one's living (impf.) - + čím
+uživit se - to work, earn one's living (perf.) - + čím
 
 ComCz L. 3 (Vocab.)
-antický:antique, ancient
-blahopřát:to congratulate:impf., + ke komu
-díky:thanks to, owing to:+ komu (čemu)
-dřez:sink:masc. hard
-host:guest
-hotový:ready, finished
-hrnec:pot
-chlebíček:sandwich
-ilustrovat:to illustrate:impf.
-kvůli:on account of, because of:+ čemu
-oboje:both kinds of, sorts of (numeral)
-odložit si:to take off (clothing):perf.
-orchidej:orchid:fem.
-pánev:pan:fem.
-podnikat:to undertake:impf.
-police:shelf:fem.
-Popelka:Cinderella
-promoce:graduation ceremony:fem.
-prosklený:glass (adj.)
-prostírat:to set the table (impf.)
-prostřít:to set the table (perf.):prostřu (?)
-prostřední:middle, central
-příbor:cutlery
-připít (si):to drink to a person, clink glasses:perf.
-připravený:ready
-sklenička:glass
-skleník:glass-case
-slib:promise:masc. hard
-Sněhurka:Snowwhite
-spíž:pantry:fem.
-svatba:wedding
-sváteční:festive
-svátek:namesday, holiday
-svícen:candlestick
-syrový:raw
-šálek:cup
-šampaňské:champagne:neut. subst. adj.
-štěstí:happiness, luck
-talíř:plate:masc.
-trpaslík:dwarf
-ubrousek:napkin
-ubrus:tablecloth:masc. hard
-účes:hairstyle:masc. hard
-úroveň:level:fem.
-úspěch:success
-Vánoce:Christmas:masc. pl.
-vařený:boiled
-vedoucí:head, manager:subst. adj.
-Velikonoce:Easter:masc. pl.
-věřit:to believe (impf.):+ komu, v co
-uvěřit:to believe (perf.):+ komu, v co
-zapomínat:to forget (impf.):+ na co
-zapomenout:to forget (perf.):zapomněl, + na co
-zásuvka:drawer, socket
-zdraví:health
-zvyšovat:to increase (impf.)
-zvýšit:to increase (perf.)
+antický - antique, ancient
+blahopřát - to congratulate - impf., + ke komu
+díky - thanks to, owing to - + komu (čemu)
+dřez - sink - masc. hard
+host - guest
+hotový - ready, finished
+hrnec - pot
+chlebíček - sandwich
+ilustrovat - to illustrate - impf.
+kvůli - on account of, because of - + čemu
+oboje - both kinds of, sorts of (numeral)
+odložit si - to take off (clothing) - perf.
+orchidej - orchid - fem.
+pánev - pan - fem.
+podnikat - to undertake - impf.
+police - shelf - fem.
+Popelka - Cinderella
+promoce - graduation ceremony - fem.
+prosklený - glass (adj.)
+prostírat - to set the table (impf.)
+prostřít - to set the table (perf.) - prostřu (?)
+prostřední - middle, central
+příbor - cutlery
+připít (si) - to drink to a person, clink glasses - perf.
+připravený - ready
+sklenička - glass
+skleník - glass-case
+slib - promise - masc. hard
+Sněhurka - Snowwhite
+spíž - pantry - fem.
+svatba - wedding
+sváteční - festive
+svátek - namesday, holiday
+svícen - candlestick
+syrový - raw
+šálek - cup
+šampaňské - champagne - neut. subst. adj.
+štěstí - happiness, luck
+talíř - plate - masc.
+trpaslík - dwarf
+ubrousek - napkin
+ubrus - tablecloth - masc. hard
+účes - hairstyle - masc. hard
+úroveň - level - fem.
+úspěch - success
+Vánoce - Christmas - masc. pl.
+vařený - boiled
+vedoucí - head, manager - subst. adj.
+Velikonoce - Easter - masc. pl.
+věřit - to believe (impf.) - + komu, v co
+uvěřit - to believe (perf.) - + komu, v co
+zapomínat - to forget (impf.) - + na co
+zapomenout - to forget (perf.) - zapomněl, + na co
+zásuvka - drawer, socket
+zdraví - health
+zvyšovat - to increase (impf.)
+zvýšit - to increase (perf.)

@@ -57,7 +57,7 @@
 			))
       (insert cz (nth classnum pers-num)
 	      (if (string-equal cz+ "") "" (concat " " cz+))
-	      ":" (car pers-num) en (cadr pers-num) "\n"))))
+	      " - " (car pers-num) en (cadr pers-num) "\n"))))
 
 (defun czech-quiz-insert-noun-declension ()
   "Insert seven-case noun declension."
@@ -67,7 +67,7 @@
     (dolist (case (if czech-quiz-include-vocative
 		      czech-quiz-cases-voc
 		    czech-quiz-cases-no-voc))
-      (insert cz "-:" en " (" case ")\n"))))
+      (insert cz "- - " en " (" case ")\n"))))
 
 (defun czech-quiz-insert-noun-declension-with-plurals ()
   "Insert seven-case noun declension."
@@ -78,9 +78,9 @@
     (dolist (case (if czech-quiz-include-vocative
 		      czech-quiz-cases-voc
 		    czech-quiz-cases-no-voc))
-      (insert cz "-:" en1 " (" case ")\n"))
+      (insert cz "- - " en1 " (" case ")\n"))
     (dolist (case czech-quiz-cases-no-voc)
-      (insert cz "-:" en2 " (" case ")\n"))))
+      (insert cz "- - " en2 " (" case ")\n"))))
 
 ;; XXX add number, ignore voc. if requested
 (defun czech-quiz-insert-adjective-declension ()
@@ -109,7 +109,7 @@
 			"neut. loc."
 			"neut. inst."
 			))
-      (insert cz "-:" en " (" case-gen ")\n"))))
+      (insert cz "- - " en " (" case-gen ")\n"))))
 
 (defun czech-quiz-insert-perfective-vocab ()
   "Insert a pair of imperfect + perfect verb definitions."
@@ -123,23 +123,23 @@
 	 (en (read-from-minibuffer "English meaning: " "to "))
 	 (usage (read-from-minibuffer "Usage notes: "))
 	 (usage-append (if (string-equal usage "") "" (concat ", " usage))))
-    (insert impf-inf cz+-append ":" en " (impf.)"
+    (insert impf-inf cz+-append " - " en " (impf.)"
 	    (if (string-equal impf-conj "")
 		(if (string-equal usage "")
 		    ""
-		  (concat ":" usage))
+		  (concat " - " usage))
 	      (if (string-equal usage "")
-		  (concat ":" impf-conj)
-		(concat ":" impf-conj ", " usage)))
+		  (concat " - " impf-conj)
+		(concat " - " impf-conj ", " usage)))
 	    "\n"
-	    perf-inf cz+-append ":" en " (perf.)"
+	    perf-inf cz+-append " - " en " (perf.)"
 	    (if (string-equal perf-conj "")
 		(if (string-equal usage "")
 		    ""
-		  (concat ":" usage))
+		  (concat " - " usage))
 	      (if (string-equal usage "")
-		  (concat ":" perf-conj)
-		(concat ":" perf-conj ", " usage)))
+		  (concat " - " perf-conj)
+		(concat " - " perf-conj ", " usage)))
 	    "\n")))
 
 (defun czech-quiz-insert-prefixed-perfective-vocab ()
@@ -156,12 +156,12 @@
     (let* ((impf-inf (read-from-minibuffer "Imperfective infinitive (+ particles): "))
 	   (prefix (read-from-minibuffer "Perfective prefix: "))
 	   (conj (read-from-minibuffer "Conjugation & usage notes (incl. `*' for prefix): "))
-	   (conj-append (if (string-equal conj "") "" (concat ":" conj)))
+	   (conj-append (if (string-equal conj "") "" (concat " - " conj)))
 	   (impf-conj-append (string-regex-subst-all conj-append "\\*" ""))
 	   (perf-conj-append (string-regex-subst-all conj-append "\\*" prefix))
 	   (en (read-from-minibuffer "English meaning: " "to ")))
-      (insert impf-inf ":" en " (impf.)" impf-conj-append "\n"
-	      prefix impf-inf ":" en " (perf.)" perf-conj-append "\n"))))
+      (insert impf-inf " - " en " (impf.)" impf-conj-append "\n"
+	      prefix impf-inf " - " en " (perf.)" perf-conj-append "\n"))))
 
 (define-derived-mode czech-quiz-mode quiz-mode "Czech Quiz"
   "Major mode for editing Czech quiz data files.

@@ -1,64 +1,64 @@
 # -*- Czech-Quiz -*-
 
 ComCz L. 4 (Vocab.)
-buď..nebo..:either..or..
-dálka:distance
-doprovázet:to accompany, see (somebody) off (impf.)
-doprovodit:to accompany, see (somebody) off (perf.)
-fascinovat:to fascinate:impf., + koho čím
-houslista:violinist
-jednak..jednak..:partly.., partly..
-katalog:catalog
-klavírista:pianist
-konečně:finally
-kontrast:contrast
-kytka:flower (colloq.)
-ministerstvo:ministry
-ministerstvo financí:Ministry of Finance
-navrhovat:to suggest (impf.):+ komu co
-navrhnout:to suggest (perf.):+ komu co
-nebezpečný:dangerous
-nedávno:recently
-nekonečný:neverending
-nezapomenutelný:unforgettable
-obdivovat:to admire:impf.
-pochopit:to comprehend, grasp:perf.
-polopenze:half-board (?):fem.
-průvodce:guide (book or person):masc.
-předseda:chairman, president
-představit si:to imagine, fancy:perf.
-překvapit:to surprise (perf.):koho čím
-případ:case
-připomínat:to remind, recall (impf.):+ komu co
-připomenout:to remind, recall (perf.):připomněl, + komu co
-řešit:to solve:impf.
-sbírat:to collect (impf.)
-sezóna:season
-sleva:discount
-slibovat:to promise (impf.):komu co
-slíbit:to promise (perf.):komu co
-služební cesta:business trip
-soudce:judge:masc.
-starost:worry
-strávit:to spend (time):perf.
-středisko:center
-světlo:light
-symbol:symbol:masc. hard
-tajemný:mysterious
-termín:term, day, deadline
-tlumočnice:(fem.) interpreter
-ubytování:accommodation
-volno:free (adv.)
-všude:everywhere
-zájezd:tour
-zalévání:watering
-zalévat:to water (impf.)
-zalít:to water (perf.):zaleju
-zamykat:to lock (impf.)
-zamknout:to lock (perf.)
-zařizovat:to arrange (impf.)
-zařídit:to arrange (perf.)
-záviset:to depend on:impf., + na čem
-zhasínat:to turn off (impf.)
-zhasnout:to turn off (perf.)
-zkušený:experienced
+buď..nebo.. - either..or..
+dálka - distance
+doprovázet - to accompany, see (somebody) off (impf.)
+doprovodit - to accompany, see (somebody) off (perf.)
+fascinovat - to fascinate - impf., + koho čím
+houslista - violinist
+jednak..jednak.. - partly.., partly..
+katalog - catalog
+klavírista - pianist
+konečně - finally
+kontrast - contrast
+kytka - flower (colloq.)
+ministerstvo - ministry
+ministerstvo financí - Ministry of Finance
+navrhovat - to suggest (impf.) - + komu co
+navrhnout - to suggest (perf.) - + komu co
+nebezpečný - dangerous
+nedávno - recently
+nekonečný - neverending
+nezapomenutelný - unforgettable
+obdivovat - to admire - impf.
+pochopit - to comprehend, grasp - perf.
+polopenze - half-board (?) - fem.
+průvodce - guide (book or person) - masc.
+předseda - chairman, president
+představit si - to imagine, fancy - perf.
+překvapit - to surprise (perf.) - koho čím
+případ - case
+připomínat - to remind, recall (impf.) - + komu co
+připomenout - to remind, recall (perf.) - připomněl, + komu co
+řešit - to solve - impf.
+sbírat - to collect (impf.)
+sezóna - season
+sleva - discount
+slibovat - to promise (impf.) - komu co
+slíbit - to promise (perf.) - komu co
+služební cesta - business trip
+soudce - judge - masc.
+starost - worry
+strávit - to spend (time) - perf.
+středisko - center
+světlo - light
+symbol - symbol - masc. hard
+tajemný - mysterious
+termín - term, day, deadline
+tlumočnice - (fem.) interpreter
+ubytování - accommodation
+volno - free (adv.)
+všude - everywhere
+zájezd - tour
+zalévání - watering
+zalévat - to water (impf.)
+zalít - to water (perf.) - zaleju
+zamykat - to lock (impf.)
+zamknout - to lock (perf.)
+zařizovat - to arrange (impf.)
+zařídit - to arrange (perf.)
+záviset - to depend on - impf., + na čem
+zhasínat - to turn off (impf.)
+zhasnout - to turn off (perf.)
+zkušený - experienced

@@ -4,124 +4,124 @@ ComCz L. 8 (Gramm. A -- Whatever)
 # pending
 
 ComCz L. 8 (Vocab.)
-bitva:battle
-borůvka:blueberry
-bruslit:to skate:impf.
-částečně:partially
-čelo:head
-docházet:to occur, happen (null subject) (impf.):+ k čemu
-dojít:to occur, happen (null subject) (perf.):dojde, došlo, + k čemu
-domácí:native country (adj.)
-doporučovat:to recommend (impf.):+ komu co
-doporučit:to recommend (perf.):+ komu co
-dosud:up to now
-germanizace:Germanization
-houba:mushroom:gen. pl. hub
-chmel:hops:masc., gen. -e or -u
-intervence:intervention
-jednostranný:one-sided, unilateral
-kamenný:stone (adj.)
-království:kingdom
-léta:years:pl. of léto, gen. let
-líbat:to kiss:impf.
-motýl:butterfly:masc. hard
-nacházet se:to be found:impf.
-náklad:expense, cost
-národ:nation:gen. národa
-národní obrození:the National revival
-nazývat se:to be called:impf.
-nenávidět:to hate:impf.
-nesmysl:nonsense:masc. hard
-nezávislost:independence
-něžný:tender
-objevovat se:to appear (impf.)
-objevit se:to appear (perf.)
-objevovat:to discover (impf.)
-objevit:to discover (perf.)
-obor:branch
-obyvatel:inhabitant:masc. soft
-okupace:occupation
-ovlivňovat:to influence (impf.):+ koho čím
-ovlivnit:to influence (perf.):+ koho čím
-pěstovat:to cultivate, raise:impf.
-písmo:writing
-pokus:attempt, experiment:masc. hard
-porážka:defeat
-postavit:to build:perf.
-považovat:to consider:impf., co za co
-přerušovat:to interrupt (impf.)
-přerušit:to interrupt (perf.)
-převrat:coup d'état
-přijmout:to be admitted to, to receive (perf.):přijmu, přijal
-připojovat:to join (impf.):+ k čemu
-připojit:to join (perf.):+ k čemu
-průměrný:average (adj.)
-rekatolizace:re-Catholization
-rod:family, house
-rozdíl:difference:masc. hard
-rozdílný:different
-rozloha:area
-rozvíjet:to open out, bring out (abilities) (impf.)
-rozvinout:to open out, bring out (abilities) (perf.)
-rozvíjet se:to develop (impf.)
-rozvinout se:to develop (perf.)
-rozvinutý:developed
-rozvoj:progress:masc.
-rozvojová země:developing country
-rybník:pond
-sametový:velvet (adj.)
-sbírka:collection
-slovanský:Slavic
-sousedit:to adjoin:impf., s čím
-společnost:society
-staroslověnský:Old Church Slav(on)ic
-stát za co:to be worth (something):stojí
-stát se:to become:perf., stanu se, + kým
-stav:estate:masc. hard, hist.
-terminologie:terminology
-trh:market
-tržnice:marketplace
-tvořit:to create, form (impf.)
-vytvořit:to create, form (perf.)
-krást:to steal (impf.):kradnu, + komu co
-ukrást:to steal (perf.):ukradnu, + komu co
-určovat:to set (a price), determine (impf.)
-určit:to set (a price), determine (perf.)
-úrodný:fertile
-uvádět:to perform, show (impf.)
-uvést:to perform, show (perf.):uvedu, uvedl
-vědec:scientist:vědce
-vědecký:scientific, learned
-Velkomoravská říše:The Great Moravian Empire
-velmoc:power:fem.
-věnovat se:to do (sports), to go in for:impf., + čemu
-vládnout:to govern, rule:impf.
-vlek:ski lift
-volby:election:fem. pl
-všestranný:comprehensive
-vybavovat:to equip (impf.):+ co čím
-vybavit:to equip (perf.):+ co čím
-vybudovat:to build (up):perf.
-vyhnout se:to avoid:perf., + čemu
-vycházet:to come out, be issued (as a book) (impf.)
-vyjít:to come out, be issued (as a book) (perf.):vyjde, vyšel
-výjimka:exception
-vynalézt:to invent, devise:perf., vynalezu
-vývoj:development:masc.
-význam:importance
-významný:important, outstanding
-vzájemný:mutual, reciprocal
-vznikat:to come into being, arise (impf.)
-vzniknout:to come into being, arise (perf.)
-základ:foundation
-zánik:decline
-zaostávat:to be behind, be retarded (impf.):za čím
-zaostat:to be behind, be retarded (perf.):zaostanu (?), za čím
-zastavit:to stop (something), halt:perf.
-zejména:especially
-získávat:to gain, obtain (impf.)
-získat:to gain, obtain (perf.)
-způsobovat:to cause (impf.)
-způsobit:to cause (perf.)
-zvědavost:curiosity
-zvolit:to elect:perf., za koho (kým?)
+bitva - battle
+borůvka - blueberry
+bruslit - to skate - impf.
+částečně - partially
+čelo - head
+docházet - to occur, happen (null subject) (impf.) - + k čemu
+dojít - to occur, happen (null subject) (perf.) - dojde, došlo, + k čemu
+domácí - native country (adj.)
+doporučovat - to recommend (impf.) - + komu co
+doporučit - to recommend (perf.) - + komu co
+dosud - up to now
+germanizace - Germanization
+houba - mushroom - gen. pl. hub
+chmel - hops - masc., gen. -e or -u
+intervence - intervention
+jednostranný - one-sided, unilateral
+kamenný - stone (adj.)
+království - kingdom
+léta - years - pl. of léto, gen. let
+líbat - to kiss - impf.
+motýl - butterfly - masc. hard
+nacházet se - to be found - impf.
+náklad - expense, cost
+národ - nation - gen. národa
+národní obrození - the National revival
+nazývat se - to be called - impf.
+nenávidět - to hate - impf.
+nesmysl - nonsense - masc. hard
+nezávislost - independence
+něžný - tender
+objevovat se - to appear (impf.)
+objevit se - to appear (perf.)
+objevovat - to discover (impf.)
+objevit - to discover (perf.)
+obor - branch
+obyvatel - inhabitant - masc. soft
+okupace - occupation
+ovlivňovat - to influence (impf.) - + koho čím
+ovlivnit - to influence (perf.) - + koho čím
+pěstovat - to cultivate, raise - impf.
+písmo - writing
+pokus - attempt, experiment - masc. hard
+porážka - defeat
+postavit - to build - perf.
+považovat - to consider - impf., co za co
+přerušovat - to interrupt (impf.)
+přerušit - to interrupt (perf.)
+převrat - coup d'état
+přijmout - to be admitted to, to receive (perf.) - přijmu, přijal
+připojovat - to join (impf.) - + k čemu
+připojit - to join (perf.) - + k čemu
+průměrný - average (adj.)
+rekatolizace - re-Catholization
+rod - family, house
+rozdíl - difference - masc. hard
+rozdílný - different
+rozloha - area
+rozvíjet - to open out, bring out (abilities) (impf.)
+rozvinout - to open out, bring out (abilities) (perf.)
+rozvíjet se - to develop (impf.)
+rozvinout se - to develop (perf.)
+rozvinutý - developed
+rozvoj - progress - masc.
+rozvojová země - developing country
+rybník - pond
+sametový - velvet (adj.)
+sbírka - collection
+slovanský - Slavic
+sousedit - to adjoin - impf., s čím
+společnost - society
+staroslověnský - Old Church Slav(on)ic
+stát za co - to be worth (something) - stojí
+stát se - to become - perf., stanu se, + kým
+stav - estate - masc. hard, hist.
+terminologie - terminology
+trh - market
+tržnice - marketplace
+tvořit - to create, form (impf.)
+vytvořit - to create, form (perf.)
+krást - to steal (impf.) - kradnu, + komu co
+ukrást - to steal (perf.) - ukradnu, + komu co
+určovat - to set (a price), determine (impf.)
+určit - to set (a price), determine (perf.)
+úrodný - fertile
+uvádět - to perform, show (impf.)
+uvést - to perform, show (perf.) - uvedu, uvedl
+vědec - scientist - vědce
+vědecký - scientific, learned
+Velkomoravská říše - The Great Moravian Empire
+velmoc - power - fem.
+věnovat se - to do (sports), to go in for - impf., + čemu
+vládnout - to govern, rule - impf.
+vlek - ski lift
+volby - election - fem. pl
+všestranný - comprehensive
+vybavovat - to equip (impf.) - + co čím
+vybavit - to equip (perf.) - + co čím
+vybudovat - to build (up) - perf.
+vyhnout se - to avoid - perf., + čemu
+vycházet - to come out, be issued (as a book) (impf.)
+vyjít - to come out, be issued (as a book) (perf.) - vyjde, vyšel
+výjimka - exception
+vynalézt - to invent, devise - perf., vynalezu
+vývoj - development - masc.
+význam - importance
+významný - important, outstanding
+vzájemný - mutual, reciprocal
+vznikat - to come into being, arise (impf.)
+vzniknout - to come into being, arise (perf.)
+základ - foundation
+zánik - decline
+zaostávat - to be behind, be retarded (impf.) - za čím
+zaostat - to be behind, be retarded (perf.) - zaostanu (?), za čím
+zastavit - to stop (something), halt - perf.
+zejména - especially
+získávat - to gain, obtain (impf.)
+získat - to gain, obtain (perf.)
+způsobovat - to cause (impf.)
+způsobit - to cause (perf.)
+zvědavost - curiosity
+zvolit - to elect - perf., za koho (kým?)
