@@ -14,8 +14,8 @@
 
 (require 'cl)
 
-; (makunbound 'quiz-font-lock-keywords)
-(defconst quiz-font-lock-keywords
+; (makunbound 'ergoflashcard-font-lock-keywords)
+(defconst ergoflashcard-font-lock-keywords
   ;; Still a few things that should match that don't - e.g. "foo- -bar", "t-shirt", "pre- and post-" - but oh well.
   (let ((segment "\\(\\([^#\n-]\\|-[^\n ]\\)\\([^\n-]\\|[^\n ]-[^\n ]\\| -[^\n ]\\|[^\n ]- \\)*\\([^\n ]-\\)?\\)")) ; 4 parens
   `(
@@ -27,29 +27,29 @@
      (12 font-lock-type-face nil t)
      )
     (,(concat "^" segment "\n") (0 ,(if (boundp 'font-lock-builtin-face) 'font-lock-builtin-face 'font-lock-reference-face)))
-    (" / " (0 ,(if (boundp 'font-lock-warning-face) 'font-lock-warning-face 'quiz-bogus-face) t))
+    (" / " (0 ,(if (boundp 'font-lock-warning-face) 'font-lock-warning-face 'ergoflashcard-bogus-face) t))
     ("^#.*$" (0 font-lock-comment-face t))
-    ("^[^#\n].*\n" (0 quiz-bogus-face nil))
+    ("^[^#\n].*\n" (0 ergoflashcard-bogus-face nil))
     )))
 
 ;; Cribbed from make-mode.el:
-(defface quiz-bogus-face
+(defface ergoflashcard-bogus-face
    '((((class color)) (:background  "hotpink"))
      (t (:reverse-video t)))
-  "*Face to use for bogus text in Quiz mode."
+  "*Face to use for bogus text in Ergoflashcard mode."
   :group 'faces)
 (if (boundp 'facemenu-unlisted-faces)
-    (add-to-list 'facemenu-unlisted-faces 'quiz-bogus-face))
-(defvar quiz-bogus-face 'quiz-bogus-face
-  "Face to use for bogus text in Quiz mode.")
+    (add-to-list 'facemenu-unlisted-faces 'ergoflashcard-bogus-face))
+(defvar ergoflashcard-bogus-face 'ergoflashcard-bogus-face
+  "Face to use for bogus text in Ergoflashcard mode.")
 
-(define-derived-mode quiz-mode text-mode "Quiz"
-  "Major mode for editing quiz data files."
+(define-derived-mode ergoflashcard-mode text-mode "Ergoflashcard"
+  "Major mode for editing ergoflashcard data files."
   ;; XXX need to set encoding to UTF-8
   (setq case-fold-search t)
   (auto-fill-mode -1)
   (set (make-local-variable 'font-lock-defaults)
-       '(quiz-font-lock-keywords t t))
+       '(ergoflashcard-font-lock-keywords t t))
   (modify-syntax-entry ?/ "."))
 
-(provide 'quiz-mode)
+(provide 'ergoflashcard-mode)

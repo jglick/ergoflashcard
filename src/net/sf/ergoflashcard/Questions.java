@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package quiz;
+package net.sf.ergoflashcard;
 
 import java.awt.BorderLayout;
 import java.awt.Frame;

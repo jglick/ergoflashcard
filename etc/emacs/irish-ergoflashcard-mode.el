@@ -12,14 +12,14 @@
 ;;; See the License for the specific language governing permissions and
 ;;; limitations under the License.
 
-(require 'quiz-mode)
+(require 'ergoflashcard-mode)
 
-(define-derived-mode dutch-quiz-mode quiz-mode "Dutch Quiz"
-  "Major mode for editing Dutch quiz data files."
-  (set (make-local-variable 'iso-language) "dutch")
+(define-derived-mode irish-ergoflashcard-mode ergoflashcard-mode "Irish Ergoflashcard"
+  "Major mode for editing Irish ergoflashcard data files."
+  (set (make-local-variable 'iso-language) "irish")
   (iso-accents-mode 1)
   (do ((char 128 (+ char 1)))
       ((= char 256) nil)
     (modify-syntax-entry char "w")))
 
-(provide 'dutch-quiz-mode)
+(provide 'irish-ergoflashcard-mode)

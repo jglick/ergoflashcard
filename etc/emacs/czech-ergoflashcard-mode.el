@@ -12,13 +12,13 @@
 ;;; See the License for the specific language governing permissions and
 ;;; limitations under the License.
 
-(require 'quiz-mode)
+(require 'ergoflashcard-mode)
 
-(defcustom czech-quiz-include-vocative t
+(defcustom czech-ergoflashcard-include-vocative t
   "*Whether to include the vocative in declensions."
   :type 'boolean)
 
-(defconst czech-quiz-cases-voc '(
+(defconst czech-ergoflashcard-cases-voc '(
 				 "nom."
 				 "gen."
 				 "dat."
@@ -28,7 +28,7 @@
 				 "inst."
 				 ))
 
-(defconst czech-quiz-cases-no-voc '(
+(defconst czech-ergoflashcard-cases-no-voc '(
 				    "nom."
 				    "gen."
 				    "dat."
@@ -38,7 +38,7 @@
 				    ))
 
 ;; XXX mixed (hard+soft, like moci) 3rd-class
-(defun czech-quiz-insert-conjugation ()
+(defun czech-ergoflashcard-insert-conjugation ()
   "Insert present-system verbal conjugation."
   (interactive)
   (let* ((cz (read-from-minibuffer "Czech verbal stem: "))
@@ -59,31 +59,31 @@
 	      (if (string-equal cz+ "") "" (concat " " cz+))
 	      " - " (car pers-num) en (cadr pers-num) "\n"))))
 
-(defun czech-quiz-insert-noun-declension ()
+(defun czech-ergoflashcard-insert-noun-declension ()
   "Insert seven-case noun declension."
   (interactive)
   (let* ((cz (read-from-minibuffer "Noun stem: "))
 	 (en (read-from-minibuffer "English meaning: ")))
-    (dolist (case (if czech-quiz-include-vocative
-		      czech-quiz-cases-voc
-		    czech-quiz-cases-no-voc))
+    (dolist (case (if czech-ergoflashcard-include-vocative
+		      czech-ergoflashcard-cases-voc
+		    czech-ergoflashcard-cases-no-voc))
       (insert cz "- - " en " (" case ")\n"))))
 
-(defun czech-quiz-insert-noun-declension-with-plurals ()
+(defun czech-ergoflashcard-insert-noun-declension-with-plurals ()
   "Insert seven-case noun declension."
   (interactive)
   (let* ((cz (read-from-minibuffer "Noun stem: "))
 	 (en1 (read-from-minibuffer "English meaning (sing.): "))
 	 (en2 (read-from-minibuffer "English meaning (plur.): " en1)))
-    (dolist (case (if czech-quiz-include-vocative
-		      czech-quiz-cases-voc
-		    czech-quiz-cases-no-voc))
+    (dolist (case (if czech-ergoflashcard-include-vocative
+		      czech-ergoflashcard-cases-voc
+		    czech-ergoflashcard-cases-no-voc))
       (insert cz "- - " en1 " (" case ")\n"))
-    (dolist (case czech-quiz-cases-no-voc)
+    (dolist (case czech-ergoflashcard-cases-no-voc)
       (insert cz "- - " en2 " (" case ")\n"))))
 
 ;; XXX add number, ignore voc. if requested
-(defun czech-quiz-insert-adjective-declension ()
+(defun czech-ergoflashcard-insert-adjective-declension ()
   "Insert declension of adjective (say) in various cases and genders."
   (interactive)
   (let* ((cz (read-from-minibuffer "Adjective stem: "))
@@ -111,7 +111,7 @@
 			))
       (insert cz "- - " en " (" case-gen ")\n"))))
 
-(defun czech-quiz-insert-perfective-vocab ()
+(defun czech-ergoflashcard-insert-perfective-vocab ()
   "Insert a pair of imperfect + perfect verb definitions."
   (interactive)
   (let* ((impf-inf (read-from-minibuffer "Imperfective infinitive: "))
@@ -142,7 +142,7 @@
 		(concat " - " perf-conj ", " usage)))
 	    "\n")))
 
-(defun czech-quiz-insert-prefixed-perfective-vocab ()
+(defun czech-ergoflashcard-insert-prefixed-perfective-vocab ()
   "Insert a verb pair using prefixation for the perfective."
   (interactive)
   ;; Ich. Is there no library function to do this?
@@ -163,10 +163,10 @@
       (insert impf-inf " - " en " (impf.)" impf-conj-append "\n"
 	      prefix impf-inf " - " en " (perf.)" perf-conj-append "\n"))))
 
-(define-derived-mode czech-quiz-mode quiz-mode "Czech Quiz"
-  "Major mode for editing Czech quiz data files.
+(define-derived-mode czech-ergoflashcard-mode ergoflashcard-mode "Czech Ergoflashcard"
+  "Major mode for editing Czech ergoflashcard data files.
 
-\\{czech-quiz-mode-map}"
+\\{czech-ergoflashcard-mode-map}"
   (set (make-local-variable 'iso-language) "czech")
   (iso-accents-mode 1)
   ;; XXX revise the following for UTF-8:
@@ -174,11 +174,11 @@
       ((= char 256) nil)
     (modify-syntax-entry char "w")))
 
-(define-key czech-quiz-mode-map "\C-cv" 'czech-quiz-insert-conjugation)
-(define-key czech-quiz-mode-map "\C-cn" 'czech-quiz-insert-noun-declension)
-(define-key czech-quiz-mode-map "\C-cN" 'czech-quiz-insert-noun-declension-with-plurals)
-(define-key czech-quiz-mode-map "\C-ca" 'czech-quiz-insert-adjective-declension)
-(define-key czech-quiz-mode-map "\C-cp" 'czech-quiz-insert-perfective-vocab)
-(define-key czech-quiz-mode-map "\C-cP" 'czech-quiz-insert-prefixed-perfective-vocab)
+(define-key czech-ergoflashcard-mode-map "\C-cv" 'czech-ergoflashcard-insert-conjugation)
+(define-key czech-ergoflashcard-mode-map "\C-cn" 'czech-ergoflashcard-insert-noun-declension)
+(define-key czech-ergoflashcard-mode-map "\C-cN" 'czech-ergoflashcard-insert-noun-declension-with-plurals)
+(define-key czech-ergoflashcard-mode-map "\C-ca" 'czech-ergoflashcard-insert-adjective-declension)
+(define-key czech-ergoflashcard-mode-map "\C-cp" 'czech-ergoflashcard-insert-perfective-vocab)
+(define-key czech-ergoflashcard-mode-map "\C-cP" 'czech-ergoflashcard-insert-prefixed-perfective-vocab)
 
-(provide 'czech-quiz-mode)
+(provide 'czech-ergoflashcard-mode)

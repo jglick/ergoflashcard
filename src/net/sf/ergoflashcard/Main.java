@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package quiz;
+package net.sf.ergoflashcard;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
@@ -77,7 +77,7 @@ public class Main extends JFrame {
     
     public static void main(String[] args) {
         if (args.length > 1) {
-            System.err.println("Usage: java quiz.Main [<configname>]");
+            System.err.println("Usage: java net.sf.ergoflashcard.Main [<configname>]");
             System.exit(1);
         }
         try {
@@ -126,7 +126,7 @@ public class Main extends JFrame {
     private File chooserDir;
     
     public Main() {
-        super("Quiz");
+        super("ErgoFlashCard");
         setDefaultCloseOperation(WindowConstants.DISPOSE_ON_CLOSE);
         addWindowListener(new WindowAdapter() {
             public void windowClosing(WindowEvent ev) {
@@ -203,7 +203,7 @@ public class Main extends JFrame {
     }
     
     private void commonConfig(Config nue) {
-        setTitle("Quiz [" + nue.name + "]");
+        setTitle("ErgoFlashCard [" + nue.name + "]");
         cfg = nue;
         coll = Collator.getInstance(cfg.locale);
         updateMenus();

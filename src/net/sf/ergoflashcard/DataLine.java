@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package quiz;
+package net.sf.ergoflashcard;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -50,7 +50,7 @@ public final class DataLine {
         return buf.toString();
     }
     
-    /** Read data from a quiz-format file.
+    /** Read data from a ergoflashcard-format file.
      * Each line should have one entry.
      * Slashes are recognized and will produce separate entries.
      * Produces a list of entries.

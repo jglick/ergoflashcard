@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package quiz;
+package net.sf.ergoflashcard;
 
 import java.awt.Font;
 import java.io.File;
@@ -50,11 +50,11 @@ public class Config implements Cloneable {
     private static final long DEF_SCORE_PERIOD_PER_CHAR = 50L;
     // Milliseconds between displaying score and starting next question.
     private static final int DEF_INTERMISSION = 1000;
-    // Name of font used to display quiz text.
+    // Name of font used to display flash card text.
     private static final String DEF_FONT_FAMILY = "Serif";
-    // Style of font used to display quiz text.
+    // Style of font used to display flash card text.
     private static final int DEF_FONT_STYLE = Font.PLAIN;
-    // Point size of font used to display quiz text.
+    // Point size of font used to display flash card text.
     private static final int DEF_FONT_SIZE = 24;
     
     public File[] dataFiles;
@@ -155,7 +155,7 @@ public class Config implements Cloneable {
             p.put("locale", locale.getLanguage() + "_" + locale.getCountry());
         OutputStream os = new FileOutputStream(f);
         try {
-            p.store(os, "Quiz Configuration -*- Java-Properties -*-");
+            p.store(os, "ErgoFlashCard Configuration -*- Java-Properties -*-");
         } finally {
             os.close();
         }

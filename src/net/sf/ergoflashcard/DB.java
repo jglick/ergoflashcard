@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package quiz;
+package net.sf.ergoflashcard;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -292,7 +292,7 @@ public class DB implements Runnable {
             return true;
         }
         
-        /** Compute a key based on quiz strings.
+        /** Compute a key based on flash card strings.
          * @param in list of displayed strings
          * @param out list of possible answers, each of which is a list of displayed strings
          * @param a byte-array key to look up this question in the DB with
