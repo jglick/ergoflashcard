@@ -1,11 +1,29 @@
 # -*- Lao-ErgoFlashCard -*-
 
+# LBC's tone transliterations:
+# x  - low
+# x̄ - mid
+# x́ - high
+# x̀ - high falling
+# x̌ - low rising
+# x̂ - low falling
+
 Lao Basic Course: Greeting Cycle
-sábaaj - to be well, comfortable
-sábaajdii - good, well
+sábaaj - to be well, comfortable
+sábaajdii - good, well
 bɔɔ - [question particle]
-sábaajdii bɔɔ - How are you, how are things?
-càw - you
-càw sábaajdii bɔɔ - How are you?
+sábaajdii bɔɔ - How are you, how are things?
+càw - you
+càw sábaajdii bɔɔ - How are you?
 khɔ̂ɔpcaj - thank you
-sábaajdii khɔ̂ɔpcaj - Fine, thank you.
+sábaajdii khɔ̂ɔpcaj - Fine, thank you.
+khɔ̂j - I, me
+khɔ̂j sábaajdii khɔ̂ɔpcaj - I'm fine, thank you.
+dee - and...?
+càw dee - And you?
+
+Lao Basic Course: Cycle 1
+pâakkaa - pen
+an nìi mɛ̄ɛn pâakkaa - This is a pen.
+tóʔ - table
+an nìi mɛ̄ɛn tóʔ - This is a table.
