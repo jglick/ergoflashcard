@@ -1,0 +1,38 @@
+This is a flash-card-style learning program, intended for use in
+language learning but perhaps applicable to other domains involving
+rote memorization of many pairs of phrases.
+
+It is implemented in Java/Swing and should run on any computer with a
+modern version of the JRE.
+
+The main design intent is efficiency in the user interface - it
+presents few distractions and is very keyboard-friendly. Unlike many
+other such programs, it does *not* provide a UI for editing the flash
+cards (though this could be added); rather, it reads cards from a set
+of simply formatted text files (in any language encoding), designed to
+be easy and pleasant to edit in your favorite text editor. (An Emacs
+major mode is included.) The program can handle variant answers to
+questions, additional information associated with an answer,
+bidirectional quizzing, multiple input files, multiple logical
+sections which can be merged, etc. It tracks how long you take to
+respond to a question and whether or not you know the answer (fully or
+partially), scores you, tracks your scores for every question, and
+supplies the cards you most need to study. I have tuned it over the
+course of some years while teaching myself Czech, so it is functional.
+
+Similar programs (on sf.net):
+
+JFlashCard - very simplistic, does no scoring etc., not really
+adequate for evaluating your performance.
+
+Pauker - rather nice, lots of features (though missing some that I
+have found important). However for very large data sets it seems more
+cumbersome. You must either enter cards within the program (which may
+be hard for accented languages, and is not efficient for editing huge
+amount of text); or edit the XML storage files, which are rather too
+verbose to be ergonomic. The UI does too many things and is not
+streamlined for the common repetitive actions; it appears friendlier
+but probably more intrusive for intensive studying. Would consider
+merging efforts in the future to get the best of both worlds, though
+it could be a lot of work and it is not clear that the design
+directions of Pauker and this project are the same.
