@@ -194,13 +194,11 @@ public class Main extends JFrame {
     }
     
     private void setConfigLater(final Config nue) {
-        Thread t = new Thread(new Runnable() {
+        SwingUtilities.invokeLater(new Runnable() {
             public void run() {
                 setConfig(nue);
             }
-        }, "set config");
-        t.setPriority(Thread.NORM_PRIORITY);
-        t.start();
+        });
     }
     
     private void commonConfig(Config nue) {
