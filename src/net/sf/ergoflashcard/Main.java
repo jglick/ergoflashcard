@@ -656,7 +656,6 @@ public class Main extends JFrame {
                     layout.setVgap(5);
                     dlg.getContentPane().setLayout(layout);
                     final JProgressBar prog = new JProgressBar();
-                    final int[] lastVal = new int[] { 0 };
                     prog.setValue(0);
                     dlg.getContentPane().add(prog, BorderLayout.CENTER);
                     dlg.getContentPane().add
