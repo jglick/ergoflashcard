@@ -18,7 +18,7 @@ limitations under the License.
 
     <target name="build" description="Build app.">
         <mkdir dir="build/classes/net/sf/ergoflashcard/help"/>
-        <javac srcdir="src" destdir="build/classes" source="1.5" deprecation="true" debug="true">
+        <javac srcdir="src" destdir="build/classes" source="1.5" target="1.5" deprecation="true" debug="true">
             <compilerarg value="-Xlint:unchecked"/>
             <classpath>
                 <pathelement location="lib/jh-2.0_01.jar"/>
