@@ -1,0 +1,92 @@
+# -*- ErgoFlashCard -*-
+
+# Reference: http://en.wikipedia.org/wiki/Sanskrit, etc.
+
+Sanskrit Script (common symbols)
+क - ka
+ख - kha
+ग - ga
+घ - gha
+च - ca (~ Eng. "ch")
+छ - cha
+ज - ja
+ञ - ña (~ Sp. "ñ")
+ट - ṭa (retroflex "t")
+ठ - ṭha (retroflex "th")
+ड - ḍa (retroflex "d")
+ढ - ḍha (retroflex "dh")
+ण - ṇa (retroflex "n")
+त - ta
+थ - tha
+द - da
+ध - dha
+न - na
+प - pa
+फ - pha
+ब - ba
+भ - bha
+म - ma
+य - ya
+र - ra
+ल - la
+व - va
+श - śa (~ Eng. "sh")
+ष - ṣa (retroflex "s")
+स - sa
+ह - ha
+का - kā
+कि - ki
+की - kī
+कु - ku
+कू - kū
+कृ - kṛ
+के - ke
+कै - kai
+को - ko
+कौ - kau
+क् - k (no vowel) - virāma
+कं - kaṃ (~ Fr. "Jean") - anusvāra
+कः - kaḥ (~ "ah") - visarga
+
+Sanskrit Script (unusual symbols)
+ङ - ṅa (~ Eng. "ng")
+झ - jha
+। - (minor stop)
+।। - (full stop)
+१ - 1
+२ - 2
+३ - 3
+४ - 4
+५ - 5
+६ - 6
+७ - 7
+८ - 8
+९ - 9
+० - 0
+# ṝ, ḷ standalone & after consonant
+# candrabindu
+ऽ - (elision of initial 'a') - avagraha
+अ - a
+आ - ā
+इ - i
+ई - ī
+उ - u
+ऊ - ū
+ऋ - ṛ (vowel)
+ए - e
+ऐ - ai
+ओ - o
+औ - au
+
+Sanskrit Script (ligatures)
+# semirandom assortment...
+त्र - tra
+प्र - pra
+र्क - rka
+न्त - nta
+क्ष - kṣa
+क्व - kva
+स्य - sya
+न्ध्र - ndhra
+च्छ - ccha
+व्य - vya
